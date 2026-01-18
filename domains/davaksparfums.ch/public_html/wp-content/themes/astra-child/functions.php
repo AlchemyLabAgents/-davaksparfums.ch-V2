@@ -48,19 +48,29 @@ add_filter( 'wp_nav_menu_objects', function ( $items, $args ) {
 		return $items;
 	}
 
+	$right_locations = [
+		'secondary_menu',
+		'menu_2',
+		'ast-hf-menu-2',
+	];
+
+	if ( in_array( $args->theme_location, $right_locations, true ) ) {
+		return [];
+	}
+
 	$locations = [
 		'primary',
 		'mobile_menu',
+		'menu_1',
 		'ast-hf-menu-1',
-		'ast-hf-menu-2',
 		'ast-hf-mobile-menu',
 	];
 	if ( ! in_array( $args->theme_location, $locations, true ) ) {
 		return $items;
 	}
 
-	$allowed = [ 'shop', 'exklusiv', 'damen', 'herren' ];
-	$allowed_paths = [ '/shop/', '/exklusiv/', '/damen/', '/herren/' ];
+	$allowed = [ 'shop', 'laden', 'exklusiv', 'damen', 'herren', 'unisex' ];
+	$allowed_paths = [ '/shop/', '/laden/', '/exklusiv/', '/damen/', '/herren/', '/unisex/', '/product-category/unisex/' ];
 	$filtered = [];
 
 	foreach ( $items as $item ) {
@@ -73,6 +83,13 @@ add_filter( 'wp_nav_menu_objects', function ( $items, $args ) {
 			$path = trailingslashit( strtolower( $path ) );
 		}
 
+		if ( in_array( $path, [ '/shop/', '/laden/' ], true ) ) {
+			$item->title = 'Laden';
+			$item->url = home_url( '/laden/' );
+			$title = 'laden';
+			$path = '/laden/';
+		}
+
 		if ( in_array( $title, $allowed, true ) || ( $path && in_array( $path, $allowed_paths, true ) ) ) {
 			$filtered[] = $item;
 		}
@@ -82,6 +99,30 @@ add_filter( 'wp_nav_menu_objects', function ( $items, $args ) {
 }, 20, 2 );
 
 /**
+ * Force menu label and URL for shop items, even without theme_location.
+ */
+add_filter( 'nav_menu_item_title', function ( $title, $item ) {
+	$path = '';
+	if ( ! empty( $item->url ) ) {
+		$path = (string) wp_parse_url( $item->url, PHP_URL_PATH );
+		$path = trailingslashit( strtolower( $path ) );
+	}
+
+	if ( in_array( $path, [ '/shop/', '/laden/' ], true ) ) {
+		return 'Laden';
+	}
+
+	return $title;
+}, 20, 2 );
+
+add_filter( 'wp_nav_menu_items', function ( $items ) {
+	if ( false !== stripos( $items, '>Shop<' ) ) {
+		$items = str_ireplace( '>Shop<', '>Laden<', $items );
+	}
+	return $items;
+}, 30 );
+
+/**
  * Force header menus to use the main menu ID and disable fallback page lists.
  */
 add_filter( 'wp_nav_menu_args', function ( $args ) {
@@ -89,14 +130,26 @@ add_filter( 'wp_nav_menu_args', function ( $args ) {
 		return $args;
 	}
 
+	$right_locations = [
+		'secondary_menu',
+		'menu_2',
+		'ast-hf-menu-2',
+	];
+
+	if ( in_array( $args['theme_location'], $right_locations, true ) ) {
+		$args['menu'] = 0;
+		$args['fallback_cb'] = false;
+		$args['container'] = false;
+		$args['items_wrap'] = '';
+		$args['echo'] = false;
+		return $args;
+	}
+
 	$header_locations = [
 		'primary',
-		'secondary_menu',
 		'mobile_menu',
 		'menu_1',
-		'menu_2',
 		'ast-hf-menu-1',
-		'ast-hf-menu-2',
 		'ast-hf-mobile-menu',
 	];
 
@@ -127,3 +180,80 @@ add_filter( 'wp_page_menu', function ( $menu, $args ) {
 
 	return $replacement ?: $menu;
 }, 20, 2 );
+
+/**
+ * Disable Astra header menu-2 output globally.
+ */
+add_action( 'after_setup_theme', function () {
+	if ( class_exists( 'Astra_Builder_Header' ) ) {
+		remove_action( 'astra_header_menu_2', [ Astra_Builder_Header::get_instance(), 'menu_2' ] );
+	}
+}, 20 );
+
+/**
+ * Redirect legacy English slugs to German slugs.
+ */
+add_action( 'template_redirect', function () {
+	if ( is_admin() || wp_doing_ajax() ) {
+		return;
+	}
+
+	$request = isset( $_SERVER['REQUEST_URI'] ) ? (string) wp_unslash( $_SERVER['REQUEST_URI'] ) : '';
+	$path    = strtolower( strtok( $request, '?' ) );
+	$path    = trailingslashit( $path );
+
+	$map = [
+		'/product-category/women/'     => '/product-category/damen/',
+		'/product-category/men/'       => '/product-category/herren/',
+		'/product-category/exclusive/' => '/product-category/exklusiv/',
+		'/shop/'                       => '/laden/',
+	];
+
+	if ( isset( $map[ $path ] ) ) {
+		wp_redirect( home_url( $map[ $path ] ), 301 );
+		exit;
+	}
+}, 1 );
+
+/**
+ * Hide the default Shop page title section.
+ */
+add_filter( 'woocommerce_show_page_title', function ( $show ) {
+	if ( function_exists( 'is_shop' ) && is_shop() ) {
+		return false;
+	}
+	return $show;
+}, 20 );
+
+/**
+ * Force German shop title.
+ */
+add_filter( 'woocommerce_page_title', function ( $title ) {
+	if ( function_exists( 'is_shop' ) && is_shop() ) {
+		return 'Laden';
+	}
+	return $title;
+}, 20 );
+
+/**
+ * Disable Astra page header on the shop archive.
+ */
+add_filter( 'astra_page_header_enabled', function ( $enabled ) {
+	if ( function_exists( 'is_shop' ) && is_shop() ) {
+		return false;
+	}
+	return $enabled;
+}, 20 );
+
+/**
+ * Replace footer copyright text.
+ */
+add_action( 'after_setup_theme', function () {
+	if ( class_exists( 'Astra_Builder_Footer' ) ) {
+		remove_action( 'astra_footer_copyright', [ Astra_Builder_Footer::get_instance(), 'footer_copyright' ], 10 );
+	}
+}, 30 );
+
+add_action( 'astra_footer_copyright', function () {
+	echo '<span class="davaks-footer-copyright">' . esc_html( '© 2026 Davaks Parfums · Luxus‑parfums in der Schweiz' ) . '</span>';
+}, 40 );

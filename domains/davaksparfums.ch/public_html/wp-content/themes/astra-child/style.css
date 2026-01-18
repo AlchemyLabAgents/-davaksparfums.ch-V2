@@ -235,6 +235,19 @@ Text Domain: astra-child
 	}
 }
 
+/* Category order: swap Unisex and Women reliably */
+.uagb-block-05c6ef51 .woocommerce ul.products li.product-category {
+	order: 0;
+}
+
+.uagb-block-05c6ef51 .woocommerce ul.products li.product-category:nth-child(4) {
+	order: 2;
+}
+
+.uagb-block-05c6ef51 .woocommerce ul.products li.product-category:nth-child(3) {
+	order: 3;
+}
+
 /* Footer spacing is the reference for all sections */
 .davaks-footer {
 	margin-top: var(--davaks-section-gap) !important;
@@ -454,7 +467,7 @@ Text Domain: astra-child
 		display: flex !important;
 		flex-direction: row !important;
 		align-items: center;
-		gap: 28px;
+		gap: 20px;
 		padding-left: 0 !important;
 	}
 
@@ -468,7 +481,7 @@ Text Domain: astra-child
 		display: flex !important;
 		flex-direction: row !important;
 		align-items: center;
-		gap: 28px;
+		gap: 20px;
 		list-style: none !important;
 		margin: 0 !important;
 		padding-left: 0 !important;
@@ -519,4 +532,72 @@ Text Domain: astra-child
 		display: block;
 		padding: 14px 0;
 	}
+}
+
+/* Hide Shop page title bar */
+.woocommerce-shop .woocommerce-products-header,
+.woocommerce-shop .woocommerce-products-header__title,
+.woocommerce-shop .page-title,
+.woocommerce-shop .ast-archive-title,
+.woocommerce-shop .ast-woo-shop-page-title,
+.woocommerce-shop .ast-page-header,
+.woocommerce-shop .page-header,
+.woocommerce-shop .entry-header,
+.woocommerce-shop .ast-woocommerce-container .page-title {
+	display: none !important;
+	margin: 0 !important;
+}
+
+/* ================================
+   FOOTER: Layout & spacing
+   ================================ */
+.site-footer .ast-footer-overlay .ast-container {
+	margin-left: auto;
+	margin-right: 0;
+}
+
+.site-footer .ast-footer-widget-area,
+.site-footer .ast-footer-widget-area * {
+	text-align: left;
+}
+
+.site-footer [data-section="sidebar-widgets-footer-widget-2"] {
+	display: none !important;
+}
+
+@media (min-width: 922px) {
+	.site-footer .ast-footer-row .ast-builder-grid-row {
+		display: grid !important;
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+		gap: 48px;
+	}
+}
+
+.site-footer .footer-widget-area h5,
+.site-footer .footer-widget-area .wp-block-heading {
+	margin: 0 0 16px;
+	font-weight: 600;
+}
+
+.site-footer .footer-widget-area p {
+	margin: 0 0 18px;
+}
+
+.site-footer .footer-widget-area ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.site-footer .footer-widget-area ul li {
+	margin: 0 0 10px;
+}
+
+.site-footer .footer-widget-area ul li a {
+	text-decoration: none;
+}
+
+.site-footer .davaks-footer-social {
+	gap: 12px;
+	margin: 0 0 16px;
 }
