@@ -13,3 +13,21 @@
 
 # Never track environment secrets
 /domains/davaksparfums.ch/.env
+
+# WordPress core (generated/managed externally)
+/domains/davaksparfums.ch/public_html/wp-admin/
+/domains/davaksparfums.ch/public_html/wp-includes/
+/domains/davaksparfums.ch/public_html/wp-content/themes/twentytwenty*/
+/domains/davaksparfums.ch/public_html/wp-content/themes/twentytwenty*/**
+/domains/davaksparfums.ch/public_html/wp-*.php
+/domains/davaksparfums.ch/public_html/index.php
+/domains/davaksparfums.ch/public_html/readme.html
+/domains/davaksparfums.ch/public_html/license.txt
+/domains/davaksparfums.ch/public_html/xmlrpc.php
+
+# WordPress language packs and default plugins
+/domains/davaksparfums.ch/public_html/wp-content/languages/
+/domains/davaksparfums.ch/public_html/wp-content/languages/**
+/domains/davaksparfums.ch/public_html/wp-content/plugins/akismet/
+/domains/davaksparfums.ch/public_html/wp-content/plugins/akismet/**
+/domains/davaksparfums.ch/public_html/wp-content/plugins/hello.php
