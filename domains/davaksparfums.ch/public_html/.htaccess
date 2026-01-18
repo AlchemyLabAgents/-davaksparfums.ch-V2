@@ -1,0 +1,63 @@
+# BEGIN LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+<IfModule LiteSpeed>
+RewriteEngine on
+CacheLookup on
+RewriteRule .* - [E=Cache-Control:no-autoflush]
+RewriteRule litespeed/debug/.*\.log$ - [F,L]
+RewriteRule \.litespeed_conf\.dat - [F,L]
+
+### marker ASYNC start ###
+RewriteCond %{REQUEST_URI} /wp-admin/admin-ajax\.php
+RewriteCond %{QUERY_STRING} action=async_litespeed
+RewriteRule .* - [E=noabort:1]
+### marker ASYNC end ###
+
+### marker DROPQS start ###
+CacheKeyModify -qs:fbclid
+CacheKeyModify -qs:gclid
+CacheKeyModify -qs:utm*
+CacheKeyModify -qs:_ga
+### marker DROPQS end ###
+
+</IfModule>
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END LSCACHE
+# BEGIN NON_LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END NON_LSCACHE
+# BEGIN SEO Redirects - Davaks Parfums
+<IfModule mod_rewrite.c>
+RewriteEngine On
+# Redirect duplicates to canonical URLs
+RewriteRule ^home/?$ /de/ [R=301,L]
+RewriteRule ^home-2/?$ /de/ [R=301,L]
+RewriteRule ^shop-2/?$ /de/shop/ [R=301,L]
+RewriteRule ^shop-3/?$ /de/shop/ [R=301,L]
+RewriteRule ^cart-2/?$ /de/cart/ [R=301,L]
+RewriteRule ^cart-3/?$ /de/cart/ [R=301,L]
+RewriteRule ^checkout-2/?$ /de/checkout/ [R=301,L]
+RewriteRule ^checkout-3/?$ /de/checkout/ [R=301,L]
+RewriteRule ^my-account-2/?$ /de/my-account/ [R=301,L]
+RewriteRule ^my-account-3/?$ /de/my-account/ [R=301,L]
+RewriteRule ^about-2/?$ /de/about/ [R=301,L]
+RewriteRule ^contact-2/?$ /de/contact/ [R=301,L]
+</IfModule>
+# END SEO Redirects
+
+# BEGIN WordPress
+# Die Direktiven (Zeilen) zwischen „BEGIN WordPress“ und „END WordPress“ sind
+# dynamisch generiert und sollten nur über WordPress-Filter geändert werden.
+# Alle Änderungen an den Direktiven zwischen diesen Markierungen werden überschrieben.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

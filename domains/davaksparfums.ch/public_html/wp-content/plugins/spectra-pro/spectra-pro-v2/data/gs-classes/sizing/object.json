@@ -1,0 +1,160 @@
+{
+	"object-fit--contain": {
+		"css": "object-fit: contain;",
+		"title": "Contain object fit",
+		"description": "Scales the content to fit within the container while maintaining aspect ratio.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"fit",
+			"contain"
+		]
+	},
+	"object-fit--cover": {
+		"css": "object-fit: cover;",
+		"title": "Cover object fit",
+		"description": "Scales the content to cover the container while maintaining aspect ratio.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"fit",
+			"cover"
+		]
+	},
+	"object-fit--fill": {
+		"css": "object-fit: fill;",
+		"title": "Fill object fit",
+		"description": "Stretches the content to fill the container, ignoring aspect ratio.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"fit",
+			"fill"
+		]
+	},
+	"object-fit--none": {
+		"css": "object-fit: none;",
+		"title": "No object fit",
+		"description": "Displays the content at its original size without scaling.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"fit",
+			"none"
+		]
+	},
+	"object-fit--scaled": {
+		"css": "object-fit: scale-down;",
+		"title": "Scale down object fit",
+		"description": "Scales the content down to fit the container while maintaining aspect ratio.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"fit",
+			"scaled"
+		]
+	},
+	"object-pos--tl": {
+		"css": "object-position: top left;",
+		"title": "Top left object position",
+		"description": "Positions the object content at the top-left corner of the container.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"pos",
+			"top",
+			"left"
+		]
+	},
+	"object-pos--t": {
+		"css": "object-position: top;",
+		"title": "Top object position",
+		"description": "Positions the object content at the top center of the container.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"pos",
+			"top"
+		]
+	},
+	"object-pos--tr": {
+		"css": "object-position: top right;",
+		"title": "Top right object position",
+		"description": "Positions the object content at the top-right corner of the container.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"pos",
+			"top",
+			"right"
+		]
+	},
+	"object-pos--l": {
+		"css": "object-position: left;",
+		"title": "Left object position",
+		"description": "Positions the object content at the left center of the container.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"pos",
+			"left"
+		]
+	},
+	"object-pos--center": {
+		"css": "object-position: center;",
+		"title": "Center object position",
+		"description": "Positions the object content at the center of the container.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"pos",
+			"center"
+		]
+	},
+	"object-pos--r": {
+		"css": "object-position: right;",
+		"title": "Right object position",
+		"description": "Positions the object content at the right center of the container.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"pos",
+			"right"
+		]
+	},
+	"object-pos--bl": {
+		"css": "object-position: bottom left;",
+		"title": "Bottom left object position",
+		"description": "Positions the object content at the bottom-left corner of the container.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"pos",
+			"bottom",
+			"left"
+		]
+	},
+	"object-pos--b": {
+		"css": "object-position: bottom;",
+		"title": "Bottom object position",
+		"description": "Positions the object content at the bottom center of the container.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"pos",
+			"bottom"
+		]
+	},
+	"object-pos--br": {
+		"css": "object-position: bottom right;",
+		"title": "Bottom right object position",
+		"description": "Positions the object content at the bottom-right corner of the container.",
+		"category": "sizing",
+		"tags": [
+			"object",
+			"pos",
+			"bottom",
+			"right"
+		]
+	}
+}

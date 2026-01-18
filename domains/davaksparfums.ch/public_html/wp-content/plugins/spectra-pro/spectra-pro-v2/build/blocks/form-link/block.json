@@ -1,0 +1,103 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/form-link",
+  "version": "2.0.0",
+  "title": "Form Link",
+  "category": "spectra-pro-v2",
+  "description": "A customizable link for forms like forgot password and register links.",
+  "keywords": [
+    "link",
+    "form",
+    "forgot password",
+    "register",
+    "url"
+  ],
+  "textdomain": "spectra-pro",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "parent": [
+    "spectra-pro/login",
+    "spectra-pro/register"
+  ],
+  "usesContext": [
+    "spectra-pro/form/formType",
+    "spectra-pro/form/forgotPasswordText",
+    "spectra-pro/form/forgotPasswordUrl",
+    "spectra-pro/form/registerLinkText",
+    "spectra-pro/form/registerLinkUrl",
+    "spectra-pro/form/showForgotPassword",
+    "spectra-pro/form/showRegisterLink",
+    "spectra-pro/form/linkColor",
+    "spectra-pro/form/linkColorHover"
+  ],
+  "attributes": {
+    "linkType": {
+      "type": "string",
+      "enum": [
+        "forgot_password",
+        "register_info",
+        "login_info"
+      ],
+      "default": "forgot_password"
+    },
+    "textColorHover": {
+      "type": "string"
+    },
+    "backgroundColor": {
+      "type": "string"
+    },
+    "backgroundColorHover": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "html": false,
+    "reusable": false,
+    "inserter": false,
+    "lock": false,
+    "color": {
+      "text": true,
+      "background": false,
+      "gradients": false
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontWeight": true,
+      "__experimentalFontStyle": true,
+      "__experimentalTextTransform": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true,
+      "__experimentalDefaultControls": {
+        "fontSize": true,
+        "fontFamily": true,
+        "fontWeight": true
+      }
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "__experimentalDefaultControls": {
+        "margin": true,
+        "padding": true
+      }
+    },
+    "__experimentalBorder": {
+      "style": true,
+      "width": true,
+      "color": true,
+      "radius": true,
+      "shadow": true,
+      "__experimentalDefaultControls": {
+        "style": true,
+        "width": true,
+        "color": true,
+        "radius": true,
+        "shadow": true
+      }
+    }
+  }
+}

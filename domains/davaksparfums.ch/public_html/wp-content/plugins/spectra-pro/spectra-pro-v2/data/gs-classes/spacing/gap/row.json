@@ -1,0 +1,90 @@
+{
+	"row-gap--none[innerblocks]": {
+		"css": "row-gap: 0;",
+		"title": "No row gap",
+		"description": "Removes all gap between rows.",
+		"category": "spacing",
+		"tags": [
+			"row",
+			"gap",
+			"none"
+		]
+	},
+	"row-gap--pixel[innerblocks]": {
+		"css": "row-gap: 1px;",
+		"title": "Pixel row gap",
+		"description": "Adds a 1px gap between rows.",
+		"category": "spacing",
+		"tags": [
+			"row",
+			"gap",
+			"pixel"
+		]
+	},
+	"row-gap--xs[innerblocks]": {
+		"css": "row-gap: var(--space--xs);",
+		"title": "Tiny row gap",
+		"description": "Adds a tiny gap between rows.",
+		"category": "spacing",
+		"tags": [
+			"row",
+			"gap",
+			"xs"
+		]
+	},
+	"row-gap--sm[innerblocks]": {
+		"css": "row-gap: var(--space--sm);",
+		"title": "Small row gap",
+		"description": "Adds a small gap between rows.",
+		"category": "spacing",
+		"tags": [
+			"row",
+			"gap",
+			"sm"
+		]
+	},
+	"row-gap--md[innerblocks]": {
+		"css": "row-gap: var(--space--md);",
+		"title": "Medium row gap",
+		"description": "Adds a medium gap between rows.",
+		"category": "spacing",
+		"tags": [
+			"row",
+			"gap",
+			"md"
+		]
+	},
+	"row-gap--lg[innerblocks]": {
+		"css": "row-gap: var(--space--lg);",
+		"title": "Large row gap",
+		"description": "Adds a large gap between rows.",
+		"category": "spacing",
+		"tags": [
+			"row",
+			"gap",
+			"lg"
+		]
+	},
+	"row-gap--xl[innerblocks]": {
+		"css": "row-gap: var(--space--xl);",
+		"title": "Extra-large row gap",
+		"description": "Adds an extra-large gap between rows.",
+		"category": "spacing",
+		"tags": [
+			"row",
+			"gap",
+			"xl"
+		]
+	},
+	"row-gap--xxl[innerblocks]": {
+		"css": "row-gap: var(--space--xxl);",
+		"title": "Huge row gap",
+		"description": "Adds a huge gap between rows.",
+		"category": "spacing",
+		"tags": [
+			"row",
+			"gap",
+			"xxl"
+		]
+	}
+}

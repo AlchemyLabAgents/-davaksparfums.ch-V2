@@ -1,0 +1,90 @@
+{
+	"corner--b-none": {
+		"css": "border-bottom-left-radius: 0; border-bottom-right-radius: 0;",
+		"title": "No bottom radius",
+		"description": "Makes bottom corners sharp.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom",
+			"none"
+		]
+	},
+	"corner--b-xs": {
+		"css": "border-bottom-left-radius: 0.125rem; border-bottom-right-radius: 0.125rem;",
+		"title": "Tiny bottom radius",
+		"description": "Adds a tiny curve to bottom corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom",
+			"xs"
+		]
+	},
+	"corner--b-sm": {
+		"css": "border-bottom-left-radius: 0.25rem; border-bottom-right-radius: 0.25rem;",
+		"title": "Small bottom radius",
+		"description": "Adds a small curve to bottom corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom",
+			"sm"
+		]
+	},
+	"corner--b-md": {
+		"css": "border-bottom-left-radius: 0.375rem; border-bottom-right-radius: 0.375rem;",
+		"title": "Medium bottom radius",
+		"description": "Adds a medium curve to bottom corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom",
+			"md"
+		]
+	},
+	"corner--b-lg": {
+		"css": "border-bottom-left-radius: 1rem; border-bottom-right-radius: 1rem;",
+		"title": "Large bottom radius",
+		"description": "Adds a large curve to bottom corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom",
+			"lg"
+		]
+	},
+	"corner--b-xl": {
+		"css": "border-bottom-left-radius: 1.5rem; border-bottom-right-radius: 1.5rem;",
+		"title": "Extra-Large bottom radius",
+		"description": "Adds an extra-large curve to bottom corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom",
+			"xl"
+		]
+	},
+	"corner--b-xxl": {
+		"css": "border-bottom-left-radius: 2rem; border-bottom-right-radius: 2rem;",
+		"title": "Huge bottom radius",
+		"description": "Adds a huge curve to bottom corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom",
+			"xxl"
+		]
+	},
+	"corner--b-round": {
+		"css": "border-bottom-left-radius: 9999999px; border-bottom-right-radius: 9999999px;",
+		"title": "Round bottom radius",
+		"description": "Adds a round curve to bottom corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom",
+			"round"
+		]
+	}
+}

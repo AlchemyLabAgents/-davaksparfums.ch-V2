@@ -1,0 +1,122 @@
+{
+	"color--secondary": {
+		"css": "color: var(--color--secondary);",
+		"title": "Secondary text color.",
+		"description": "Sets the text color to the secondary color for a complementary, accent appearance.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"secondary"
+		]
+	},
+	"color--secondary-dark": {
+		"css": "color: var(--color--secondary-dark);",
+		"title": "Secondary text color - dark shade.",
+		"description": "Sets the text color to a dark secondary shade for strong emphasis and contrast.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"secondary",
+			"dark"
+		]
+	},
+	"color--secondary-darker": {
+		"css": "color: var(--color--secondary-darker);",
+		"title": "Secondary text color - darker shade.",
+		"description": "Sets the text color to a darker secondary shade for bold, impactful text.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"secondary",
+			"darker"
+		]
+	},
+	"color--secondary-darkest": {
+		"css": "color: var(--color--secondary-darkest);",
+		"title": "Secondary text color - darkest shade.",
+		"description": "Sets the text color to the darkest secondary shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"secondary",
+			"darkest"
+		]
+	},
+	"color--secondary-near-black": {
+		"css": "color: var(--color--secondary-near-black);",
+		"title": "Secondary text color - near-black.",
+		"description": "Sets the text color to a near-black secondary shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"secondary",
+			"near-black"
+		]
+	},
+	"color--secondary-light": {
+		"css": "color: var(--color--secondary-light);",
+		"title": "Secondary text color - light shade.",
+		"description": "Sets the text color to a light secondary shade for a softer, subtle appearance.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"secondary",
+			"light"
+		]
+	},
+	"color--secondary-lighter": {
+		"css": "color: var(--color--secondary-lighter);",
+		"title": "Secondary text color - lighter shade.",
+		"description": "Sets the text color to a lighter secondary shade for gentle emphasis.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"secondary",
+			"lighter"
+		]
+	},
+	"color--secondary-lightest": {
+		"css": "color: var(--color--secondary-lightest);",
+		"title": "Secondary text color - lightest shade.",
+		"description": "Sets the text color to the lightest secondary shade for a delicate, airy look.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"secondary",
+			"lightest"
+		]
+	},
+	"color--secondary-near-white": {
+		"css": "color: var(--color--secondary-near-white);",
+		"title": "Secondary text color - near-white.",
+		"description": "Sets the text color to a near-white secondary shade for a subtle, clean effect.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"secondary",
+			"near-white"
+		]
+	},
+	"color--secondary-complement": {
+		"css": "color: var(--color--secondary-complement);",
+		"title": "Secondary text color - complement.",
+		"description": "Sets the text color to the secondary complement for visual contrast and balance.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"secondary",
+			"complement"
+		]
+	},
+	"color--secondary-inverted": {
+		"css": "color: var(--color--secondary-inverted);",
+		"title": "Secondary text color - inverted.",
+		"description": "Sets the text color to the inverted secondary color for a striking, reversed look.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"secondary",
+			"inverted"
+		]
+	}
+}

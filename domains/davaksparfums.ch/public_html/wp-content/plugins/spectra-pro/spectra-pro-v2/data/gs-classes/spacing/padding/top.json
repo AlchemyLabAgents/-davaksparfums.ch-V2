@@ -1,0 +1,79 @@
+{
+	"padding--t-none": {
+		"css": "padding-top: 0;",
+		"title": "No top padding",
+		"description": "Removes all padding from the top.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"top",
+			"none"
+		]
+	},
+	"padding--t-xs": {
+		"css": "padding-top: var(--space--xs);",
+		"title": "Tiny top padding",
+		"description": "Adds a tiny amount of padding to the top.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"top",
+			"xs"
+		]
+	},
+	"padding--t-sm": {
+		"css": "padding-top: var(--space--sm);",
+		"title": "Small top padding",
+		"description": "Adds a small amount of padding to the top.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"top",
+			"sm"
+		]
+	},
+	"padding--t-md": {
+		"css": "padding-top: var(--space--md);",
+		"title": "Medium top padding",
+		"description": "Adds a medium amount of padding to the top.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"top",
+			"md"
+		]
+	},
+	"padding--t-lg": {
+		"css": "padding-top: var(--space--lg);",
+		"title": "Large top padding",
+		"description": "Adds a large amount of padding to the top.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"top",
+			"lg"
+		]
+	},
+	"padding--t-xl": {
+		"css": "padding-top: var(--space--xl);",
+		"title": "Extra-large top padding",
+		"description": "Adds an extra-large amount of padding to the top.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"top",
+			"xl"
+		]
+	},
+	"padding--t-xxl": {
+		"css": "padding-top: var(--space--xxl);",
+		"title": "Double-extra-large top padding",
+		"description": "Adds a double-extra-large amount of padding to the top.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"top",
+			"xxl"
+		]
+	}
+}

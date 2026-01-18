@@ -1,0 +1,51 @@
+{
+	"margin--y-none": {
+		"css": "margin-top: 0; margin-bottom: 0;",
+		"title": "No vertical margin",
+		"description": "Removes all margin from the top and bottom.",
+		"category": "spacing",
+		"tags": ["margin", "top", "bottom", "none"]
+	},
+	"margin--y-xs": {
+		"css": "margin-top: var(--space--xs); margin-bottom: var(--space--xs);",
+		"title": "Tiny vertical margin",
+		"description": "Adds a tiny amount of margin to the top and bottom.",
+		"category": "spacing",
+		"tags": ["margin", "top", "bottom", "xs"]
+	},
+	"margin--y-sm": {
+		"css": "margin-top: var(--space--sm); margin-bottom: var(--space--sm);",
+		"title": "Small vertical margin",
+		"description": "Adds a small amount of margin to the top and bottom.",
+		"category": "spacing",
+		"tags": ["margin", "top", "bottom", "sm"]
+	},
+	"margin--y-md": {
+		"css": "margin-top: var(--space--md); margin-bottom: var(--space--md);",
+		"title": "Medium vertical margin",
+		"description": "Adds a medium amount of margin to the top and bottom.",
+		"category": "spacing",
+		"tags": ["margin", "top", "bottom", "md"]
+	},
+	"margin--y-lg": {
+		"css": "margin-top: var(--space--lg); margin-bottom: var(--space--lg);",
+		"title": "Large vertical margin",
+		"description": "Adds a large amount of margin to the top and bottom.",
+		"category": "spacing",
+		"tags": ["margin", "top", "bottom", "lg"]
+	},
+	"margin--y-xl": {
+		"css": "margin-top: var(--space--xl); margin-bottom: var(--space--xl);",
+		"title": "Extra-large vertical margin",
+		"description": "Adds an extra-large amount of margin to the top and bottom.",
+		"category": "spacing",
+		"tags": ["margin", "top", "bottom", "xl"]
+	},
+	"margin--y-xxl": {
+		"css": "margin-top: var(--space--xxl); margin-bottom: var(--space--xxl);",
+		"title": "Double-extra-large vertical margin",
+		"description": "Adds a double-extra-large amount of margin to the top and bottom.",
+		"category": "spacing",
+		"tags": ["margin", "top", "bottom", "xxl"]
+	}
+}

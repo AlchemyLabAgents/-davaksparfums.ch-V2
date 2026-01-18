@@ -1,0 +1,42 @@
+{
+	"text--h-xs": {
+		"css": "line-height: var(--text--h-xs);",
+		"title": "Tiny line height",
+		"description": "Applies the tiny line height using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"text",
+			"xs"
+		]
+	},
+	"text--h-sm": {
+		"css": "line-height: var(--text--h-sm);",
+		"title": "Small line height",
+		"description": "Applies the small line height using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"text",
+			"sm"
+		]
+	},
+	"text--h-md": {
+		"css": "line-height: var(--text--h-md);",
+		"title": "Medium line height",
+		"description": "Applies the medium line height using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"text",
+			"md"
+		]
+	},
+	"text--h-lg": {
+		"css": "line-height: var(--text--h-lg);",
+		"title": "Large line height",
+		"description": "Applies the large line height using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"text",
+			"lg"
+		]
+	}
+}

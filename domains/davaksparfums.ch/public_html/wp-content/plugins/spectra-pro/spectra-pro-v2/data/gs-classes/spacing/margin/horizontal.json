@@ -1,0 +1,51 @@
+{
+	"margin--x-none": {
+		"css": "margin-right: 0; margin-left: 0;",
+		"title": "No horizontal margin",
+		"description": "Removes all margin from the left and right.",
+		"category": "spacing",
+		"tags": ["margin", "left", "right", "none"]
+	},
+	"margin--x-xs": {
+		"css": "margin-right: var(--space--xs); margin-left: var(--space--xs);",
+		"title": "Tiny horizontal margin",
+		"description": "Adds a tiny amount of margin to the left and right.",
+		"category": "spacing",
+		"tags": ["margin", "left", "right", "xs"]
+	},
+	"margin--x-sm": {
+		"css": "margin-right: var(--space--sm); margin-left: var(--space--sm);",
+		"title": "Small horizontal margin",
+		"description": "Adds a small amount of margin to the left and right.",
+		"category": "spacing",
+		"tags": ["margin", "left", "right", "sm"]
+	},
+	"margin--x-md": {
+		"css": "margin-right: var(--space--md); margin-left: var(--space--md);",
+		"title": "Medium horizontal margin",
+		"description": "Adds a medium amount of margin to the left and right.",
+		"category": "spacing",
+		"tags": ["margin", "left", "right", "md"]
+	},
+	"margin--x-lg": {
+		"css": "margin-right: var(--space--lg); margin-left: var(--space--lg);",
+		"title": "Large horizontal margin",
+		"description": "Adds a large amount of margin to the left and right.",
+		"category": "spacing",
+		"tags": ["margin", "left", "right", "lg"]
+	},
+	"margin--x-xl": {
+		"css": "margin-right: var(--space--xl); margin-left: var(--space--xl);",
+		"title": "Extra-large horizontal margin",
+		"description": "Adds an extra-large amount of margin to the left and right.",
+		"category": "spacing",
+		"tags": ["margin", "left", "right", "xl"]
+	},
+	"margin--x-xxl": {
+		"css": "margin-right: var(--space--xxl); margin-left: var(--space--xxl);",
+		"title": "Double-extra-large horizontal margin",
+		"description": "Adds a double-extra-large amount of margin to the left and right.",
+		"category": "spacing",
+		"tags": ["margin", "left", "right", "xxl"]
+	}
+}

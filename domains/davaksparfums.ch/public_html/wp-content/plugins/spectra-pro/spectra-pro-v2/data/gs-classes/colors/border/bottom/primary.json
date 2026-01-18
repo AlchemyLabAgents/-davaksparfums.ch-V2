@@ -1,0 +1,1609 @@
+{
+	"border--b-primary": {
+		"css": "border-block-end-color: var(--color--primary);",
+		"title": "Bottom primary border",
+		"description": "Sets the bottom border to the primary color for a prominent, brand-focused appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary"
+		]
+	},
+	"border--b-primary--10": {
+		"css": "border-block-end-color: var(--color--primary--10);",
+		"title": "Bottom primary border, 10% opacity",
+		"description": "Sets the bottom border to the primary color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary--20": {
+		"css": "border-block-end-color: var(--color--primary--20);",
+		"title": "Bottom primary border, 20% opacity",
+		"description": "Sets the bottom border to the primary color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary--30": {
+		"css": "border-block-end-color: var(--color--primary--30);",
+		"title": "Bottom primary border, 30% opacity",
+		"description": "Sets the bottom border to the primary color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary--40": {
+		"css": "border-block-end-color: var(--color--primary--40);",
+		"title": "Bottom primary border, 40% opacity",
+		"description": "Sets the bottom border to the primary color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary--50": {
+		"css": "border-block-end-color: var(--color--primary--50);",
+		"title": "Bottom primary border, 50% opacity",
+		"description": "Sets the bottom border to the primary color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary--60": {
+		"css": "border-block-end-color: var(--color--primary--60);",
+		"title": "Bottom primary border, 60% opacity",
+		"description": "Sets the bottom border to the primary color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary--70": {
+		"css": "border-block-end-color: var(--color--primary--70);",
+		"title": "Bottom primary border, 70% opacity",
+		"description": "Sets the bottom border to the primary color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary--80": {
+		"css": "border-block-end-color: var(--color--primary--80);",
+		"title": "Bottom primary border, 80% opacity",
+		"description": "Sets the bottom border to the primary color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary--90": {
+		"css": "border-block-end-color: var(--color--primary--90);",
+		"title": "Bottom primary border, 90% opacity",
+		"description": "Sets the bottom border to the primary color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-dark": {
+		"css": "border-block-end-color: var(--color--primary-dark);",
+		"title": "Bottom primary border - dark",
+		"description": "Sets the bottom border to a dark primary shade for strong emphasis and contrast.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"dark"
+		]
+	},
+	"border--b-primary-dark--10": {
+		"css": "border-block-end-color: var(--color--primary-dark--10);",
+		"title": "Bottom primary border - dark, 10% opacity",
+		"description": "Sets the bottom border to the primary dark color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"dark",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-dark--20": {
+		"css": "border-block-end-color: var(--color--primary-dark--20);",
+		"title": "Bottom primary border - dark, 20% opacity",
+		"description": "Sets the bottom border to the primary dark color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"dark",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-dark--30": {
+		"css": "border-block-end-color: var(--color--primary-dark--30);",
+		"title": "Bottom primary border - dark, 30% opacity",
+		"description": "Sets the bottom border to the primary dark color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"dark",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-dark--40": {
+		"css": "border-block-end-color: var(--color--primary-dark--40);",
+		"title": "Bottom primary border - dark, 40% opacity",
+		"description": "Sets the bottom border to the primary dark color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"dark",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-dark--50": {
+		"css": "border-block-end-color: var(--color--primary-dark--50);",
+		"title": "Bottom primary border - dark, 50% opacity",
+		"description": "Sets the bottom border to the primary dark color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"dark",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-dark--60": {
+		"css": "border-block-end-color: var(--color--primary-dark--60);",
+		"title": "Bottom primary border - dark, 60% opacity",
+		"description": "Sets the bottom border to the primary dark color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"dark",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-dark--70": {
+		"css": "border-block-end-color: var(--color--primary-dark--70);",
+		"title": "Bottom primary border - dark, 70% opacity",
+		"description": "Sets the bottom border to the primary dark color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"dark",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-dark--80": {
+		"css": "border-block-end-color: var(--color--primary-dark--80);",
+		"title": "Bottom primary border - dark, 80% opacity",
+		"description": "Sets the bottom border to the primary dark color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"dark",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-dark--90": {
+		"css": "border-block-end-color: var(--color--primary-dark--90);",
+		"title": "Bottom primary border - dark, 90% opacity",
+		"description": "Sets the bottom border to the primary dark color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"dark",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darker": {
+		"css": "border-block-end-color: var(--color--primary-darker);",
+		"title": "Bottom primary border - darker",
+		"description": "Sets the bottom border to a darker primary shade for bold, impactful border.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darker"
+		]
+	},
+	"border--b-primary-darker--10": {
+		"css": "border-block-end-color: var(--color--primary-darker--10);",
+		"title": "Bottom primary border - darker, 10% opacity",
+		"description": "Sets the bottom border to the primary darker color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darker",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darker--20": {
+		"css": "border-block-end-color: var(--color--primary-darker--20);",
+		"title": "Bottom primary border - darker, 20% opacity",
+		"description": "Sets the bottom border to the primary darker color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darker",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darker--30": {
+		"css": "border-block-end-color: var(--color--primary-darker--30);",
+		"title": "Bottom primary border - darker, 30% opacity",
+		"description": "Sets the bottom border to the primary darker color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darker",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darker--40": {
+		"css": "border-block-end-color: var(--color--primary-darker--40);",
+		"title": "Bottom primary border - darker, 40% opacity",
+		"description": "Sets the bottom border to the primary darker color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darker",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darker--50": {
+		"css": "border-block-end-color: var(--color--primary-darker--50);",
+		"title": "Bottom primary border - darker, 50% opacity",
+		"description": "Sets the bottom border to the primary darker color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darker",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darker--60": {
+		"css": "border-block-end-color: var(--color--primary-darker--60);",
+		"title": "Bottom primary border - darker, 60% opacity",
+		"description": "Sets the bottom border to the primary darker color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darker",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darker--70": {
+		"css": "border-block-end-color: var(--color--primary-darker--70);",
+		"title": "Bottom primary border - darker, 70% opacity",
+		"description": "Sets the bottom border to the primary darker color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darker",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darker--80": {
+		"css": "border-block-end-color: var(--color--primary-darker--80);",
+		"title": "Bottom primary border - darker, 80% opacity",
+		"description": "Sets the bottom border to the primary darker color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darker",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darker--90": {
+		"css": "border-block-end-color: var(--color--primary-darker--90);",
+		"title": "Bottom primary border - darker, 90% opacity",
+		"description": "Sets the bottom border to the primary darker color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darker",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darkest": {
+		"css": "border-block-end-color: var(--color--primary-darkest);",
+		"title": "Bottom primary border - darkest",
+		"description": "Sets the bottom border to the darkest primary shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darkest"
+		]
+	},
+	"border--b-primary-darkest--10": {
+		"css": "border-block-end-color: var(--color--primary-darkest--10);",
+		"title": "Bottom primary border - darkest, 10% opacity",
+		"description": "Sets the bottom border to the primary darkest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darkest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darkest--20": {
+		"css": "border-block-end-color: var(--color--primary-darkest--20);",
+		"title": "Bottom primary border - darkest, 20% opacity",
+		"description": "Sets the bottom border to the primary darkest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darkest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darkest--30": {
+		"css": "border-block-end-color: var(--color--primary-darkest--30);",
+		"title": "Bottom primary border - darkest, 30% opacity",
+		"description": "Sets the bottom border to the primary darkest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darkest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darkest--40": {
+		"css": "border-block-end-color: var(--color--primary-darkest--40);",
+		"title": "Bottom primary border - darkest, 40% opacity",
+		"description": "Sets the bottom border to the primary darkest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darkest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darkest--50": {
+		"css": "border-block-end-color: var(--color--primary-darkest--50);",
+		"title": "Bottom primary border - darkest, 50% opacity",
+		"description": "Sets the bottom border to the primary darkest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darkest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darkest--60": {
+		"css": "border-block-end-color: var(--color--primary-darkest--60);",
+		"title": "Bottom primary border - darkest, 60% opacity",
+		"description": "Sets the bottom border to the primary darkest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darkest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darkest--70": {
+		"css": "border-block-end-color: var(--color--primary-darkest--70);",
+		"title": "Bottom primary border - darkest, 70% opacity",
+		"description": "Sets the bottom border to the primary darkest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darkest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darkest--80": {
+		"css": "border-block-end-color: var(--color--primary-darkest--80);",
+		"title": "Bottom primary border - darkest, 80% opacity",
+		"description": "Sets the bottom border to the primary darkest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darkest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-darkest--90": {
+		"css": "border-block-end-color: var(--color--primary-darkest--90);",
+		"title": "Bottom primary border - darkest, 90% opacity",
+		"description": "Sets the bottom border to the primary darkest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"darkest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-black": {
+		"css": "border-block-end-color: var(--color--primary-near-black);",
+		"title": "Bottom primary border - near-black",
+		"description": "Sets the bottom border to a near-black primary shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-black"
+		]
+	},
+	"border--b-primary-near-black--10": {
+		"css": "border-block-end-color: var(--color--primary-near-black--10);",
+		"title": "Bottom primary border - near-black, 10% opacity",
+		"description": "Sets the bottom border to the primary near-black color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-black--20": {
+		"css": "border-block-end-color: var(--color--primary-near-black--20);",
+		"title": "Bottom primary border - near-black, 20% opacity",
+		"description": "Sets the bottom border to the primary near-black color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-black--30": {
+		"css": "border-block-end-color: var(--color--primary-near-black--30);",
+		"title": "Bottom primary border - near-black, 30% opacity",
+		"description": "Sets the bottom border to the primary near-black color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-black--40": {
+		"css": "border-block-end-color: var(--color--primary-near-black--40);",
+		"title": "Bottom primary border - near-black, 40% opacity",
+		"description": "Sets the bottom border to the primary near-black color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-black--50": {
+		"css": "border-block-end-color: var(--color--primary-near-black--50);",
+		"title": "Bottom primary border - near-black, 50% opacity",
+		"description": "Sets the bottom border to the primary near-black color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-black--60": {
+		"css": "border-block-end-color: var(--color--primary-near-black--60);",
+		"title": "Bottom primary border - near-black, 60% opacity",
+		"description": "Sets the bottom border to the primary near-black color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-black--70": {
+		"css": "border-block-end-color: var(--color--primary-near-black--70);",
+		"title": "Bottom primary border - near-black, 70% opacity",
+		"description": "Sets the bottom border to the primary near-black color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-black--80": {
+		"css": "border-block-end-color: var(--color--primary-near-black--80);",
+		"title": "Bottom primary border - near-black, 80% opacity",
+		"description": "Sets the bottom border to the primary near-black color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-black--90": {
+		"css": "border-block-end-color: var(--color--primary-near-black--90);",
+		"title": "Bottom primary border - near-black, 90% opacity",
+		"description": "Sets the bottom border to the primary near-black color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-light": {
+		"css": "border-block-end-color: var(--color--primary-light);",
+		"title": "Bottom primary border - light",
+		"description": "Sets the bottom border to a light primary shade for a softer, subtle appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"light"
+		]
+	},
+	"border--b-primary-light--10": {
+		"css": "border-block-end-color: var(--color--primary-light--10);",
+		"title": "Bottom primary border - light, 10% opacity",
+		"description": "Sets the bottom border to the primary light color with 10% opacity for a gentle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"light",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-light--20": {
+		"css": "border-block-end-color: var(--color--primary-light--20);",
+		"title": "Bottom primary border - light, 20% opacity",
+		"description": "Sets the bottom border to the primary light color with 20% opacity for a gentle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"light",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-light--30": {
+		"css": "border-block-end-color: var(--color--primary-light--30);",
+		"title": "Bottom primary border - light, 30% opacity",
+		"description": "Sets the bottom border to the primary light color with 30% opacity for a gentle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"light",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-light--40": {
+		"css": "border-block-end-color: var(--color--primary-light--40);",
+		"title": "Bottom primary border - light, 40% opacity",
+		"description": "Sets the bottom border to the primary light color with 40% opacity for a gentle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"light",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-light--50": {
+		"css": "border-block-end-color: var(--color--primary-light--50);",
+		"title": "Bottom primary border - light, 50% opacity",
+		"description": "Sets the bottom border to the primary light color with 50% opacity for a gentle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"light",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-light--60": {
+		"css": "border-block-end-color: var(--color--primary-light--60);",
+		"title": "Bottom primary border - light, 60% opacity",
+		"description": "Sets the bottom border to the primary light color with 60% opacity for a gentle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"light",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-light--70": {
+		"css": "border-block-end-color: var(--color--primary-light--70);",
+		"title": "Bottom primary border - light, 70% opacity",
+		"description": "Sets the bottom border to the primary light color with 70% opacity for a gentle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"light",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-light--80": {
+		"css": "border-block-end-color: var(--color--primary-light--80);",
+		"title": "Bottom primary border - light, 80% opacity",
+		"description": "Sets the bottom border to the primary light color with 80% opacity for a gentle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"light",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-light--90": {
+		"css": "border-block-end-color: var(--color--primary-light--90);",
+		"title": "Bottom primary border - light, 90% opacity",
+		"description": "Sets the bottom border to the primary light color with 90% opacity for a gentle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"light",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lighter": {
+		"css": "border-block-end-color: var(--color--primary-lighter);",
+		"title": "Bottom primary border - lighter",
+		"description": "Sets the bottom border to a lighter primary shade for a delicate, airy appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lighter"
+		]
+	},
+	"border--b-primary-lighter--10": {
+		"css": "border-block-end-color: var(--color--primary-lighter--10);",
+		"title": "Bottom primary border - lighter, 10% opacity",
+		"description": "Sets the bottom border to the primary lighter color with 10% opacity for a soft, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lighter",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lighter--20": {
+		"css": "border-block-end-color: var(--color--primary-lighter--20);",
+		"title": "Bottom primary border - lighter, 20% opacity",
+		"description": "Sets the bottom border to the primary lighter color with 20% opacity for a soft, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lighter",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lighter--30": {
+		"css": "border-block-end-color: var(--color--primary-lighter--30);",
+		"title": "Bottom primary border - lighter, 30% opacity",
+		"description": "Sets the bottom border to the primary lighter color with 30% opacity for a soft, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lighter",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lighter--40": {
+		"css": "border-block-end-color: var(--color--primary-lighter--40);",
+		"title": "Bottom primary border - lighter, 40% opacity",
+		"description": "Sets the bottom border to the primary lighter color with 40% opacity for a soft, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lighter",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lighter--50": {
+		"css": "border-block-end-color: var(--color--primary-lighter--50);",
+		"title": "Bottom primary border - lighter, 50% opacity",
+		"description": "Sets the bottom border to the primary lighter color with 50% opacity for a soft, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lighter",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lighter--60": {
+		"css": "border-block-end-color: var(--color--primary-lighter--60);",
+		"title": "Bottom primary border - lighter, 60% opacity",
+		"description": "Sets the bottom border to the primary lighter color with 60% opacity for a soft, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lighter",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lighter--70": {
+		"css": "border-block-end-color: var(--color--primary-lighter--70);",
+		"title": "Bottom primary border - lighter, 70% opacity",
+		"description": "Sets the bottom border to the primary lighter color with 70% opacity for a soft, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lighter",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lighter--80": {
+		"css": "border-block-end-color: var(--color--primary-lighter--80);",
+		"title": "Bottom primary border - lighter, 80% opacity",
+		"description": "Sets the bottom border to the primary lighter color with 80% opacity for a soft, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lighter",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lighter--90": {
+		"css": "border-block-end-color: var(--color--primary-lighter--90);",
+		"title": "Bottom primary border - lighter, 90% opacity",
+		"description": "Sets the bottom border to the primary lighter color with 90% opacity for a soft, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lighter",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lightest": {
+		"css": "border-block-end-color: var(--color--primary-lightest);",
+		"title": "Bottom primary border - lightest",
+		"description": "Sets the bottom border to the lightest primary shade for a barely-there, subtle effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lightest"
+		]
+	},
+	"border--b-primary-lightest--10": {
+		"css": "border-block-end-color: var(--color--primary-lightest--10);",
+		"title": "Bottom primary border - lightest, 10% opacity",
+		"description": "Sets the bottom border to the primary lightest color with 10% opacity for a faint, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lightest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lightest--20": {
+		"css": "border-block-end-color: var(--color--primary-lightest--20);",
+		"title": "Bottom primary border - lightest, 20% opacity",
+		"description": "Sets the bottom border to the primary lightest color with 20% opacity for a faint, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lightest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lightest--30": {
+		"css": "border-block-end-color: var(--color--primary-lightest--30);",
+		"title": "Bottom primary border - lightest, 30% opacity",
+		"description": "Sets the bottom border to the primary lightest color with 30% opacity for a faint, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lightest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lightest--40": {
+		"css": "border-block-end-color: var(--color--primary-lightest--40);",
+		"title": "Bottom primary border - lightest, 40% opacity",
+		"description": "Sets the bottom border to the primary lightest color with 40% opacity for a faint, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lightest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lightest--50": {
+		"css": "border-block-end-color: var(--color--primary-lightest--50);",
+		"title": "Bottom primary border - lightest, 50% opacity",
+		"description": "Sets the bottom border to the primary lightest color with 50% opacity for a faint, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lightest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lightest--60": {
+		"css": "border-block-end-color: var(--color--primary-lightest--60);",
+		"title": "Bottom primary border - lightest, 60% opacity",
+		"description": "Sets the bottom border to the primary lightest color with 60% opacity for a faint, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lightest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lightest--70": {
+		"css": "border-block-end-color: var(--color--primary-lightest--70);",
+		"title": "Bottom primary border - lightest, 70% opacity",
+		"description": "Sets the bottom border to the primary lightest color with 70% opacity for a faint, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lightest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lightest--80": {
+		"css": "border-block-end-color: var(--color--primary-lightest--80);",
+		"title": "Bottom primary border - lightest, 80% opacity",
+		"description": "Sets the bottom border to the primary lightest color with 80% opacity for a faint, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lightest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-lightest--90": {
+		"css": "border-block-end-color: var(--color--primary-lightest--90);",
+		"title": "Bottom primary border - lightest, 90% opacity",
+		"description": "Sets the bottom border to the primary lightest color with 90% opacity for a faint, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"lightest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-white": {
+		"css": "border-block-end-color: var(--color--primary-near-white);",
+		"title": "Bottom primary border - near-white",
+		"description": "Sets the bottom border to a near-white primary shade for a clean, minimal look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-white"
+		]
+	},
+	"border--b-primary-near-white--10": {
+		"css": "border-block-end-color: var(--color--primary-near-white--10);",
+		"title": "Bottom primary border - near-white, 10% opacity",
+		"description": "Sets the bottom border to the primary near-white color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-white--20": {
+		"css": "border-block-end-color: var(--color--primary-near-white--20);",
+		"title": "Bottom primary border - near-white, 20% opacity",
+		"description": "Sets the bottom border to the primary near-white color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-white--30": {
+		"css": "border-block-end-color: var(--color--primary-near-white--30);",
+		"title": "Bottom primary border - near-white, 30% opacity",
+		"description": "Sets the bottom border to the primary near-white color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-white--40": {
+		"css": "border-block-end-color: var(--color--primary-near-white--40);",
+		"title": "Bottom primary border - near-white, 40% opacity",
+		"description": "Sets the bottom border to the primary near-white color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-white--50": {
+		"css": "border-block-end-color: var(--color--primary-near-white--50);",
+		"title": "Bottom primary border - near-white, 50% opacity",
+		"description": "Sets the bottom border to the primary near-white color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-white--60": {
+		"css": "border-block-end-color: var(--color--primary-near-white--60);",
+		"title": "Bottom primary border - near-white, 60% opacity",
+		"description": "Sets the bottom border to the primary near-white color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-white--70": {
+		"css": "border-block-end-color: var(--color--primary-near-white--70);",
+		"title": "Bottom primary border - near-white, 70% opacity",
+		"description": "Sets the bottom border to the primary near-white color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-white--80": {
+		"css": "border-block-end-color: var(--color--primary-near-white--80);",
+		"title": "Bottom primary border - near-white, 80% opacity",
+		"description": "Sets the bottom border to the primary near-white color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-near-white--90": {
+		"css": "border-block-end-color: var(--color--primary-near-white--90);",
+		"title": "Bottom primary border - near-white, 90% opacity",
+		"description": "Sets the bottom border to the primary near-white color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"near-white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-complement": {
+		"css": "border-block-end-color: var(--color--primary-complement);",
+		"title": "Bottom primary border - complement",
+		"description": "Sets the bottom border to the primary complement color for a contrasting, vibrant effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"complement"
+		]
+	},
+	"border--b-primary-complement--10": {
+		"css": "border-block-end-color: var(--color--primary-complement--10);",
+		"title": "Bottom primary border - complement, 10% opacity",
+		"description": "Sets the bottom border to the primary complement color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"complement",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-complement--20": {
+		"css": "border-block-end-color: var(--color--primary-complement--20);",
+		"title": "Bottom primary border - complement, 20% opacity",
+		"description": "Sets the bottom border to the primary complement color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"complement",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-complement--30": {
+		"css": "border-block-end-color: var(--color--primary-complement--30);",
+		"title": "Bottom primary border - complement, 30% opacity",
+		"description": "Sets the bottom border to the primary complement color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"complement",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-complement--40": {
+		"css": "border-block-end-color: var(--color--primary-complement--40);",
+		"title": "Bottom primary border - complement, 40% opacity",
+		"description": "Sets the bottom border to the primary complement color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"complement",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-complement--50": {
+		"css": "border-block-end-color: var(--color--primary-complement--50);",
+		"title": "Bottom primary border - complement, 50% opacity",
+		"description": "Sets the bottom border to the primary complement color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"complement",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-complement--60": {
+		"css": "border-block-end-color: var(--color--primary-complement--60);",
+		"title": "Bottom primary border - complement, 60% opacity",
+		"description": "Sets the bottom border to the primary complement color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"complement",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-complement--70": {
+		"css": "border-block-end-color: var(--color--primary-complement--70);",
+		"title": "Bottom primary border - complement, 70% opacity",
+		"description": "Sets the bottom border to the primary complement color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"complement",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-complement--80": {
+		"css": "border-block-end-color: var(--color--primary-complement--80);",
+		"title": "Bottom primary border - complement, 80% opacity",
+		"description": "Sets the bottom border to the primary complement color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"complement",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-complement--90": {
+		"css": "border-block-end-color: var(--color--primary-complement--90);",
+		"title": "Bottom primary border - complement, 90% opacity",
+		"description": "Sets the bottom border to the primary complement color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"complement",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-inverted": {
+		"css": "border-block-end-color: var(--color--primary-inverted);",
+		"title": "Bottom primary border - inverted",
+		"description": "Sets the bottom border to the primary inverted color for a reversed, high-contrast effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"inverted"
+		]
+	},
+	"border--b-primary-inverted--10": {
+		"css": "border-block-end-color: var(--color--primary-inverted--10);",
+		"title": "Bottom primary border - inverted, 10% opacity",
+		"description": "Sets the bottom border to the primary inverted color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"inverted",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-inverted--20": {
+		"css": "border-block-end-color: var(--color--primary-inverted--20);",
+		"title": "Bottom primary border - inverted, 20% opacity",
+		"description": "Sets the bottom border to the primary inverted color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"inverted",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-inverted--30": {
+		"css": "border-block-end-color: var(--color--primary-inverted--30);",
+		"title": "Bottom primary border - inverted, 30% opacity",
+		"description": "Sets the bottom border to the primary inverted color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"inverted",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-inverted--40": {
+		"css": "border-block-end-color: var(--color--primary-inverted--40);",
+		"title": "Bottom primary border - inverted, 40% opacity",
+		"description": "Sets the bottom border to the primary inverted color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"inverted",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-inverted--50": {
+		"css": "border-block-end-color: var(--color--primary-inverted--50);",
+		"title": "Bottom primary border - inverted, 50% opacity",
+		"description": "Sets the bottom border to the primary inverted color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"inverted",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-inverted--60": {
+		"css": "border-block-end-color: var(--color--primary-inverted--60);",
+		"title": "Bottom primary border - inverted, 60% opacity",
+		"description": "Sets the bottom border to the primary inverted color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"inverted",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-inverted--70": {
+		"css": "border-block-end-color: var(--color--primary-inverted--70);",
+		"title": "Bottom primary border - inverted, 70% opacity",
+		"description": "Sets the bottom border to the primary inverted color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"inverted",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-inverted--80": {
+		"css": "border-block-end-color: var(--color--primary-inverted--80);",
+		"title": "Bottom primary border - inverted, 80% opacity",
+		"description": "Sets the bottom border to the primary inverted color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"inverted",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-primary-inverted--90": {
+		"css": "border-block-end-color: var(--color--primary-inverted--90);",
+		"title": "Bottom primary border - inverted, 90% opacity",
+		"description": "Sets the bottom border to the primary inverted color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"primary",
+			"inverted",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

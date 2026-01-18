@@ -1,0 +1,180 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/register-user-name",
+  "version": "2.0.0",
+  "title": "Register Username Field",
+  "category": "spectra-pro-v2",
+  "description": "Username field specifically designed for registration forms.",
+  "keywords": [
+    "register",
+    "username",
+    "field",
+    "form"
+  ],
+  "textdomain": "spectra-pro",
+  "parent": [
+    "spectra-pro/register"
+  ],
+  "supports": {
+    "interactivity": true,
+    "html": false,
+    "anchor": true,
+    "multiple": false,
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "__experimentalDefaultControls": {
+        "margin": false,
+        "padding": false
+      }
+    },
+    "__experimentalBorder": {
+      "color": true,
+      "radius": true,
+      "style": true,
+      "width": true,
+      "__experimentalDefaultControls": {
+        "color": false,
+        "radius": false,
+        "style": false,
+        "width": false
+      }
+    },
+    "color": {
+      "gradients": true,
+      "__experimentalDefaultControls": {
+        "background": true,
+        "text": false
+      }
+    },
+    "shadow": true
+  },
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css",
+  "editorStyle": "file:./index.css",
+  "usesContext": [
+    "spectra-pro/form/formId",
+    "spectra-pro/form/formType",
+    "spectra-pro/form/usernameLabel",
+    "spectra-pro/form/usernamePlaceholder",
+    "spectra-pro/form/passwordLabel",
+    "spectra-pro/form/passwordPlaceholder",
+    "spectra-pro/form/showLabels",
+    "spectra-pro/form/showIcons",
+    "spectra-pro/form/labelColor",
+    "spectra-pro/form/labelColorHover",
+    "spectra-pro/form/inputTextColor",
+    "spectra-pro/form/inputTextColorHover",
+    "spectra-pro/form/inputBgColor",
+    "spectra-pro/form/inputBgColorHover",
+    "spectra-pro/form/iconColor",
+    "spectra-pro/form/formWidth",
+    "spectra-pro/form/overallAlignment",
+    "spectra-pro/form/alignLoginBtn",
+    "spectra-pro/form/demoFieldErrorMessage",
+    "spectra-pro/form/messageInvalidEmailError",
+    "spectra-pro/form/messageInvalidUsernameError",
+    "spectra-pro/form/messageUsernameMissingError",
+    "spectra-pro/form/messageUsernameAlreadyUsedError"
+  ],
+  "providesContext": {
+    "spectra-pro/form-input/fieldType": "fieldType",
+    "spectra-pro/form-input/fieldLabel": "fieldLabel",
+    "spectra-pro/form-input/fieldPlaceholder": "fieldPlaceholder",
+    "spectra-pro/form-input/fieldIcon": "fieldIcon",
+    "spectra-pro/form-input/isRequired": "isRequired",
+    "spectra-pro/form-input/fieldId": "fieldId"
+  },
+  "template": [
+    [
+      "spectra-pro/form-input-label"
+    ],
+    [
+      "spectra-pro/form-field-wrapper",
+      {},
+      [
+        [
+          "spectra-pro/form-icon"
+        ],
+        [
+          "spectra-pro/form-input-field",
+          {
+            "fieldType": "username"
+          }
+        ]
+      ]
+    ]
+  ],
+  "allowedBlocks": [
+    "spectra-pro/form-input-label",
+    "spectra-pro/form-icon",
+    "spectra-pro/form-input-field",
+    "spectra-pro/form-field-wrapper"
+  ],
+  "render": "file:./controller.php",
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "fieldType": {
+      "type": "string",
+      "default": "username"
+    },
+    "fieldLabel": {
+      "type": "string",
+      "default": "Username"
+    },
+    "fieldPlaceholder": {
+      "type": "string",
+      "default": "Enter username"
+    },
+    "fieldIcon": {
+      "type": "string",
+      "default": "user"
+    },
+    "isRequired": {
+      "type": "boolean",
+      "default": false
+    },
+    "fieldId": {
+      "type": "string",
+      "default": ""
+    },
+    "showLabel": {
+      "type": "boolean"
+    },
+    "iconPosition": {
+      "type": "string",
+      "default": "left",
+      "enum": [
+        "left",
+        "right"
+      ]
+    },
+    "textColorHover": {
+      "type": "string"
+    },
+    "backgroundColorHover": {
+      "type": "string"
+    },
+    "backgroundGradientHover": {
+      "type": "string"
+    },
+    "inputFieldBgColor": {
+      "type": "string"
+    },
+    "inputFieldBgColorHover": {
+      "type": "string"
+    },
+    "inputFieldBgColorActive": {
+      "type": "string"
+    }
+  }
+}

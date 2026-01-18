@@ -1,0 +1,1499 @@
+{
+	"border--primary": {
+		"css": "border-color: var(--color--primary);",
+		"title": "Primary border",
+		"description": "Sets the border to the primary color for a prominent, brand-focused appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary"
+		]
+	},
+	"border--primary--10": {
+		"css": "border-color: var(--color--primary--10);",
+		"title": "Primary border, 10% opacity",
+		"description": "Sets the border to the primary color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary--20": {
+		"css": "border-color: var(--color--primary--20);",
+		"title": "Primary border, 20% opacity",
+		"description": "Sets the border to the primary color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary--30": {
+		"css": "border-color: var(--color--primary--30);",
+		"title": "Primary border, 30% opacity",
+		"description": "Sets the border to the primary color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary--40": {
+		"css": "border-color: var(--color--primary--40);",
+		"title": "Primary border, 40% opacity",
+		"description": "Sets the border to the primary color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary--50": {
+		"css": "border-color: var(--color--primary--50);",
+		"title": "Primary border, 50% opacity",
+		"description": "Sets the border to the primary color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary--60": {
+		"css": "border-color: var(--color--primary--60);",
+		"title": "Primary border, 60% opacity",
+		"description": "Sets the border to the primary color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary--70": {
+		"css": "border-color: var(--color--primary--70);",
+		"title": "Primary border, 70% opacity",
+		"description": "Sets the border to the primary color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary--80": {
+		"css": "border-color: var(--color--primary--80);",
+		"title": "Primary border, 80% opacity",
+		"description": "Sets the border to the primary color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary--90": {
+		"css": "border-color: var(--color--primary--90);",
+		"title": "Primary border, 90% opacity",
+		"description": "Sets the border to the primary color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-dark": {
+		"css": "border-color: var(--color--primary-dark);",
+		"title": "Primary border - dark",
+		"description": "Sets the border to a dark primary shade for strong emphasis and contrast.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"dark"
+		]
+	},
+	"border--primary-dark--10": {
+		"css": "border-color: var(--color--primary-dark--10);",
+		"title": "Primary border - dark, 10% opacity",
+		"description": "Sets the border to the primary dark color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"dark",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-dark--20": {
+		"css": "border-color: var(--color--primary-dark--20);",
+		"title": "Primary border - dark, 20% opacity",
+		"description": "Sets the border to the primary dark color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"dark",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-dark--30": {
+		"css": "border-color: var(--color--primary-dark--30);",
+		"title": "Primary border - dark, 30% opacity",
+		"description": "Sets the border to the primary dark color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"dark",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-dark--40": {
+		"css": "border-color: var(--color--primary-dark--40);",
+		"title": "Primary border - dark, 40% opacity",
+		"description": "Sets the border to the primary dark color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"dark",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-dark--50": {
+		"css": "border-color: var(--color--primary-dark--50);",
+		"title": "Primary border - dark, 50% opacity",
+		"description": "Sets the border to the primary dark color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"dark",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-dark--60": {
+		"css": "border-color: var(--color--primary-dark--60);",
+		"title": "Primary border - dark, 60% opacity",
+		"description": "Sets the border to the primary dark color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"dark",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-dark--70": {
+		"css": "border-color: var(--color--primary-dark--70);",
+		"title": "Primary border - dark, 70% opacity",
+		"description": "Sets the border to the primary dark color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"dark",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-dark--80": {
+		"css": "border-color: var(--color--primary-dark--80);",
+		"title": "Primary border - dark, 80% opacity",
+		"description": "Sets the border to the primary dark color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"dark",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-dark--90": {
+		"css": "border-color: var(--color--primary-dark--90);",
+		"title": "Primary border - dark, 90% opacity",
+		"description": "Sets the border to the primary dark color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"dark",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darker": {
+		"css": "border-color: var(--color--primary-darker);",
+		"title": "Primary border - darker",
+		"description": "Sets the border to a darker primary shade for bold, impactful border.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darker"
+		]
+	},
+	"border--primary-darker--10": {
+		"css": "border-color: var(--color--primary-darker--10);",
+		"title": "Primary border - darker, 10% opacity",
+		"description": "Sets the border to the primary darker color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darker",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darker--20": {
+		"css": "border-color: var(--color--primary-darker--20);",
+		"title": "Primary border - darker, 20% opacity",
+		"description": "Sets the border to the primary darker color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darker",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darker--30": {
+		"css": "border-color: var(--color--primary-darker--30);",
+		"title": "Primary border - darker, 30% opacity",
+		"description": "Sets the border to the primary darker color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darker",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darker--40": {
+		"css": "border-color: var(--color--primary-darker--40);",
+		"title": "Primary border - darker, 40% opacity",
+		"description": "Sets the border to the primary darker color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darker",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darker--50": {
+		"css": "border-color: var(--color--primary-darker--50);",
+		"title": "Primary border - darker, 50% opacity",
+		"description": "Sets the border to the primary darker color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darker",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darker--60": {
+		"css": "border-color: var(--color--primary-darker--60);",
+		"title": "Primary border - darker, 60% opacity",
+		"description": "Sets the border to the primary darker color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darker",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darker--70": {
+		"css": "border-color: var(--color--primary-darker--70);",
+		"title": "Primary border - darker, 70% opacity",
+		"description": "Sets the border to the primary darker color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darker",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darker--80": {
+		"css": "border-color: var(--color--primary-darker--80);",
+		"title": "Primary border - darker, 80% opacity",
+		"description": "Sets the border to the primary darker color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darker",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darker--90": {
+		"css": "border-color: var(--color--primary-darker--90);",
+		"title": "Primary border - darker, 90% opacity",
+		"description": "Sets the border to the primary darker color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darker",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darkest": {
+		"css": "border-color: var(--color--primary-darkest);",
+		"title": "Primary border - darkest",
+		"description": "Sets the border to the darkest primary shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darkest"
+		]
+	},
+	"border--primary-darkest--10": {
+		"css": "border-color: var(--color--primary-darkest--10);",
+		"title": "Primary border - darkest, 10% opacity",
+		"description": "Sets the border to the primary darkest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darkest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darkest--20": {
+		"css": "border-color: var(--color--primary-darkest--20);",
+		"title": "Primary border - darkest, 20% opacity",
+		"description": "Sets the border to the primary darkest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darkest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darkest--30": {
+		"css": "border-color: var(--color--primary-darkest--30);",
+		"title": "Primary border - darkest, 30% opacity",
+		"description": "Sets the border to the primary darkest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darkest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darkest--40": {
+		"css": "border-color: var(--color--primary-darkest--40);",
+		"title": "Primary border - darkest, 40% opacity",
+		"description": "Sets the border to the primary darkest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darkest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darkest--50": {
+		"css": "border-color: var(--color--primary-darkest--50);",
+		"title": "Primary border - darkest, 50% opacity",
+		"description": "Sets the border to the primary darkest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darkest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darkest--60": {
+		"css": "border-color: var(--color--primary-darkest--60);",
+		"title": "Primary border - darkest, 60% opacity",
+		"description": "Sets the border to the primary darkest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darkest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darkest--70": {
+		"css": "border-color: var(--color--primary-darkest--70);",
+		"title": "Primary border - darkest, 70% opacity",
+		"description": "Sets the border to the primary darkest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darkest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darkest--80": {
+		"css": "border-color: var(--color--primary-darkest--80);",
+		"title": "Primary border - darkest, 80% opacity",
+		"description": "Sets the border to the primary darkest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darkest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-darkest--90": {
+		"css": "border-color: var(--color--primary-darkest--90);",
+		"title": "Primary border - darkest, 90% opacity",
+		"description": "Sets the border to the primary darkest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"darkest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-black": {
+		"css": "border-color: var(--color--primary-near-black);",
+		"title": "Primary border - near-black",
+		"description": "Sets the border to a near-black primary shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-black"
+		]
+	},
+	"border--primary-near-black--10": {
+		"css": "border-color: var(--color--primary-near-black--10);",
+		"title": "Primary border - near-black, 10% opacity",
+		"description": "Sets the border to the primary near-black color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-black--20": {
+		"css": "border-color: var(--color--primary-near-black--20);",
+		"title": "Primary border - near-black, 20% opacity",
+		"description": "Sets the border to the primary near-black color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-black--30": {
+		"css": "border-color: var(--color--primary-near-black--30);",
+		"title": "Primary border - near-black, 30% opacity",
+		"description": "Sets the border to the primary near-black color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-black--40": {
+		"css": "border-color: var(--color--primary-near-black--40);",
+		"title": "Primary border - near-black, 40% opacity",
+		"description": "Sets the border to the primary near-black color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-black--50": {
+		"css": "border-color: var(--color--primary-near-black--50);",
+		"title": "Primary border - near-black, 50% opacity",
+		"description": "Sets the border to the primary near-black color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-black--60": {
+		"css": "border-color: var(--color--primary-near-black--60);",
+		"title": "Primary border - near-black, 60% opacity",
+		"description": "Sets the border to the primary near-black color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-black--70": {
+		"css": "border-color: var(--color--primary-near-black--70);",
+		"title": "Primary border - near-black, 70% opacity",
+		"description": "Sets the border to the primary near-black color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-black--80": {
+		"css": "border-color: var(--color--primary-near-black--80);",
+		"title": "Primary border - near-black, 80% opacity",
+		"description": "Sets the border to the primary near-black color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-black--90": {
+		"css": "border-color: var(--color--primary-near-black--90);",
+		"title": "Primary border - near-black, 90% opacity",
+		"description": "Sets the border to the primary near-black color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-light": {
+		"css": "border-color: var(--color--primary-light);",
+		"title": "Primary border - light",
+		"description": "Sets the border to a light primary shade for a softer, subtle appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"light"
+		]
+	},
+	"border--primary-light--10": {
+		"css": "border-color: var(--color--primary-light--10);",
+		"title": "Primary border - light, 10% opacity",
+		"description": "Sets the border to the primary light color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"light",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-light--20": {
+		"css": "border-color: var(--color--primary-light--20);",
+		"title": "Primary border - light, 20% opacity",
+		"description": "Sets the border to the primary light color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"light",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-light--30": {
+		"css": "border-color: var(--color--primary-light--30);",
+		"title": "Primary border - light, 30% opacity",
+		"description": "Sets the border to the primary light color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"light",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-light--40": {
+		"css": "border-color: var(--color--primary-light--40);",
+		"title": "Primary border - light, 40% opacity",
+		"description": "Sets the border to the primary light color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"light",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-light--50": {
+		"css": "border-color: var(--color--primary-light--50);",
+		"title": "Primary border - light, 50% opacity",
+		"description": "Sets the border to the primary light color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"light",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-light--60": {
+		"css": "border-color: var(--color--primary-light--60);",
+		"title": "Primary border - light, 60% opacity",
+		"description": "Sets the border to the primary light color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"light",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-light--70": {
+		"css": "border-color: var(--color--primary-light--70);",
+		"title": "Primary border - light, 70% opacity",
+		"description": "Sets the border to the primary light color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"light",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-light--80": {
+		"css": "border-color: var(--color--primary-light--80);",
+		"title": "Primary border - light, 80% opacity",
+		"description": "Sets the border to the primary light color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"light",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-light--90": {
+		"css": "border-color: var(--color--primary-light--90);",
+		"title": "Primary border - light, 90% opacity",
+		"description": "Sets the border to the primary light color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"light",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lighter": {
+		"css": "border-color: var(--color--primary-lighter);",
+		"title": "Primary border - lighter",
+		"description": "Sets the border to a lighter primary shade for gentle emphasis.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lighter"
+		]
+	},
+	"border--primary-lighter--10": {
+		"css": "border-color: var(--color--primary-lighter--10);",
+		"title": "Primary border - lighter, 10% opacity",
+		"description": "Sets the border to the primary lighter color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lighter",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lighter--20": {
+		"css": "border-color: var(--color--primary-lighter--20);",
+		"title": "Primary border - lighter, 20% opacity",
+		"description": "Sets the border to the primary lighter color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lighter",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lighter--30": {
+		"css": "border-color: var(--color--primary-lighter--30);",
+		"title": "Primary border - lighter, 30% opacity",
+		"description": "Sets the border to the primary lighter color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lighter",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lighter--40": {
+		"css": "border-color: var(--color--primary-lighter--40);",
+		"title": "Primary border - lighter, 40% opacity",
+		"description": "Sets the border to the primary lighter color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lighter",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lighter--50": {
+		"css": "border-color: var(--color--primary-lighter--50);",
+		"title": "Primary border - lighter, 50% opacity",
+		"description": "Sets the border to the primary lighter color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lighter",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lighter--60": {
+		"css": "border-color: var(--color--primary-lighter--60);",
+		"title": "Primary border - lighter, 60% opacity",
+		"description": "Sets the border to the primary lighter color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lighter",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lighter--70": {
+		"css": "border-color: var(--color--primary-lighter--70);",
+		"title": "Primary border - lighter, 70% opacity",
+		"description": "Sets the border to the primary lighter color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lighter",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lighter--80": {
+		"css": "border-color: var(--color--primary-lighter--80);",
+		"title": "Primary border - lighter, 80% opacity",
+		"description": "Sets the border to the primary lighter color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lighter",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lighter--90": {
+		"css": "border-color: var(--color--primary-lighter--90);",
+		"title": "Primary border - lighter, 90% opacity",
+		"description": "Sets the border to the primary lighter color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lighter",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lightest": {
+		"css": "border-color: var(--color--primary-lightest);",
+		"title": "Primary border - lightest",
+		"description": "Sets the border to the lightest primary shade for a delicate, airy look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lightest"
+		]
+	},
+	"border--primary-lightest--10": {
+		"css": "border-color: var(--color--primary-lightest--10);",
+		"title": "Primary border - lightest, 10% opacity",
+		"description": "Sets the border to the primary lightest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lightest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lightest--20": {
+		"css": "border-color: var(--color--primary-lightest--20);",
+		"title": "Primary border - lightest, 20% opacity",
+		"description": "Sets the border to the primary lightest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lightest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lightest--30": {
+		"css": "border-color: var(--color--primary-lightest--30);",
+		"title": "Primary border - lightest, 30% opacity",
+		"description": "Sets the border to the primary lightest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lightest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lightest--40": {
+		"css": "border-color: var(--color--primary-lightest--40);",
+		"title": "Primary border - lightest, 40% opacity",
+		"description": "Sets the border to the primary lightest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lightest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lightest--50": {
+		"css": "border-color: var(--color--primary-lightest--50);",
+		"title": "Primary border - lightest, 50% opacity",
+		"description": "Sets the border to the primary lightest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lightest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lightest--60": {
+		"css": "border-color: var(--color--primary-lightest--60);",
+		"title": "Primary border - lightest, 60% opacity",
+		"description": "Sets the border to the primary lightest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lightest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lightest--70": {
+		"css": "border-color: var(--color--primary-lightest--70);",
+		"title": "Primary border - lightest, 70% opacity",
+		"description": "Sets the border to the primary lightest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lightest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lightest--80": {
+		"css": "border-color: var(--color--primary-lightest--80);",
+		"title": "Primary border - lightest, 80% opacity",
+		"description": "Sets the border to the primary lightest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lightest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-lightest--90": {
+		"css": "border-color: var(--color--primary-lightest--90);",
+		"title": "Primary border - lightest, 90% opacity",
+		"description": "Sets the border to the primary lightest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"lightest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-white": {
+		"css": "border-color: var(--color--primary-near-white);",
+		"title": "Primary border - near-white",
+		"description": "Sets the border to a near-white primary shade for a subtle, clean effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-white"
+		]
+	},
+	"border--primary-near-white--10": {
+		"css": "border-color: var(--color--primary-near-white--10);",
+		"title": "Primary border - near-white, 10% opacity",
+		"description": "Sets the border to the primary near-white color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-white--20": {
+		"css": "border-color: var(--color--primary-near-white--20);",
+		"title": "Primary border - near-white, 20% opacity",
+		"description": "Sets the border to the primary near-white color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-white--30": {
+		"css": "border-color: var(--color--primary-near-white--30);",
+		"title": "Primary border - near-white, 30% opacity",
+		"description": "Sets the border to the primary near-white color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-white--40": {
+		"css": "border-color: var(--color--primary-near-white--40);",
+		"title": "Primary border - near-white, 40% opacity",
+		"description": "Sets the border to the primary near-white color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-white--50": {
+		"css": "border-color: var(--color--primary-near-white--50);",
+		"title": "Primary border - near-white, 50% opacity",
+		"description": "Sets the border to the primary near-white color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-white--60": {
+		"css": "border-color: var(--color--primary-near-white--60);",
+		"title": "Primary border - near-white, 60% opacity",
+		"description": "Sets the border to the primary near-white color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-white--70": {
+		"css": "border-color: var(--color--primary-near-white--70);",
+		"title": "Primary border - near-white, 70% opacity",
+		"description": "Sets the border to the primary near-white color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-white--80": {
+		"css": "border-color: var(--color--primary-near-white--80);",
+		"title": "Primary border - near-white, 80% opacity",
+		"description": "Sets the border to the primary near-white color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-near-white--90": {
+		"css": "border-color: var(--color--primary-near-white--90);",
+		"title": "Primary border - near-white, 90% opacity",
+		"description": "Sets the border to the primary near-white color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"near-white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-complement": {
+		"css": "border-color: var(--color--primary-complement);",
+		"title": "Primary border - complement",
+		"description": "Sets the border to the primary complement for visual contrast and balance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"complement"
+		]
+	},
+	"border--primary-complement--10": {
+		"css": "border-color: var(--color--primary-complement--10);",
+		"title": "Primary border - complement, 10% opacity",
+		"description": "Sets the border to the primary complement color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"complement",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-complement--20": {
+		"css": "border-color: var(--color--primary-complement--20);",
+		"title": "Primary border - complement, 20% opacity",
+		"description": "Sets the border to the primary complement color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"complement",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-complement--30": {
+		"css": "border-color: var(--color--primary-complement--30);",
+		"title": "Primary border - complement, 30% opacity",
+		"description": "Sets the border to the primary complement color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"complement",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-complement--40": {
+		"css": "border-color: var(--color--primary-complement--40);",
+		"title": "Primary border - complement, 40% opacity",
+		"description": "Sets the border to the primary complement color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"complement",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-complement--50": {
+		"css": "border-color: var(--color--primary-complement--50);",
+		"title": "Primary border - complement, 50% opacity",
+		"description": "Sets the border to the primary complement color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"complement",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-complement--60": {
+		"css": "border-color: var(--color--primary-complement--60);",
+		"title": "Primary border - complement, 60% opacity",
+		"description": "Sets the border to the primary complement color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"complement",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-complement--70": {
+		"css": "border-color: var(--color--primary-complement--70);",
+		"title": "Primary border - complement, 70% opacity",
+		"description": "Sets the border to the primary complement color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"complement",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-complement--80": {
+		"css": "border-color: var(--color--primary-complement--80);",
+		"title": "Primary border - complement, 80% opacity",
+		"description": "Sets the border to the primary complement color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"complement",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-complement--90": {
+		"css": "border-color: var(--color--primary-complement--90);",
+		"title": "Primary border - complement, 90% opacity",
+		"description": "Sets the border to the primary complement color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"complement",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-inverted": {
+		"css": "border-color: var(--color--primary-inverted);",
+		"title": "Primary border - inverted",
+		"description": "Sets the border to the inverted primary color for a striking, reversed look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"inverted"
+		]
+	},
+	"border--primary-inverted--10": {
+		"css": "border-color: var(--color--primary-inverted--10);",
+		"title": "Primary border - inverted, 10% opacity",
+		"description": "Sets the border to the primary inverted color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"inverted",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-inverted--20": {
+		"css": "border-color: var(--color--primary-inverted--20);",
+		"title": "Primary border - inverted, 20% opacity",
+		"description": "Sets the border to the primary inverted color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"inverted",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-inverted--30": {
+		"css": "border-color: var(--color--primary-inverted--30);",
+		"title": "Primary border - inverted, 30% opacity",
+		"description": "Sets the border to the primary inverted color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"inverted",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-inverted--40": {
+		"css": "border-color: var(--color--primary-inverted--40);",
+		"title": "Primary border - inverted, 40% opacity",
+		"description": "Sets the border to the primary inverted color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"inverted",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-inverted--50": {
+		"css": "border-color: var(--color--primary-inverted--50);",
+		"title": "Primary border - inverted, 50% opacity",
+		"description": "Sets the border to the primary inverted color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"inverted",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-inverted--60": {
+		"css": "border-color: var(--color--primary-inverted--60);",
+		"title": "Primary border - inverted, 60% opacity",
+		"description": "Sets the border to the primary inverted color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"inverted",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-inverted--70": {
+		"css": "border-color: var(--color--primary-inverted--70);",
+		"title": "Primary border - inverted, 70% opacity",
+		"description": "Sets the border to the primary inverted color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"inverted",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-inverted--80": {
+		"css": "border-color: var(--color--primary-inverted--80);",
+		"title": "Primary border - inverted, 80% opacity",
+		"description": "Sets the border to the primary inverted color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"inverted",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--primary-inverted--90": {
+		"css": "border-color: var(--color--primary-inverted--90);",
+		"title": "Primary border - inverted, 90% opacity",
+		"description": "Sets the border to the primary inverted color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"primary",
+			"inverted",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

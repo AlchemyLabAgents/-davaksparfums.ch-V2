@@ -1,0 +1,110 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/form-input-label",
+  "version": "2.0.0",
+  "title": "Form Input Label",
+  "category": "spectra-pro-v2",
+  "description": "A label component for form input fields.",
+  "keywords": [
+    "form",
+    "input",
+    "label",
+    "field"
+  ],
+  "textdomain": "spectra-pro",
+  "parent": [
+    "spectra-pro/form-input-wrapper",
+    "spectra-pro/register-user-name",
+    "spectra-pro/register-email",
+    "spectra-pro/register-first-name",
+    "spectra-pro/register-last-name",
+    "spectra-pro/register-password",
+    "spectra-pro/register-confirm-password"
+  ],
+  "supports": {
+    "interactivity": true,
+    "html": false,
+    "inserter": false,
+    "anchor": true,
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "__experimentalDefaultControls": {
+        "margin": true,
+        "padding": false
+      }
+    },
+    "color": {
+      "text": true,
+      "background": false,
+      "gradients": false,
+      "__experimentalDefaultControls": {
+        "text": true
+      }
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontWeight": true,
+      "__experimentalFontStyle": true,
+      "__experimentalTextTransform": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true,
+      "__experimentalDefaultControls": {
+        "fontSize": true,
+        "fontFamily": true,
+        "fontWeight": true
+      }
+    }
+  },
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css",
+  "editorStyle": "file:./index.css",
+  "usesContext": [
+    "spectra-pro/form/formType",
+    "spectra-pro/form/block_id",
+    "spectra-pro/form/labelColor",
+    "spectra-pro/form/labelColorHover",
+    "spectra-pro/form/showLabels",
+    "spectra-pro/form-input/fieldType",
+    "spectra-pro/form-input/fieldLabel",
+    "spectra-pro/form-input/isRequired"
+  ],
+  "render": "file:./controller.php",
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "labelText": {
+      "type": "string",
+      "default": ""
+    },
+    "isRequired": {
+      "type": "boolean",
+      "default": false
+    },
+    "requiredIndicator": {
+      "type": "string",
+      "default": "*"
+    },
+    "hideLabel": {
+      "type": "boolean",
+      "default": false
+    },
+    "htmlFor": {
+      "type": "string",
+      "default": ""
+    },
+    "textColorHover": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/form-checkbox",
+  "version": "2.0.0",
+  "title": "Form Checkbox",
+  "category": "spectra-pro-v2",
+  "description": "A checkbox input field for forms with label support.",
+  "keywords": [
+    "checkbox",
+    "form",
+    "input",
+    "remember me"
+  ],
+  "textdomain": "spectra-pro",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "parent": [
+    "spectra-pro/login",
+    "spectra-pro/register"
+  ],
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "supports": {
+    "html": false,
+    "reusable": false,
+    "inserter": false,
+    "lock": false,
+    "color": {
+      "text": true,
+      "background": false,
+      "gradients": false
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "fontFamily": true,
+      "fontWeight": true,
+      "textDecoration": true,
+      "textTransform": true,
+      "letterSpacing": true
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true
+    },
+    "__experimentalBorder": {
+      "radius": true,
+      "width": true,
+      "color": true,
+      "style": true
+    }
+  },
+  "usesContext": [
+    "spectra-pro/form/formType",
+    "spectra-pro/form/rememberLabel",
+    "spectra-pro/form/showRememberMe",
+    "spectra-pro/form/checkboxBackgroundColor"
+  ],
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "checkboxType": {
+      "type": "string",
+      "enum": [
+        "remember",
+        "terms",
+        "newsletter"
+      ],
+      "default": "remember"
+    },
+    "textColor": {
+      "type": "string"
+    },
+    "textColorHover": {
+      "type": "string"
+    },
+    "labelColor": {
+      "type": "string"
+    },
+    "labelColorHover": {
+      "type": "string"
+    },
+    "checkboxBackgroundColor": {
+      "type": "string"
+    },
+    "checkboxColor": {
+      "type": "string"
+    },
+    "checkboxCheckmarkColor": {
+      "type": "string"
+    },
+    "checkboxBorderColor": {
+      "type": "string"
+    },
+    "checkboxGlowColor": {
+      "type": "string"
+    }
+  }
+}

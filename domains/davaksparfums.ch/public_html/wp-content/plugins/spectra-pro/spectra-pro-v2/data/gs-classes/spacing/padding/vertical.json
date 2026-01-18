@@ -1,0 +1,51 @@
+{
+	"padding--y-none": {
+		"css": "padding-top: 0; padding-bottom: 0;",
+		"title": "No vertical padding",
+		"description": "Removes all padding from the top and bottom.",
+		"category": "spacing",
+		"tags": ["padding", "top", "bottom", "none"]
+	},
+	"padding--y-xs": {
+		"css": "padding-top: var(--space--xs); padding-bottom: var(--space--xs);",
+		"title": "Tiny vertical padding",
+		"description": "Adds a tiny amount of padding to the top and bottom.",
+		"category": "spacing",
+		"tags": ["padding", "top", "bottom", "xs"]
+	},
+	"padding--y-sm": {
+		"css": "padding-top: var(--space--sm); padding-bottom: var(--space--sm);",
+		"title": "Small vertical padding",
+		"description": "Adds a small amount of padding to the top and bottom.",
+		"category": "spacing",
+		"tags": ["padding", "top", "bottom", "sm"]
+	},
+	"padding--y-md": {
+		"css": "padding-top: var(--space--md); padding-bottom: var(--space--md);",
+		"title": "Medium vertical padding",
+		"description": "Adds a medium amount of padding to the top and bottom.",
+		"category": "spacing",
+		"tags": ["padding", "top", "bottom", "md"]
+	},
+	"padding--y-lg": {
+		"css": "padding-top: var(--space--lg); padding-bottom: var(--space--lg);",
+		"title": "Large vertical padding",
+		"description": "Adds a large amount of padding to the top and bottom.",
+		"category": "spacing",
+		"tags": ["padding", "top", "bottom", "lg"]
+	},
+	"padding--y-xl": {
+		"css": "padding-top: var(--space--xl); padding-bottom: var(--space--xl);",
+		"title": "Extra-large vertical padding",
+		"description": "Adds an extra-large amount of padding to the top and bottom.",
+		"category": "spacing",
+		"tags": ["padding", "top", "bottom", "xl"]
+	},
+	"padding--y-xxl": {
+		"css": "padding-top: var(--space--xxl); padding-bottom: var(--space--xxl);",
+		"title": "Double-extra-large vertical padding",
+		"description": "Adds a double-extra-large amount of padding to the top and bottom.",
+		"category": "spacing",
+		"tags": ["padding", "top", "bottom", "xxl"]
+	}
+}

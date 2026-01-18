@@ -1,0 +1,183 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/form-input-wrapper",
+  "version": "2.0.0",
+  "title": "Form Input Wrapper",
+  "category": "spectra-pro-v2",
+  "description": "A wrapper component that orchestrates form input field, label, and icon components.",
+  "keywords": [
+    "form",
+    "input",
+    "field",
+    "wrapper",
+    "label",
+    "icon"
+  ],
+  "textdomain": "spectra-pro",
+  "parent": [
+    "spectra-pro/login",
+    "spectra-pro/register"
+  ],
+  "supports": {
+    "interactivity": true,
+    "html": false,
+    "anchor": true,
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "__experimentalDefaultControls": {
+        "margin": false,
+        "padding": false
+      }
+    },
+    "__experimentalBorder": {
+      "color": true,
+      "radius": true,
+      "style": true,
+      "width": true,
+      "__experimentalDefaultControls": {
+        "color": false,
+        "radius": false,
+        "style": false,
+        "width": false
+      }
+    },
+    "color": {
+      "gradients": true,
+      "__experimentalDefaultControls": {
+        "background": true,
+        "text": false
+      }
+    },
+    "shadow": true
+  },
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css",
+  "editorStyle": "file:./index.css",
+  "usesContext": [
+    "spectra-pro/form/formId",
+    "spectra-pro/form/formType",
+    "spectra-pro/form/showLabels",
+    "spectra-pro/form/showIcons",
+    "spectra-pro/form/labelColor",
+    "spectra-pro/form/labelColorHover",
+    "spectra-pro/form/inputTextColor",
+    "spectra-pro/form/inputTextColorHover",
+    "spectra-pro/form/inputBgColor",
+    "spectra-pro/form/inputBgColorHover",
+    "spectra-pro/form/iconColor",
+    "spectra-pro/form/formWidth",
+    "spectra-pro/form/overallAlignment",
+    "spectra-pro/form/alignLoginBtn",
+    "spectra-pro/form/inputPlaceholderColor"
+  ],
+  "providesContext": {
+    "spectra-pro/form-input/fieldType": "fieldType",
+    "spectra-pro/form-input/fieldLabel": "fieldLabel",
+    "spectra-pro/form-input/fieldPlaceholder": "fieldPlaceholder",
+    "spectra-pro/form-input/fieldIcon": "fieldIcon",
+    "spectra-pro/form-input/isRequired": "isRequired",
+    "spectra-pro/form-input/fieldId": "fieldId",
+    "spectra-pro/form-input/inputFieldBgColor": "inputFieldBgColor",
+    "spectra-pro/form-input/inputFieldBgColorHover": "inputFieldBgColorHover",
+    "spectra-pro/form-input/inputFieldBgColorActive": "inputFieldBgColorActive",
+    "spectra-pro/form-input/errorColor": "errorColor",
+    "spectra-pro/form-input/errorColorHover": "errorColorHover",
+    "spectra-pro/form-input/formBackgroundColor": "formBackgroundColor"
+  },
+  "allowedBlocks": [
+    "spectra-pro/form-input-label",
+    "spectra-pro/form-icon",
+    "spectra-pro/form-input-field",
+    "spectra-pro/form-field-wrapper"
+  ],
+  "template": [
+    [
+      "spectra-pro/form-input-label"
+    ],
+    [
+      "spectra-pro/form-field-wrapper",
+      {},
+      [
+        [
+          "spectra-pro/form-icon"
+        ],
+        [
+          "spectra-pro/form-input-field"
+        ]
+      ]
+    ]
+  ],
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "fieldType": {
+      "type": "string",
+      "default": "text"
+    },
+    "fieldLabel": {
+      "type": "string"
+    },
+    "fieldPlaceholder": {
+      "type": "string"
+    },
+    "fieldIcon": {
+      "type": "string",
+      "default": ""
+    },
+    "isRequired": {
+      "type": "boolean",
+      "default": true
+    },
+    "fieldId": {
+      "type": "string",
+      "default": ""
+    },
+    "showLabel": {
+      "type": "boolean"
+    },
+    "iconPosition": {
+      "type": "string",
+      "default": "left",
+      "enum": [
+        "left",
+        "right"
+      ]
+    },
+    "textColorHover": {
+      "type": "string"
+    },
+    "backgroundColorHover": {
+      "type": "string"
+    },
+    "backgroundGradientHover": {
+      "type": "string"
+    },
+    "inputFieldBgColor": {
+      "type": "string"
+    },
+    "inputFieldBgColorHover": {
+      "type": "string"
+    },
+    "inputFieldBgColorActive": {
+      "type": "string"
+    },
+    "errorColor": {
+      "type": "string"
+    },
+    "errorColorHover": {
+      "type": "string"
+    },
+    "formBackgroundColor": {
+      "type": "string"
+    }
+  }
+}

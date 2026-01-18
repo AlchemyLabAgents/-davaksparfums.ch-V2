@@ -1,0 +1,240 @@
+{
+	"width--content": {
+		"css": "inline-size: fit-content;",
+		"title": "Fit content width",
+		"description": "Sets the element width to fit its content.",
+		"category": "sizing",
+		"tags": [
+			"width",
+			"content"
+		]
+	},
+	"width--20": {
+		"css": "inline-size: 20vw;",
+		"title": "20% viewport width",
+		"description": "Sets the element width to 20% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"width--25": {
+		"css": "inline-size: 25vw;",
+		"title": "25% viewport width",
+		"description": "Sets the element width to 25% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"width--30": {
+		"css": "inline-size: 30vw;",
+		"title": "30% viewport width",
+		"description": "Sets the element width to 30% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"width--40": {
+		"css": "inline-size: 40vw;",
+		"title": "40% viewport width",
+		"description": "Sets the element width to 40% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"width--50": {
+		"css": "inline-size: 50vw;",
+		"title": "50% viewport width",
+		"description": "Sets the element width to 50% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"width--60": {
+		"css": "inline-size: 60vw;",
+		"title": "60% viewport width",
+		"description": "Sets the element width to 60% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"width--70": {
+		"css": "inline-size: 70vw;",
+		"title": "70% viewport width",
+		"description": "Sets the element width to 70% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"width--75": {
+		"css": "inline-size: 75vw;",
+		"title": "75% viewport width",
+		"description": "Sets the element width to 75% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"width--80": {
+		"css": "inline-size: 80vw;",
+		"title": "80% viewport width",
+		"description": "Sets the element width to 80% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"width--90": {
+		"css": "inline-size: 90vw;",
+		"title": "90% viewport width",
+		"description": "Sets the element width to 90% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"width--100": {
+		"css": "inline-size: 100vw;",
+		"title": "Full viewport width",
+		"description": "Sets the element width to 100% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"width--full": {
+		"css": "inline-size: 100%;",
+		"title": "Full width",
+		"description": "Sets the element width to 100% of its parent container.",
+		"category": "sizing",
+		"tags": [
+			"width"
+		]
+	},
+	"max-width--20": {
+		"css": "max-inline-size: 20vw;",
+		"title": "Max 20% viewport width",
+		"description": "Sets the maximum element width to 20% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	},
+	"max-width--25": {
+		"css": "max-inline-size: 25vw;",
+		"title": "Max 25% viewport width",
+		"description": "Sets the maximum element width to 25% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	},
+	"max-width--30": {
+		"css": "max-inline-size: 30vw;",
+		"title": "Max 30% viewport width",
+		"description": "Sets the maximum element width to 30% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	},
+	"max-width--40": {
+		"css": "max-inline-size: 40vw;",
+		"title": "Max 40% viewport width",
+		"description": "Sets the maximum element width to 40% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	},
+	"max-width--50": {
+		"css": "max-inline-size: 50vw;",
+		"title": "Max 50% viewport width",
+		"description": "Sets the maximum element width to 50% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	},
+	"max-width--60": {
+		"css": "max-inline-size: 60vw;",
+		"title": "Max 60% viewport width",
+		"description": "Sets the maximum element width to 60% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	},
+	"max-width--70": {
+		"css": "max-inline-size: 70vw;",
+		"title": "Max 70% viewport width",
+		"description": "Sets the maximum element width to 70% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	},
+	"max-width--75": {
+		"css": "max-inline-size: 75vw;",
+		"title": "Max 75% viewport width",
+		"description": "Sets the maximum element width to 75% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	},
+	"max-width--80": {
+		"css": "max-inline-size: 80vw;",
+		"title": "Max 80% viewport width",
+		"description": "Sets the maximum element width to 80% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	},
+	"max-width--90": {
+		"css": "max-inline-size: 90vw;",
+		"title": "Max 90% viewport width",
+		"description": "Sets the maximum element width to 90% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	},
+	"max-width--100": {
+		"css": "max-inline-size: 100vw;",
+		"title": "Max full viewport width",
+		"description": "Sets the maximum element width to 100% of the viewport width.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	},
+	"max-width--full": {
+		"css": "max-inline-size: 100%;",
+		"title": "Max full width",
+		"description": "Sets the maximum element width to 100% of its parent container.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"width"
+		]
+	}
+}

@@ -1,0 +1,287 @@
+{
+	"border--t-transparent": {
+		"css": "border-block-start-color: transparent;",
+		"title": "Top transparent border",
+		"description": "Sets the top border to transparent.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"transparent"
+		]
+	},
+	"border--t-white": {
+		"css": "border-block-start-color: #fff;",
+		"title": "Top white border",
+		"description": "Sets the top border to white for a clean, neutral appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"white"
+		]
+	},
+	"border--t-white--10": {
+		"css": "border-block-start-color: var(--color--white--10);",
+		"title": "Top white border, 10% opacity",
+		"description": "Sets the top border to white with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-white--20": {
+		"css": "border-block-start-color: var(--color--white--20);",
+		"title": "Top white border, 20% opacity",
+		"description": "Sets the top border to white with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-white--30": {
+		"css": "border-block-start-color: var(--color--white--30);",
+		"title": "Top white border, 30% opacity",
+		"description": "Sets the top border to white with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-white--40": {
+		"css": "border-block-start-color: var(--color--white--40);",
+		"title": "Top white border, 40% opacity",
+		"description": "Sets the top border to white with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-white--50": {
+		"css": "border-block-start-color: var(--color--white--50);",
+		"title": "Top white border, 50% opacity",
+		"description": "Sets the top border to white with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-white--60": {
+		"css": "border-block-start-color: var(--color--white--60);",
+		"title": "Top white border, 60% opacity",
+		"description": "Sets the top border to white with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-white--70": {
+		"css": "border-block-start-color: var(--color--white--70);",
+		"title": "Top white border, 70% opacity",
+		"description": "Sets the top border to white with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-white--80": {
+		"css": "border-block-start-color: var(--color--white--80);",
+		"title": "Top white border, 80% opacity",
+		"description": "Sets the top border to white with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-white--90": {
+		"css": "border-block-start-color: var(--color--white--90);",
+		"title": "Top white border, 90% opacity",
+		"description": "Sets the top border to white with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-black": {
+		"css": "border-block-start-color: #000;",
+		"title": "Top black border",
+		"description": "Sets the top border to black for a bold, classic look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"black"
+		]
+	},
+	"border--t-black--10": {
+		"css": "border-block-start-color: var(--color--black--10);",
+		"title": "Top black border, 10% opacity",
+		"description": "Sets the top border to black with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-black--20": {
+		"css": "border-block-start-color: var(--color--black--20);",
+		"title": "Top black border, 20% opacity",
+		"description": "Sets the top border to black with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-black--30": {
+		"css": "border-block-start-color: var(--color--black--30);",
+		"title": "Top black border, 30% opacity",
+		"description": "Sets the top border to black with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-black--40": {
+		"css": "border-block-start-color: var(--color--black--40);",
+		"title": "Top black border, 40% opacity",
+		"description": "Sets the top border to black with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-black--50": {
+		"css": "border-block-start-color: var(--color--black--50);",
+		"title": "Top black border, 50% opacity",
+		"description": "Sets the top border to black with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-black--60": {
+		"css": "border-block-start-color: var(--color--black--60);",
+		"title": "Top black border, 60% opacity",
+		"description": "Sets the top border to black with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-black--70": {
+		"css": "border-block-start-color: var(--color--black--70);",
+		"title": "Top black border, 70% opacity",
+		"description": "Sets the top border to black with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-black--80": {
+		"css": "border-block-start-color: var(--color--black--80);",
+		"title": "Top black border, 80% opacity",
+		"description": "Sets the top border to black with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--t-black--90": {
+		"css": "border-block-start-color: var(--color--black--90);",
+		"title": "Top black border, 90% opacity",
+		"description": "Sets the top border to black with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"top",
+			"black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

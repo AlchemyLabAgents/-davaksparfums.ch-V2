@@ -1,0 +1,75 @@
+{
+	"flex--row[innerblocks]": {
+		"css": "flex-direction: row;",
+		"title": "Row direction",
+		"description": "Arranges flex items horizontally from left to right.",
+		"category": "display",
+		"tags": [
+			"flex",
+			"row"
+		]
+	},
+	"flex--row-reverse[innerblocks]": {
+		"css": "flex-direction: row-reverse;",
+		"title": "Row reverse direction",
+		"description": "Arranges flex items horizontally from right to left.",
+		"category": "display",
+		"tags": [
+			"flex",
+			"row",
+			"reverse"
+		]
+	},
+	"flex--column[innerblocks]": {
+		"css": "flex-direction: column;",
+		"title": "Column direction",
+		"description": "Arranges flex items vertically from top to bottom.",
+		"category": "display",
+		"tags": [
+			"flex",
+			"column"
+		]
+	},
+	"flex--column-reverse[innerblocks]": {
+		"css": "flex-direction: column-reverse;",
+		"title": "Column reverse direction",
+		"description": "Arranges flex items vertically from bottom to top.",
+		"category": "display",
+		"tags": [
+			"flex",
+			"column",
+			"reverse"
+		]
+	},
+	"flex--nowrap[innerblocks]": {
+		"css": "flex-wrap: nowrap;",
+		"title": "No wrap",
+		"description": "Prevents flex items from wrapping to new lines.",
+		"category": "display",
+		"tags": [
+			"flex",
+			"nowrap"
+		]
+	},
+	"flex--wrap[innerblocks]": {
+		"css": "flex-wrap: wrap;",
+		"title": "Wrap",
+		"description": "Allows flex items to wrap to new lines when needed.",
+		"category": "display",
+		"tags": [
+			"flex",
+			"wrap"
+		]
+	},
+	"flex--wrap-reverse[innerblocks]": {
+		"css": "flex-wrap: wrap-reverse;",
+		"title": "Wrap reverse",
+		"description": "Allows flex items to wrap to new lines in reverse order.",
+		"category": "display",
+		"tags": [
+			"flex",
+			"wrap",
+			"reverse"
+		]
+	}
+}

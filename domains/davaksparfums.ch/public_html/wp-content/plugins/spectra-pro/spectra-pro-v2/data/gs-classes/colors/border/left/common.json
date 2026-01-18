@@ -1,0 +1,287 @@
+{
+	"border--l-transparent": {
+		"css": "border-inline-start-color: transparent;",
+		"title": "Left transparent border",
+		"description": "Sets the left border to transparent.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"transparent"
+		]
+	},
+	"border--l-white": {
+		"css": "border-inline-start-color: #fff;",
+		"title": "Left white border",
+		"description": "Sets the left border to white for a clean, neutral appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"white"
+		]
+	},
+	"border--l-white--10": {
+		"css": "border-inline-start-color: var(--color--white--10);",
+		"title": "Left white border, 10% opacity",
+		"description": "Sets the left border to white with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-white--20": {
+		"css": "border-inline-start-color: var(--color--white--20);",
+		"title": "Left white border, 20% opacity",
+		"description": "Sets the left border to white with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-white--30": {
+		"css": "border-inline-start-color: var(--color--white--30);",
+		"title": "Left white border, 30% opacity",
+		"description": "Sets the left border to white with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-white--40": {
+		"css": "border-inline-start-color: var(--color--white--40);",
+		"title": "Left white border, 40% opacity",
+		"description": "Sets the left border to white with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-white--50": {
+		"css": "border-inline-start-color: var(--color--white--50);",
+		"title": "Left white border, 50% opacity",
+		"description": "Sets the left border to white with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-white--60": {
+		"css": "border-inline-start-color: var(--color--white--60);",
+		"title": "Left white border, 60% opacity",
+		"description": "Sets the left border to white with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-white--70": {
+		"css": "border-inline-start-color: var(--color--white--70);",
+		"title": "Left white border, 70% opacity",
+		"description": "Sets the left border to white with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-white--80": {
+		"css": "border-inline-start-color: var(--color--white--80);",
+		"title": "Left white border, 80% opacity",
+		"description": "Sets the left border to white with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-white--90": {
+		"css": "border-inline-start-color: var(--color--white--90);",
+		"title": "Left white border, 90% opacity",
+		"description": "Sets the left border to white with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-black": {
+		"css": "border-inline-start-color: #000;",
+		"title": "Left black border",
+		"description": "Sets the left border to black for a bold, classic look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"black"
+		]
+	},
+	"border--l-black--10": {
+		"css": "border-inline-start-color: var(--color--black--10);",
+		"title": "Left black border, 10% opacity",
+		"description": "Sets the left border to black with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-black--20": {
+		"css": "border-inline-start-color: var(--color--black--20);",
+		"title": "Left black border, 20% opacity",
+		"description": "Sets the left border to black with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-black--30": {
+		"css": "border-inline-start-color: var(--color--black--30);",
+		"title": "Left black border, 30% opacity",
+		"description": "Sets the left border to black with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-black--40": {
+		"css": "border-inline-start-color: var(--color--black--40);",
+		"title": "Left black border, 40% opacity",
+		"description": "Sets the left border to black with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-black--50": {
+		"css": "border-inline-start-color: var(--color--black--50);",
+		"title": "Left black border, 50% opacity",
+		"description": "Sets the left border to black with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-black--60": {
+		"css": "border-inline-start-color: var(--color--black--60);",
+		"title": "Left black border, 60% opacity",
+		"description": "Sets the left border to black with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-black--70": {
+		"css": "border-inline-start-color: var(--color--black--70);",
+		"title": "Left black border, 70% opacity",
+		"description": "Sets the left border to black with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-black--80": {
+		"css": "border-inline-start-color: var(--color--black--80);",
+		"title": "Left black border, 80% opacity",
+		"description": "Sets the left border to black with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-black--90": {
+		"css": "border-inline-start-color: var(--color--black--90);",
+		"title": "Left black border, 90% opacity",
+		"description": "Sets the left border to black with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

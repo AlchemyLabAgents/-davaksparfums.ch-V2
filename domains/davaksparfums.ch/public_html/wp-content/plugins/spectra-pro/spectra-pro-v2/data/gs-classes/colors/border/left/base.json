@@ -1,0 +1,1609 @@
+{
+	"border--l-base": {
+		"css": "border-inline-start-color: var(--color--base);",
+		"title": "Left base border",
+		"description": "Sets the left border to the base color for a balanced, default appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base"
+		]
+	},
+	"border--l-base--10": {
+		"css": "border-inline-start-color: var(--color--base--10);",
+		"title": "Left base border, 10% opacity",
+		"description": "Sets the left border to the base color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base--20": {
+		"css": "border-inline-start-color: var(--color--base--20);",
+		"title": "Left base border, 20% opacity",
+		"description": "Sets the left border to the base color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base--30": {
+		"css": "border-inline-start-color: var(--color--base--30);",
+		"title": "Left base border, 30% opacity",
+		"description": "Sets the left border to the base color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base--40": {
+		"css": "border-inline-start-color: var(--color--base--40);",
+		"title": "Left base border, 40% opacity",
+		"description": "Sets the left border to the base color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base--50": {
+		"css": "border-inline-start-color: var(--color--base--50);",
+		"title": "Left base border, 50% opacity",
+		"description": "Sets the left border to the base color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base--60": {
+		"css": "border-inline-start-color: var(--color--base--60);",
+		"title": "Left base border, 60% opacity",
+		"description": "Sets the left border to the base color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base--70": {
+		"css": "border-inline-start-color: var(--color--base--70);",
+		"title": "Left base border, 70% opacity",
+		"description": "Sets the left border to the base color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base--80": {
+		"css": "border-inline-start-color: var(--color--base--80);",
+		"title": "Left base border, 80% opacity",
+		"description": "Sets the left border to the base color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base--90": {
+		"css": "border-inline-start-color: var(--color--base--90);",
+		"title": "Left base border, 90% opacity",
+		"description": "Sets the left border to the base color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-dark": {
+		"css": "border-inline-start-color: var(--color--base-dark);",
+		"title": "Left base border - dark",
+		"description": "Sets the left border to a dark base shade for increased contrast and readability.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"dark"
+		]
+	},
+	"border--l-base-dark--10": {
+		"css": "border-inline-start-color: var(--color--base-dark--10);",
+		"title": "Left base border - dark, 10% opacity",
+		"description": "Sets the left border to the base dark color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"dark",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-dark--20": {
+		"css": "border-inline-start-color: var(--color--base-dark--20);",
+		"title": "Left base border - dark, 20% opacity",
+		"description": "Sets the left border to the base dark color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"dark",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-dark--30": {
+		"css": "border-inline-start-color: var(--color--base-dark--30);",
+		"title": "Left base border - dark, 30% opacity",
+		"description": "Sets the left border to the base dark color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"dark",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-dark--40": {
+		"css": "border-inline-start-color: var(--color--base-dark--40);",
+		"title": "Left base border - dark, 40% opacity",
+		"description": "Sets the left border to the base dark color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"dark",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-dark--50": {
+		"css": "border-inline-start-color: var(--color--base-dark--50);",
+		"title": "Left base border - dark, 50% opacity",
+		"description": "Sets the left border to the base dark color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"dark",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-dark--60": {
+		"css": "border-inline-start-color: var(--color--base-dark--60);",
+		"title": "Left base border - dark, 60% opacity",
+		"description": "Sets the left border to the base dark color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"dark",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-dark--70": {
+		"css": "border-inline-start-color: var(--color--base-dark--70);",
+		"title": "Left base border - dark, 70% opacity",
+		"description": "Sets the left border to the base dark color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"dark",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-dark--80": {
+		"css": "border-inline-start-color: var(--color--base-dark--80);",
+		"title": "Left base border - dark, 80% opacity",
+		"description": "Sets the left border to the base dark color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"dark",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-dark--90": {
+		"css": "border-inline-start-color: var(--color--base-dark--90);",
+		"title": "Left base border - dark, 90% opacity",
+		"description": "Sets the left border to the base dark color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"dark",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darker": {
+		"css": "border-inline-start-color: var(--color--base-darker);",
+		"title": "Left base border - darker",
+		"description": "Sets the left border to a darker base shade for strong emphasis.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darker"
+		]
+	},
+	"border--l-base-darker--10": {
+		"css": "border-inline-start-color: var(--color--base-darker--10);",
+		"title": "Left base border - darker, 10% opacity",
+		"description": "Sets the left border to the base darker color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darker",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darker--20": {
+		"css": "border-inline-start-color: var(--color--base-darker--20);",
+		"title": "Left base border - darker, 20% opacity",
+		"description": "Sets the left border to the base darker color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darker",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darker--30": {
+		"css": "border-inline-start-color: var(--color--base-darker--30);",
+		"title": "Left base border - darker, 30% opacity",
+		"description": "Sets the left border to the base darker color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darker",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darker--40": {
+		"css": "border-inline-start-color: var(--color--base-darker--40);",
+		"title": "Left base border - darker, 40% opacity",
+		"description": "Sets the left border to the base darker color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darker",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darker--50": {
+		"css": "border-inline-start-color: var(--color--base-darker--50);",
+		"title": "Left base border - darker, 50% opacity",
+		"description": "Sets the left border to the base darker color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darker",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darker--60": {
+		"css": "border-inline-start-color: var(--color--base-darker--60);",
+		"title": "Left base border - darker, 60% opacity",
+		"description": "Sets the left border to the base darker color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darker",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darker--70": {
+		"css": "border-inline-start-color: var(--color--base-darker--70);",
+		"title": "Left base border - darker, 70% opacity",
+		"description": "Sets the left border to the base darker color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darker",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darker--80": {
+		"css": "border-inline-start-color: var(--color--base-darker--80);",
+		"title": "Left base border - darker, 80% opacity",
+		"description": "Sets the left border to the base darker color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darker",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darker--90": {
+		"css": "border-inline-start-color: var(--color--base-darker--90);",
+		"title": "Left base border - darker, 90% opacity",
+		"description": "Sets the left border to the base darker color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darker",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darkest": {
+		"css": "border-inline-start-color: var(--color--base-darkest);",
+		"title": "Left base border - darkest",
+		"description": "Sets the left border to the darkest base shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darkest"
+		]
+	},
+	"border--l-base-darkest--10": {
+		"css": "border-inline-start-color: var(--color--base-darkest--10);",
+		"title": "Left base border - darkest, 10% opacity",
+		"description": "Sets the left border to the base darkest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darkest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darkest--20": {
+		"css": "border-inline-start-color: var(--color--base-darkest--20);",
+		"title": "Left base border - darkest, 20% opacity",
+		"description": "Sets the left border to the base darkest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darkest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darkest--30": {
+		"css": "border-inline-start-color: var(--color--base-darkest--30);",
+		"title": "Left base border - darkest, 30% opacity",
+		"description": "Sets the left border to the base darkest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darkest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darkest--40": {
+		"css": "border-inline-start-color: var(--color--base-darkest--40);",
+		"title": "Left base border - darkest, 40% opacity",
+		"description": "Sets the left border to the base darkest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darkest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darkest--50": {
+		"css": "border-inline-start-color: var(--color--base-darkest--50);",
+		"title": "Left base border - darkest, 50% opacity",
+		"description": "Sets the left border to the base darkest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darkest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darkest--60": {
+		"css": "border-inline-start-color: var(--color--base-darkest--60);",
+		"title": "Left base border - darkest, 60% opacity",
+		"description": "Sets the left border to the base darkest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darkest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darkest--70": {
+		"css": "border-inline-start-color: var(--color--base-darkest--70);",
+		"title": "Left base border - darkest, 70% opacity",
+		"description": "Sets the left border to the base darkest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darkest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darkest--80": {
+		"css": "border-inline-start-color: var(--color--base-darkest--80);",
+		"title": "Left base border - darkest, 80% opacity",
+		"description": "Sets the left border to the base darkest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darkest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-darkest--90": {
+		"css": "border-inline-start-color: var(--color--base-darkest--90);",
+		"title": "Left base border - darkest, 90% opacity",
+		"description": "Sets the left border to the base darkest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"darkest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-black": {
+		"css": "border-inline-start-color: var(--color--base-near-black);",
+		"title": "Left base border - near-black",
+		"description": "Sets the left border to a near-black base shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-black"
+		]
+	},
+	"border--l-base-near-black--10": {
+		"css": "border-inline-start-color: var(--color--base-near-black--10);",
+		"title": "Left base border - near-black, 10% opacity",
+		"description": "Sets the left border to the base near-black color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-black--20": {
+		"css": "border-inline-start-color: var(--color--base-near-black--20);",
+		"title": "Left base border - near-black, 20% opacity",
+		"description": "Sets the left border to the base near-black color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-black--30": {
+		"css": "border-inline-start-color: var(--color--base-near-black--30);",
+		"title": "Left base border - near-black, 30% opacity",
+		"description": "Sets the left border to the base near-black color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-black--40": {
+		"css": "border-inline-start-color: var(--color--base-near-black--40);",
+		"title": "Left base border - near-black, 40% opacity",
+		"description": "Sets the left border to the base near-black color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-black--50": {
+		"css": "border-inline-start-color: var(--color--base-near-black--50);",
+		"title": "Left base border - near-black, 50% opacity",
+		"description": "Sets the left border to the base near-black color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-black--60": {
+		"css": "border-inline-start-color: var(--color--base-near-black--60);",
+		"title": "Left base border - near-black, 60% opacity",
+		"description": "Sets the left border to the base near-black color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-black--70": {
+		"css": "border-inline-start-color: var(--color--base-near-black--70);",
+		"title": "Left base border - near-black, 70% opacity",
+		"description": "Sets the left border to the base near-black color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-black--80": {
+		"css": "border-inline-start-color: var(--color--base-near-black--80);",
+		"title": "Left base border - near-black, 80% opacity",
+		"description": "Sets the left border to the base near-black color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-black--90": {
+		"css": "border-inline-start-color: var(--color--base-near-black--90);",
+		"title": "Left base border - near-black, 90% opacity",
+		"description": "Sets the left border to the base near-black color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-light": {
+		"css": "border-inline-start-color: var(--color--base-light);",
+		"title": "Left base border - light",
+		"description": "Sets the left border to a light base shade for a softer appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"light"
+		]
+	},
+	"border--l-base-light--10": {
+		"css": "border-inline-start-color: var(--color--base-light--10);",
+		"title": "Left base border - light, 10% opacity",
+		"description": "Sets the left border to the base light color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"light",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-light--20": {
+		"css": "border-inline-start-color: var(--color--base-light--20);",
+		"title": "Left base border - light, 20% opacity",
+		"description": "Sets the left border to the base light color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"light",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-light--30": {
+		"css": "border-inline-start-color: var(--color--base-light--30);",
+		"title": "Left base border - light, 30% opacity",
+		"description": "Sets the left border to the base light color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"light",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-light--40": {
+		"css": "border-inline-start-color: var(--color--base-light--40);",
+		"title": "Left base border - light, 40% opacity",
+		"description": "Sets the left border to the base light color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"light",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-light--50": {
+		"css": "border-inline-start-color: var(--color--base-light--50);",
+		"title": "Left base border - light, 50% opacity",
+		"description": "Sets the left border to the base light color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"light",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-light--60": {
+		"css": "border-inline-start-color: var(--color--base-light--60);",
+		"title": "Left base border - light, 60% opacity",
+		"description": "Sets the left border to the base light color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"light",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-light--70": {
+		"css": "border-inline-start-color: var(--color--base-light--70);",
+		"title": "Left base border - light, 70% opacity",
+		"description": "Sets the left border to the base light color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"light",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-light--80": {
+		"css": "border-inline-start-color: var(--color--base-light--80);",
+		"title": "Left base border - light, 80% opacity",
+		"description": "Sets the left border to the base light color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"light",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-light--90": {
+		"css": "border-inline-start-color: var(--color--base-light--90);",
+		"title": "Left base border - light, 90% opacity",
+		"description": "Sets the left border to the base light color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"light",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lighter": {
+		"css": "border-inline-start-color: var(--color--base-lighter);",
+		"title": "Left base border - lighter",
+		"description": "Sets the left border to a lighter base shade for subtle emphasis.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lighter"
+		]
+	},
+	"border--l-base-lighter--10": {
+		"css": "border-inline-start-color: var(--color--base-lighter--10);",
+		"title": "Left base border - lighter, 10% opacity",
+		"description": "Sets the left border to the base lighter color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lighter",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lighter--20": {
+		"css": "border-inline-start-color: var(--color--base-lighter--20);",
+		"title": "Left base border - lighter, 20% opacity",
+		"description": "Sets the left border to the base lighter color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lighter",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lighter--30": {
+		"css": "border-inline-start-color: var(--color--base-lighter--30);",
+		"title": "Left base border - lighter, 30% opacity",
+		"description": "Sets the left border to the base lighter color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lighter",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lighter--40": {
+		"css": "border-inline-start-color: var(--color--base-lighter--40);",
+		"title": "Left base border - lighter, 40% opacity",
+		"description": "Sets the left border to the base lighter color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lighter",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lighter--50": {
+		"css": "border-inline-start-color: var(--color--base-lighter--50);",
+		"title": "Left base border - lighter, 50% opacity",
+		"description": "Sets the left border to the base lighter color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lighter",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lighter--60": {
+		"css": "border-inline-start-color: var(--color--base-lighter--60);",
+		"title": "Left base border - lighter, 60% opacity",
+		"description": "Sets the left border to the base lighter color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lighter",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lighter--70": {
+		"css": "border-inline-start-color: var(--color--base-lighter--70);",
+		"title": "Left base border - lighter, 70% opacity",
+		"description": "Sets the left border to the base lighter color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lighter",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lighter--80": {
+		"css": "border-inline-start-color: var(--color--base-lighter--80);",
+		"title": "Left base border - lighter, 80% opacity",
+		"description": "Sets the left border to the base lighter color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lighter",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lighter--90": {
+		"css": "border-inline-start-color: var(--color--base-lighter--90);",
+		"title": "Left base border - lighter, 90% opacity",
+		"description": "Sets the left border to the base lighter color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lighter",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lightest": {
+		"css": "border-inline-start-color: var(--color--base-lightest);",
+		"title": "Left base border - lightest",
+		"description": "Sets the left border to the lightest base shade for a delicate, airy look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lightest"
+		]
+	},
+	"border--l-base-lightest--10": {
+		"css": "border-inline-start-color: var(--color--base-lightest--10);",
+		"title": "Left base border - lightest, 10% opacity",
+		"description": "Sets the left border to the base lightest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lightest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lightest--20": {
+		"css": "border-inline-start-color: var(--color--base-lightest--20);",
+		"title": "Left base border - lightest, 20% opacity",
+		"description": "Sets the left border to the base lightest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lightest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lightest--30": {
+		"css": "border-inline-start-color: var(--color--base-lightest--30);",
+		"title": "Left base border - lightest, 30% opacity",
+		"description": "Sets the left border to the base lightest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lightest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lightest--40": {
+		"css": "border-inline-start-color: var(--color--base-lightest--40);",
+		"title": "Left base border - lightest, 40% opacity",
+		"description": "Sets the left border to the base lightest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lightest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lightest--50": {
+		"css": "border-inline-start-color: var(--color--base-lightest--50);",
+		"title": "Left base border - lightest, 50% opacity",
+		"description": "Sets the left border to the base lightest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lightest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lightest--60": {
+		"css": "border-inline-start-color: var(--color--base-lightest--60);",
+		"title": "Left base border - lightest, 60% opacity",
+		"description": "Sets the left border to the base lightest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lightest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lightest--70": {
+		"css": "border-inline-start-color: var(--color--base-lightest--70);",
+		"title": "Left base border - lightest, 70% opacity",
+		"description": "Sets the left border to the base lightest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lightest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lightest--80": {
+		"css": "border-inline-start-color: var(--color--base-lightest--80);",
+		"title": "Left base border - lightest, 80% opacity",
+		"description": "Sets the left border to the base lightest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lightest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-lightest--90": {
+		"css": "border-inline-start-color: var(--color--base-lightest--90);",
+		"title": "Left base border - lightest, 90% opacity",
+		"description": "Sets the left border to the base lightest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"lightest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-white": {
+		"css": "border-inline-start-color: var(--color--base-near-white);",
+		"title": "Left base border - near-white",
+		"description": "Sets the left border to a near-white base shade for a subtle, clean effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-white"
+		]
+	},
+	"border--l-base-near-white--10": {
+		"css": "border-inline-start-color: var(--color--base-near-white--10);",
+		"title": "Left base border - near-white, 10% opacity",
+		"description": "Sets the left border to the base near-white color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-white--20": {
+		"css": "border-inline-start-color: var(--color--base-near-white--20);",
+		"title": "Left base border - near-white, 20% opacity",
+		"description": "Sets the left border to the base near-white color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-white--30": {
+		"css": "border-inline-start-color: var(--color--base-near-white--30);",
+		"title": "Left base border - near-white, 30% opacity",
+		"description": "Sets the left border to the base near-white color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-white--40": {
+		"css": "border-inline-start-color: var(--color--base-near-white--40);",
+		"title": "Left base border - near-white, 40% opacity",
+		"description": "Sets the left border to the base near-white color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-white--50": {
+		"css": "border-inline-start-color: var(--color--base-near-white--50);",
+		"title": "Left base border - near-white, 50% opacity",
+		"description": "Sets the left border to the base near-white color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-white--60": {
+		"css": "border-inline-start-color: var(--color--base-near-white--60);",
+		"title": "Left base border - near-white, 60% opacity",
+		"description": "Sets the left border to the base near-white color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-white--70": {
+		"css": "border-inline-start-color: var(--color--base-near-white--70);",
+		"title": "Left base border - near-white, 70% opacity",
+		"description": "Sets the left border to the base near-white color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-white--80": {
+		"css": "border-inline-start-color: var(--color--base-near-white--80);",
+		"title": "Left base border - near-white, 80% opacity",
+		"description": "Sets the left border to the base near-white color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-near-white--90": {
+		"css": "border-inline-start-color: var(--color--base-near-white--90);",
+		"title": "Left base border - near-white, 90% opacity",
+		"description": "Sets the left border to the base near-white color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"near-white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-complement": {
+		"css": "border-inline-start-color: var(--color--base-complement);",
+		"title": "Left base border - complement",
+		"description": "Sets the left border to the base complement for visual contrast and balance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"complement"
+		]
+	},
+	"border--l-base-complement--10": {
+		"css": "border-inline-start-color: var(--color--base-complement--10);",
+		"title": "Left base border - complement, 10% opacity",
+		"description": "Sets the left border to the base complement color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"complement",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-complement--20": {
+		"css": "border-inline-start-color: var(--color--base-complement--20);",
+		"title": "Left base border - complement, 20% opacity",
+		"description": "Sets the left border to the base complement color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"complement",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-complement--30": {
+		"css": "border-inline-start-color: var(--color--base-complement--30);",
+		"title": "Left base border - complement, 30% opacity",
+		"description": "Sets the left border to the base complement color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"complement",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-complement--40": {
+		"css": "border-inline-start-color: var(--color--base-complement--40);",
+		"title": "Left base border - complement, 40% opacity",
+		"description": "Sets the left border to the base complement color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"complement",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-complement--50": {
+		"css": "border-inline-start-color: var(--color--base-complement--50);",
+		"title": "Left base border - complement, 50% opacity",
+		"description": "Sets the left border to the base complement color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"complement",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-complement--60": {
+		"css": "border-inline-start-color: var(--color--base-complement--60);",
+		"title": "Left base border - complement, 60% opacity",
+		"description": "Sets the left border to the base complement color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"complement",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-complement--70": {
+		"css": "border-inline-start-color: var(--color--base-complement--70);",
+		"title": "Left base border - complement, 70% opacity",
+		"description": "Sets the left border to the base complement color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"complement",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-complement--80": {
+		"css": "border-inline-start-color: var(--color--base-complement--80);",
+		"title": "Left base border - complement, 80% opacity",
+		"description": "Sets the left border to the base complement color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"complement",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-complement--90": {
+		"css": "border-inline-start-color: var(--color--base-complement--90);",
+		"title": "Left base border - complement, 90% opacity",
+		"description": "Sets the left border to the base complement color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"complement",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-inverted": {
+		"css": "border-inline-start-color: var(--color--base-inverted);",
+		"title": "Left base border - inverted",
+		"description": "Sets the left border to the inverted base color for a striking, reversed look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"inverted"
+		]
+	},
+	"border--l-base-inverted--10": {
+		"css": "border-inline-start-color: var(--color--base-inverted--10);",
+		"title": "Left base border - inverted, 10% opacity",
+		"description": "Sets the left border to the base inverted color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"inverted",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-inverted--20": {
+		"css": "border-inline-start-color: var(--color--base-inverted--20);",
+		"title": "Left base border - inverted, 20% opacity",
+		"description": "Sets the left border to the base inverted color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"inverted",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-inverted--30": {
+		"css": "border-inline-start-color: var(--color--base-inverted--30);",
+		"title": "Left base border - inverted, 30% opacity",
+		"description": "Sets the left border to the base inverted color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"inverted",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-inverted--40": {
+		"css": "border-inline-start-color: var(--color--base-inverted--40);",
+		"title": "Left base border - inverted, 40% opacity",
+		"description": "Sets the left border to the base inverted color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"inverted",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-inverted--50": {
+		"css": "border-inline-start-color: var(--color--base-inverted--50);",
+		"title": "Left base border - inverted, 50% opacity",
+		"description": "Sets the left border to the base inverted color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"inverted",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-inverted--60": {
+		"css": "border-inline-start-color: var(--color--base-inverted--60);",
+		"title": "Left base border - inverted, 60% opacity",
+		"description": "Sets the left border to the base inverted color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"inverted",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-inverted--70": {
+		"css": "border-inline-start-color: var(--color--base-inverted--70);",
+		"title": "Left base border - inverted, 70% opacity",
+		"description": "Sets the left border to the base inverted color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"inverted",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-inverted--80": {
+		"css": "border-inline-start-color: var(--color--base-inverted--80);",
+		"title": "Left base border - inverted, 80% opacity",
+		"description": "Sets the left border to the base inverted color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"inverted",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--l-base-inverted--90": {
+		"css": "border-inline-start-color: var(--color--base-inverted--90);",
+		"title": "Left base border - inverted, 90% opacity",
+		"description": "Sets the left border to the base inverted color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"base",
+			"inverted",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

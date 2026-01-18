@@ -1,0 +1,90 @@
+{
+	"corner--bl-none": {
+		"css": "border-bottom-left-radius: 0;",
+		"title": "No bottom-left radius",
+		"description": "Makes bottom-left corners sharp.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-left",
+			"none"
+		]
+	},
+	"corner--bl-xs": {
+		"css": "border-bottom-left-radius: 0.125rem;",
+		"title": "Tiny bottom-left radius",
+		"description": "Adds a tiny curve to bottom-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-left",
+			"xs"
+		]
+	},
+	"corner--bl-sm": {
+		"css": "border-bottom-left-radius: 0.25rem;",
+		"title": "Small bottom-left radius",
+		"description": "Adds a small curve to bottom-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-left",
+			"sm"
+		]
+	},
+	"corner--bl-md": {
+		"css": "border-bottom-left-radius: 0.375rem;",
+		"title": "Medium bottom-left radius",
+		"description": "Adds a medium curve to bottom-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-left",
+			"md"
+		]
+	},
+	"corner--bl-lg": {
+		"css": "border-bottom-left-radius: 1rem;",
+		"title": "Large bottom-left radius",
+		"description": "Adds a large curve to bottom-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-left",
+			"lg"
+		]
+	},
+	"corner--bl-xl": {
+		"css": "border-bottom-left-radius: 1.5rem;",
+		"title": "Extra-Large bottom-left radius",
+		"description": "Adds an extra-large curve to bottom-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-left",
+			"xl"
+		]
+	},
+	"corner--bl-xxl": {
+		"css": "border-bottom-left-radius: 2rem;",
+		"title": "Huge bottom-left radius",
+		"description": "Adds a huge curve to bottom-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-left",
+			"xxl"
+		]
+	},
+	"corner--bl-round": {
+		"css": "border-bottom-left-radius: 9999999px;",
+		"title": "Round bottom-left radius",
+		"description": "Adds a round curve to bottom-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-left",
+			"round"
+		]
+	}
+}

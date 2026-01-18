@@ -1,0 +1,68 @@
+{
+	"overlay--blur-xs[before]": {
+		"css": "-webkit-backdrop-filter: blur(2px); backdrop-filter: blur(2px);",
+		"title": "Subtle backdrop blur",
+		"description": "Applies a subtle 2px blur to the background behind the element.",
+		"category": "filters",
+		"tags": [
+			"overlay",
+			"blur",
+			"xs"
+		]
+	},
+	"overlay--blur-sm[before]": {
+		"css": "-webkit-backdrop-filter: blur(5px); backdrop-filter: blur(5px);",
+		"title": "Small backdrop blur",
+		"description": "Applies a light 5px blur to the background behind the element.",
+		"category": "filters",
+		"tags": [
+			"overlay",
+			"blur",
+			"sm"
+		]
+	},
+	"overlay--blur-md[before]": {
+		"css": "-webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);",
+		"title": "Medium backdrop blur",
+		"description": "Applies a moderate 10px blur to the background behind the element.",
+		"category": "filters",
+		"tags": [
+			"overlay",
+			"blur",
+			"md"
+		]
+	},
+	"overlay--blur-lg[before]": {
+		"css": "-webkit-backdrop-filter: blur(15px); backdrop-filter: blur(15px);",
+		"title": "Large backdrop blur",
+		"description": "Applies a strong 15px blur to the background behind the element.",
+		"category": "filters",
+		"tags": [
+			"overlay",
+			"blur",
+			"lg"
+		]
+	},
+	"overlay--blur-xl[before]": {
+		"css": "-webkit-backdrop-filter: blur(20px); backdrop-filter: blur(20px);",
+		"title": "Extra large backdrop blur",
+		"description": "Applies a heavy 20px blur to the background behind the element.",
+		"category": "filters",
+		"tags": [
+			"overlay",
+			"blur",
+			"xl"
+		]
+	},
+	"overlay--blur-xxl[before]": {
+		"css": "-webkit-backdrop-filter: blur(25px); backdrop-filter: blur(25px);",
+		"title": "Huge backdrop blur",
+		"description": "Applies an intense 25px blur to the background behind the element.",
+		"category": "filters",
+		"tags": [
+			"overlay",
+			"blur",
+			"xxl"
+		]
+	}
+}

@@ -1,0 +1,230 @@
+{
+	"height--20": {
+		"css": "min-block-size: 20vh;",
+		"title": "20% viewport height",
+		"description": "Sets the element height to 20% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"height--25": {
+		"css": "min-block-size: 25vh;",
+		"title": "25% viewport height",
+		"description": "Sets the element height to 25% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"height--30": {
+		"css": "min-block-size: 30vh;",
+		"title": "30% viewport height",
+		"description": "Sets the element height to 30% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"height--40": {
+		"css": "min-block-size: 40vh;",
+		"title": "40% viewport height",
+		"description": "Sets the element height to 40% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"height--50": {
+		"css": "min-block-size: 50vh;",
+		"title": "50% viewport height",
+		"description": "Sets the element height to 50% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"height--60": {
+		"css": "min-block-size: 60vh;",
+		"title": "60% viewport height",
+		"description": "Sets the element height to 60% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"height--70": {
+		"css": "min-block-size: 70vh;",
+		"title": "70% viewport height",
+		"description": "Sets the element height to 70% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"height--75": {
+		"css": "min-block-size: 75vh;",
+		"title": "75% viewport height",
+		"description": "Sets the element height to 75% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"height--80": {
+		"css": "min-block-size: 80vh;",
+		"title": "80% viewport height",
+		"description": "Sets the element height to 80% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"height--90": {
+		"css": "min-block-size: 90vh;",
+		"title": "90% viewport height",
+		"description": "Sets the element height to 90% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"height--100": {
+		"css": "min-block-size: 100vh;",
+		"title": "Full viewport height",
+		"description": "Sets the element height to 100% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"height--full": {
+		"css": "block-size: 100%;",
+		"title": "Full height",
+		"description": "Sets the element height to 100% of its parent container.",
+		"category": "sizing",
+		"tags": [
+			"height"
+		]
+	},
+	"max-height--20": {
+		"css": "max-block-size: 20vh;",
+		"title": "Max 20% viewport height",
+		"description": "Sets the maximum element height to 20% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	},
+	"max-height--25": {
+		"css": "max-block-size: 25vh;",
+		"title": "Max 25% viewport height",
+		"description": "Sets the maximum element height to 25% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	},
+	"max-height--30": {
+		"css": "max-block-size: 30vh;",
+		"title": "Max 30% viewport height",
+		"description": "Sets the maximum element height to 30% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	},
+	"max-height--40": {
+		"css": "max-block-size: 40vh;",
+		"title": "Max 40% viewport height",
+		"description": "Sets the maximum element height to 40% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	},
+	"max-height--50": {
+		"css": "max-block-size: 50vh;",
+		"title": "Max 50% viewport height",
+		"description": "Sets the maximum element height to 50% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	},
+	"max-height--60": {
+		"css": "max-block-size: 60vh;",
+		"title": "Max 60% viewport height",
+		"description": "Sets the maximum element height to 60% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	},
+	"max-height--70": {
+		"css": "max-block-size: 70vh;",
+		"title": "Max 70% viewport height",
+		"description": "Sets the maximum element height to 70% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	},
+	"max-height--75": {
+		"css": "max-block-size: 75vh;",
+		"title": "Max 75% viewport height",
+		"description": "Sets the maximum element height to 75% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	},
+	"max-height--80": {
+		"css": "max-block-size: 80vh;",
+		"title": "Max 80% viewport height",
+		"description": "Sets the maximum element height to 80% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	},
+	"max-height--90": {
+		"css": "max-block-size: 90vh;",
+		"title": "Max 90% viewport height",
+		"description": "Sets the maximum element height to 90% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	},
+	"max-height--100": {
+		"css": "max-block-size: 100vh;",
+		"title": "Max full viewport height",
+		"description": "Sets the maximum element height to 100% of the viewport height.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	},
+	"max-height--full": {
+		"css": "max-block-size: 100%;",
+		"title": "Max full height",
+		"description": "Sets the maximum element height to 100% of its parent container.",
+		"category": "sizing",
+		"tags": [
+			"max",
+			"height"
+		]
+	}
+}

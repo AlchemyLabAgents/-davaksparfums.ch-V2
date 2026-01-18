@@ -1,0 +1,1499 @@
+{
+	"overlay--secondary[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary);",
+		"title": "Secondary overlay",
+		"description": "Sets the overlay to the secondary color for a complementary, accent appearance.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary"
+		]
+	},
+	"overlay--secondary--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary--10);",
+		"title": "Secondary overlay, 10% opacity",
+		"description": "Sets the overlay to the secondary color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary--20);",
+		"title": "Secondary overlay, 20% opacity",
+		"description": "Sets the overlay to the secondary color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary--30);",
+		"title": "Secondary overlay, 30% opacity",
+		"description": "Sets the overlay to the secondary color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary--40);",
+		"title": "Secondary overlay, 40% opacity",
+		"description": "Sets the overlay to the secondary color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary--50);",
+		"title": "Secondary overlay, 50% opacity",
+		"description": "Sets the overlay to the secondary color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary--60);",
+		"title": "Secondary overlay, 60% opacity",
+		"description": "Sets the overlay to the secondary color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary--70);",
+		"title": "Secondary overlay, 70% opacity",
+		"description": "Sets the overlay to the secondary color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary--80);",
+		"title": "Secondary overlay, 80% opacity",
+		"description": "Sets the overlay to the secondary color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary--90);",
+		"title": "Secondary overlay, 90% opacity",
+		"description": "Sets the overlay to the secondary color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-dark[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-dark);",
+		"title": "Secondary overlay - dark",
+		"description": "Sets the overlay to a dark secondary shade for strong emphasis and contrast.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"dark"
+		]
+	},
+	"overlay--secondary-dark--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-dark--10);",
+		"title": "Secondary overlay - dark, 10% opacity",
+		"description": "Sets the overlay to the secondary color with dark color and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"dark",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-dark--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-dark--20);",
+		"title": "Secondary overlay - dark, 20% opacity",
+		"description": "Sets the overlay to the secondary color with dark color and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"dark",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-dark--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-dark--30);",
+		"title": "Secondary overlay - dark, 30% opacity",
+		"description": "Sets the overlay to the secondary color with dark color and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"dark",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-dark--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-dark--40);",
+		"title": "Secondary overlay - dark, 40% opacity",
+		"description": "Sets the overlay to the secondary color with dark color and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"dark",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-dark--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-dark--50);",
+		"title": "Secondary overlay - dark, 50% opacity",
+		"description": "Sets the overlay to the secondary color with dark color and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"dark",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-dark--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-dark--60);",
+		"title": "Secondary overlay - dark, 60% opacity",
+		"description": "Sets the overlay to the secondary color with dark color and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"dark",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-dark--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-dark--70);",
+		"title": "Secondary overlay - dark, 70% opacity",
+		"description": "Sets the overlay to the secondary color with dark color and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"dark",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-dark--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-dark--80);",
+		"title": "Secondary overlay - dark, 80% opacity",
+		"description": "Sets the overlay to the secondary color with dark color and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"dark",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-dark--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-dark--90);",
+		"title": "Secondary overlay - dark, 90% opacity",
+		"description": "Sets the overlay to the secondary color with dark color and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"dark",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darker[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darker);",
+		"title": "Secondary overlay - darker",
+		"description": "Sets the overlay to a darker secondary shade for bold, impactful overlay.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darker"
+		]
+	},
+	"overlay--secondary-darker--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darker--10);",
+		"title": "Secondary overlay - darker, 10% opacity",
+		"description": "Sets the overlay to the secondary color with darker color and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darker",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darker--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darker--20);",
+		"title": "Secondary overlay - darker, 20% opacity",
+		"description": "Sets the overlay to the secondary color with darker color and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darker",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darker--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darker--30);",
+		"title": "Secondary overlay - darker, 30% opacity",
+		"description": "Sets the overlay to the secondary color with darker color and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darker",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darker--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darker--40);",
+		"title": "Secondary overlay - darker, 40% opacity",
+		"description": "Sets the overlay to the secondary color with darker color and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darker",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darker--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darker--50);",
+		"title": "Secondary overlay - darker, 50% opacity",
+		"description": "Sets the overlay to the secondary color with darker color and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darker",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darker--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darker--60);",
+		"title": "Secondary overlay - darker, 60% opacity",
+		"description": "Sets the overlay to the secondary color with darker color and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darker",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darker--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darker--70);",
+		"title": "Secondary overlay - darker, 70% opacity",
+		"description": "Sets the overlay to the secondary color with darker color and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darker",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darker--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darker--80);",
+		"title": "Secondary overlay - darker, 80% opacity",
+		"description": "Sets the overlay to the secondary color with darker color and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darker",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darker--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darker--90);",
+		"title": "Secondary overlay - darker, 90% opacity",
+		"description": "Sets the overlay to the secondary color with darker color and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darker",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darkest[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darkest);",
+		"title": "Secondary overlay - darkest",
+		"description": "Sets the overlay to the darkest secondary shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darkest"
+		]
+	},
+	"overlay--secondary-darkest--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darkest--10);",
+		"title": "Secondary overlay - darkest, 10% opacity",
+		"description": "Sets the overlay to the secondary color with darkest color and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darkest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darkest--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darkest--20);",
+		"title": "Secondary overlay - darkest, 20% opacity",
+		"description": "Sets the overlay to the secondary color with darkest color and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darkest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darkest--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darkest--30);",
+		"title": "Secondary overlay - darkest, 30% opacity",
+		"description": "Sets the overlay to the secondary color with darkest color and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darkest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darkest--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darkest--40);",
+		"title": "Secondary overlay - darkest, 40% opacity",
+		"description": "Sets the overlay to the secondary color with darkest color and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darkest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darkest--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darkest--50);",
+		"title": "Secondary overlay - darkest, 50% opacity",
+		"description": "Sets the overlay to the secondary color with darkest color and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darkest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darkest--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darkest--60);",
+		"title": "Secondary overlay - darkest, 60% opacity",
+		"description": "Sets the overlay to the secondary color with darkest color and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darkest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darkest--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darkest--70);",
+		"title": "Secondary overlay - darkest, 70% opacity",
+		"description": "Sets the overlay to the secondary color with darkest color and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darkest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darkest--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darkest--80);",
+		"title": "Secondary overlay - darkest, 80% opacity",
+		"description": "Sets the overlay to the secondary color with darkest color and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darkest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-darkest--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-darkest--90);",
+		"title": "Secondary overlay - darkest, 90% opacity",
+		"description": "Sets the overlay to the secondary color with darkest color and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"darkest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-black[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-black);",
+		"title": "Secondary overlay - near-black",
+		"description": "Sets the overlay to a near-black secondary shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-black"
+		]
+	},
+	"overlay--secondary-near-black--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-black--10);",
+		"title": "Secondary overlay - near-black, 10% opacity",
+		"description": "Sets the overlay to the secondary color with near-black color and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-black--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-black--20);",
+		"title": "Secondary overlay - near-black, 20% opacity",
+		"description": "Sets the overlay to the secondary color with near-black color and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-black--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-black--30);",
+		"title": "Secondary overlay - near-black, 30% opacity",
+		"description": "Sets the overlay to the secondary color with near-black color and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-black--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-black--40);",
+		"title": "Secondary overlay - near-black, 40% opacity",
+		"description": "Sets the overlay to the secondary color with near-black color and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-black--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-black--50);",
+		"title": "Secondary overlay - near-black, 50% opacity",
+		"description": "Sets the overlay to the secondary color with near-black color and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-black--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-black--60);",
+		"title": "Secondary overlay - near-black, 60% opacity",
+		"description": "Sets the overlay to the secondary color with near-black color and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-black--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-black--70);",
+		"title": "Secondary overlay - near-black, 70% opacity",
+		"description": "Sets the overlay to the secondary color with near-black color and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-black--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-black--80);",
+		"title": "Secondary overlay - near-black, 80% opacity",
+		"description": "Sets the overlay to the secondary color with near-black color and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-black--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-black--90);",
+		"title": "Secondary overlay - near-black, 90% opacity",
+		"description": "Sets the overlay to the secondary color with near-black color and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-light[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-light);",
+		"title": "Secondary overlay - light",
+		"description": "Sets the overlay to a light secondary shade for a softer, subtle appearance.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"light"
+		]
+	},
+	"overlay--secondary-light--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-light--10);",
+		"title": "Secondary overlay - light, 10% opacity",
+		"description": "Sets the overlay to the secondary color with light color and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"light",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-light--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-light--20);",
+		"title": "Secondary overlay - light, 20% opacity",
+		"description": "Sets the overlay to the secondary color with light color and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"light",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-light--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-light--30);",
+		"title": "Secondary overlay - light, 30% opacity",
+		"description": "Sets the overlay to the secondary color with light color and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"light",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-light--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-light--40);",
+		"title": "Secondary overlay - light, 40% opacity",
+		"description": "Sets the overlay to the secondary color with light color and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"light",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-light--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-light--50);",
+		"title": "Secondary overlay - light, 50% opacity",
+		"description": "Sets the overlay to the secondary color with light color and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"light",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-light--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-light--60);",
+		"title": "Secondary overlay - light, 60% opacity",
+		"description": "Sets the overlay to the secondary color with light color and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"light",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-light--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-light--70);",
+		"title": "Secondary overlay - light, 70% opacity",
+		"description": "Sets the overlay to the secondary color with light color and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"light",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-light--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-light--80);",
+		"title": "Secondary overlay - light, 80% opacity",
+		"description": "Sets the overlay to the secondary color with light color and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"light",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-light--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-light--90);",
+		"title": "Secondary overlay - light, 90% opacity",
+		"description": "Sets the overlay to the secondary color with light color and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"light",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lighter[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lighter);",
+		"title": "Secondary overlay - lighter",
+		"description": "Sets the overlay to a lighter secondary shade for gentle emphasis.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lighter"
+		]
+	},
+	"overlay--secondary-lighter--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lighter--10);",
+		"title": "Secondary overlay - lighter, 10% opacity",
+		"description": "Sets the overlay to the secondary color with lighter color and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lighter",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lighter--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lighter--20);",
+		"title": "Secondary overlay - lighter, 20% opacity",
+		"description": "Sets the overlay to the secondary color with lighter color and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lighter",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lighter--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lighter--30);",
+		"title": "Secondary overlay - lighter, 30% opacity",
+		"description": "Sets the overlay to the secondary color with lighter color and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lighter",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lighter--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lighter--40);",
+		"title": "Secondary overlay - lighter, 40% opacity",
+		"description": "Sets the overlay to the secondary color with lighter color and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lighter",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lighter--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lighter--50);",
+		"title": "Secondary overlay - lighter, 50% opacity",
+		"description": "Sets the overlay to the secondary color with lighter color and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lighter",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lighter--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lighter--60);",
+		"title": "Secondary overlay - lighter, 60% opacity",
+		"description": "Sets the overlay to the secondary color with lighter color and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lighter",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lighter--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lighter--70);",
+		"title": "Secondary overlay - lighter, 70% opacity",
+		"description": "Sets the overlay to the secondary color with lighter color and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lighter",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lighter--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lighter--80);",
+		"title": "Secondary overlay - lighter, 80% opacity",
+		"description": "Sets the overlay to the secondary color with lighter color and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lighter",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lighter--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lighter--90);",
+		"title": "Secondary overlay - lighter, 90% opacity",
+		"description": "Sets the overlay to the secondary color with lighter color and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lighter",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lightest[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lightest);",
+		"title": "Secondary overlay - lightest",
+		"description": "Sets the overlay to the lightest secondary shade for a delicate, airy look.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lightest"
+		]
+	},
+	"overlay--secondary-lightest--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lightest--10);",
+		"title": "Secondary overlay - lightest, 10% opacity",
+		"description": "Sets the overlay to the secondary color with lightest color and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lightest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lightest--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lightest--20);",
+		"title": "Secondary overlay - lightest, 20% opacity",
+		"description": "Sets the overlay to the secondary color with lightest color and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lightest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lightest--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lightest--30);",
+		"title": "Secondary overlay - lightest, 30% opacity",
+		"description": "Sets the overlay to the secondary color with lightest color and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lightest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lightest--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lightest--40);",
+		"title": "Secondary overlay - lightest, 40% opacity",
+		"description": "Sets the overlay to the secondary color with lightest color and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lightest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lightest--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lightest--50);",
+		"title": "Secondary overlay - lightest, 50% opacity",
+		"description": "Sets the overlay to the secondary color with lightest color and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lightest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lightest--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lightest--60);",
+		"title": "Secondary overlay - lightest, 60% opacity",
+		"description": "Sets the overlay to the secondary color with lightest color and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lightest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lightest--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lightest--70);",
+		"title": "Secondary overlay - lightest, 70% opacity",
+		"description": "Sets the overlay to the secondary color with lightest color and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lightest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lightest--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lightest--80);",
+		"title": "Secondary overlay - lightest, 80% opacity",
+		"description": "Sets the overlay to the secondary color with lightest color and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lightest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-lightest--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-lightest--90);",
+		"title": "Secondary overlay - lightest, 90% opacity",
+		"description": "Sets the overlay to the secondary color with lightest color and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"lightest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-white[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-white);",
+		"title": "Secondary overlay - near-white",
+		"description": "Sets the overlay to a near-white secondary shade for a subtle, clean effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-white"
+		]
+	},
+	"overlay--secondary-near-white--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-white--10);",
+		"title": "Secondary overlay - near-white, 10% opacity",
+		"description": "Sets the overlay to the secondary color with near-white color and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-white--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-white--20);",
+		"title": "Secondary overlay - near-white, 20% opacity",
+		"description": "Sets the overlay to the secondary color with near-white color and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-white--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-white--30);",
+		"title": "Secondary overlay - near-white, 30% opacity",
+		"description": "Sets the overlay to the secondary color with near-white color and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-white--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-white--40);",
+		"title": "Secondary overlay - near-white, 40% opacity",
+		"description": "Sets the overlay to the secondary color with near-white color and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-white--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-white--50);",
+		"title": "Secondary overlay - near-white, 50% opacity",
+		"description": "Sets the overlay to the secondary color with near-white color and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-white--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-white--60);",
+		"title": "Secondary overlay - near-white, 60% opacity",
+		"description": "Sets the overlay to the secondary color with near-white color and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-white--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-white--70);",
+		"title": "Secondary overlay - near-white, 70% opacity",
+		"description": "Sets the overlay to the secondary color with near-white color and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-white--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-white--80);",
+		"title": "Secondary overlay - near-white, 80% opacity",
+		"description": "Sets the overlay to the secondary color with near-white color and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-near-white--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-near-white--90);",
+		"title": "Secondary overlay - near-white, 90% opacity",
+		"description": "Sets the overlay to the secondary color with near-white color and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"near-white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-complement[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-complement);",
+		"title": "Secondary overlay - complement",
+		"description": "Sets the overlay to the secondary complement for visual contrast and balance.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"complement"
+		]
+	},
+	"overlay--secondary-complement--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-complement--10);",
+		"title": "Secondary overlay - complement, 10% opacity",
+		"description": "Sets the overlay to the secondary color with complement color and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"complement",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-complement--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-complement--20);",
+		"title": "Secondary overlay - complement, 20% opacity",
+		"description": "Sets the overlay to the secondary color with complement color and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"complement",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-complement--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-complement--30);",
+		"title": "Secondary overlay - complement, 30% opacity",
+		"description": "Sets the overlay to the secondary color with complement color and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"complement",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-complement--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-complement--40);",
+		"title": "Secondary overlay - complement, 40% opacity",
+		"description": "Sets the overlay to the secondary color with complement color and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"complement",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-complement--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-complement--50);",
+		"title": "Secondary overlay - complement, 50% opacity",
+		"description": "Sets the overlay to the secondary color with complement color and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"complement",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-complement--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-complement--60);",
+		"title": "Secondary overlay - complement, 60% opacity",
+		"description": "Sets the overlay to the secondary color with complement color and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"complement",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-complement--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-complement--70);",
+		"title": "Secondary overlay - complement, 70% opacity",
+		"description": "Sets the overlay to the secondary color with complement color and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"complement",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-complement--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-complement--80);",
+		"title": "Secondary overlay - complement, 80% opacity",
+		"description": "Sets the overlay to the secondary color with complement color and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"complement",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-complement--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-complement--90);",
+		"title": "Secondary overlay - complement, 90% opacity",
+		"description": "Sets the overlay to the secondary color with complement color and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"complement",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-inverted[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-inverted);",
+		"title": "Secondary overlay - inverted",
+		"description": "Sets the overlay to the inverted secondary color for a striking, reversed look.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"inverted"
+		]
+	},
+	"overlay--secondary-inverted--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-inverted--10);",
+		"title": "Secondary overlay - inverted, 10% opacity",
+		"description": "Sets the overlay to the secondary color with inverted color and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"inverted",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-inverted--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-inverted--20);",
+		"title": "Secondary overlay - inverted, 20% opacity",
+		"description": "Sets the overlay to the secondary color with inverted color and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"inverted",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-inverted--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-inverted--30);",
+		"title": "Secondary overlay - inverted, 30% opacity",
+		"description": "Sets the overlay to the secondary color with inverted color and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"inverted",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-inverted--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-inverted--40);",
+		"title": "Secondary overlay - inverted, 40% opacity",
+		"description": "Sets the overlay to the secondary color with inverted color and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"inverted",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-inverted--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-inverted--50);",
+		"title": "Secondary overlay - inverted, 50% opacity",
+		"description": "Sets the overlay to the secondary color with inverted color and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"inverted",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-inverted--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-inverted--60);",
+		"title": "Secondary overlay - inverted, 60% opacity",
+		"description": "Sets the overlay to the secondary color with inverted color and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"inverted",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-inverted--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-inverted--70);",
+		"title": "Secondary overlay - inverted, 70% opacity",
+		"description": "Sets the overlay to the secondary color with inverted color and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"inverted",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-inverted--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-inverted--80);",
+		"title": "Secondary overlay - inverted, 80% opacity",
+		"description": "Sets the overlay to the secondary color with inverted color and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"inverted",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--secondary-inverted--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--secondary-inverted--90);",
+		"title": "Secondary overlay - inverted, 90% opacity",
+		"description": "Sets the overlay to the secondary color with inverted color and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"secondary",
+			"inverted",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

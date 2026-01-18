@@ -1,0 +1,122 @@
+{
+	"color--base": {
+		"css": "color: var(--color--base);",
+		"title": "Base text color.",
+		"description": "Sets the text color to the base color for a balanced, default appearance.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"base"
+		]
+	},
+	"color--base-dark": {
+		"css": "color: var(--color--base-dark);",
+		"title": "Base text color - dark shade.",
+		"description": "Sets the text color to a dark base shade for increased contrast and readability.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"base",
+			"dark"
+		]
+	},
+	"color--base-darker": {
+		"css": "color: var(--color--base-darker);",
+		"title": "Base text color - darker shade.",
+		"description": "Sets the text color to a darker base shade for strong emphasis.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"base",
+			"darker"
+		]
+	},
+	"color--base-darkest": {
+		"css": "color: var(--color--base-darkest);",
+		"title": "Base text color - darkest shade.",
+		"description": "Sets the text color to the darkest base shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"base",
+			"darkest"
+		]
+	},
+	"color--base-near-black": {
+		"css": "color: var(--color--base-near-black);",
+		"title": "Base text color - near-black.",
+		"description": "Sets the text color to a near-black base shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"base",
+			"near-black"
+		]
+	},
+	"color--base-light": {
+		"css": "color: var(--color--base-light);",
+		"title": "Base text color - light shade.",
+		"description": "Sets the text color to a light base shade for a softer appearance.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"base",
+			"light"
+		]
+	},
+	"color--base-lighter": {
+		"css": "color: var(--color--base-lighter);",
+		"title": "Base text color - lighter shade.",
+		"description": "Sets the text color to a lighter base shade for subtle emphasis.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"base",
+			"lighter"
+		]
+	},
+	"color--base-lightest": {
+		"css": "color: var(--color--base-lightest);",
+		"title": "Base text color - lightest shade.",
+		"description": "Sets the text color to the lightest base shade for a delicate, airy look.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"base",
+			"lightest"
+		]
+	},
+	"color--base-near-white": {
+		"css": "color: var(--color--base-near-white);",
+		"title": "Base text color - near-white.",
+		"description": "Sets the text color to a near-white base shade for a subtle, clean effect.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"base",
+			"near-white"
+		]
+	},
+	"color--base-complement": {
+		"css": "color: var(--color--base-complement);",
+		"title": "Base text color - complement.",
+		"description": "Sets the text color to the base complement for visual contrast and balance.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"base",
+			"complement"
+		]
+	},
+	"color--base-inverted": {
+		"css": "color: var(--color--base-inverted);",
+		"title": "Base text color - inverted.",
+		"description": "Sets the text color to the inverted base color for a striking, reversed look.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"base",
+			"inverted"
+		]
+	}
+}

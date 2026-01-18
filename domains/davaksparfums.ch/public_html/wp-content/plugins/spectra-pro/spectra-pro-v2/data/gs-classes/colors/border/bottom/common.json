@@ -1,0 +1,287 @@
+{
+	"border--b-transparent": {
+		"css": "border-block-end-color: transparent;",
+		"title": "Bottom transparent border",
+		"description": "Sets the bottom border to transparent.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"transparent"
+		]
+	},
+	"border--b-white": {
+		"css": "border-block-end-color: #fff;",
+		"title": "Bottom white border",
+		"description": "Sets the bottom border to white for a clean, neutral appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"white"
+		]
+	},
+	"border--b-white--10": {
+		"css": "border-block-end-color: var(--color--white--10);",
+		"title": "Bottom white border, 10% opacity",
+		"description": "Sets the bottom border to white with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-white--20": {
+		"css": "border-block-end-color: var(--color--white--20);",
+		"title": "Bottom white border, 20% opacity",
+		"description": "Sets the bottom border to white with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-white--30": {
+		"css": "border-block-end-color: var(--color--white--30);",
+		"title": "Bottom white border, 30% opacity",
+		"description": "Sets the bottom border to white with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-white--40": {
+		"css": "border-block-end-color: var(--color--white--40);",
+		"title": "Bottom white border, 40% opacity",
+		"description": "Sets the bottom border to white with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-white--50": {
+		"css": "border-block-end-color: var(--color--white--50);",
+		"title": "Bottom white border, 50% opacity",
+		"description": "Sets the bottom border to white with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-white--60": {
+		"css": "border-block-end-color: var(--color--white--60);",
+		"title": "Bottom white border, 60% opacity",
+		"description": "Sets the bottom border to white with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-white--70": {
+		"css": "border-block-end-color: var(--color--white--70);",
+		"title": "Bottom white border, 70% opacity",
+		"description": "Sets the bottom border to white with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-white--80": {
+		"css": "border-block-end-color: var(--color--white--80);",
+		"title": "Bottom white border, 80% opacity",
+		"description": "Sets the bottom border to white with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-white--90": {
+		"css": "border-block-end-color: var(--color--white--90);",
+		"title": "Bottom white border, 90% opacity",
+		"description": "Sets the bottom border to white with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-black": {
+		"css": "border-block-end-color: #000;",
+		"title": "Bottom black border",
+		"description": "Sets the bottom border to black for a bold, classic look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"black"
+		]
+	},
+	"border--b-black--10": {
+		"css": "border-block-end-color: var(--color--black--10);",
+		"title": "Bottom black border, 10% opacity",
+		"description": "Sets the bottom border to black with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-black--20": {
+		"css": "border-block-end-color: var(--color--black--20);",
+		"title": "Bottom black border, 20% opacity",
+		"description": "Sets the bottom border to black with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-black--30": {
+		"css": "border-block-end-color: var(--color--black--30);",
+		"title": "Bottom black border, 30% opacity",
+		"description": "Sets the bottom border to black with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-black--40": {
+		"css": "border-block-end-color: var(--color--black--40);",
+		"title": "Bottom black border, 40% opacity",
+		"description": "Sets the bottom border to black with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-black--50": {
+		"css": "border-block-end-color: var(--color--black--50);",
+		"title": "Bottom black border, 50% opacity",
+		"description": "Sets the bottom border to black with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-black--60": {
+		"css": "border-block-end-color: var(--color--black--60);",
+		"title": "Bottom black border, 60% opacity",
+		"description": "Sets the bottom border to black with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-black--70": {
+		"css": "border-block-end-color: var(--color--black--70);",
+		"title": "Bottom black border, 70% opacity",
+		"description": "Sets the bottom border to black with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-black--80": {
+		"css": "border-block-end-color: var(--color--black--80);",
+		"title": "Bottom black border, 80% opacity",
+		"description": "Sets the bottom border to black with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--b-black--90": {
+		"css": "border-block-end-color: var(--color--black--90);",
+		"title": "Bottom black border, 90% opacity",
+		"description": "Sets the bottom border to black with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"bottom",
+			"black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

@@ -1,0 +1,266 @@
+{
+	"overlay--transparent[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: transparent;",
+		"title": "Transparent overlay.",
+		"description": "Sets the overlay to transparent.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"transparent"
+		]
+	},
+	"overlay--white[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: #fff;",
+		"title": "White overlay.",
+		"description": "Sets the overlay to white for a clean, neutral appearance.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"white"
+		]
+	},
+	"overlay--white--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--white--10);",
+		"title": "White overlay, 10% opacity.",
+		"description": "Sets the overlay to white with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--white--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--white--20);",
+		"title": "White overlay, 20% opacity.",
+		"description": "Sets the overlay to white with 20% opacity for a soft translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--white--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--white--30);",
+		"title": "White overlay, 30% opacity.",
+		"description": "Sets the overlay to white with 30% opacity for a gentle translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--white--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--white--40);",
+		"title": "White overlay, 40% opacity.",
+		"description": "Sets the overlay to white with 40% opacity for a moderate translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--white--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--white--50);",
+		"title": "White overlay, 50% opacity.",
+		"description": "Sets the overlay to white with 50% opacity for a balanced translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--white--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--white--60);",
+		"title": "White overlay, 60% opacity.",
+		"description": "Sets the overlay to white with 60% opacity for a noticeable translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--white--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--white--70);",
+		"title": "White overlay, 70% opacity.",
+		"description": "Sets the overlay to white with 70% opacity for a strong translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--white--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--white--80);",
+		"title": "White overlay, 80% opacity.",
+		"description": "Sets the overlay to white with 80% opacity for a very strong translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--white--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--white--90);",
+		"title": "White overlay, 90% opacity.",
+		"description": "Sets the overlay to white with 90% opacity for a nearly solid effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--black[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: #000;",
+		"title": "Black overlay.",
+		"description": "Sets the overlay to black for a bold, classic look.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"black"
+		]
+	},
+	"overlay--black--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--black--10);",
+		"title": "Black overlay, 10% opacity.",
+		"description": "Sets the overlay to black with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--black--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--black--20);",
+		"title": "Black overlay, 20% opacity.",
+		"description": "Sets the overlay to black with 20% opacity for a soft translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--black--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--black--30);",
+		"title": "Black overlay, 30% opacity.",
+		"description": "Sets the overlay to black with 30% opacity for a gentle translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--black--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--black--40);",
+		"title": "Black overlay, 40% opacity.",
+		"description": "Sets the overlay to black with 40% opacity for a moderate translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--black--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--black--50);",
+		"title": "Black overlay, 50% opacity.",
+		"description": "Sets the overlay to black with 50% opacity for a balanced translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--black--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--black--60);",
+		"title": "Black overlay, 60% opacity.",
+		"description": "Sets the overlay to black with 60% opacity for a noticeable translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--black--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--black--70);",
+		"title": "Black overlay, 70% opacity.",
+		"description": "Sets the overlay to black with 70% opacity for a strong translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--black--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--black--80);",
+		"title": "Black overlay, 80% opacity.",
+		"description": "Sets the overlay to black with 80% opacity for a very strong translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--black--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--black--90);",
+		"title": "Black overlay, 90% opacity.",
+		"description": "Sets the overlay to black with 90% opacity for a nearly solid effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

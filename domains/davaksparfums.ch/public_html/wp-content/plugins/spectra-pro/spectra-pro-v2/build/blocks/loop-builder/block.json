@@ -1,0 +1,139 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/loop-builder",
+  "version": "2.0.0",
+  "title": "Loop Builder",
+  "category": "spectra-pro-v2",
+  "description": "Loop Builder allows displaying post types based on different query parameters and visual configurations.",
+  "keywords": [
+    "loop",
+    "loop builder",
+    "query loop",
+    "post loop",
+    "content loop",
+    "dynamic content",
+    "post grid",
+    "post-grid",
+    "posts grid",
+    "post list",
+    "custom query",
+    "repeater",
+    "post display",
+    "content repeater",
+    "dynamic posts",
+    "post query",
+    "loop template",
+    "post archive",
+    "blog",
+    "posts",
+    "custom post types",
+    "post carousel",
+    "post-carousel",
+    "post masonry",
+    "post-masonry",
+    "post timeline",
+    "post-timeline",
+    "posts timeline",
+    "taxonomy list",
+    "taxonomy-list",
+    "category list",
+    "tag list",
+    "add posts",
+    "create loop",
+    "insert posts",
+    "advanced posts",
+    "dynamic posts",
+    "recent posts",
+    "latest posts",
+    "spectra",
+    "spectra pro",
+    "uag",
+    "uagb"
+  ],
+  "textdomain": "spectra-pro",
+  "supports": {
+    "interactivity": true,
+    "anchor": true,
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "layout": {
+      "default": {
+        "type": "flex",
+        "orientation": "vertical",
+        "justifyContent": "stretch"
+      },
+      "allowSizingOnChildren": true,
+      "allowSwitching": true
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "blockGap": true
+    }
+  },
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "viewScriptModule": "file:./view.js",
+  "providesContext": {
+    "spectra-pro/loop-builder/queryId": "queryId",
+    "spectra-pro/loop-builder/query": "query"
+  },
+  "attributes": {
+    "anchor": {
+      "type": "string"
+    },
+    "align": {
+      "type": "string",
+      "default": "wide"
+    },
+    "layout": {
+      "type": "object",
+      "default": {
+        "type": "flex",
+        "orientation": "vertical",
+        "justifyContent": "stretch"
+      }
+    },
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "variationSelected": {
+      "type": "boolean",
+      "default": false
+    },
+    "queryId": {
+      "type": "number"
+    },
+    "query": {
+      "type": "object",
+      "default": {
+        "perPage": null,
+        "pages": 0,
+        "offset": 0,
+        "postType": "post",
+        "order": "desc",
+        "orderBy": "date",
+        "author": "",
+        "search": "",
+        "exclude": [],
+        "sticky": "",
+        "taxQuery": null,
+        "parents": [],
+        "format": []
+      }
+    },
+    "tagName": {
+      "type": "string",
+      "default": "div"
+    }
+  }
+}

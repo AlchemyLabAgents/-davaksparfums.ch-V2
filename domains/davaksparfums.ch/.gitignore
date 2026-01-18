@@ -1,0 +1,47 @@
+# WordPress core and sensitive files
+public_html/wp-config.php
+public_html/wp-config-sample.php
+public_html/xmlrpc.php
+public_html/wp-content/advanced-cache.php
+public_html/wp-content/object-cache.php
+public_html/wp-content/wp-cache-config.php
+
+# Uploads and generated assets
+public_html/wp-content/uploads/
+public_html/wp-content/cache/
+public_html/wp-content/litespeed/
+public_html/wp-content/ai1wm-backups/
+public_html/wp-content/upgrade/
+public_html/wp-content/wflogs/
+public_html/wp-content/debug.log
+public_html/wp-content/*.zip
+public_html/wp-content/backups/
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Node / PHP vendor
+node_modules/
+vendor/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Env
+.env
+*.env
+
+# Local markers
+DO_NOT_UPLOAD_HERE
+backups/

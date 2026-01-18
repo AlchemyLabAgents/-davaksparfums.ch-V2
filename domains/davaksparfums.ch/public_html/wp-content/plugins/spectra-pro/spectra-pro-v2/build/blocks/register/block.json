@@ -1,0 +1,656 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/register",
+  "version": "2.0.0",
+  "title": "Register Form",
+  "category": "spectra-pro-v2",
+  "description": "A customizable user registration form with modular child blocks.",
+  "keywords": [
+    "register",
+    "registration",
+    "signup",
+    "form",
+    "user",
+    "account"
+  ],
+  "textdomain": "spectra-pro",
+  "template": [
+    [
+      "spectra/content",
+      {
+        "text": "Create Account",
+        "tagName": "h2"
+      }
+    ],
+    [
+      "spectra-pro/register-user-name"
+    ],
+    [
+      "spectra-pro/register-email"
+    ],
+    [
+      "spectra-pro/register-password"
+    ],
+    [
+      "spectra-pro/register-confirm-password"
+    ],
+    [
+      "spectra-pro/form-button",
+      {
+        "buttonText": "Register",
+        "buttonType": "submit"
+      }
+    ]
+  ],
+  "templateLock": false,
+  "allowedBlocks": [
+    "spectra/content",
+    "spectra-pro/form-input-wrapper",
+    "spectra-pro/register-user-name",
+    "spectra-pro/register-email",
+    "spectra-pro/register-first-name",
+    "spectra-pro/register-last-name",
+    "spectra-pro/register-password",
+    "spectra-pro/register-confirm-password",
+    "spectra-pro/form-input-label",
+    "spectra-pro/form-icon",
+    "spectra-pro/form-input-field",
+    "spectra-pro/register-terms-and-conditions",
+    "spectra-pro/form-button",
+    "spectra-pro/form-link",
+    "spectra-pro/form-message",
+    "spectra-pro/form-recaptcha"
+  ],
+  "supports": {
+    "interactivity": true,
+    "anchor": true,
+    "html": false,
+    "multiple": false,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "layout": {
+      "default": {
+        "type": "flex",
+        "orientation": "vertical",
+        "flexWrap": "nowrap",
+        "justifyContent": "stretch",
+        "verticalAlignment": "center",
+        "gap": "20px"
+      },
+      "allowSizingOnChildren": true,
+      "allowSwitching": true
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "blockGap": true,
+      "__experimentalDefaultControls": {
+        "margin": false,
+        "padding": true,
+        "blockGap": true
+      }
+    },
+    "__experimentalBorder": {
+      "color": true,
+      "radius": true,
+      "style": true,
+      "width": true,
+      "shadow": true,
+      "__experimentalDefaultControls": {
+        "color": true,
+        "radius": true,
+        "style": true,
+        "width": true,
+        "shadow": true
+      }
+    },
+    "color": {
+      "background": false,
+      "gradients": false,
+      "__experimentalDefaultControls": {
+        "text": true
+      }
+    },
+    "shadow": true,
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontWeight": true,
+      "__experimentalFontStyle": true,
+      "__experimentalTextTransform": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true,
+      "__experimentalDefaultControls": {
+        "fontSize": false,
+        "fontFamily": false
+      }
+    }
+  },
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "providesContext": {
+    "spectra-pro/form/formType": "formType",
+    "spectra-pro/form/block_id": "block_id",
+    "spectra-pro/form/showLabels": "showLabels",
+    "spectra-pro/form/showIcons": "showIcons",
+    "spectra-pro/form/showPasswordToggle": "showPasswordToggle",
+    "spectra-pro/form/overallAlignment": "overallAlignment",
+    "spectra-pro/form/alignRegisterBtn": "alignRegisterBtn",
+    "spectra-pro/form/usernameLabel": "usernameLabel",
+    "spectra-pro/form/usernamePlaceholder": "usernameplaceholder",
+    "spectra-pro/form/emailLabel": "emailLabel",
+    "spectra-pro/form/emailplaceholder": "emailplaceholder",
+    "spectra-pro/form/passwordLabel": "passwordLabel",
+    "spectra-pro/form/passwordplaceholder": "passwordplaceholder",
+    "spectra-pro/form/confirmPasswordLabel": "confirmPasswordLabel",
+    "spectra-pro/form/confirmPasswordplaceholder": "confirmPasswordplaceholder",
+    "spectra-pro/form/firstNameLabel": "firstNameLabel",
+    "spectra-pro/form/firstNameplaceholder": "firstNameplaceholder",
+    "spectra-pro/form/lastNameLabel": "lastNameLabel",
+    "spectra-pro/form/lastNameplaceholder": "lastNameplaceholder",
+    "spectra-pro/form/registerButtonLabel": "registerButtonLabel",
+    "spectra-pro/form/loginLinkLabel": "loginLinkLabel",
+    "spectra-pro/form/labelColor": "labelColor",
+    "spectra-pro/form/labelColorHover": "labelColorHover",
+    "spectra-pro/form/inputTextColor": "inputTextColor",
+    "spectra-pro/form/inputTextColorHover": "inputTextColorHover",
+    "spectra-pro/form/inputBgColor": "inputBgColor",
+    "spectra-pro/form/inputBgColorHover": "inputBgColorHover",
+    "spectra-pro/form/inputPlaceholderColor": "inputPlaceholderColor",
+    "spectra-pro/form/inputPlaceholderColorHover": "inputPlaceholderColorHover",
+    "spectra-pro/form/iconColor": "iconColor",
+    "spectra-pro/form/demoFieldErrorMessage": "demoFieldErrorMessage",
+    "spectra-pro/form/messageInvalidEmailError": "messageInvalidEmailError",
+    "spectra-pro/form/messageEmailMissingError": "messageEmailMissingError",
+    "spectra-pro/form/messageEmailAlreadyUsedError": "messageEmailAlreadyUsedError",
+    "spectra-pro/form/messageInvalidUsernameError": "messageInvalidUsernameError",
+    "spectra-pro/form/messageUsernameMissingError": "messageUsernameMissingError",
+    "spectra-pro/form/messageUsernameAlreadyUsedError": "messageUsernameAlreadyUsedError",
+    "spectra-pro/form/messageInvalidPasswordError": "messageInvalidPasswordError",
+    "spectra-pro/form/messagePasswordConfirmError": "messagePasswordConfirmError",
+    "spectra-pro/form/messageTermsError": "messageTermsError",
+    "spectra-pro/form/messageOtherError": "messageOtherError",
+    "spectra-pro/form/messageSuccessRegistration": "messageSuccessRegistration",
+    "spectra-pro/form/linkColor": "linkColor",
+    "spectra-pro/form/linkColorHover": "linkColorHover",
+    "spectra-pro/form/demoSuccessMessage": "demoSuccessMessage",
+    "spectra-pro/form/demoErrorMessage": "demoErrorMessage"
+  },
+  "attributes": {
+    "layout": {
+      "type": "object",
+      "default": {
+        "type": "flex",
+        "orientation": "vertical",
+        "flexWrap": "nowrap",
+        "justifyContent": "stretch",
+        "verticalAlignment": "center",
+        "gap": "20px"
+      }
+    },
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "formType": {
+      "type": "string",
+      "default": "register"
+    },
+    "block_id": {
+      "type": "string",
+      "default": ""
+    },
+    "tagName": {
+      "type": "string",
+      "default": "form"
+    },
+    "variationSelected": {
+      "type": "boolean",
+      "default": false
+    },
+    "showLabels": {
+      "type": "boolean",
+      "default": true
+    },
+    "showIcons": {
+      "type": "boolean",
+      "default": false
+    },
+    "usernameLabel": {
+      "type": "string",
+      "default": "Username"
+    },
+    "emailLabel": {
+      "type": "string",
+      "default": "Email Address"
+    },
+    "passwordLabel": {
+      "type": "string",
+      "default": "Password"
+    },
+    "confirmPasswordLabel": {
+      "type": "string",
+      "default": "Confirm Password"
+    },
+    "firstNameLabel": {
+      "type": "string",
+      "default": "First Name"
+    },
+    "lastNameLabel": {
+      "type": "string",
+      "default": "Last Name"
+    },
+    "usernameplaceholder": {
+      "type": "string",
+      "default": "Enter username"
+    },
+    "emailplaceholder": {
+      "type": "string",
+      "default": "Enter your email"
+    },
+    "passwordplaceholder": {
+      "type": "string",
+      "default": "Enter password"
+    },
+    "confirmPasswordplaceholder": {
+      "type": "string",
+      "default": "Confirm your password"
+    },
+    "firstNameplaceholder": {
+      "type": "string",
+      "default": "Enter first name"
+    },
+    "lastNameplaceholder": {
+      "type": "string",
+      "default": "Enter last name"
+    },
+    "registerButtonLabel": {
+      "type": "string",
+      "default": "Register"
+    },
+    "loginLinkLabel": {
+      "type": "string",
+      "default": "Already have an account? Login"
+    },
+    "ctaIcon": {
+      "type": "string",
+      "default": ""
+    },
+    "ctaIconPosition": {
+      "type": "string",
+      "default": "after"
+    },
+    "ctaIconSpace": {
+      "type": "number",
+      "default": 5
+    },
+    "ctaIconSpaceType": {
+      "type": "string",
+      "default": "px"
+    },
+    "termsConditionsText": {
+      "type": "string",
+      "default": "I agree to the Terms and Conditions"
+    },
+    "termsConditionsLink": {
+      "type": "object",
+      "default": {
+        "url": "",
+        "opensInNewTab": false
+      }
+    },
+    "showPrivacyPolicy": {
+      "type": "boolean",
+      "default": true
+    },
+    "privacyPolicyText": {
+      "type": "string",
+      "default": "I agree to the Privacy Policy"
+    },
+    "privacyPolicyLink": {
+      "type": "object",
+      "default": {
+        "url": "",
+        "opensInNewTab": false
+      }
+    },
+    "enableEmailVerification": {
+      "type": "boolean",
+      "default": false
+    },
+    "redirectAfterRegistrationURL": {
+      "type": "object",
+      "default": {
+        "url": "",
+        "opensInNewTab": false
+      }
+    },
+    "overallAlignment": {
+      "type": "string",
+      "default": "left"
+    },
+    "alignRegisterBtn": {
+      "type": "string",
+      "default": "left"
+    },
+    "labelColor": {
+      "type": "string"
+    },
+    "labelColorHover": {
+      "type": "string"
+    },
+    "textColor": {
+      "type": "string"
+    },
+    "linkColor": {
+      "type": "string"
+    },
+    "linkHColor": {
+      "type": "string"
+    },
+    "linkColorHover": {
+      "type": "string"
+    },
+    "fieldsBackground": {
+      "type": "string"
+    },
+    "fieldsBackgroundHover": {
+      "type": "string"
+    },
+    "fieldsBackgroundActive": {
+      "type": "string"
+    },
+    "placeholderColor": {
+      "type": "string"
+    },
+    "placeholderColorHover": {
+      "type": "string"
+    },
+    "placeholderColorActive": {
+      "type": "string"
+    },
+    "fieldsColor": {
+      "type": "string"
+    },
+    "registerBackground": {
+      "type": "string"
+    },
+    "registerColor": {
+      "type": "string"
+    },
+    "registerHBackground": {
+      "type": "string"
+    },
+    "registerHColor": {
+      "type": "string"
+    },
+    "buttonBorderColor": {
+      "type": "string"
+    },
+    "buttonBorderColorHover": {
+      "type": "string"
+    },
+    "background": {
+      "type": "object",
+      "default": {}
+    },
+    "backgroundColor": {
+      "type": "string"
+    },
+    "backgroundColorHover": {
+      "type": "string"
+    },
+    "backgroundGradient": {
+      "type": "string"
+    },
+    "backgroundGradientHover": {
+      "type": "string"
+    },
+    "afterRegisterActions": {
+      "type": "array",
+      "default": [
+        "autoLogin"
+      ]
+    },
+    "showLoginInfo": {
+      "type": "boolean",
+      "default": true
+    },
+    "btnSubmitLabel": {
+      "type": "string",
+      "default": "Register"
+    },
+    "autoRegisterRedirectURL": {
+      "type": "object",
+      "default": {
+        "url": "",
+        "opensInNewTab": false
+      }
+    },
+    "emailTemplateType": {
+      "type": "string",
+      "default": "default"
+    },
+    "newUserRole": {
+      "type": "string",
+      "default": "subscriber"
+    },
+    "btnLoginLink": {
+      "type": "string",
+      "default": "Already have an account? Login"
+    },
+    "emailTemplateSubject": {
+      "type": "string",
+      "default": "Welcome! Please verify your email"
+    },
+    "emailTemplateMessage": {
+      "type": "string",
+      "default": "Thank you for registering. Please click the link below to verify your email address."
+    },
+    "emailTemplateMessageType": {
+      "type": "string",
+      "default": "default"
+    },
+    "reCaptchaEnable": {
+      "type": "boolean",
+      "default": false
+    },
+    "reCaptchaType": {
+      "type": "string",
+      "default": "v2"
+    },
+    "messageSuccessRegistration": {
+      "type": "string",
+      "default": "Registration successful! Please check your email to verify your account."
+    },
+    "demoSuccessMessage": {
+      "type": "boolean",
+      "default": false
+    },
+    "demoErrorMessage": {
+      "type": "boolean",
+      "default": false
+    },
+    "demoFieldErrorMessage": {
+      "type": "boolean",
+      "default": false
+    },
+    "messageInvalidEmailError": {
+      "type": "string",
+      "default": "Please enter a valid email address."
+    },
+    "messageEmailMissingError": {
+      "type": "string",
+      "default": "Email is required."
+    },
+    "messageEmailAlreadyUsedError": {
+      "type": "string",
+      "default": "This email is already registered."
+    },
+    "messageInvalidUsernameError": {
+      "type": "string",
+      "default": "Please enter a valid username."
+    },
+    "messageUsernameMissingError": {
+      "type": "string",
+      "default": "Username is required."
+    },
+    "messageUsernameAlreadyUsedError": {
+      "type": "string",
+      "default": "This username is already taken."
+    },
+    "messageInvalidPasswordError": {
+      "type": "string",
+      "default": "Password cannot be accepted. Please try something else."
+    },
+    "messagePasswordConfirmError": {
+      "type": "string",
+      "default": "Passwords do not match."
+    },
+    "messageTermsError": {
+      "type": "string",
+      "default": "You must agree to the terms and conditions."
+    },
+    "messageOtherError": {
+      "type": "string",
+      "default": "Something went wrong! Please try again."
+    },
+    "loginInfo": {
+      "type": "string",
+      "default": "Already have an account?"
+    },
+    "btnLoginLabel": {
+      "type": "string",
+      "default": "Login"
+    },
+    "enableLoggedInMessage": {
+      "type": "boolean",
+      "default": false
+    },
+    "loggedInMessage": {
+      "type": "string",
+      "default": "You are already logged in."
+    },
+    "btnLogoutLabel": {
+      "type": "string",
+      "default": "Logout"
+    },
+    "hidereCaptchaBatch": {
+      "type": "boolean",
+      "default": false
+    },
+    "redirectAfterLogoutURL": {
+      "type": "object",
+      "default": {
+        "url": "",
+        "opensInNewTab": false
+      }
+    },
+    "errorColor": {
+      "type": "string"
+    },
+    "errorColorHover": {
+      "type": "string"
+    },
+    "formBackgroundColor": {
+      "type": "string"
+    },
+    "inputTextColor": {
+      "type": "string"
+    },
+    "inputTextColorHover": {
+      "type": "string"
+    },
+    "inputBgColor": {
+      "type": "string"
+    },
+    "inputBgColorHover": {
+      "type": "string"
+    },
+    "inputBorderColor": {
+      "type": "string"
+    },
+    "inputBorderColorHover": {
+      "type": "string"
+    },
+    "inputBorderColorFocus": {
+      "type": "string"
+    },
+    "inputPlaceholderColor": {
+      "type": "string"
+    },
+    "inputPlaceholderColorHover": {
+      "type": "string"
+    },
+    "inputTextColorActive": {
+      "type": "string"
+    },
+    "inputBgColorActive": {
+      "type": "string"
+    },
+    "inputBorderColorActive": {
+      "type": "string"
+    },
+    "fieldsIconColor": {
+      "type": "string"
+    },
+    "iconColor": {
+      "type": "string"
+    },
+    "iconColorHover": {
+      "type": "string"
+    },
+    "fieldsIconSize": {
+      "type": "string"
+    },
+    "eyeIconSize": {
+      "type": "string"
+    },
+    "eyeIconColor": {
+      "type": "string"
+    },
+    "inputFieldBgColor": {
+      "type": "string"
+    },
+    "inputFieldBgColorHover": {
+      "type": "string"
+    },
+    "inputFieldBgColorActive": {
+      "type": "string"
+    },
+    "successMessageBackground": {
+      "type": "string"
+    },
+    "successMessageColor": {
+      "type": "string"
+    },
+    "successMessageBorderColor": {
+      "type": "string"
+    },
+    "errorMessageBackground": {
+      "type": "string"
+    },
+    "errorMessageColor": {
+      "type": "string"
+    },
+    "errorMessageBorderColor": {
+      "type": "string"
+    },
+    "width": {
+      "type": "string"
+    },
+    "dimRatio": {
+      "type": "number"
+    }
+  }
+}

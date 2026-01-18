@@ -1,0 +1,1499 @@
+{
+	"background--secondary": {
+		"css": "background: var(--color--secondary);",
+		"title": "Secondary background",
+		"description": "Sets the background to the secondary color for a complementary, accent appearance.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary"
+		]
+	},
+	"background--secondary--10": {
+		"css": "background: var(--color--secondary--10);",
+		"title": "Secondary background, 10% opacity",
+		"description": "Sets the background to the secondary color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary--20": {
+		"css": "background: var(--color--secondary--20);",
+		"title": "Secondary background, 20% opacity",
+		"description": "Sets the background to the secondary color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary--30": {
+		"css": "background: var(--color--secondary--30);",
+		"title": "Secondary background, 30% opacity",
+		"description": "Sets the background to the secondary color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary--40": {
+		"css": "background: var(--color--secondary--40);",
+		"title": "Secondary background, 40% opacity",
+		"description": "Sets the background to the secondary color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary--50": {
+		"css": "background: var(--color--secondary--50);",
+		"title": "Secondary background, 50% opacity",
+		"description": "Sets the background to the secondary color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary--60": {
+		"css": "background: var(--color--secondary--60);",
+		"title": "Secondary background, 60% opacity",
+		"description": "Sets the background to the secondary color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary--70": {
+		"css": "background: var(--color--secondary--70);",
+		"title": "Secondary background, 70% opacity",
+		"description": "Sets the background to the secondary color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary--80": {
+		"css": "background: var(--color--secondary--80);",
+		"title": "Secondary background, 80% opacity",
+		"description": "Sets the background to the secondary color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary--90": {
+		"css": "background: var(--color--secondary--90);",
+		"title": "Secondary background, 90% opacity",
+		"description": "Sets the background to the secondary color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-dark": {
+		"css": "background: var(--color--secondary-dark);",
+		"title": "Secondary background - dark",
+		"description": "Sets the background to a dark secondary shade for strong emphasis and contrast.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"dark"
+		]
+	},
+	"background--secondary-dark--10": {
+		"css": "background: var(--color--secondary-dark--10);",
+		"title": "Secondary background - dark, 10% opacity",
+		"description": "Sets the background to the secondary dark color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"dark",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-dark--20": {
+		"css": "background: var(--color--secondary-dark--20);",
+		"title": "Secondary background - dark, 20% opacity",
+		"description": "Sets the background to the secondary dark color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"dark",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-dark--30": {
+		"css": "background: var(--color--secondary-dark--30);",
+		"title": "Secondary background - dark, 30% opacity",
+		"description": "Sets the background to the secondary dark color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"dark",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-dark--40": {
+		"css": "background: var(--color--secondary-dark--40);",
+		"title": "Secondary background - dark, 40% opacity",
+		"description": "Sets the background to the secondary dark color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"dark",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-dark--50": {
+		"css": "background: var(--color--secondary-dark--50);",
+		"title": "Secondary background - dark, 50% opacity",
+		"description": "Sets the background to the secondary dark color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"dark",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-dark--60": {
+		"css": "background: var(--color--secondary-dark--60);",
+		"title": "Secondary background - dark, 60% opacity",
+		"description": "Sets the background to the secondary dark color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"dark",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-dark--70": {
+		"css": "background: var(--color--secondary-dark--70);",
+		"title": "Secondary background - dark, 70% opacity",
+		"description": "Sets the background to the secondary dark color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"dark",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-dark--80": {
+		"css": "background: var(--color--secondary-dark--80);",
+		"title": "Secondary background - dark, 80% opacity",
+		"description": "Sets the background to the secondary dark color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"dark",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-dark--90": {
+		"css": "background: var(--color--secondary-dark--90);",
+		"title": "Secondary background - dark, 90% opacity",
+		"description": "Sets the background to the secondary dark color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"dark",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darker": {
+		"css": "background: var(--color--secondary-darker);",
+		"title": "Secondary background - darker",
+		"description": "Sets the background to a darker secondary shade for bold, impactful background.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darker"
+		]
+	},
+	"background--secondary-darker--10": {
+		"css": "background: var(--color--secondary-darker--10);",
+		"title": "Secondary background - darker, 10% opacity",
+		"description": "Sets the background to the secondary darker color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darker",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darker--20": {
+		"css": "background: var(--color--secondary-darker--20);",
+		"title": "Secondary background - darker, 20% opacity",
+		"description": "Sets the background to the secondary darker color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darker",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darker--30": {
+		"css": "background: var(--color--secondary-darker--30);",
+		"title": "Secondary background - darker, 30% opacity",
+		"description": "Sets the background to the secondary darker color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darker",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darker--40": {
+		"css": "background: var(--color--secondary-darker--40);",
+		"title": "Secondary background - darker, 40% opacity",
+		"description": "Sets the background to the secondary darker color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darker",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darker--50": {
+		"css": "background: var(--color--secondary-darker--50);",
+		"title": "Secondary background - darker, 50% opacity",
+		"description": "Sets the background to the secondary darker color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darker",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darker--60": {
+		"css": "background: var(--color--secondary-darker--60);",
+		"title": "Secondary background - darker, 60% opacity",
+		"description": "Sets the background to the secondary darker color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darker",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darker--70": {
+		"css": "background: var(--color--secondary-darker--70);",
+		"title": "Secondary background - darker, 70% opacity",
+		"description": "Sets the background to the secondary darker color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darker",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darker--80": {
+		"css": "background: var(--color--secondary-darker--80);",
+		"title": "Secondary background - darker, 80% opacity",
+		"description": "Sets the background to the secondary darker color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darker",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darker--90": {
+		"css": "background: var(--color--secondary-darker--90);",
+		"title": "Secondary background - darker, 90% opacity",
+		"description": "Sets the background to the secondary darker color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darker",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darkest": {
+		"css": "background: var(--color--secondary-darkest);",
+		"title": "Secondary background - darkest",
+		"description": "Sets the background to the darkest secondary shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darkest"
+		]
+	},
+	"background--secondary-darkest--10": {
+		"css": "background: var(--color--secondary-darkest--10);",
+		"title": "Secondary background - darkest, 10% opacity",
+		"description": "Sets the background to the secondary darkest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darkest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darkest--20": {
+		"css": "background: var(--color--secondary-darkest--20);",
+		"title": "Secondary background - darkest, 20% opacity",
+		"description": "Sets the background to the secondary darkest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darkest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darkest--30": {
+		"css": "background: var(--color--secondary-darkest--30);",
+		"title": "Secondary background - darkest, 30% opacity",
+		"description": "Sets the background to the secondary darkest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darkest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darkest--40": {
+		"css": "background: var(--color--secondary-darkest--40);",
+		"title": "Secondary background - darkest, 40% opacity",
+		"description": "Sets the background to the secondary darkest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darkest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darkest--50": {
+		"css": "background: var(--color--secondary-darkest--50);",
+		"title": "Secondary background - darkest, 50% opacity",
+		"description": "Sets the background to the secondary darkest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darkest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darkest--60": {
+		"css": "background: var(--color--secondary-darkest--60);",
+		"title": "Secondary background - darkest, 60% opacity",
+		"description": "Sets the background to the secondary darkest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darkest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darkest--70": {
+		"css": "background: var(--color--secondary-darkest--70);",
+		"title": "Secondary background - darkest, 70% opacity",
+		"description": "Sets the background to the secondary darkest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darkest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darkest--80": {
+		"css": "background: var(--color--secondary-darkest--80);",
+		"title": "Secondary background - darkest, 80% opacity",
+		"description": "Sets the background to the secondary darkest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darkest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-darkest--90": {
+		"css": "background: var(--color--secondary-darkest--90);",
+		"title": "Secondary background - darkest, 90% opacity",
+		"description": "Sets the background to the secondary darkest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"darkest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-black": {
+		"css": "background: var(--color--secondary-near-black);",
+		"title": "Secondary background - near-black",
+		"description": "Sets the background to a near-black secondary shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-black"
+		]
+	},
+	"background--secondary-near-black--10": {
+		"css": "background: var(--color--secondary-near-black--10);",
+		"title": "Secondary background - near-black, 10% opacity",
+		"description": "Sets the background to the secondary near-black color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-black--20": {
+		"css": "background: var(--color--secondary-near-black--20);",
+		"title": "Secondary background - near-black, 20% opacity",
+		"description": "Sets the background to the secondary near-black color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-black--30": {
+		"css": "background: var(--color--secondary-near-black--30);",
+		"title": "Secondary background - near-black, 30% opacity",
+		"description": "Sets the background to the secondary near-black color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-black--40": {
+		"css": "background: var(--color--secondary-near-black--40);",
+		"title": "Secondary background - near-black, 40% opacity",
+		"description": "Sets the background to the secondary near-black color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-black--50": {
+		"css": "background: var(--color--secondary-near-black--50);",
+		"title": "Secondary background - near-black, 50% opacity",
+		"description": "Sets the background to the secondary near-black color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-black--60": {
+		"css": "background: var(--color--secondary-near-black--60);",
+		"title": "Secondary background - near-black, 60% opacity",
+		"description": "Sets the background to the secondary near-black color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-black--70": {
+		"css": "background: var(--color--secondary-near-black--70);",
+		"title": "Secondary background - near-black, 70% opacity",
+		"description": "Sets the background to the secondary near-black color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-black--80": {
+		"css": "background: var(--color--secondary-near-black--80);",
+		"title": "Secondary background - near-black, 80% opacity",
+		"description": "Sets the background to the secondary near-black color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-black--90": {
+		"css": "background: var(--color--secondary-near-black--90);",
+		"title": "Secondary background - near-black, 90% opacity",
+		"description": "Sets the background to the secondary near-black color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-light": {
+		"css": "background: var(--color--secondary-light);",
+		"title": "Secondary background - light",
+		"description": "Sets the background to a light secondary shade for a softer, subtle appearance.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"light"
+		]
+	},
+	"background--secondary-light--10": {
+		"css": "background: var(--color--secondary-light--10);",
+		"title": "Secondary background - light, 10% opacity",
+		"description": "Sets the background to the secondary light color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"light",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-light--20": {
+		"css": "background: var(--color--secondary-light--20);",
+		"title": "Secondary background - light, 20% opacity",
+		"description": "Sets the background to the secondary light color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"light",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-light--30": {
+		"css": "background: var(--color--secondary-light--30);",
+		"title": "Secondary background - light, 30% opacity",
+		"description": "Sets the background to the secondary light color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"light",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-light--40": {
+		"css": "background: var(--color--secondary-light--40);",
+		"title": "Secondary background - light, 40% opacity",
+		"description": "Sets the background to the secondary light color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"light",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-light--50": {
+		"css": "background: var(--color--secondary-light--50);",
+		"title": "Secondary background - light, 50% opacity",
+		"description": "Sets the background to the secondary light color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"light",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-light--60": {
+		"css": "background: var(--color--secondary-light--60);",
+		"title": "Secondary background - light, 60% opacity",
+		"description": "Sets the background to the secondary light color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"light",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-light--70": {
+		"css": "background: var(--color--secondary-light--70);",
+		"title": "Secondary background - light, 70% opacity",
+		"description": "Sets the background to the secondary light color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"light",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-light--80": {
+		"css": "background: var(--color--secondary-light--80);",
+		"title": "Secondary background - light, 80% opacity",
+		"description": "Sets the background to the secondary light color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"light",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-light--90": {
+		"css": "background: var(--color--secondary-light--90);",
+		"title": "Secondary background - light, 90% opacity",
+		"description": "Sets the background to the secondary light color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"light",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lighter": {
+		"css": "background: var(--color--secondary-lighter);",
+		"title": "Secondary background - lighter",
+		"description": "Sets the background to a lighter secondary shade for gentle emphasis.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lighter"
+		]
+	},
+	"background--secondary-lighter--10": {
+		"css": "background: var(--color--secondary-lighter--10);",
+		"title": "Secondary background - lighter, 10% opacity",
+		"description": "Sets the background to the secondary lighter color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lighter",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lighter--20": {
+		"css": "background: var(--color--secondary-lighter--20);",
+		"title": "Secondary background - lighter, 20% opacity",
+		"description": "Sets the background to the secondary lighter color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lighter",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lighter--30": {
+		"css": "background: var(--color--secondary-lighter--30);",
+		"title": "Secondary background - lighter, 30% opacity",
+		"description": "Sets the background to the secondary lighter color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lighter",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lighter--40": {
+		"css": "background: var(--color--secondary-lighter--40);",
+		"title": "Secondary background - lighter, 40% opacity",
+		"description": "Sets the background to the secondary lighter color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lighter",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lighter--50": {
+		"css": "background: var(--color--secondary-lighter--50);",
+		"title": "Secondary background - lighter, 50% opacity",
+		"description": "Sets the background to the secondary lighter color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lighter",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lighter--60": {
+		"css": "background: var(--color--secondary-lighter--60);",
+		"title": "Secondary background - lighter, 60% opacity",
+		"description": "Sets the background to the secondary lighter color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lighter",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lighter--70": {
+		"css": "background: var(--color--secondary-lighter--70);",
+		"title": "Secondary background - lighter, 70% opacity",
+		"description": "Sets the background to the secondary lighter color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lighter",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lighter--80": {
+		"css": "background: var(--color--secondary-lighter--80);",
+		"title": "Secondary background - lighter, 80% opacity",
+		"description": "Sets the background to the secondary lighter color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lighter",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lighter--90": {
+		"css": "background: var(--color--secondary-lighter--90);",
+		"title": "Secondary background - lighter, 90% opacity",
+		"description": "Sets the background to the secondary lighter color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lighter",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lightest": {
+		"css": "background: var(--color--secondary-lightest);",
+		"title": "Secondary background - lightest",
+		"description": "Sets the background to the lightest secondary shade for a delicate, airy look.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lightest"
+		]
+	},
+	"background--secondary-lightest--10": {
+		"css": "background: var(--color--secondary-lightest--10);",
+		"title": "Secondary background - lightest, 10% opacity",
+		"description": "Sets the background to the secondary lightest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lightest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lightest--20": {
+		"css": "background: var(--color--secondary-lightest--20);",
+		"title": "Secondary background - lightest, 20% opacity",
+		"description": "Sets the background to the secondary lightest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lightest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lightest--30": {
+		"css": "background: var(--color--secondary-lightest--30);",
+		"title": "Secondary background - lightest, 30% opacity",
+		"description": "Sets the background to the secondary lightest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lightest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lightest--40": {
+		"css": "background: var(--color--secondary-lightest--40);",
+		"title": "Secondary background - lightest, 40% opacity",
+		"description": "Sets the background to the secondary lightest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lightest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lightest--50": {
+		"css": "background: var(--color--secondary-lightest--50);",
+		"title": "Secondary background - lightest, 50% opacity",
+		"description": "Sets the background to the secondary lightest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lightest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lightest--60": {
+		"css": "background: var(--color--secondary-lightest--60);",
+		"title": "Secondary background - lightest, 60% opacity",
+		"description": "Sets the background to the secondary lightest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lightest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lightest--70": {
+		"css": "background: var(--color--secondary-lightest--70);",
+		"title": "Secondary background - lightest, 70% opacity",
+		"description": "Sets the background to the secondary lightest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lightest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lightest--80": {
+		"css": "background: var(--color--secondary-lightest--80);",
+		"title": "Secondary background - lightest, 80% opacity",
+		"description": "Sets the background to the secondary lightest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lightest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-lightest--90": {
+		"css": "background: var(--color--secondary-lightest--90);",
+		"title": "Secondary background - lightest, 90% opacity",
+		"description": "Sets the background to the secondary lightest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"lightest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-white": {
+		"css": "background: var(--color--secondary-near-white);",
+		"title": "Secondary background - near-white",
+		"description": "Sets the background to a near-white secondary shade for a subtle, clean effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-white"
+		]
+	},
+	"background--secondary-near-white--10": {
+		"css": "background: var(--color--secondary-near-white--10);",
+		"title": "Secondary background - near-white, 10% opacity",
+		"description": "Sets the background to the secondary near-white color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-white--20": {
+		"css": "background: var(--color--secondary-near-white--20);",
+		"title": "Secondary background - near-white, 20% opacity",
+		"description": "Sets the background to the secondary near-white color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-white--30": {
+		"css": "background: var(--color--secondary-near-white--30);",
+		"title": "Secondary background - near-white, 30% opacity",
+		"description": "Sets the background to the secondary near-white color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-white--40": {
+		"css": "background: var(--color--secondary-near-white--40);",
+		"title": "Secondary background - near-white, 40% opacity",
+		"description": "Sets the background to the secondary near-white color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-white--50": {
+		"css": "background: var(--color--secondary-near-white--50);",
+		"title": "Secondary background - near-white, 50% opacity",
+		"description": "Sets the background to the secondary near-white color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-white--60": {
+		"css": "background: var(--color--secondary-near-white--60);",
+		"title": "Secondary background - near-white, 60% opacity",
+		"description": "Sets the background to the secondary near-white color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-white--70": {
+		"css": "background: var(--color--secondary-near-white--70);",
+		"title": "Secondary background - near-white, 70% opacity",
+		"description": "Sets the background to the secondary near-white color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-white--80": {
+		"css": "background: var(--color--secondary-near-white--80);",
+		"title": "Secondary background - near-white, 80% opacity",
+		"description": "Sets the background to the secondary near-white color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-near-white--90": {
+		"css": "background: var(--color--secondary-near-white--90);",
+		"title": "Secondary background - near-white, 90% opacity",
+		"description": "Sets the background to the secondary near-white color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"near-white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-complement": {
+		"css": "background: var(--color--secondary-complement);",
+		"title": "Secondary background - complement",
+		"description": "Sets the background to the secondary complement for visual contrast and balance.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"complement"
+		]
+	},
+	"background--secondary-complement--10": {
+		"css": "background: var(--color--secondary-complement--10);",
+		"title": "Secondary background - complement, 10% opacity",
+		"description": "Sets the background to the secondary complement color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"complement",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-complement--20": {
+		"css": "background: var(--color--secondary-complement--20);",
+		"title": "Secondary background - complement, 20% opacity",
+		"description": "Sets the background to the secondary complement color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"complement",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-complement--30": {
+		"css": "background: var(--color--secondary-complement--30);",
+		"title": "Secondary background - complement, 30% opacity",
+		"description": "Sets the background to the secondary complement color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"complement",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-complement--40": {
+		"css": "background: var(--color--secondary-complement--40);",
+		"title": "Secondary background - complement, 40% opacity",
+		"description": "Sets the background to the secondary complement color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"complement",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-complement--50": {
+		"css": "background: var(--color--secondary-complement--50);",
+		"title": "Secondary background - complement, 50% opacity",
+		"description": "Sets the background to the secondary complement color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"complement",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-complement--60": {
+		"css": "background: var(--color--secondary-complement--60);",
+		"title": "Secondary background - complement, 60% opacity",
+		"description": "Sets the background to the secondary complement color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"complement",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-complement--70": {
+		"css": "background: var(--color--secondary-complement--70);",
+		"title": "Secondary background - complement, 70% opacity",
+		"description": "Sets the background to the secondary complement color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"complement",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-complement--80": {
+		"css": "background: var(--color--secondary-complement--80);",
+		"title": "Secondary background - complement, 80% opacity",
+		"description": "Sets the background to the secondary complement color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"complement",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-complement--90": {
+		"css": "background: var(--color--secondary-complement--90);",
+		"title": "Secondary background - complement, 90% opacity",
+		"description": "Sets the background to the secondary complement color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"complement",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-inverted": {
+		"css": "background: var(--color--secondary-inverted);",
+		"title": "Secondary background - inverted",
+		"description": "Sets the background to the inverted secondary color for a striking, reversed look.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"inverted"
+		]
+	},
+	"background--secondary-inverted--10": {
+		"css": "background: var(--color--secondary-inverted--10);",
+		"title": "Secondary background - inverted, 10% opacity",
+		"description": "Sets the background to the secondary inverted color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"inverted",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-inverted--20": {
+		"css": "background: var(--color--secondary-inverted--20);",
+		"title": "Secondary background - inverted, 20% opacity",
+		"description": "Sets the background to the secondary inverted color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"inverted",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-inverted--30": {
+		"css": "background: var(--color--secondary-inverted--30);",
+		"title": "Secondary background - inverted, 30% opacity",
+		"description": "Sets the background to the secondary inverted color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"inverted",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-inverted--40": {
+		"css": "background: var(--color--secondary-inverted--40);",
+		"title": "Secondary background - inverted, 40% opacity",
+		"description": "Sets the background to the secondary inverted color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"inverted",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-inverted--50": {
+		"css": "background: var(--color--secondary-inverted--50);",
+		"title": "Secondary background - inverted, 50% opacity",
+		"description": "Sets the background to the secondary inverted color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"inverted",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-inverted--60": {
+		"css": "background: var(--color--secondary-inverted--60);",
+		"title": "Secondary background - inverted, 60% opacity",
+		"description": "Sets the background to the secondary inverted color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"inverted",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-inverted--70": {
+		"css": "background: var(--color--secondary-inverted--70);",
+		"title": "Secondary background - inverted, 70% opacity",
+		"description": "Sets the background to the secondary inverted color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"inverted",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-inverted--80": {
+		"css": "background: var(--color--secondary-inverted--80);",
+		"title": "Secondary background - inverted, 80% opacity",
+		"description": "Sets the background to the secondary inverted color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"inverted",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--secondary-inverted--90": {
+		"css": "background: var(--color--secondary-inverted--90);",
+		"title": "Secondary background - inverted, 90% opacity",
+		"description": "Sets the background to the secondary inverted color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"secondary",
+			"inverted",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

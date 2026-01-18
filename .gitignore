@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# Allow gitignore itself
+!.gitignore
+
+# Allow only the required paths
+!/domains/
+!/domains/davaksparfums.ch/
+!/domains/davaksparfums.ch/**
+!/backups/
+!/backups/**
+
+# Never track environment secrets
+/domains/davaksparfums.ch/.env

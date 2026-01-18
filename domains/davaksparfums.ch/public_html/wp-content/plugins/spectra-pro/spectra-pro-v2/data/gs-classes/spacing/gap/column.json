@@ -1,0 +1,58 @@
+{
+	"col-gap--none[innerblocks]": {
+		"css": "column-gap: 0;",
+		"title": "No column gap",
+		"description": "Removes all gap between columns.",
+		"category": "spacing",
+		"tags": ["column", "gap", "none"]
+	},
+	"col-gap--pixel[innerblocks]": {
+		"css": "column-gap: 1px;",
+		"title": "Pixel column gap",
+		"description": "Adds a 1px gap between columns.",
+		"category": "spacing",
+		"tags": ["column", "gap", "pixel"]
+	},
+	"col-gap--xs[innerblocks]": {
+		"css": "column-gap: var(--space--xs);",
+		"title": "Tiny column gap",
+		"description": "Adds a tiny gap between columns.",
+		"category": "spacing",
+		"tags": ["column", "gap", "xs"]
+	},
+	"col-gap--sm[innerblocks]": {
+		"css": "column-gap: var(--space--sm);",
+		"title": "Small column gap",
+		"description": "Adds a small gap between columns.",
+		"category": "spacing",
+		"tags": ["column", "gap", "sm"]
+	},
+	"col-gap--md[innerblocks]": {
+		"css": "column-gap: var(--space--md);",
+		"title": "Medium column gap",
+		"description": "Adds a medium gap between columns.",
+		"category": "spacing",
+		"tags": ["column", "gap", "md"]
+	},
+	"col-gap--lg[innerblocks]": {
+		"css": "column-gap: var(--space--lg);",
+		"title": "Large column gap",
+		"description": "Adds a large gap between columns.",
+		"category": "spacing",
+		"tags": ["column", "gap", "lg"]
+	},
+	"col-gap--xl[innerblocks]": {
+		"css": "column-gap: var(--space--xl);",
+		"title": "Extra-large column gap",
+		"description": "Adds an extra-large gap between columns.",
+		"category": "spacing",
+		"tags": ["column", "gap", "xl"]
+	},
+	"col-gap--xxl[innerblocks]": {
+		"css": "column-gap: var(--space--xxl);",
+		"title": "Huge column gap",
+		"description": "Adds a huge gap between columns.",
+		"category": "spacing",
+		"tags": ["column", "gap", "xxl"]
+	}
+}

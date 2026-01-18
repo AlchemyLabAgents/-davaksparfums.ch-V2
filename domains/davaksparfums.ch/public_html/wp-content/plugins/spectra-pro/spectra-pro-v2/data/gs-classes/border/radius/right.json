@@ -1,0 +1,90 @@
+{
+	"corner--r-none": {
+		"css": "border-top-right-radius: 0; border-bottom-right-radius: 0;",
+		"title": "No right radius",
+		"description": "Makes right corners sharp.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"right",
+			"none"
+		]
+	},
+	"corner--r-xs": {
+		"css": "border-top-right-radius: 0.125rem; border-bottom-right-radius: 0.125rem;",
+		"title": "Tiny right radius",
+		"description": "Adds a tiny curve to right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"right",
+			"xs"
+		]
+	},
+	"corner--r-sm": {
+		"css": "border-top-right-radius: 0.25rem; border-bottom-right-radius: 0.25rem;",
+		"title": "Small right radius",
+		"description": "Adds a small curve to right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"right",
+			"sm"
+		]
+	},
+	"corner--r-md": {
+		"css": "border-top-right-radius: 0.375rem; border-bottom-right-radius: 0.375rem;",
+		"title": "Medium right radius",
+		"description": "Adds a medium curve to right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"right",
+			"md"
+		]
+	},
+	"corner--r-lg": {
+		"css": "border-top-right-radius: 1rem; border-bottom-right-radius: 1rem;",
+		"title": "Large right radius",
+		"description": "Adds a large curve to right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"right",
+			"lg"
+		]
+	},
+	"corner--r-xl": {
+		"css": "border-top-right-radius: 1.5rem; border-bottom-right-radius: 1.5rem;",
+		"title": "Extra-Large right radius",
+		"description": "Adds an extra-large curve to right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"right",
+			"xl"
+		]
+	},
+	"corner--r-xxl": {
+		"css": "border-top-right-radius: 2rem; border-bottom-right-radius: 2rem;",
+		"title": "Huge right radius",
+		"description": "Adds a huge curve to right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"right",
+			"xxl"
+		]
+	},
+	"corner--r-round": {
+		"css": "border-top-right-radius: 9999999px; border-bottom-right-radius: 9999999px;",
+		"title": "Round right radius",
+		"description": "Adds a round curve to right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"right",
+			"round"
+		]
+	}
+}

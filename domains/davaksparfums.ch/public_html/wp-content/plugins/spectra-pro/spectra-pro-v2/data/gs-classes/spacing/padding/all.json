@@ -1,0 +1,72 @@
+{
+	"padding--none": {
+		"css": "padding: 0;",
+		"title": "No padding",
+		"description": "Removes padding.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"none"
+		]
+	},
+	"padding--xs": {
+		"css": "padding: var(--space--xs);",
+		"title": "Tiny padding",
+		"description": "Adds a tiny padding.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"xs"
+		]
+	},
+	"padding--sm": {
+		"css": "padding: var(--space--sm);",
+		"title": "Small padding",
+		"description": "Adds a small padding.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"sm"
+		]
+	},
+	"padding--md": {
+		"css": "padding: var(--space--md);",
+		"title": "Medium padding",
+		"description": "Adds a medium padding.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"md"
+		]
+	},
+	"padding--lg": {
+		"css": "padding: var(--space--lg);",
+		"title": "Large padding",
+		"description": "Adds a large padding.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"lg"
+		]
+	},
+	"padding--xl": {
+		"css": "padding: var(--space--xl);",
+		"title": "Extra-large padding",
+		"description": "Adds an extra-large padding.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"xl"
+		]
+	},
+	"padding--xxl": {
+		"css": "padding: var(--space--xxl);",
+		"title": "Huge padding",
+		"description": "Adds a huge padding.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"xxl"
+		]
+	}
+}

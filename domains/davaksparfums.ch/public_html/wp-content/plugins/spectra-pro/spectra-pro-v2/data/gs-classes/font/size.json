@@ -1,0 +1,128 @@
+{
+	"heading--6": {
+		"css": "font-size: var(--heading--6);",
+		"title": "H6 heading size",
+		"description": "Applies the H6 heading font size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"heading",
+			"text",
+			"xs"
+		]
+	},
+	"heading--5": {
+		"css": "font-size: var(--heading--5);",
+		"title": "H5 heading size",
+		"description": "Applies the H5 heading font size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"heading",
+			"text",
+			"sm"
+		]
+	},
+	"heading--4": {
+		"css": "font-size: var(--heading--4);",
+		"title": "H4 heading size",
+		"description": "Applies the H4 heading font size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"heading",
+			"text",
+			"md"
+		]
+	},
+	"heading--3": {
+		"css": "font-size: var(--heading--3);",
+		"title": "H3 heading size",
+		"description": "Applies the H3 heading font size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"heading",
+			"text",
+			"lg"
+		]
+	},
+	"heading--2": {
+		"css": "font-size: var(--heading--2);",
+		"title": "H2 heading size",
+		"description": "Applies the H2 heading font size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"heading",
+			"text",
+			"xl"
+		]
+	},
+	"heading--1": {
+		"css": "font-size: var(--heading--1);",
+		"title": "H1 heading size",
+		"description": "Applies the H1 heading font size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"heading",
+			"text",
+			"xxl"
+		]
+	},
+	"text--xs": {
+		"css": "font-size: var(--text--xs);",
+		"title": "Tiny text",
+		"description": "Applies the tiny text size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"text",
+			"xs"
+		]
+	},
+	"text--sm": {
+		"css": "font-size: var(--text--sm);",
+		"title": "Small text",
+		"description": "Applies the small text size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"text",
+			"sm"
+		]
+	},
+	"text--md": {
+		"css": "font-size: var(--text--md);",
+		"title": "Medium text",
+		"description": "Applies the medium text size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"text",
+			"md"
+		]
+	},
+	"text--lg": {
+		"css": "font-size: var(--text--lg);",
+		"title": "Large text",
+		"description": "Applies the large text size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"text",
+			"lg"
+		]
+	},
+	"text--xl": {
+		"css": "font-size: var(--text--xl);",
+		"title": "Extra large text",
+		"description": "Applies the extra large text size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"text",
+			"xl"
+		]
+	},
+	"text--xxl": {
+		"css": "font-size: var(--text--xxl);",
+		"title": "Huge text",
+		"description": "Applies the huge text size using CSS custom properties.",
+		"category": "typography",
+		"tags": [
+			"text",
+			"xxl"
+		]
+	}
+}

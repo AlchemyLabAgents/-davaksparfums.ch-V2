@@ -1,0 +1,90 @@
+{
+	"corner--l-none": {
+		"css": "border-top-left-radius: 0; border-bottom-left-radius: 0;",
+		"title": "No left radius",
+		"description": "Makes left corners sharp.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"left",
+			"none"
+		]
+	},
+	"corner--l-xs": {
+		"css": "border-top-left-radius: 0.125rem; border-bottom-left-radius: 0.125rem;",
+		"title": "Tiny left radius",
+		"description": "Adds a tiny curve to left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"left",
+			"xs"
+		]
+	},
+	"corner--l-sm": {
+		"css": "border-top-left-radius: 0.25rem; border-bottom-left-radius: 0.25rem;",
+		"title": "Small left radius",
+		"description": "Adds a small curve to left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"left",
+			"sm"
+		]
+	},
+	"corner--l-md": {
+		"css": "border-top-left-radius: 0.375rem; border-bottom-left-radius: 0.375rem;",
+		"title": "Medium left radius",
+		"description": "Adds a medium curve to left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"left",
+			"md"
+		]
+	},
+	"corner--l-lg": {
+		"css": "border-top-left-radius: 1rem; border-bottom-left-radius: 1rem;",
+		"title": "Large left radius",
+		"description": "Adds a large curve to left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"left",
+			"lg"
+		]
+	},
+	"corner--l-xl": {
+		"css": "border-top-left-radius: 1.5rem; border-bottom-left-radius: 1.5rem;",
+		"title": "Extra-Large left radius",
+		"description": "Adds an extra-large curve to left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"left",
+			"xl"
+		]
+	},
+	"corner--l-xxl": {
+		"css": "border-top-left-radius: 2rem; border-bottom-left-radius: 2rem;",
+		"title": "Huge left radius",
+		"description": "Adds a huge curve to left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"left",
+			"xxl"
+		]
+	},
+	"corner--l-round": {
+		"css": "border-top-left-radius: 9999999px; border-bottom-left-radius: 9999999px;",
+		"title": "Round left radius",
+		"description": "Adds a round curve to left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"left",
+			"round"
+		]
+	}
+}

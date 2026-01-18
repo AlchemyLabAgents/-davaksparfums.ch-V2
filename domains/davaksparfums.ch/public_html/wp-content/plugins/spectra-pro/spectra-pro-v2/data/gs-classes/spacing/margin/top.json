@@ -1,0 +1,79 @@
+{
+	"margin--t-none": {
+		"css": "margin-top: 0;",
+		"title": "No top margin",
+		"description": "Removes all margin from the top.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"top",
+			"none"
+		]
+	},
+	"margin--t-xs": {
+		"css": "margin-top: var(--space--xs);",
+		"title": "Tiny top margin",
+		"description": "Adds a tiny amount of margin to the top.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"top",
+			"xs"
+		]
+	},
+	"margin--t-sm": {
+		"css": "margin-top: var(--space--sm);",
+		"title": "Small top margin",
+		"description": "Adds a small amount of margin to the top.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"top",
+			"sm"
+		]
+	},
+	"margin--t-md": {
+		"css": "margin-top: var(--space--md);",
+		"title": "Medium top margin",
+		"description": "Adds a medium amount of margin to the top.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"top",
+			"md"
+		]
+	},
+	"margin--t-lg": {
+		"css": "margin-top: var(--space--lg);",
+		"title": "Large top margin",
+		"description": "Adds a large amount of margin to the top.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"top",
+			"lg"
+		]
+	},
+	"margin--t-xl": {
+		"css": "margin-top: var(--space--xl);",
+		"title": "Extra-large top margin",
+		"description": "Adds an extra-large amount of margin to the top.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"top",
+			"xl"
+		]
+	},
+	"margin--t-xxl": {
+		"css": "margin-top: var(--space--xxl);",
+		"title": "Double-extra-large top margin",
+		"description": "Adds a double-extra-large amount of margin to the top.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"top",
+			"xxl"
+		]
+	}
+}

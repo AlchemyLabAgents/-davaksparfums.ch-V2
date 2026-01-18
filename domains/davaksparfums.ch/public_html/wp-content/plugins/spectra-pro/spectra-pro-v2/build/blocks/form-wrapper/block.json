@@ -1,0 +1,81 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/form-wrapper",
+  "version": "2.0.0",
+  "title": "Form Wrapper",
+  "category": "spectra-pro-v2",
+  "description": "A flexible wrapper for form components with modular structure.",
+  "keywords": [
+    "wrapper",
+    "form",
+    "container",
+    "layout"
+  ],
+  "textdomain": "spectra-pro",
+  "parent": [
+    "spectra-pro/login"
+  ],
+  "supports": {
+    "anchor": true,
+    "html": false,
+    "shadow": true,
+    "__experimentalBorder": {
+      "style": true,
+      "width": true,
+      "color": true,
+      "radius": true,
+      "shadow": true,
+      "__experimentalDefaultControls": {
+        "width": true,
+        "color": true,
+        "radius": true,
+        "shadow": true
+      }
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "__experimentalDefaultControls": {
+        "margin": false,
+        "padding": true
+      }
+    },
+    "color": {
+      "text": true,
+      "background": true,
+      "gradients": true,
+      "__experimentalDefaultControls": {
+        "background": true,
+        "text": true
+      }
+    }
+  },
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./controller.php",
+  "usesContext": [
+    "spectra-pro/form/formId",
+    "spectra-pro/form/formType",
+    "spectra-pro/form/overallAlignment"
+  ],
+  "attributes": {
+    "anchor": {
+      "type": "string"
+    },
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "wrapperType": {
+      "type": "string",
+      "default": "form"
+    }
+  }
+}

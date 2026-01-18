@@ -1,0 +1,133 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/loop-builder-child-pagination",
+  "title": "Pagination",
+  "category": "spectra-pro-v2",
+  "ancestor": [
+    "spectra-pro/loop-builder"
+  ],
+  "description": "Loop Builder - Pagination block allows user to paginate the loop.",
+  "textdomain": "spectra-pro",
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "layout": {
+      "type": "object",
+      "default": {
+        "type": "flex",
+        "justifyContent": "center"
+      }
+    },
+    "textColor": {
+      "type": "string"
+    },
+    "textColorHover": {
+      "type": "string"
+    },
+    "textColorActive": {
+      "type": "string"
+    },
+    "backgroundColor": {
+      "type": "string"
+    },
+    "backgroundColorHover": {
+      "type": "string"
+    },
+    "backgroundColorActive": {
+      "type": "string"
+    },
+    "backgroundColorSecondary": {
+      "type": "string"
+    },
+    "backgroundColorSecondaryHover": {
+      "type": "string"
+    },
+    "backgroundGradient": {
+      "type": "string"
+    },
+    "backgroundGradientHover": {
+      "type": "string"
+    },
+    "backgroundGradientActive": {
+      "type": "string"
+    },
+    "backgroundGradientSecondary": {
+      "type": "string"
+    },
+    "backgroundGradientSecondaryHover": {
+      "type": "string"
+    }
+  },
+  "usesContext": [
+    "spectra-pro/loop-builder/queryId",
+    "spectra-pro/loop-builder/query"
+  ],
+  "providesContext": {
+    "spectra-pro/loop-builder-pagination/textColor": "textColor",
+    "spectra-pro/loop-builder-pagination/textColorHover": "textColorHover",
+    "spectra-pro/loop-builder-pagination/textColorActive": "textColorActive",
+    "spectra-pro/loop-builder-pagination/backgroundColor": "backgroundColor",
+    "spectra-pro/loop-builder-pagination/backgroundColorHover": "backgroundColorHover",
+    "spectra-pro/loop-builder-pagination/backgroundColorActive": "backgroundColorActive",
+    "spectra-pro/loop-builder-pagination/backgroundGradient": "backgroundGradient",
+    "spectra-pro/loop-builder-pagination/backgroundGradientHover": "backgroundGradientHover",
+    "spectra-pro/loop-builder-pagination/backgroundGradientActive": "backgroundGradientActive"
+  },
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "supports": {
+    "align": true,
+    "reusable": false,
+    "html": false,
+    "shadow": true,
+    "layout": {
+      "allowSwitching": false,
+      "allowInheriting": false,
+      "default": {
+        "type": "flex",
+        "justifyContent": "center"
+      }
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontWeight": true,
+      "__experimentalFontStyle": true,
+      "__experimentalTextTransform": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true,
+      "__experimentalDefaultControls": {
+        "fontSize": true
+      }
+    },
+    "__experimentalBorder": {
+      "width": true,
+      "color": true,
+      "radius": true,
+      "style": true,
+      "shadow": true,
+      "__experimentalDefaultControls": {
+        "width": true,
+        "color": true,
+        "radius": true,
+        "style": true,
+        "shadow": true
+      }
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "blockGap": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

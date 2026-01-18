@@ -1,0 +1,72 @@
+{
+	"margin--none": {
+		"css": "margin: 0;",
+		"title": "No margin",
+		"description": "Removes margin.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"none"
+		]
+	},
+	"margin--xs": {
+		"css": "margin: var(--space--xs);",
+		"title": "Tiny margin",
+		"description": "Adds a tiny margin.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"xs"
+		]
+	},
+	"margin--sm": {
+		"css": "margin: var(--space--sm);",
+		"title": "Small margin",
+		"description": "Adds a small margin.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"sm"
+		]
+	},
+	"margin--md": {
+		"css": "margin: var(--space--md);",
+		"title": "Medium margin",
+		"description": "Adds a medium margin.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"md"
+		]
+	},
+	"margin--lg": {
+		"css": "margin: var(--space--lg);",
+		"title": "Large margin",
+		"description": "Adds a large margin.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"lg"
+		]
+	},
+	"margin--xl": {
+		"css": "margin: var(--space--xl);",
+		"title": "Extra-large margin",
+		"description": "Adds an extra-large margin.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"xl"
+		]
+	},
+	"margin--xxl": {
+		"css": "margin: var(--space--xxl);",
+		"title": "Huge margin",
+		"description": "Adds a huge margin.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"xxl"
+		]
+	}
+}

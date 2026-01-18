@@ -1,0 +1,125 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/form-message",
+  "version": "2.0.0",
+  "title": "Form Message",
+  "category": "spectra-pro-v2",
+  "description": "A message display component for form success and error messages.",
+  "keywords": [
+    "message",
+    "form",
+    "error",
+    "success",
+    "notification"
+  ],
+  "textdomain": "spectra-pro",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewStyle": [
+    "dashicons"
+  ],
+  "parent": [
+    "spectra-pro/login",
+    "spectra-pro/register"
+  ],
+  "usesContext": [
+    "spectra-pro/form/formType",
+    "spectra-pro/form/demoSuccessMessage",
+    "spectra-pro/form/demoErrorMessage",
+    "spectra-pro/form/successMessageText",
+    "spectra-pro/form/errorMessageText",
+    "spectra-pro/form/errorMessageBackground",
+    "spectra-pro/form/errorMessageColor",
+    "spectra-pro/form/errorMessageBorderColor",
+    "spectra-pro/form/successMessageBackground",
+    "spectra-pro/form/successMessageColor",
+    "spectra-pro/form/successMessageBorderColor"
+  ],
+  "attributes": {
+    "messageType": {
+      "type": "string",
+      "default": "success",
+      "enum": [
+        "success",
+        "error",
+        "info",
+        "warning"
+      ]
+    },
+    "messageText": {
+      "type": "string",
+      "default": "Operation completed successfully."
+    },
+    "isVisible": {
+      "type": "boolean",
+      "default": false
+    },
+    "dismissible": {
+      "type": "boolean",
+      "default": true
+    },
+    "autoHide": {
+      "type": "boolean",
+      "default": false
+    },
+    "autoHideDelay": {
+      "type": "number",
+      "default": 5000
+    },
+    "successMessageBackground": {
+      "type": "string"
+    },
+    "successMessageColor": {
+      "type": "string"
+    },
+    "successMessageBorderColor": {
+      "type": "string"
+    },
+    "errorMessageBackground": {
+      "type": "string"
+    },
+    "errorMessageColor": {
+      "type": "string"
+    },
+    "errorMessageBorderColor": {
+      "type": "string"
+    },
+    "textColor": {
+      "type": "string"
+    },
+    "backgroundColor": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "html": false,
+    "reusable": false,
+    "inserter": false,
+    "color": {
+      "text": true,
+      "background": true,
+      "gradients": false
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "fontFamily": true,
+      "fontWeight": true,
+      "textDecoration": true,
+      "textTransform": true,
+      "letterSpacing": true
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true
+    },
+    "__experimentalBorder": {
+      "radius": true,
+      "width": true,
+      "color": true,
+      "style": true
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+	"display--block[innerblocks]": {
+		"css": "display: block;",
+		"title": "Block display",
+		"description": "Makes the element a block-level element.",
+		"category": "display",
+		"tags": [
+			"display",
+			"block"
+		]
+	},
+	"display--contents[innerblocks]": {
+		"css": "display: contents;",
+		"title": "Contents display",
+		"description": "Makes the element's children appear as if they were direct children of the parent.",
+		"category": "display",
+		"tags": [
+			"display",
+			"contents"
+		]
+	},
+	"display--flex[innerblocks]": {
+		"css": "display: flex;",
+		"title": "Flex display",
+		"description": "Creates a flexbox container.",
+		"category": "display",
+		"tags": [
+			"display",
+			"flex"
+		]
+	},
+	"display--grid[innerblocks]": {
+		"css": "display: grid;",
+		"title": "Grid display",
+		"description": "Creates a grid container.",
+		"category": "display",
+		"tags": [
+			"display",
+			"grid"
+		]
+	},
+	"display--inline[innerblocks]": {
+		"css": "display: inline;",
+		"title": "Inline display",
+		"description": "Makes the element an inline element.",
+		"category": "display",
+		"tags": [
+			"display",
+			"inline"
+		]
+	},
+	"display--inline-block[innerblocks]": {
+		"css": "display: inline-block;",
+		"title": "Inline-block display",
+		"description": "Makes the element inline but allows block-level properties.",
+		"category": "display",
+		"tags": [
+			"display",
+			"inline",
+			"block"
+		]
+	},
+	"display--inline-flex[innerblocks]": {
+		"css": "display: inline-flex;",
+		"title": "Inline-flex display",
+		"description": "Creates an inline flexbox container.",
+		"category": "display",
+		"tags": [
+			"display",
+			"inline",
+			"flex"
+		]
+	},
+	"display--inline-grid[innerblocks]": {
+		"css": "display: inline-grid;",
+		"title": "Inline-grid display",
+		"description": "Creates an inline grid container.",
+		"category": "display",
+		"tags": [
+			"display",
+			"inline",
+			"grid"
+		]
+	},
+	"display--none[innerblocks]": {
+		"css": "display: none;",
+		"title": "Hidden display",
+		"description": "Hides the element completely.",
+		"category": "display",
+		"tags": [
+			"display",
+			"none"
+		]
+	}
+}

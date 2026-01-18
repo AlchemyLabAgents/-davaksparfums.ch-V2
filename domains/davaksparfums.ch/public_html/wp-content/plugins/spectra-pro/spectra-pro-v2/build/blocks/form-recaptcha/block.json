@@ -1,0 +1,89 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/form-recaptcha",
+  "version": "2.0.0",
+  "title": "Form reCAPTCHA",
+  "category": "spectra-pro-v2",
+  "description": "Google reCAPTCHA integration for form spam protection.",
+  "keywords": [
+    "recaptcha",
+    "captcha",
+    "spam",
+    "protection",
+    "security"
+  ],
+  "textdomain": "spectra-pro",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "parent": [
+    "spectra-pro/login",
+    "spectra-pro/register"
+  ],
+  "usesContext": [
+    "spectra-pro/form/formType",
+    "spectra-pro/form/enableRecaptcha",
+    "spectra-pro/form/recaptchaVersion"
+  ],
+  "attributes": {
+    "recaptchaVersion": {
+      "type": "string",
+      "default": "v2",
+      "enum": [
+        "v2",
+        "v3"
+      ]
+    },
+    "recaptchaSize": {
+      "type": "string",
+      "default": "normal",
+      "enum": [
+        "normal",
+        "compact"
+      ]
+    },
+    "recaptchaTheme": {
+      "type": "string",
+      "default": "light",
+      "enum": [
+        "light",
+        "dark"
+      ]
+    },
+    "isEnabled": {
+      "type": "boolean",
+      "default": true
+    }
+  },
+  "supports": {
+    "html": false,
+    "reusable": false,
+    "inserter": false,
+    "lock": false,
+    "color": {
+      "text": false,
+      "background": false,
+      "gradients": false
+    },
+    "typography": {
+      "fontSize": false,
+      "lineHeight": false,
+      "fontFamily": false,
+      "fontWeight": false,
+      "textDecoration": false,
+      "textTransform": false,
+      "letterSpacing": false
+    },
+    "spacing": {
+      "margin": true,
+      "padding": false
+    },
+    "__experimentalBorder": {
+      "radius": false,
+      "width": false,
+      "color": false,
+      "style": false
+    }
+  }
+}

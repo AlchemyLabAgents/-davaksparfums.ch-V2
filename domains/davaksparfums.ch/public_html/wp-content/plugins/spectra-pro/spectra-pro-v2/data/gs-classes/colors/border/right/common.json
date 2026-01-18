@@ -1,0 +1,287 @@
+{
+	"border--r-transparent": {
+		"css": "border-inline-end-color: transparent;",
+		"title": "Right transparent border",
+		"description": "Sets the right border to transparent.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"transparent"
+		]
+	},
+	"border--r-white": {
+		"css": "border-inline-end-color: #fff;",
+		"title": "Right white border",
+		"description": "Sets the right border to white for a clean, neutral appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"white"
+		]
+	},
+	"border--r-white--10": {
+		"css": "border-inline-end-color: var(--color--white--10);",
+		"title": "Right white border, 10% opacity",
+		"description": "Sets the right border to white with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-white--20": {
+		"css": "border-inline-end-color: var(--color--white--20);",
+		"title": "Right white border, 20% opacity",
+		"description": "Sets the right border to white with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-white--30": {
+		"css": "border-inline-end-color: var(--color--white--30);",
+		"title": "Right white border, 30% opacity",
+		"description": "Sets the right border to white with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-white--40": {
+		"css": "border-inline-end-color: var(--color--white--40);",
+		"title": "Right white border, 40% opacity",
+		"description": "Sets the right border to white with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-white--50": {
+		"css": "border-inline-end-color: var(--color--white--50);",
+		"title": "Right white border, 50% opacity",
+		"description": "Sets the right border to white with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-white--60": {
+		"css": "border-inline-end-color: var(--color--white--60);",
+		"title": "Right white border, 60% opacity",
+		"description": "Sets the right border to white with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-white--70": {
+		"css": "border-inline-end-color: var(--color--white--70);",
+		"title": "Right white border, 70% opacity",
+		"description": "Sets the right border to white with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-white--80": {
+		"css": "border-inline-end-color: var(--color--white--80);",
+		"title": "Right white border, 80% opacity",
+		"description": "Sets the right border to white with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-white--90": {
+		"css": "border-inline-end-color: var(--color--white--90);",
+		"title": "Right white border, 90% opacity",
+		"description": "Sets the right border to white with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-black": {
+		"css": "border-inline-end-color: #000;",
+		"title": "Right black border",
+		"description": "Sets the right border to black for a bold, classic look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"black"
+		]
+	},
+	"border--r-black--10": {
+		"css": "border-inline-end-color: var(--color--black--10);",
+		"title": "Right black border, 10% opacity",
+		"description": "Sets the right border to black with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-black--20": {
+		"css": "border-inline-end-color: var(--color--black--20);",
+		"title": "Right black border, 20% opacity",
+		"description": "Sets the right border to black with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-black--30": {
+		"css": "border-inline-end-color: var(--color--black--30);",
+		"title": "Right black border, 30% opacity",
+		"description": "Sets the right border to black with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-black--40": {
+		"css": "border-inline-end-color: var(--color--black--40);",
+		"title": "Right black border, 40% opacity",
+		"description": "Sets the right border to black with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-black--50": {
+		"css": "border-inline-end-color: var(--color--black--50);",
+		"title": "Right black border, 50% opacity",
+		"description": "Sets the right border to black with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-black--60": {
+		"css": "border-inline-end-color: var(--color--black--60);",
+		"title": "Right black border, 60% opacity",
+		"description": "Sets the right border to black with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-black--70": {
+		"css": "border-inline-end-color: var(--color--black--70);",
+		"title": "Right black border, 70% opacity",
+		"description": "Sets the right border to black with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-black--80": {
+		"css": "border-inline-end-color: var(--color--black--80);",
+		"title": "Right black border, 80% opacity",
+		"description": "Sets the right border to black with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-black--90": {
+		"css": "border-inline-end-color: var(--color--black--90);",
+		"title": "Right black border, 90% opacity",
+		"description": "Sets the right border to black with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

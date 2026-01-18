@@ -1,0 +1,101 @@
+{
+	"border--l-none": {
+		"css": "border-inline-start-style: none;",
+		"title": "No left border",
+		"description": "Removes the left border.",
+		"category": "border",
+		"tags": [
+			"border",
+			"left",
+			"none"
+		]
+	},
+	"border--l-solid": {
+		"css": "border-inline-start-style: solid;",
+		"title": "Solid left border",
+		"description": "Gives the left border a solid line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"left",
+			"solid"
+		]
+	},
+	"border--l-dashed": {
+		"css": "border-inline-start-style: dashed;",
+		"title": "Dashed left border",
+		"description": "Gives the left border a dashed line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"left",
+			"dashed"
+		]
+	},
+	"border--l-dotted": {
+		"css": "border-inline-start-style: dotted;",
+		"title": "Dotted left border",
+		"description": "Gives the left border a dotted line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"left",
+			"dotted"
+		]
+	},
+	"border--l-double": {
+		"css": "border-inline-start-style: double;",
+		"title": "Double left border",
+		"description": "Gives the left border a double line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"left",
+			"double"
+		]
+	},
+	"border--l-groove": {
+		"css": "border-inline-start-style: groove;",
+		"title": "Groove left border",
+		"description": "Gives the left border a groove.",
+		"category": "border",
+		"tags": [
+			"border",
+			"left",
+			"groove"
+		]
+	},
+	"border--l-ridge": {
+		"css": "border-inline-start-style: ridge;",
+		"title": "Ridge left border",
+		"description": "Gives the left border a ridge.",
+		"category": "border",
+		"tags": [
+			"border",
+			"left",
+			"ridge"
+		]
+	},
+	"border--l-inset": {
+		"css": "border-inline-start-style: inset;",
+		"title": "Inset left border",
+		"description": "Gives the left border an inset.",
+		"category": "border",
+		"tags": [
+			"border",
+			"left",
+			"inset"
+		]
+	},
+	"border--l-outset": {
+		"css": "border-inline-start-style: outset;",
+		"title": "Outset left border",
+		"description": "Gives the left border an outset.",
+		"category": "border",
+		"tags": [
+			"border",
+			"left",
+			"outset"
+		]
+	}
+}

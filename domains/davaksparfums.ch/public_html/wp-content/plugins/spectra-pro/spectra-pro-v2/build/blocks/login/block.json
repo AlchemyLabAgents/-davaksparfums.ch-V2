@@ -1,0 +1,574 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/login",
+  "version": "2.0.0",
+  "title": "Login Form",
+  "category": "spectra-pro-v2",
+  "description": "A customizable login form with modular components and flexible styling options.",
+  "textdomain": "spectra-pro",
+  "keywords": [
+    "login",
+    "form",
+    "authentication",
+    "user",
+    "signin",
+    "access",
+    "account"
+  ],
+  "template": [
+    [
+      "spectra/content",
+      {
+        "text": "Welcome Back",
+        "tagName": "h2"
+      }
+    ],
+    [
+      "spectra-pro/form-input-wrapper",
+      {
+        "fieldType": "username",
+        "isRequired": true
+      }
+    ],
+    [
+      "spectra-pro/form-input-wrapper",
+      {
+        "fieldType": "password",
+        "isRequired": true
+      }
+    ],
+    [
+      "spectra-pro/form-checkbox"
+    ],
+    [
+      "spectra-pro/form-button",
+      {
+        "buttonText": "Log In",
+        "buttonType": "submit"
+      }
+    ],
+    [
+      "spectra-pro/form-link"
+    ]
+  ],
+  "templateLock": false,
+  "allowedBlocks": [
+    "spectra/content",
+    "spectra-pro/form-wrapper",
+    "spectra-pro/form-input-wrapper",
+    "spectra-pro/form-field-wrapper",
+    "spectra-pro/form-input-label",
+    "spectra-pro/form-icon",
+    "spectra-pro/form-input-field",
+    "spectra-pro/form-checkbox",
+    "spectra-pro/form-button",
+    "spectra-pro/form-link",
+    "spectra-pro/form-message",
+    "spectra-pro/form-recaptcha"
+  ],
+  "supports": {
+    "interactivity": true,
+    "anchor": true,
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "layout": {
+      "default": {
+        "type": "flex",
+        "orientation": "vertical",
+        "flexWrap": "nowrap",
+        "justifyContent": "left",
+        "verticalAlignment": "center"
+      },
+      "allowSizingOnChildren": true,
+      "allowSwitching": true
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "blockGap": true,
+      "__experimentalDefaultControls": {
+        "margin": false,
+        "padding": true,
+        "blockGap": true
+      }
+    },
+    "__experimentalBorder": {
+      "color": true,
+      "radius": true,
+      "style": true,
+      "width": true,
+      "shadow": true,
+      "__experimentalDefaultControls": {
+        "color": true,
+        "radius": true,
+        "style": true,
+        "width": true,
+        "shadow": true
+      }
+    },
+    "color": {
+      "background": false,
+      "gradients": false,
+      "__experimentalDefaultControls": {
+        "text": true
+      }
+    },
+    "shadow": true,
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontWeight": true,
+      "__experimentalFontStyle": true,
+      "__experimentalTextTransform": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true,
+      "__experimentalDefaultControls": {
+        "fontSize": false,
+        "fontFamily": false
+      }
+    }
+  },
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css",
+  "editorStyle": "file:./index.css",
+  "providesContext": {
+    "spectra-pro/form/formType": "formType",
+    "spectra-pro/form/block_id": "block_id",
+    "spectra-pro/form/showLabels": "showLabels",
+    "spectra-pro/form/showIcons": "showIcons",
+    "spectra-pro/form/showPasswordToggle": "showPasswordToggle",
+    "spectra-pro/form/showRememberMe": "showRememberMe",
+    "spectra-pro/form/showForgotPassword": "showForgotPassword",
+    "spectra-pro/form/showRegisterLink": "showRegisterLink",
+    "spectra-pro/form/overallAlignment": "overallAlignment",
+    "spectra-pro/form/alignLoginBtn": "alignLoginBtn",
+    "spectra-pro/form/usernameLabel": "usernameLabel",
+    "spectra-pro/form/usernamePlaceholder": "usernamePlaceholder",
+    "spectra-pro/form/passwordLabel": "passwordLabel",
+    "spectra-pro/form/passwordPlaceholder": "passwordPlaceholder",
+    "spectra-pro/form/rememberLabel": "rememberLabel",
+    "spectra-pro/form/submitButtonText": "submitButtonText",
+    "spectra-pro/form/forgotPasswordText": "forgotPasswordText",
+    "spectra-pro/form/forgotPasswordUrl": "forgotPasswordUrl",
+    "spectra-pro/form/registerLinkText": "registerLinkText",
+    "spectra-pro/form/registerLinkUrl": "registerLinkUrl",
+    "spectra-pro/form/labelColor": "labelColor",
+    "spectra-pro/form/labelColorHover": "labelColorHover",
+    "spectra-pro/form/inputTextColor": "inputTextColor",
+    "spectra-pro/form/inputTextColorHover": "inputTextColorHover",
+    "spectra-pro/form/inputBgColor": "inputBgColor",
+    "spectra-pro/form/inputBgColorHover": "inputBgColorHover",
+    "spectra-pro/form/inputPlaceholderColor": "inputPlaceholderColor",
+    "spectra-pro/form/inputPlaceholderColorHover": "inputPlaceholderColorHover",
+    "spectra-pro/form/iconColor": "iconColor",
+    "spectra-pro/form/linkColor": "linkColor",
+    "spectra-pro/form/linkColorHover": "linkColorHover",
+    "spectra-pro/form/enableRecaptcha": "enableRecaptcha",
+    "spectra-pro/form/recaptchaVersion": "recaptchaVersion",
+    "spectra-pro/form/redirectAfterLoginURL": "redirectAfterLoginURL",
+    "spectra-pro/form/successMessageText": "successMessageText",
+    "spectra-pro/form/errorMessageText": "errorMessageText",
+    "spectra-pro/form/demoSuccessMessage": "demoSuccessMessage",
+    "spectra-pro/form/demoErrorMessage": "demoErrorMessage"
+  },
+  "attributes": {
+    "anchor": {
+      "type": "string"
+    },
+    "align": {
+      "type": "string",
+      "default": "none"
+    },
+    "layout": {
+      "type": "object",
+      "default": {
+        "type": "flex",
+        "orientation": "vertical",
+        "flexWrap": "nowrap",
+        "justifyContent": "stretch",
+        "verticalAlignment": "center",
+        "gap": "20px"
+      }
+    },
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "variationSelected": {
+      "type": "boolean",
+      "default": false
+    },
+    "formId": {
+      "type": "string",
+      "default": "login-form"
+    },
+    "formType": {
+      "type": "string",
+      "default": "login"
+    },
+    "usernameLabel": {
+      "type": "string",
+      "default": "Username or Email"
+    },
+    "usernamePlaceholder": {
+      "type": "string",
+      "default": "Enter your username or email"
+    },
+    "passwordLabel": {
+      "type": "string",
+      "default": "Password"
+    },
+    "passwordPlaceholder": {
+      "type": "string",
+      "default": "Enter your password"
+    },
+    "rememberLabel": {
+      "type": "string",
+      "default": "Remember Me"
+    },
+    "submitButtonText": {
+      "type": "string",
+      "default": "Log In"
+    },
+    "forgotPasswordText": {
+      "type": "string",
+      "default": "Forgot Password"
+    },
+    "forgotPasswordUrl": {
+      "type": "string",
+      "default": "#"
+    },
+    "registerLinkText": {
+      "type": "string",
+      "default": "Don't have an account? Register"
+    },
+    "registerLinkUrl": {
+      "type": "string",
+      "default": "#"
+    },
+    "showLabels": {
+      "type": "boolean",
+      "default": true
+    },
+    "showIcons": {
+      "type": "boolean",
+      "default": false
+    },
+    "showRememberMe": {
+      "type": "boolean",
+      "default": true
+    },
+    "showForgotPassword": {
+      "type": "boolean",
+      "default": true
+    },
+    "showRegisterLink": {
+      "type": "boolean",
+      "default": true
+    },
+    "demoSuccessMessage": {
+      "type": "boolean",
+      "default": false
+    },
+    "demoErrorMessage": {
+      "type": "boolean",
+      "default": false
+    },
+    "labelColor": {
+      "type": "string"
+    },
+    "labelColorHover": {
+      "type": "string"
+    },
+    "inputTextColor": {
+      "type": "string"
+    },
+    "inputTextColorHover": {
+      "type": "string"
+    },
+    "inputBgColor": {
+      "type": "string"
+    },
+    "inputBgColorHover": {
+      "type": "string"
+    },
+    "inputBorderColor": {
+      "type": "string"
+    },
+    "inputBorderColorHover": {
+      "type": "string"
+    },
+    "inputBorderColorFocus": {
+      "type": "string"
+    },
+    "inputPlaceholderColor": {
+      "type": "string"
+    },
+    "inputPlaceholderColorHover": {
+      "type": "string"
+    },
+    "inputTextColorActive": {
+      "type": "string"
+    },
+    "inputBgColorActive": {
+      "type": "string"
+    },
+    "inputBorderColorActive": {
+      "type": "string"
+    },
+    "buttonTextColor": {
+      "type": "string"
+    },
+    "buttonTextColorHover": {
+      "type": "string"
+    },
+    "buttonBgColor": {
+      "type": "string"
+    },
+    "buttonBgColorHover": {
+      "type": "string"
+    },
+    "buttonBorderColor": {
+      "type": "string"
+    },
+    "buttonBorderColorHover": {
+      "type": "string"
+    },
+    "linkColor": {
+      "type": "string"
+    },
+    "linkColorHover": {
+      "type": "string"
+    },
+    "iconColor": {
+      "type": "string"
+    },
+    "successMessageText": {
+      "type": "string",
+      "default": "Login successful! Redirecting..."
+    },
+    "errorMessageText": {
+      "type": "string",
+      "default": "Login failed. Please check your credentials."
+    },
+    "enableRecaptcha": {
+      "type": "boolean",
+      "default": false
+    },
+    "recaptchaVersion": {
+      "type": "string",
+      "default": "v2",
+      "enum": [
+        "v2",
+        "v3"
+      ]
+    },
+    "redirectAfterLoginURL": {
+      "type": "object",
+      "default": ""
+    },
+    "redirectOnSuccess": {
+      "type": "boolean",
+      "default": false
+    },
+    "tagName": {
+      "type": "string",
+      "default": "form"
+    },
+    "backgroundColorHover": {
+      "type": "string"
+    },
+    "backgroundGradientHover": {
+      "type": "string"
+    },
+    "backgroundColor": {
+      "type": "string"
+    },
+    "backgroundGradient": {
+      "type": "string"
+    },
+    "fieldsIconSize": {
+      "type": "string",
+      "default": "16px"
+    },
+    "fieldsIconColor": {
+      "type": "string"
+    },
+    "eyeIconSize": {
+      "type": "string",
+      "default": "16px"
+    },
+    "eyeIconColor": {
+      "type": "string"
+    },
+    "overallAlignment": {
+      "type": "string",
+      "default": "left"
+    },
+    "alignLoginBtn": {
+      "type": "string",
+      "default": "left"
+    },
+    "loginSize": {
+      "type": "string",
+      "default": "default"
+    },
+    "ctaIcon": {
+      "type": "string",
+      "default": ""
+    },
+    "ctaIconPosition": {
+      "type": "string",
+      "default": "after"
+    },
+    "ctaIconSpace": {
+      "type": "string",
+      "default": "5px"
+    },
+    "checkboxGlowEnable": {
+      "type": "boolean",
+      "default": false
+    },
+    "labelHoverColor": {
+      "type": "string"
+    },
+    "linkHColor": {
+      "type": "string"
+    },
+    "fieldsBackground": {
+      "type": "string"
+    },
+    "fieldsBackgroundHover": {
+      "type": "string"
+    },
+    "fieldsBackgroundActive": {
+      "type": "string"
+    },
+    "placeholderColor": {
+      "type": "string"
+    },
+    "placeholderColorHover": {
+      "type": "string"
+    },
+    "placeholderColorActive": {
+      "type": "string"
+    },
+    "fieldsColor": {
+      "type": "string"
+    },
+    "loginBackground": {
+      "type": "string"
+    },
+    "loginColor": {
+      "type": "string"
+    },
+    "loginHBackground": {
+      "type": "string"
+    },
+    "loginHColor": {
+      "type": "string"
+    },
+    "errorMessageBackground": {
+      "type": "string"
+    },
+    "errorMessageColor": {
+      "type": "string"
+    },
+    "errorMessageBorderColor": {
+      "type": "string"
+    },
+    "successMessageBackground": {
+      "type": "string"
+    },
+    "successMessageColor": {
+      "type": "string"
+    },
+    "successMessageBorderColor": {
+      "type": "string"
+    },
+    "checkboxBackgroundColor": {
+      "type": "string"
+    },
+    "checkboxColor": {
+      "type": "string"
+    },
+    "checkboxBorderColor": {
+      "type": "string"
+    },
+    "checkboxGlowColor": {
+      "type": "string"
+    },
+    "registerInfoColor": {
+      "type": "string"
+    },
+    "registerInfoHoverColor": {
+      "type": "string"
+    },
+    "background": {
+      "type": "object"
+    },
+    "dimRatio": {
+      "type": "number"
+    },
+    "checkboxSize": {
+      "type": "string",
+      "default": "16px"
+    },
+    "block_id": {
+      "type": "string"
+    },
+    "showWelcomeMessage": {
+      "type": "boolean",
+      "default": true
+    },
+    "welcomeMessage": {
+      "type": "string",
+      "default": "Welcome Back"
+    },
+    "showPasswordToggle": {
+      "type": "boolean",
+      "default": true
+    },
+    "rememberMeText": {
+      "type": "string",
+      "default": "Remember Me"
+    },
+    "recaptchaSiteKey": {
+      "type": "string",
+      "default": ""
+    },
+    "enableLoggedInMessage": {
+      "type": "boolean",
+      "default": true
+    },
+    "redirectAfterLogoutURL": {
+      "type": "object",
+      "default": {
+        "url": "",
+        "opensInNewTab": false
+      }
+    },
+    "inputFieldBgColor": {
+      "type": "string"
+    },
+    "inputFieldBgColorHover": {
+      "type": "string"
+    },
+    "inputFieldBgColorActive": {
+      "type": "string"
+    },
+    "width": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,1499 @@
+{
+	"background--base": {
+		"css": "background: var(--color--base);",
+		"title": "Base background",
+		"description": "Sets the background to the base color for a balanced, default appearance.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base"
+		]
+	},
+	"background--base--10": {
+		"css": "background: var(--color--base--10);",
+		"title": "Base background, 10% opacity",
+		"description": "Sets the background to the base color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base--20": {
+		"css": "background: var(--color--base--20);",
+		"title": "Base background, 20% opacity",
+		"description": "Sets the background to the base color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base--30": {
+		"css": "background: var(--color--base--30);",
+		"title": "Base background, 30% opacity",
+		"description": "Sets the background to the base color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base--40": {
+		"css": "background: var(--color--base--40);",
+		"title": "Base background, 40% opacity",
+		"description": "Sets the background to the base color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base--50": {
+		"css": "background: var(--color--base--50);",
+		"title": "Base background, 50% opacity",
+		"description": "Sets the background to the base color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base--60": {
+		"css": "background: var(--color--base--60);",
+		"title": "Base background, 60% opacity",
+		"description": "Sets the background to the base color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base--70": {
+		"css": "background: var(--color--base--70);",
+		"title": "Base background, 70% opacity",
+		"description": "Sets the background to the base color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base--80": {
+		"css": "background: var(--color--base--80);",
+		"title": "Base background, 80% opacity",
+		"description": "Sets the background to the base color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base--90": {
+		"css": "background: var(--color--base--90);",
+		"title": "Base background, 90% opacity",
+		"description": "Sets the background to the base color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-dark": {
+		"css": "background: var(--color--base-dark);",
+		"title": "Base background - dark",
+		"description": "Sets the background to a dark base shade for increased contrast and readability.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"dark"
+		]
+	},
+	"background--base-dark--10": {
+		"css": "background: var(--color--base-dark--10);",
+		"title": "Base background - dark, 10% opacity",
+		"description": "Sets the background to the base dark color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"dark",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-dark--20": {
+		"css": "background: var(--color--base-dark--20);",
+		"title": "Base background - dark, 20% opacity",
+		"description": "Sets the background to the base dark color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"dark",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-dark--30": {
+		"css": "background: var(--color--base-dark--30);",
+		"title": "Base background - dark, 30% opacity",
+		"description": "Sets the background to the base dark color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"dark",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-dark--40": {
+		"css": "background: var(--color--base-dark--40);",
+		"title": "Base background - dark, 40% opacity",
+		"description": "Sets the background to the base dark color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"dark",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-dark--50": {
+		"css": "background: var(--color--base-dark--50);",
+		"title": "Base background - dark, 50% opacity",
+		"description": "Sets the background to the base dark color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"dark",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-dark--60": {
+		"css": "background: var(--color--base-dark--60);",
+		"title": "Base background - dark, 60% opacity",
+		"description": "Sets the background to the base dark color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"dark",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-dark--70": {
+		"css": "background: var(--color--base-dark--70);",
+		"title": "Base background - dark, 70% opacity",
+		"description": "Sets the background to the base dark color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"dark",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-dark--80": {
+		"css": "background: var(--color--base-dark--80);",
+		"title": "Base background - dark, 80% opacity",
+		"description": "Sets the background to the base dark color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"dark",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-dark--90": {
+		"css": "background: var(--color--base-dark--90);",
+		"title": "Base background - dark, 90% opacity",
+		"description": "Sets the background to the base dark color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"dark",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darker": {
+		"css": "background: var(--color--base-darker);",
+		"title": "Base background - darker",
+		"description": "Sets the background to a darker base shade for strong emphasis.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darker"
+		]
+	},
+	"background--base-darker--10": {
+		"css": "background: var(--color--base-darker--10);",
+		"title": "Base background - darker, 10% opacity",
+		"description": "Sets the background to the base darker color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darker",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darker--20": {
+		"css": "background: var(--color--base-darker--20);",
+		"title": "Base background - darker, 20% opacity",
+		"description": "Sets the background to the base darker color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darker",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darker--30": {
+		"css": "background: var(--color--base-darker--30);",
+		"title": "Base background - darker, 30% opacity",
+		"description": "Sets the background to the base darker color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darker",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darker--40": {
+		"css": "background: var(--color--base-darker--40);",
+		"title": "Base background - darker, 40% opacity",
+		"description": "Sets the background to the base darker color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darker",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darker--50": {
+		"css": "background: var(--color--base-darker--50);",
+		"title": "Base background - darker, 50% opacity",
+		"description": "Sets the background to the base darker color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darker",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darker--60": {
+		"css": "background: var(--color--base-darker--60);",
+		"title": "Base background - darker, 60% opacity",
+		"description": "Sets the background to the base darker color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darker",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darker--70": {
+		"css": "background: var(--color--base-darker--70);",
+		"title": "Base background - darker, 70% opacity",
+		"description": "Sets the background to the base darker color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darker",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darker--80": {
+		"css": "background: var(--color--base-darker--80);",
+		"title": "Base background - darker, 80% opacity",
+		"description": "Sets the background to the base darker color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darker",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darker--90": {
+		"css": "background: var(--color--base-darker--90);",
+		"title": "Base background - darker, 90% opacity",
+		"description": "Sets the background to the base darker color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darker",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darkest": {
+		"css": "background: var(--color--base-darkest);",
+		"title": "Base background - darkest",
+		"description": "Sets the background to the darkest base shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darkest"
+		]
+	},
+	"background--base-darkest--10": {
+		"css": "background: var(--color--base-darkest--10);",
+		"title": "Base background - darkest, 10% opacity",
+		"description": "Sets the background to the base darkest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darkest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darkest--20": {
+		"css": "background: var(--color--base-darkest--20);",
+		"title": "Base background - darkest, 20% opacity",
+		"description": "Sets the background to the base darkest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darkest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darkest--30": {
+		"css": "background: var(--color--base-darkest--30);",
+		"title": "Base background - darkest, 30% opacity",
+		"description": "Sets the background to the base darkest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darkest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darkest--40": {
+		"css": "background: var(--color--base-darkest--40);",
+		"title": "Base background - darkest, 40% opacity",
+		"description": "Sets the background to the base darkest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darkest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darkest--50": {
+		"css": "background: var(--color--base-darkest--50);",
+		"title": "Base background - darkest, 50% opacity",
+		"description": "Sets the background to the base darkest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darkest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darkest--60": {
+		"css": "background: var(--color--base-darkest--60);",
+		"title": "Base background - darkest, 60% opacity",
+		"description": "Sets the background to the base darkest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darkest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darkest--70": {
+		"css": "background: var(--color--base-darkest--70);",
+		"title": "Base background - darkest, 70% opacity",
+		"description": "Sets the background to the base darkest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darkest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darkest--80": {
+		"css": "background: var(--color--base-darkest--80);",
+		"title": "Base background - darkest, 80% opacity",
+		"description": "Sets the background to the base darkest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darkest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-darkest--90": {
+		"css": "background: var(--color--base-darkest--90);",
+		"title": "Base background - darkest, 90% opacity",
+		"description": "Sets the background to the base darkest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"darkest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-black": {
+		"css": "background: var(--color--base-near-black);",
+		"title": "Base background - near-black",
+		"description": "Sets the background to a near-black base shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-black"
+		]
+	},
+	"background--base-near-black--10": {
+		"css": "background: var(--color--base-near-black--10);",
+		"title": "Base background - near-black, 10% opacity",
+		"description": "Sets the background to the base near-black color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-black--20": {
+		"css": "background: var(--color--base-near-black--20);",
+		"title": "Base background - near-black, 20% opacity",
+		"description": "Sets the background to the base near-black color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-black--30": {
+		"css": "background: var(--color--base-near-black--30);",
+		"title": "Base background - near-black, 30% opacity",
+		"description": "Sets the background to the base near-black color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-black--40": {
+		"css": "background: var(--color--base-near-black--40);",
+		"title": "Base background - near-black, 40% opacity",
+		"description": "Sets the background to the base near-black color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-black--50": {
+		"css": "background: var(--color--base-near-black--50);",
+		"title": "Base background - near-black, 50% opacity",
+		"description": "Sets the background to the base near-black color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-black--60": {
+		"css": "background: var(--color--base-near-black--60);",
+		"title": "Base background - near-black, 60% opacity",
+		"description": "Sets the background to the base near-black color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-black--70": {
+		"css": "background: var(--color--base-near-black--70);",
+		"title": "Base background - near-black, 70% opacity",
+		"description": "Sets the background to the base near-black color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-black--80": {
+		"css": "background: var(--color--base-near-black--80);",
+		"title": "Base background - near-black, 80% opacity",
+		"description": "Sets the background to the base near-black color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-black--90": {
+		"css": "background: var(--color--base-near-black--90);",
+		"title": "Base background - near-black, 90% opacity",
+		"description": "Sets the background to the base near-black color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-light": {
+		"css": "background: var(--color--base-light);",
+		"title": "Base background - light",
+		"description": "Sets the background to a light base shade for a softer appearance.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"light"
+		]
+	},
+	"background--base-light--10": {
+		"css": "background: var(--color--base-light--10);",
+		"title": "Base background - light, 10% opacity",
+		"description": "Sets the background to the base light color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"light",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-light--20": {
+		"css": "background: var(--color--base-light--20);",
+		"title": "Base background - light, 20% opacity",
+		"description": "Sets the background to the base light color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"light",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-light--30": {
+		"css": "background: var(--color--base-light--30);",
+		"title": "Base background - light, 30% opacity",
+		"description": "Sets the background to the base light color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"light",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-light--40": {
+		"css": "background: var(--color--base-light--40);",
+		"title": "Base background - light, 40% opacity",
+		"description": "Sets the background to the base light color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"light",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-light--50": {
+		"css": "background: var(--color--base-light--50);",
+		"title": "Base background - light, 50% opacity",
+		"description": "Sets the background to the base light color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"light",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-light--60": {
+		"css": "background: var(--color--base-light--60);",
+		"title": "Base background - light, 60% opacity",
+		"description": "Sets the background to the base light color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"light",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-light--70": {
+		"css": "background: var(--color--base-light--70);",
+		"title": "Base background - light, 70% opacity",
+		"description": "Sets the background to the base light color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"light",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-light--80": {
+		"css": "background: var(--color--base-light--80);",
+		"title": "Base background - light, 80% opacity",
+		"description": "Sets the background to the base light color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"light",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-light--90": {
+		"css": "background: var(--color--base-light--90);",
+		"title": "Base background - light, 90% opacity",
+		"description": "Sets the background to the base light color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"light",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lighter": {
+		"css": "background: var(--color--base-lighter);",
+		"title": "Base background - lighter",
+		"description": "Sets the background to a lighter base shade for subtle emphasis.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lighter"
+		]
+	},
+	"background--base-lighter--10": {
+		"css": "background: var(--color--base-lighter--10);",
+		"title": "Base background - lighter, 10% opacity",
+		"description": "Sets the background to the base lighter color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lighter",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lighter--20": {
+		"css": "background: var(--color--base-lighter--20);",
+		"title": "Base background - lighter, 20% opacity",
+		"description": "Sets the background to the base lighter color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lighter",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lighter--30": {
+		"css": "background: var(--color--base-lighter--30);",
+		"title": "Base background - lighter, 30% opacity",
+		"description": "Sets the background to the base lighter color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lighter",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lighter--40": {
+		"css": "background: var(--color--base-lighter--40);",
+		"title": "Base background - lighter, 40% opacity",
+		"description": "Sets the background to the base lighter color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lighter",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lighter--50": {
+		"css": "background: var(--color--base-lighter--50);",
+		"title": "Base background - lighter, 50% opacity",
+		"description": "Sets the background to the base lighter color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lighter",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lighter--60": {
+		"css": "background: var(--color--base-lighter--60);",
+		"title": "Base background - lighter, 60% opacity",
+		"description": "Sets the background to the base lighter color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lighter",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lighter--70": {
+		"css": "background: var(--color--base-lighter--70);",
+		"title": "Base background - lighter, 70% opacity",
+		"description": "Sets the background to the base lighter color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lighter",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lighter--80": {
+		"css": "background: var(--color--base-lighter--80);",
+		"title": "Base background - lighter, 80% opacity",
+		"description": "Sets the background to the base lighter color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lighter",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lighter--90": {
+		"css": "background: var(--color--base-lighter--90);",
+		"title": "Base background - lighter, 90% opacity",
+		"description": "Sets the background to the base lighter color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lighter",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lightest": {
+		"css": "background: var(--color--base-lightest);",
+		"title": "Base background - lightest",
+		"description": "Sets the background to the lightest base shade for a delicate, airy look.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lightest"
+		]
+	},
+	"background--base-lightest--10": {
+		"css": "background: var(--color--base-lightest--10);",
+		"title": "Base background - lightest, 10% opacity",
+		"description": "Sets the background to the base lightest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lightest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lightest--20": {
+		"css": "background: var(--color--base-lightest--20);",
+		"title": "Base background - lightest, 20% opacity",
+		"description": "Sets the background to the base lightest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lightest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lightest--30": {
+		"css": "background: var(--color--base-lightest--30);",
+		"title": "Base background - lightest, 30% opacity",
+		"description": "Sets the background to the base lightest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lightest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lightest--40": {
+		"css": "background: var(--color--base-lightest--40);",
+		"title": "Base background - lightest, 40% opacity",
+		"description": "Sets the background to the base lightest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lightest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lightest--50": {
+		"css": "background: var(--color--base-lightest--50);",
+		"title": "Base background - lightest, 50% opacity",
+		"description": "Sets the background to the base lightest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lightest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lightest--60": {
+		"css": "background: var(--color--base-lightest--60);",
+		"title": "Base background - lightest, 60% opacity",
+		"description": "Sets the background to the base lightest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lightest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lightest--70": {
+		"css": "background: var(--color--base-lightest--70);",
+		"title": "Base background - lightest, 70% opacity",
+		"description": "Sets the background to the base lightest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lightest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lightest--80": {
+		"css": "background: var(--color--base-lightest--80);",
+		"title": "Base background - lightest, 80% opacity",
+		"description": "Sets the background to the base lightest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lightest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-lightest--90": {
+		"css": "background: var(--color--base-lightest--90);",
+		"title": "Base background - lightest, 90% opacity",
+		"description": "Sets the background to the base lightest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"lightest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-white": {
+		"css": "background: var(--color--base-near-white);",
+		"title": "Base background - near-white",
+		"description": "Sets the background to a near-white base shade for a subtle, clean effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-white"
+		]
+	},
+	"background--base-near-white--10": {
+		"css": "background: var(--color--base-near-white--10);",
+		"title": "Base background - near-white, 10% opacity",
+		"description": "Sets the background to the base near-white color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-white--20": {
+		"css": "background: var(--color--base-near-white--20);",
+		"title": "Base background - near-white, 20% opacity",
+		"description": "Sets the background to the base near-white color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-white--30": {
+		"css": "background: var(--color--base-near-white--30);",
+		"title": "Base background - near-white, 30% opacity",
+		"description": "Sets the background to the base near-white color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-white--40": {
+		"css": "background: var(--color--base-near-white--40);",
+		"title": "Base background - near-white, 40% opacity",
+		"description": "Sets the background to the base near-white color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-white--50": {
+		"css": "background: var(--color--base-near-white--50);",
+		"title": "Base background - near-white, 50% opacity",
+		"description": "Sets the background to the base near-white color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-white--60": {
+		"css": "background: var(--color--base-near-white--60);",
+		"title": "Base background - near-white, 60% opacity",
+		"description": "Sets the background to the base near-white color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-white--70": {
+		"css": "background: var(--color--base-near-white--70);",
+		"title": "Base background - near-white, 70% opacity",
+		"description": "Sets the background to the base near-white color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-white--80": {
+		"css": "background: var(--color--base-near-white--80);",
+		"title": "Base background - near-white, 80% opacity",
+		"description": "Sets the background to the base near-white color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-near-white--90": {
+		"css": "background: var(--color--base-near-white--90);",
+		"title": "Base background - near-white, 90% opacity",
+		"description": "Sets the background to the base near-white color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"near-white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-complement": {
+		"css": "background: var(--color--base-complement);",
+		"title": "Base background - complement",
+		"description": "Sets the background to the base complement for visual contrast and balance.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"complement"
+		]
+	},
+	"background--base-complement--10": {
+		"css": "background: var(--color--base-complement--10);",
+		"title": "Base background - complement, 10% opacity",
+		"description": "Sets the background to the base complement color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"complement",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-complement--20": {
+		"css": "background: var(--color--base-complement--20);",
+		"title": "Base background - complement, 20% opacity",
+		"description": "Sets the background to the base complement color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"complement",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-complement--30": {
+		"css": "background: var(--color--base-complement--30);",
+		"title": "Base background - complement, 30% opacity",
+		"description": "Sets the background to the base complement color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"complement",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-complement--40": {
+		"css": "background: var(--color--base-complement--40);",
+		"title": "Base background - complement, 40% opacity",
+		"description": "Sets the background to the base complement color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"complement",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-complement--50": {
+		"css": "background: var(--color--base-complement--50);",
+		"title": "Base background - complement, 50% opacity",
+		"description": "Sets the background to the base complement color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"complement",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-complement--60": {
+		"css": "background: var(--color--base-complement--60);",
+		"title": "Base background - complement, 60% opacity",
+		"description": "Sets the background to the base complement color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"complement",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-complement--70": {
+		"css": "background: var(--color--base-complement--70);",
+		"title": "Base background - complement, 70% opacity",
+		"description": "Sets the background to the base complement color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"complement",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-complement--80": {
+		"css": "background: var(--color--base-complement--80);",
+		"title": "Base background - complement, 80% opacity",
+		"description": "Sets the background to the base complement color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"complement",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-complement--90": {
+		"css": "background: var(--color--base-complement--90);",
+		"title": "Base background - complement, 90% opacity",
+		"description": "Sets the background to the base complement color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"complement",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-inverted": {
+		"css": "background: var(--color--base-inverted);",
+		"title": "Base background - inverted",
+		"description": "Sets the background to the inverted base color for a striking, reversed look.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"inverted"
+		]
+	},
+	"background--base-inverted--10": {
+		"css": "background: var(--color--base-inverted--10);",
+		"title": "Base background - inverted, 10% opacity",
+		"description": "Sets the background to the inverted base color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"inverted",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-inverted--20": {
+		"css": "background: var(--color--base-inverted--20);",
+		"title": "Base background - inverted, 20% opacity",
+		"description": "Sets the background to the inverted base color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"inverted",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-inverted--30": {
+		"css": "background: var(--color--base-inverted--30);",
+		"title": "Base background - inverted, 30% opacity",
+		"description": "Sets the background to the inverted base color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"inverted",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-inverted--40": {
+		"css": "background: var(--color--base-inverted--40);",
+		"title": "Base background - inverted, 40% opacity",
+		"description": "Sets the background to the inverted base color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"inverted",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-inverted--50": {
+		"css": "background: var(--color--base-inverted--50);",
+		"title": "Base background - inverted, 50% opacity",
+		"description": "Sets the background to the inverted base color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"inverted",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-inverted--60": {
+		"css": "background: var(--color--base-inverted--60);",
+		"title": "Base background - inverted, 60% opacity",
+		"description": "Sets the background to the inverted base color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"inverted",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-inverted--70": {
+		"css": "background: var(--color--base-inverted--70);",
+		"title": "Base background - inverted, 70% opacity",
+		"description": "Sets the background to the inverted base color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"inverted",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-inverted--80": {
+		"css": "background: var(--color--base-inverted--80);",
+		"title": "Base background - inverted, 80% opacity",
+		"description": "Sets the background to the inverted base color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"inverted",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--base-inverted--90": {
+		"css": "background: var(--color--base-inverted--90);",
+		"title": "Base background - inverted, 90% opacity",
+		"description": "Sets the background to the inverted base color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"base",
+			"inverted",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

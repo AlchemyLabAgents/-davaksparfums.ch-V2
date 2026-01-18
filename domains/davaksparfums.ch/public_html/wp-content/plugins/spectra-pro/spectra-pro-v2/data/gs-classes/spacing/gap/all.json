@@ -1,0 +1,82 @@
+{
+	"gap--none[innerblocks]": {
+		"css": "gap: 0;",
+		"title": "No gap",
+		"description": "Removes all gap between elements.",
+		"category": "spacing",
+		"tags": [
+			"gap",
+			"none"
+		]
+	},
+	"gap--pixel[innerblocks]": {
+		"css": "gap: 1px;",
+		"title": "Pixel gap",
+		"description": "Adds a 1px gap between elements.",
+		"category": "spacing",
+		"tags": [
+			"gap",
+			"pixel"
+		]
+	},
+	"gap--xs[innerblocks]": {
+		"css": "gap: var(--space--xs);",
+		"title": "Tiny gap",
+		"description": "Adds a tiny gap between elements.",
+		"category": "spacing",
+		"tags": [
+			"gap",
+			"xs"
+		]
+	},
+	"gap--sm[innerblocks]": {
+		"css": "gap: var(--space--sm);",
+		"title": "Small gap",
+		"description": "Adds a small gap between elements.",
+		"category": "spacing",
+		"tags": [
+			"gap",
+			"sm"
+		]
+	},
+	"gap--md[innerblocks]": {
+		"css": "gap: var(--space--md);",
+		"title": "Medium gap",
+		"description": "Adds a medium gap between elements.",
+		"category": "spacing",
+		"tags": [
+			"gap",
+			"md"
+		]
+	},
+	"gap--lg[innerblocks]": {
+		"css": "gap: var(--space--lg);",
+		"title": "Large gap",
+		"description": "Adds a large gap between elements.",
+		"category": "spacing",
+		"tags": [
+			"gap",
+			"lg"
+		]
+	},
+	"gap--xl[innerblocks]": {
+		"css": "gap: var(--space--xl);",
+		"title": "Extra-large gap",
+		"description": "Adds an extra-large gap between elements.",
+		"category": "spacing",
+		"tags": [
+			"gap",
+			"xl"
+		]
+	},
+	"gap--xxl[innerblocks]": {
+		"css": "gap: var(--space--xxl);",
+		"title": "Huge gap",
+		"description": "Adds a huge gap between elements.",
+		"category": "spacing",
+		"tags": [
+			"gap",
+			"xxl"
+		]
+	}
+}

@@ -1,0 +1,127 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/register-terms-and-conditions",
+  "version": "1.0.0",
+  "title": "Terms and Conditions",
+  "category": "spectra-pro-v2",
+  "description": "A terms and conditions checkbox with editable rich text label.",
+  "keywords": [
+    "terms",
+    "conditions",
+    "checkbox",
+    "form",
+    "agreement"
+  ],
+  "textdomain": "spectra-pro",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "parent": [
+    "spectra-pro/register"
+  ],
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "usesContext": [
+    "spectra-pro/form/formType",
+    "spectra-pro/form/rememberLabel",
+    "spectra-pro/form/showRememberMe",
+    "spectra-pro/form/labelColor",
+    "spectra-pro/form/labelColorHover",
+    "spectra-pro/form/textColor",
+    "spectra-pro/form/textColorHover",
+    "spectra-pro/form/checkboxBackgroundColor",
+    "spectra-pro/form/checkboxColor",
+    "spectra-pro/form/checkboxBorderColor",
+    "spectra-pro/form/checkboxGlowColor",
+    "spectra-pro/form/checkboxGlowEnable",
+    "spectra-pro/form/checkboxSize"
+  ],
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "checkboxType": {
+      "type": "string",
+      "default": "terms"
+    },
+    "checkboxLabel": {
+      "type": "string",
+      "default": "I Accept the Terms and Conditions"
+    },
+    "checkboxValue": {
+      "type": "boolean",
+      "default": false
+    },
+    "isRequired": {
+      "type": "boolean",
+      "default": true
+    },
+    "hideLabel": {
+      "type": "boolean",
+      "default": false
+    },
+    "textColor": {
+      "type": "string"
+    },
+    "textColorHover": {
+      "type": "string"
+    },
+    "labelColor": {
+      "type": "string"
+    },
+    "labelColorHover": {
+      "type": "string"
+    },
+    "checkboxBackgroundColor": {
+      "type": "string"
+    },
+    "checkboxColor": {
+      "type": "string"
+    },
+    "checkboxBorderColor": {
+      "type": "string"
+    },
+    "checkboxGlowColor": {
+      "type": "string"
+    },
+    "checkboxCheckmarkColor": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "html": false,
+    "reusable": false,
+    "inserter": true,
+    "lock": false,
+    "multiple": false,
+    "color": {
+      "text": true,
+      "background": false,
+      "gradients": false
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "fontFamily": true,
+      "fontWeight": true,
+      "textDecoration": true,
+      "textTransform": true,
+      "letterSpacing": true
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true
+    },
+    "__experimentalBorder": {
+      "radius": true,
+      "width": true,
+      "color": true,
+      "style": true
+    }
+  }
+}

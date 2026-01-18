@@ -1,0 +1,101 @@
+{
+	"border--r-none": {
+		"css": "border-inline-end-style: none;",
+		"title": "No right border",
+		"description": "Removes the right border.",
+		"category": "border",
+		"tags": [
+			"border",
+			"right",
+			"none"
+		]
+	},
+	"border--r-solid": {
+		"css": "border-inline-end-style: solid;",
+		"title": "Solid right border",
+		"description": "Gives the right border a solid line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"right",
+			"solid"
+		]
+	},
+	"border--r-dashed": {
+		"css": "border-inline-end-style: dashed;",
+		"title": "Dashed right border",
+		"description": "Gives the right border a dashed line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"right",
+			"dashed"
+		]
+	},
+	"border--r-dotted": {
+		"css": "border-inline-end-style: dotted;",
+		"title": "Dotted right border",
+		"description": "Gives the right border a dotted line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"right",
+			"dotted"
+		]
+	},
+	"border--r-double": {
+		"css": "border-inline-end-style: double;",
+		"title": "Double right border",
+		"description": "Gives the right border a double line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"right",
+			"double"
+		]
+	},
+	"border--r-groove": {
+		"css": "border-inline-end-style: groove;",
+		"title": "Groove right border",
+		"description": "Gives the right border a groove.",
+		"category": "border",
+		"tags": [
+			"border",
+			"right",
+			"groove"
+		]
+	},
+	"border--r-ridge": {
+		"css": "border-inline-end-style: ridge;",
+		"title": "Ridge right border",
+		"description": "Gives the right border a ridge.",
+		"category": "border",
+		"tags": [
+			"border",
+			"right",
+			"ridge"
+		]
+	},
+	"border--r-inset": {
+		"css": "border-inline-end-style: inset;",
+		"title": "Inset right border",
+		"description": "Gives the right border an inset.",
+		"category": "border",
+		"tags": [
+			"border",
+			"right",
+			"inset"
+		]
+	},
+	"border--r-outset": {
+		"css": "border-inline-end-style: outset;",
+		"title": "Outset right border",
+		"description": "Gives the right border an outset.",
+		"category": "border",
+		"tags": [
+			"border",
+			"right",
+			"outset"
+		]
+	}
+}

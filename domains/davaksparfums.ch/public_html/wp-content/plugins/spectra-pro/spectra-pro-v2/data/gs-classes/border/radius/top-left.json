@@ -1,0 +1,90 @@
+{
+	"corner--tl-none": {
+		"css": "border-top-left-radius: 0;",
+		"title": "No top-left radius",
+		"description": "Makes top-left corners sharp.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-left",
+			"none"
+		]
+	},
+	"corner--tl-xs": {
+		"css": "border-top-left-radius: 0.125rem;",
+		"title": "Tiny top-left radius",
+		"description": "Adds a tiny curve to top-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-left",
+			"xs"
+		]
+	},
+	"corner--tl-sm": {
+		"css": "border-top-left-radius: 0.25rem;",
+		"title": "Small top-left radius",
+		"description": "Adds a small curve to top-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-left",
+			"sm"
+		]
+	},
+	"corner--tl-md": {
+		"css": "border-top-left-radius: 0.375rem;",
+		"title": "Medium top-left radius",
+		"description": "Adds a medium curve to top-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-left",
+			"md"
+		]
+	},
+	"corner--tl-lg": {
+		"css": "border-top-left-radius: 1rem;",
+		"title": "Large top-left radius",
+		"description": "Adds a large curve to top-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-left",
+			"lg"
+		]
+	},
+	"corner--tl-xl": {
+		"css": "border-top-left-radius: 1.5rem;",
+		"title": "Extra-Large top-left radius",
+		"description": "Adds an extra-large curve to top-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-left",
+			"xl"
+		]
+	},
+	"corner--tl-xxl": {
+		"css": "border-top-left-radius: 2rem;",
+		"title": "Huge top-left radius",
+		"description": "Adds a huge curve to top-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-left",
+			"xxl"
+		]
+	},
+	"corner--tl-round": {
+		"css": "border-top-left-radius: 9999999px;",
+		"title": "Round top-left radius",
+		"description": "Adds a round curve to top-left corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-left",
+			"round"
+		]
+	}
+}

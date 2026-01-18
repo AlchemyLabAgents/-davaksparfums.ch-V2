@@ -1,0 +1,79 @@
+{
+	"margin--r-none": {
+		"css": "margin-right: 0;",
+		"title": "No right margin",
+		"description": "Removes all margin from the right.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"right",
+			"none"
+		]
+	},
+	"margin--r-xs": {
+		"css": "margin-right: var(--space--xs);",
+		"title": "Tiny right margin",
+		"description": "Adds a tiny amount of margin to the right.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"right",
+			"xs"
+		]
+	},
+	"margin--r-sm": {
+		"css": "margin-right: var(--space--sm);",
+		"title": "Small right margin",
+		"description": "Adds a small amount of margin to the right.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"right",
+			"sm"
+		]
+	},
+	"margin--r-md": {
+		"css": "margin-right: var(--space--md);",
+		"title": "Medium right margin",
+		"description": "Adds a medium amount of margin to the right.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"right",
+			"md"
+		]
+	},
+	"margin--r-lg": {
+		"css": "margin-right: var(--space--lg);",
+		"title": "Large right margin",
+		"description": "Adds a large amount of margin to the right.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"right",
+			"lg"
+		]
+	},
+	"margin--r-xl": {
+		"css": "margin-right: var(--space--xl);",
+		"title": "Extra-large right margin",
+		"description": "Adds an extra-large amount of margin to the right.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"right",
+			"xl"
+		]
+	},
+	"margin--r-xxl": {
+		"css": "margin-right: var(--space--xxl);",
+		"title": "Double-extra-large right margin",
+		"description": "Adds a double-extra-large amount of margin to the right.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"right",
+			"xxl"
+		]
+	}
+}

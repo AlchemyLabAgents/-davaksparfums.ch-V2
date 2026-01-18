@@ -1,0 +1,82 @@
+{
+	"border--none": {
+		"css": "border-width: 0; border-style: none;",
+		"title": "No border",
+		"description": "Removes all borders.",
+		"category": "border",
+		"tags": [
+			"border",
+			"none"
+		]
+	},
+	"border--pixel": {
+		"css": "border-width: 1px;",
+		"title": "Pixel border",
+		"description": "Adds a thin one-pixel border.",
+		"category": "border",
+		"tags": [
+			"border",
+			"pixel"
+		]
+	},
+	"border--xs": {
+		"css": "border-width: var(--border--xs);",
+		"title": "Tiny border",
+		"description": "Adds a tiny border.",
+		"category": "border",
+		"tags": [
+			"border",
+			"xs"
+		]
+	},
+	"border--sm": {
+		"css": "border-width: var(--border--sm);",
+		"title": "Small border",
+		"description": "Adds a small border.",
+		"category": "border",
+		"tags": [
+			"border",
+			"sm"
+		]
+	},
+	"border--md": {
+		"css": "border-width: var(--border--md);",
+		"title": "Medium border",
+		"description": "Adds a medium border.",
+		"category": "border",
+		"tags": [
+			"border",
+			"md"
+		]
+	},
+	"border--lg": {
+		"css": "border-width: var(--border--lg);",
+		"title": "Large border",
+		"description": "Adds a large border.",
+		"category": "border",
+		"tags": [
+			"border",
+			"lg"
+		]
+	},
+	"border--xl": {
+		"css": "border-width: var(--border--xl);",
+		"title": "Extra-Large border",
+		"description": "Adds an extra-large border.",
+		"category": "border",
+		"tags": [
+			"border",
+			"xl"
+		]
+	},
+	"border--xxl": {
+		"css": "border-width: var(--border--xxl);",
+		"title": "Huge border",
+		"description": "Adds a huge border.",
+		"category": "border",
+		"tags": [
+			"border",
+			"xxl"
+		]
+	}
+}

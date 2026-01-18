@@ -1,0 +1,82 @@
+{
+	"corner--none": {
+		"css": "border-radius: 0;",
+		"title": "No radius",
+		"description": "Makes all corners sharp.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"none"
+		]
+	},
+	"corner--xs": {
+		"css": "border-radius: 0.125rem;",
+		"title": "Tiny radius",
+		"description": "Adds a tiny curve to all corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"xs"
+		]
+	},
+	"corner--sm": {
+		"css": "border-radius: 0.25rem;",
+		"title": "Small radius",
+		"description": "Adds a small curve to all corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"sm"
+		]
+	},
+	"corner--md": {
+		"css": "border-radius: 0.375rem;",
+		"title": "Medium radius",
+		"description": "Adds a medium curve to all corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"md"
+		]
+	},
+	"corner--lg": {
+		"css": "border-radius: 1rem;",
+		"title": "Large radius",
+		"description": "Adds a large curve to all corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"lg"
+		]
+	},
+	"corner--xl": {
+		"css": "border-radius: 1.5rem;",
+		"title": "Extra-large radius",
+		"description": "Adds an extra-large curve to all corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"xl"
+		]
+	},
+	"corner--xxl": {
+		"css": "border-radius: 2rem;",
+		"title": "Huge radius",
+		"description": "Adds a huge curve to all corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"xxl"
+		]
+	},
+	"corner--round": {
+		"css": "border-radius: 9999999px;",
+		"title": "Round radius",
+		"description": "Adds a round curve to all corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"round"
+		]
+	}
+}

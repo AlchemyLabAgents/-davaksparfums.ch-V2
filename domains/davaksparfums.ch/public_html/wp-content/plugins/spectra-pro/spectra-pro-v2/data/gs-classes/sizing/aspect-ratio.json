@@ -1,0 +1,93 @@
+{
+	"aspect-ratio--square": {
+		"css": "aspect-ratio: 1/1;",
+		"title": "Square aspect ratio",
+		"description": "Sets the element to a perfect 1:1 square aspect ratio.",
+		"category": "sizing",
+		"tags": [
+			"aspect",
+			"ratio",
+			"square"
+		]
+	},
+	"aspect-ratio--1-2": {
+		"css": "aspect-ratio: 1/2;",
+		"title": "1:2 aspect ratio",
+		"description": "Sets the element to a 1:2 aspect ratio (portrait orientation).",
+		"category": "sizing",
+		"tags": [
+			"aspect",
+			"ratio"
+		]
+	},
+	"aspect-ratio--2-1": {
+		"css": "aspect-ratio: 2/1;",
+		"title": "2:1 aspect ratio",
+		"description": "Sets the element to a 2:1 aspect ratio (landscape orientation).",
+		"category": "sizing",
+		"tags": [
+			"aspect",
+			"ratio"
+		]
+	},
+	"aspect-ratio--2-3": {
+		"css": "aspect-ratio: 2/3;",
+		"title": "2:3 aspect ratio",
+		"description": "Sets the element to a 2:3 aspect ratio (portrait orientation).",
+		"category": "sizing",
+		"tags": [
+			"aspect",
+			"ratio"
+		]
+	},
+	"aspect-ratio--3-2": {
+		"css": "aspect-ratio: 3/2;",
+		"title": "3:2 aspect ratio",
+		"description": "Sets the element to a 3:2 aspect ratio (landscape orientation).",
+		"category": "sizing",
+		"tags": [
+			"aspect",
+			"ratio"
+		]
+	},
+	"aspect-ratio--3-4": {
+		"css": "aspect-ratio: 3/4;",
+		"title": "3:4 aspect ratio",
+		"description": "Sets the element to a 3:4 aspect ratio (portrait orientation).",
+		"category": "sizing",
+		"tags": [
+			"aspect",
+			"ratio"
+		]
+	},
+	"aspect-ratio--4-3": {
+		"css": "aspect-ratio: 4/3;",
+		"title": "4:3 aspect ratio",
+		"description": "Sets the element to a 4:3 aspect ratio (landscape orientation).",
+		"category": "sizing",
+		"tags": [
+			"aspect",
+			"ratio"
+		]
+	},
+	"aspect-ratio--16-9": {
+		"css": "aspect-ratio: 16/9;",
+		"title": "16:9 aspect ratio",
+		"description": "Sets the element to a 16:9 aspect ratio (widescreen format).",
+		"category": "sizing",
+		"tags": [
+			"aspect",
+			"ratio"
+		]
+	},
+	"aspect-ratio--9-16": {
+		"css": "aspect-ratio: 9/16;",
+		"title": "9:16 aspect ratio",
+		"description": "Sets the element to a 9:16 aspect ratio (mobile portrait format).",
+		"category": "sizing",
+		"tags": [
+			"aspect",
+			"ratio"
+		]
+	}
+}

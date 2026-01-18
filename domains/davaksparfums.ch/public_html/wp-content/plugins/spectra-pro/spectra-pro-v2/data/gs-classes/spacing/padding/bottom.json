@@ -1,0 +1,79 @@
+{
+	"padding--b-none": {
+		"css": "padding-bottom: 0;",
+		"title": "No bottom padding",
+		"description": "Removes all padding from the bottom.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"bottom",
+			"none"
+		]
+	},
+	"padding--b-xs": {
+		"css": "padding-bottom: var(--space--xs);",
+		"title": "Tiny bottom padding",
+		"description": "Adds a tiny amount of padding to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"bottom",
+			"xs"
+		]
+	},
+	"padding--b-sm": {
+		"css": "padding-bottom: var(--space--sm);",
+		"title": "Small bottom padding",
+		"description": "Adds a small amount of padding to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"bottom",
+			"sm"
+		]
+	},
+	"padding--b-md": {
+		"css": "padding-bottom: var(--space--md);",
+		"title": "Medium bottom padding",
+		"description": "Adds a medium amount of padding to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"bottom",
+			"md"
+		]
+	},
+	"padding--b-lg": {
+		"css": "padding-bottom: var(--space--lg);",
+		"title": "Large bottom padding",
+		"description": "Adds a large amount of padding to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"bottom",
+			"lg"
+		]
+	},
+	"padding--b-xl": {
+		"css": "padding-bottom: var(--space--xl);",
+		"title": "Extra-large bottom padding",
+		"description": "Adds an extra-large amount of padding to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"bottom",
+			"xl"
+		]
+	},
+	"padding--b-xxl": {
+		"css": "padding-bottom: var(--space--xxl);",
+		"title": "Double-extra-large bottom padding",
+		"description": "Adds a double-extra-large amount of padding to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"bottom",
+			"xxl"
+		]
+	}
+}

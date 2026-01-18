@@ -1,0 +1,116 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/loop-builder-child-filter-checkbox",
+  "title": "Checkbox",
+  "category": "spectra-pro-v2",
+  "parent": [
+    "spectra-pro/loop-builder-child-filter"
+  ],
+  "description": "Loop Builder - Category filter allows user to filter posts in the loop.",
+  "textdomain": "spectra-pro",
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "checkboxSize": {
+      "type": "string"
+    },
+    "itemsGap": {
+      "type": "string"
+    },
+    "labelCheckboxGap": {
+      "type": "string"
+    },
+    "textColorHover": {
+      "type": "string"
+    },
+    "backgroundColorHover": {
+      "type": "string"
+    },
+    "backgroundGradientHover": {
+      "type": "string"
+    },
+    "layoutType": {
+      "type": "string",
+      "default": "stack",
+      "enum": [
+        "stack",
+        "inline"
+      ]
+    }
+  },
+  "usesContext": [
+    "spectra-pro/loop-builder/queryId",
+    "spectra-pro/loop-builder-child-filter/showPostCount",
+    "spectra-pro/loop-builder-child-filter/showEmptyTaxonomy",
+    "spectra-pro/loop-builder-child-filter/showChildren",
+    "spectra-pro/loop-builder-child-filter/filterMode",
+    "spectra-pro/loop-builder-child-filter/taxonomyType",
+    "spectra-pro/loop-builder-child-filter/tagTaxonomyInclude",
+    "spectra-pro/loop-builder-child-filter/tagTaxonomyExclude",
+    "spectra-pro/loop-builder-child-filter/catTaxonomyInclude",
+    "spectra-pro/loop-builder-child-filter/catTaxonomyExclude",
+    "spectra-pro/loop-builder-child-filter/filterType"
+  ],
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "supports": {
+    "align": true,
+    "html": false,
+    "inserter": false,
+    "lock": false,
+    "shadow": true,
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontStyle": true,
+      "__experimentalFontWeight": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true,
+      "__experimentalTextTransform": true,
+      "__experimentalWritingMode": true,
+      "__experimentalDefaultControls": {
+        "fontSize": true,
+        "fontFamily": true
+      }
+    },
+    "__experimentalBorder": {
+      "width": true,
+      "color": true,
+      "radius": true,
+      "style": true,
+      "shadow": true,
+      "__experimentalDefaultControls": {
+        "width": true,
+        "color": true,
+        "radius": true,
+        "style": true,
+        "shadow": true
+      }
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true
+    },
+    "color": {
+      "gradients": true,
+      "link": false,
+      "__experimentalDefaultControls": {
+        "background": true,
+        "text": true
+      }
+    }
+  },
+  "selectors": {
+    "typography": ".wp-block-spectra-pro-loop-builder-child-filter-checkbox label"
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

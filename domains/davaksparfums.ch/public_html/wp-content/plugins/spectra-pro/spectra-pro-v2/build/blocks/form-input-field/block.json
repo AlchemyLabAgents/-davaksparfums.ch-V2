@@ -1,0 +1,184 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/form-input-field",
+  "version": "2.0.0",
+  "title": "Form Input Field",
+  "category": "spectra-pro-v2",
+  "description": "An input field component for forms with context-aware rendering.",
+  "keywords": [
+    "form",
+    "input",
+    "field",
+    "text",
+    "email",
+    "password"
+  ],
+  "textdomain": "spectra-pro",
+  "parent": [
+    "spectra-pro/form-input-wrapper",
+    "spectra-pro/register-user-name",
+    "spectra-pro/register-email",
+    "spectra-pro/register-first-name",
+    "spectra-pro/register-last-name",
+    "spectra-pro/register-password",
+    "spectra-pro/register-confirm-password"
+  ],
+  "supports": {
+    "interactivity": true,
+    "html": false,
+    "inserter": false,
+    "anchor": true,
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "__experimentalDefaultControls": {
+        "margin": false,
+        "padding": true
+      }
+    },
+    "__experimentalBorder": {
+      "color": true,
+      "radius": true,
+      "style": true,
+      "width": true,
+      "__experimentalDefaultControls": {
+        "color": true,
+        "radius": true,
+        "style": true,
+        "width": true
+      }
+    },
+    "shadow": true,
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontWeight": true,
+      "__experimentalFontStyle": true,
+      "__experimentalDefaultControls": {
+        "fontSize": true,
+        "fontFamily": true
+      }
+    }
+  },
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css",
+  "editorStyle": "file:./index.css",
+  "render": "file:./controller.php",
+  "usesContext": [
+    "spectra-pro/form/formId",
+    "spectra-pro/form/formType",
+    "spectra-pro/form/inputTextColor",
+    "spectra-pro/form/inputTextColorHover",
+    "spectra-pro/form/inputBgColor",
+    "spectra-pro/form/inputBgColorHover",
+    "spectra-pro/form/inputPlaceholderColor",
+    "spectra-pro/form/inputPlaceholderColorHover",
+    "spectra-pro/form-input/fieldType",
+    "spectra-pro/form-input/fieldLabel",
+    "spectra-pro/form-input/fieldPlaceholder",
+    "spectra-pro/form-input/isRequired",
+    "spectra-pro/form-input/fieldId"
+  ],
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "fieldType": {
+      "type": "string",
+      "default": "text"
+    },
+    "inputType": {
+      "type": "string",
+      "default": "text",
+      "enum": [
+        "text",
+        "email",
+        "password",
+        "tel",
+        "url",
+        "number"
+      ]
+    },
+    "placeholder": {
+      "type": "string",
+      "default": ""
+    },
+    "isRequired": {
+      "type": "boolean",
+      "default": false
+    },
+    "isDisabled": {
+      "type": "boolean",
+      "default": false
+    },
+    "maxLength": {
+      "type": "number"
+    },
+    "minLength": {
+      "type": "number"
+    },
+    "pattern": {
+      "type": "string"
+    },
+    "autocomplete": {
+      "type": "string",
+      "default": "off"
+    },
+    "showPasswordToggle": {
+      "type": "boolean",
+      "default": true
+    },
+    "passwordTogglePosition": {
+      "type": "string",
+      "default": "right",
+      "enum": [
+        "left",
+        "right"
+      ]
+    },
+    "textColor": {
+      "type": "string"
+    },
+    "textColorHover": {
+      "type": "string"
+    },
+    "backgroundColor": {
+      "type": "string"
+    },
+    "backgroundColorHover": {
+      "type": "string"
+    },
+    "borderColor": {
+      "type": "string"
+    },
+    "borderColorHover": {
+      "type": "string"
+    },
+    "borderColorFocus": {
+      "type": "string"
+    },
+    "placeholderColor": {
+      "type": "string"
+    },
+    "placeholderColorHover": {
+      "type": "string"
+    },
+    "textColorActive": {
+      "type": "string"
+    },
+    "backgroundColorActive": {
+      "type": "string"
+    },
+    "borderColorActive": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+	"z--0": {
+		"css": "z-index: 0;",
+		"title": "Z-index 0",
+		"description": "Sets the element to the base stacking level.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	},
+	"z--10": {
+		"css": "z-index: 10;",
+		"title": "Z-index 10",
+		"description": "Sets the element to a low stacking level.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	},
+	"z--20": {
+		"css": "z-index: 20;",
+		"title": "Z-index 20",
+		"description": "Sets the element to a low stacking level.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	},
+	"z--30": {
+		"css": "z-index: 30;",
+		"title": "Z-index 30",
+		"description": "Sets the element to a medium-low stacking level.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	},
+	"z--40": {
+		"css": "z-index: 40;",
+		"title": "Z-index 40",
+		"description": "Sets the element to a medium stacking level.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	},
+	"z--50": {
+		"css": "z-index: 50;",
+		"title": "Z-index 50",
+		"description": "Sets the element to a medium stacking level.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	},
+	"z--60": {
+		"css": "z-index: 60;",
+		"title": "Z-index 60",
+		"description": "Sets the element to a medium-high stacking level.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	},
+	"z--70": {
+		"css": "z-index: 70;",
+		"title": "Z-index 70",
+		"description": "Sets the element to a high stacking level.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	},
+	"z--80": {
+		"css": "z-index: 80;",
+		"title": "Z-index 80",
+		"description": "Sets the element to a high stacking level.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	},
+	"z--90": {
+		"css": "z-index: 90;",
+		"title": "Z-index 90",
+		"description": "Sets the element to a very high stacking level.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	},
+	"z--back": {
+		"css": "z-index: -1;",
+		"title": "Z-index back",
+		"description": "Places the element behind other elements.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	},
+	"z--front": {
+		"css": "z-index: 99999;",
+		"title": "Z-index front",
+		"description": "Places the element in front of other elements.",
+		"category": "display",
+		"tags": [
+			"z-index"
+		]
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"padding--l-none": {
+		"css": "padding-left: 0;",
+		"title": "No left padding",
+		"description": "Removes all padding from the left.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"left",
+			"none"
+		]
+	},
+	"padding--l-xs": {
+		"css": "padding-left: var(--space--xs);",
+		"title": "Tiny left padding",
+		"description": "Adds a tiny amount of padding to the left.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"left",
+			"xs"
+		]
+	},
+	"padding--l-sm": {
+		"css": "padding-left: var(--space--sm);",
+		"title": "Small left padding",
+		"description": "Adds a small amount of padding to the left.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"left",
+			"sm"
+		]
+	},
+	"padding--l-md": {
+		"css": "padding-left: var(--space--md);",
+		"title": "Medium left padding",
+		"description": "Adds a medium amount of padding to the left.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"left",
+			"md"
+		]
+	},
+	"padding--l-lg": {
+		"css": "padding-left: var(--space--lg);",
+		"title": "Large left padding",
+		"description": "Adds a large amount of padding to the left.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"left",
+			"lg"
+		]
+	},
+	"padding--l-xl": {
+		"css": "padding-left: var(--space--xl);",
+		"title": "Extra-large left padding",
+		"description": "Adds an extra-large amount of padding to the left.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"left",
+			"xl"
+		]
+	},
+	"padding--l-xxl": {
+		"css": "padding-left: var(--space--xxl);",
+		"title": "Double-extra-large left padding",
+		"description": "Adds a double-extra-large amount of padding to the left.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"left",
+			"xxl"
+		]
+	}
+}

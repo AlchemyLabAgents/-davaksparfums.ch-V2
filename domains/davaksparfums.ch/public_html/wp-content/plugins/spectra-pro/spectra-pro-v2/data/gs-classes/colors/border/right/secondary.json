@@ -1,0 +1,1609 @@
+{
+	"border--r-secondary": {
+		"css": "border-inline-end-color: var(--color--secondary);",
+		"title": "Right secondary border",
+		"description": "Sets the right border to the secondary color for a complementary, accent appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary"
+		]
+	},
+	"border--r-secondary--10": {
+		"css": "border-inline-end-color: var(--color--secondary--10);",
+		"title": "Right secondary border, 10% opacity",
+		"description": "Sets the right border to the secondary color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary--20": {
+		"css": "border-inline-end-color: var(--color--secondary--20);",
+		"title": "Right secondary border, 20% opacity",
+		"description": "Sets the right border to the secondary color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary--30": {
+		"css": "border-inline-end-color: var(--color--secondary--30);",
+		"title": "Right secondary border, 30% opacity",
+		"description": "Sets the right border to the secondary color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary--40": {
+		"css": "border-inline-end-color: var(--color--secondary--40);",
+		"title": "Right secondary border, 40% opacity",
+		"description": "Sets the right border to the secondary color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary--50": {
+		"css": "border-inline-end-color: var(--color--secondary--50);",
+		"title": "Right secondary border, 50% opacity",
+		"description": "Sets the right border to the secondary color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary--60": {
+		"css": "border-inline-end-color: var(--color--secondary--60);",
+		"title": "Right secondary border, 60% opacity",
+		"description": "Sets the right border to the secondary color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary--70": {
+		"css": "border-inline-end-color: var(--color--secondary--70);",
+		"title": "Right secondary border, 70% opacity",
+		"description": "Sets the right border to the secondary color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary--80": {
+		"css": "border-inline-end-color: var(--color--secondary--80);",
+		"title": "Right secondary border, 80% opacity",
+		"description": "Sets the right border to the secondary color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary--90": {
+		"css": "border-inline-end-color: var(--color--secondary--90);",
+		"title": "Right secondary border, 90% opacity",
+		"description": "Sets the right border to the secondary color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-dark": {
+		"css": "border-inline-end-color: var(--color--secondary-dark);",
+		"title": "Right secondary border - dark",
+		"description": "Sets the right border to a dark secondary shade for strong emphasis and contrast.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"dark"
+		]
+	},
+	"border--r-secondary-dark--10": {
+		"css": "border-inline-end-color: var(--color--secondary-dark--10);",
+		"title": "Right secondary border - dark, 10% opacity",
+		"description": "Sets the right border to the secondary dark color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"dark",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-dark--20": {
+		"css": "border-inline-end-color: var(--color--secondary-dark--20);",
+		"title": "Right secondary border - dark, 20% opacity",
+		"description": "Sets the right border to the secondary dark color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"dark",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-dark--30": {
+		"css": "border-inline-end-color: var(--color--secondary-dark--30);",
+		"title": "Right secondary border - dark, 30% opacity",
+		"description": "Sets the right border to the secondary dark color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"dark",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-dark--40": {
+		"css": "border-inline-end-color: var(--color--secondary-dark--40);",
+		"title": "Right secondary border - dark, 40% opacity",
+		"description": "Sets the right border to the secondary dark color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"dark",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-dark--50": {
+		"css": "border-inline-end-color: var(--color--secondary-dark--50);",
+		"title": "Right secondary border - dark, 50% opacity",
+		"description": "Sets the right border to the secondary dark color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"dark",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-dark--60": {
+		"css": "border-inline-end-color: var(--color--secondary-dark--60);",
+		"title": "Right secondary border - dark, 60% opacity",
+		"description": "Sets the right border to the secondary dark color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"dark",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-dark--70": {
+		"css": "border-inline-end-color: var(--color--secondary-dark--70);",
+		"title": "Right secondary border - dark, 70% opacity",
+		"description": "Sets the right border to the secondary dark color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"dark",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-dark--80": {
+		"css": "border-inline-end-color: var(--color--secondary-dark--80);",
+		"title": "Right secondary border - dark, 80% opacity",
+		"description": "Sets the right border to the secondary dark color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"dark",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-dark--90": {
+		"css": "border-inline-end-color: var(--color--secondary-dark--90);",
+		"title": "Right secondary border - dark, 90% opacity",
+		"description": "Sets the right border to the secondary dark color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"dark",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darker": {
+		"css": "border-inline-end-color: var(--color--secondary-darker);",
+		"title": "Right secondary border - darker",
+		"description": "Sets the right border to a darker secondary shade for bold, impactful border.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darker"
+		]
+	},
+	"border--r-secondary-darker--10": {
+		"css": "border-inline-end-color: var(--color--secondary-darker--10);",
+		"title": "Right secondary border - darker, 10% opacity",
+		"description": "Sets the right border to the secondary darker color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darker",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darker--20": {
+		"css": "border-inline-end-color: var(--color--secondary-darker--20);",
+		"title": "Right secondary border - darker, 20% opacity",
+		"description": "Sets the right border to the secondary darker color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darker",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darker--30": {
+		"css": "border-inline-end-color: var(--color--secondary-darker--30);",
+		"title": "Right secondary border - darker, 30% opacity",
+		"description": "Sets the right border to the secondary darker color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darker",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darker--40": {
+		"css": "border-inline-end-color: var(--color--secondary-darker--40);",
+		"title": "Right secondary border - darker, 40% opacity",
+		"description": "Sets the right border to the secondary darker color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darker",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darker--50": {
+		"css": "border-inline-end-color: var(--color--secondary-darker--50);",
+		"title": "Right secondary border - darker, 50% opacity",
+		"description": "Sets the right border to the secondary darker color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darker",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darker--60": {
+		"css": "border-inline-end-color: var(--color--secondary-darker--60);",
+		"title": "Right secondary border - darker, 60% opacity",
+		"description": "Sets the right border to the secondary darker color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darker",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darker--70": {
+		"css": "border-inline-end-color: var(--color--secondary-darker--70);",
+		"title": "Right secondary border - darker, 70% opacity",
+		"description": "Sets the right border to the secondary darker color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darker",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darker--80": {
+		"css": "border-inline-end-color: var(--color--secondary-darker--80);",
+		"title": "Right secondary border - darker, 80% opacity",
+		"description": "Sets the right border to the secondary darker color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darker",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darker--90": {
+		"css": "border-inline-end-color: var(--color--secondary-darker--90);",
+		"title": "Right secondary border - darker, 90% opacity",
+		"description": "Sets the right border to the secondary darker color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darker",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darkest": {
+		"css": "border-inline-end-color: var(--color--secondary-darkest);",
+		"title": "Right secondary border - darkest",
+		"description": "Sets the right border to the darkest secondary shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darkest"
+		]
+	},
+	"border--r-secondary-darkest--10": {
+		"css": "border-inline-end-color: var(--color--secondary-darkest--10);",
+		"title": "Right secondary border - darkest, 10% opacity",
+		"description": "Sets the right border to the secondary darkest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darkest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darkest--20": {
+		"css": "border-inline-end-color: var(--color--secondary-darkest--20);",
+		"title": "Right secondary border - darkest, 20% opacity",
+		"description": "Sets the right border to the secondary darkest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darkest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darkest--30": {
+		"css": "border-inline-end-color: var(--color--secondary-darkest--30);",
+		"title": "Right secondary border - darkest, 30% opacity",
+		"description": "Sets the right border to the secondary darkest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darkest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darkest--40": {
+		"css": "border-inline-end-color: var(--color--secondary-darkest--40);",
+		"title": "Right secondary border - darkest, 40% opacity",
+		"description": "Sets the right border to the secondary darkest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darkest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darkest--50": {
+		"css": "border-inline-end-color: var(--color--secondary-darkest--50);",
+		"title": "Right secondary border - darkest, 50% opacity",
+		"description": "Sets the right border to the secondary darkest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darkest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darkest--60": {
+		"css": "border-inline-end-color: var(--color--secondary-darkest--60);",
+		"title": "Right secondary border - darkest, 60% opacity",
+		"description": "Sets the right border to the secondary darkest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darkest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darkest--70": {
+		"css": "border-inline-end-color: var(--color--secondary-darkest--70);",
+		"title": "Right secondary border - darkest, 70% opacity",
+		"description": "Sets the right border to the secondary darkest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darkest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darkest--80": {
+		"css": "border-inline-end-color: var(--color--secondary-darkest--80);",
+		"title": "Right secondary border - darkest, 80% opacity",
+		"description": "Sets the right border to the secondary darkest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darkest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-darkest--90": {
+		"css": "border-inline-end-color: var(--color--secondary-darkest--90);",
+		"title": "Right secondary border - darkest, 90% opacity",
+		"description": "Sets the right border to the secondary darkest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"darkest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-black": {
+		"css": "border-inline-end-color: var(--color--secondary-near-black);",
+		"title": "Right secondary border - near-black",
+		"description": "Sets the right border to a near-black secondary shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-black"
+		]
+	},
+	"border--r-secondary-near-black--10": {
+		"css": "border-inline-end-color: var(--color--secondary-near-black--10);",
+		"title": "Right secondary border - near-black, 10% opacity",
+		"description": "Sets the right border to the secondary near-black color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-black--20": {
+		"css": "border-inline-end-color: var(--color--secondary-near-black--20);",
+		"title": "Right secondary border - near-black, 20% opacity",
+		"description": "Sets the right border to the secondary near-black color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-black--30": {
+		"css": "border-inline-end-color: var(--color--secondary-near-black--30);",
+		"title": "Right secondary border - near-black, 30% opacity",
+		"description": "Sets the right border to the secondary near-black color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-black--40": {
+		"css": "border-inline-end-color: var(--color--secondary-near-black--40);",
+		"title": "Right secondary border - near-black, 40% opacity",
+		"description": "Sets the right border to the secondary near-black color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-black--50": {
+		"css": "border-inline-end-color: var(--color--secondary-near-black--50);",
+		"title": "Right secondary border - near-black, 50% opacity",
+		"description": "Sets the right border to the secondary near-black color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-black--60": {
+		"css": "border-inline-end-color: var(--color--secondary-near-black--60);",
+		"title": "Right secondary border - near-black, 60% opacity",
+		"description": "Sets the right border to the secondary near-black color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-black--70": {
+		"css": "border-inline-end-color: var(--color--secondary-near-black--70);",
+		"title": "Right secondary border - near-black, 70% opacity",
+		"description": "Sets the right border to the secondary near-black color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-black--80": {
+		"css": "border-inline-end-color: var(--color--secondary-near-black--80);",
+		"title": "Right secondary border - near-black, 80% opacity",
+		"description": "Sets the right border to the secondary near-black color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-black--90": {
+		"css": "border-inline-end-color: var(--color--secondary-near-black--90);",
+		"title": "Right secondary border - near-black, 90% opacity",
+		"description": "Sets the right border to the secondary near-black color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-light": {
+		"css": "border-inline-end-color: var(--color--secondary-light);",
+		"title": "Right secondary border - light",
+		"description": "Sets the right border to a light secondary shade for a softer, subtle appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"light"
+		]
+	},
+	"border--r-secondary-light--10": {
+		"css": "border-inline-end-color: var(--color--secondary-light--10);",
+		"title": "Right secondary border - light, 10% opacity",
+		"description": "Sets the right border to the secondary light color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"light",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-light--20": {
+		"css": "border-inline-end-color: var(--color--secondary-light--20);",
+		"title": "Right secondary border - light, 20% opacity",
+		"description": "Sets the right border to the secondary light color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"light",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-light--30": {
+		"css": "border-inline-end-color: var(--color--secondary-light--30);",
+		"title": "Right secondary border - light, 30% opacity",
+		"description": "Sets the right border to the secondary light color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"light",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-light--40": {
+		"css": "border-inline-end-color: var(--color--secondary-light--40);",
+		"title": "Right secondary border - light, 40% opacity",
+		"description": "Sets the right border to the secondary light color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"light",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-light--50": {
+		"css": "border-inline-end-color: var(--color--secondary-light--50);",
+		"title": "Right secondary border - light, 50% opacity",
+		"description": "Sets the right border to the secondary light color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"light",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-light--60": {
+		"css": "border-inline-end-color: var(--color--secondary-light--60);",
+		"title": "Right secondary border - light, 60% opacity",
+		"description": "Sets the right border to the secondary light color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"light",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-light--70": {
+		"css": "border-inline-end-color: var(--color--secondary-light--70);",
+		"title": "Right secondary border - light, 70% opacity",
+		"description": "Sets the right border to the secondary light color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"light",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-light--80": {
+		"css": "border-inline-end-color: var(--color--secondary-light--80);",
+		"title": "Right secondary border - light, 80% opacity",
+		"description": "Sets the right border to the secondary light color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"light",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-light--90": {
+		"css": "border-inline-end-color: var(--color--secondary-light--90);",
+		"title": "Right secondary border - light, 90% opacity",
+		"description": "Sets the right border to the secondary light color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"light",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lighter": {
+		"css": "border-inline-end-color: var(--color--secondary-lighter);",
+		"title": "Right secondary border - lighter",
+		"description": "Sets the right border to a lighter secondary shade for gentle emphasis.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lighter"
+		]
+	},
+	"border--r-secondary-lighter--10": {
+		"css": "border-inline-end-color: var(--color--secondary-lighter--10);",
+		"title": "Right secondary border - lighter, 10% opacity",
+		"description": "Sets the right border to the secondary lighter color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lighter",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lighter--20": {
+		"css": "border-inline-end-color: var(--color--secondary-lighter--20);",
+		"title": "Right secondary border - lighter, 20% opacity",
+		"description": "Sets the right border to the secondary lighter color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lighter",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lighter--30": {
+		"css": "border-inline-end-color: var(--color--secondary-lighter--30);",
+		"title": "Right secondary border - lighter, 30% opacity",
+		"description": "Sets the right border to the secondary lighter color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lighter",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lighter--40": {
+		"css": "border-inline-end-color: var(--color--secondary-lighter--40);",
+		"title": "Right secondary border - lighter, 40% opacity",
+		"description": "Sets the right border to the secondary lighter color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lighter",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lighter--50": {
+		"css": "border-inline-end-color: var(--color--secondary-lighter--50);",
+		"title": "Right secondary border - lighter, 50% opacity",
+		"description": "Sets the right border to the secondary lighter color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lighter",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lighter--60": {
+		"css": "border-inline-end-color: var(--color--secondary-lighter--60);",
+		"title": "Right secondary border - lighter, 60% opacity",
+		"description": "Sets the right border to the secondary lighter color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lighter",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lighter--70": {
+		"css": "border-inline-end-color: var(--color--secondary-lighter--70);",
+		"title": "Right secondary border - lighter, 70% opacity",
+		"description": "Sets the right border to the secondary lighter color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lighter",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lighter--80": {
+		"css": "border-inline-end-color: var(--color--secondary-lighter--80);",
+		"title": "Right secondary border - lighter, 80% opacity",
+		"description": "Sets the right border to the secondary lighter color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lighter",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lighter--90": {
+		"css": "border-inline-end-color: var(--color--secondary-lighter--90);",
+		"title": "Right secondary border - lighter, 90% opacity",
+		"description": "Sets the right border to the secondary lighter color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lighter",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lightest": {
+		"css": "border-inline-end-color: var(--color--secondary-lightest);",
+		"title": "Right secondary border - lightest",
+		"description": "Sets the right border to the lightest secondary shade for a delicate, airy look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lightest"
+		]
+	},
+	"border--r-secondary-lightest--10": {
+		"css": "border-inline-end-color: var(--color--secondary-lightest--10);",
+		"title": "Right secondary border - lightest, 10% opacity",
+		"description": "Sets the right border to the secondary lightest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lightest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lightest--20": {
+		"css": "border-inline-end-color: var(--color--secondary-lightest--20);",
+		"title": "Right secondary border - lightest, 20% opacity",
+		"description": "Sets the right border to the secondary lightest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lightest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lightest--30": {
+		"css": "border-inline-end-color: var(--color--secondary-lightest--30);",
+		"title": "Right secondary border - lightest, 30% opacity",
+		"description": "Sets the right border to the secondary lightest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lightest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lightest--40": {
+		"css": "border-inline-end-color: var(--color--secondary-lightest--40);",
+		"title": "Right secondary border - lightest, 40% opacity",
+		"description": "Sets the right border to the secondary lightest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lightest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lightest--50": {
+		"css": "border-inline-end-color: var(--color--secondary-lightest--50);",
+		"title": "Right secondary border - lightest, 50% opacity",
+		"description": "Sets the right border to the secondary lightest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lightest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lightest--60": {
+		"css": "border-inline-end-color: var(--color--secondary-lightest--60);",
+		"title": "Right secondary border - lightest, 60% opacity",
+		"description": "Sets the right border to the secondary lightest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lightest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lightest--70": {
+		"css": "border-inline-end-color: var(--color--secondary-lightest--70);",
+		"title": "Right secondary border - lightest, 70% opacity",
+		"description": "Sets the right border to the secondary lightest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lightest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lightest--80": {
+		"css": "border-inline-end-color: var(--color--secondary-lightest--80);",
+		"title": "Right secondary border - lightest, 80% opacity",
+		"description": "Sets the right border to the secondary lightest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lightest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-lightest--90": {
+		"css": "border-inline-end-color: var(--color--secondary-lightest--90);",
+		"title": "Right secondary border - lightest, 90% opacity",
+		"description": "Sets the right border to the secondary lightest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"lightest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-white": {
+		"css": "border-inline-end-color: var(--color--secondary-near-white);",
+		"title": "Right secondary border - near-white",
+		"description": "Sets the right border to a near-white secondary shade for a subtle, clean effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-white"
+		]
+	},
+	"border--r-secondary-near-white--10": {
+		"css": "border-inline-end-color: var(--color--secondary-near-white--10);",
+		"title": "Right secondary border - near-white, 10% opacity",
+		"description": "Sets the right border to the secondary near-white color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-white--20": {
+		"css": "border-inline-end-color: var(--color--secondary-near-white--20);",
+		"title": "Right secondary border - near-white, 20% opacity",
+		"description": "Sets the right border to the secondary near-white color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-white--30": {
+		"css": "border-inline-end-color: var(--color--secondary-near-white--30);",
+		"title": "Right secondary border - near-white, 30% opacity",
+		"description": "Sets the right border to the secondary near-white color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-white--40": {
+		"css": "border-inline-end-color: var(--color--secondary-near-white--40);",
+		"title": "Right secondary border - near-white, 40% opacity",
+		"description": "Sets the right border to the secondary near-white color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-white--50": {
+		"css": "border-inline-end-color: var(--color--secondary-near-white--50);",
+		"title": "Right secondary border - near-white, 50% opacity",
+		"description": "Sets the right border to the secondary near-white color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-white--60": {
+		"css": "border-inline-end-color: var(--color--secondary-near-white--60);",
+		"title": "Right secondary border - near-white, 60% opacity",
+		"description": "Sets the right border to the secondary near-white color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-white--70": {
+		"css": "border-inline-end-color: var(--color--secondary-near-white--70);",
+		"title": "Right secondary border - near-white, 70% opacity",
+		"description": "Sets the right border to the secondary near-white color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-white--80": {
+		"css": "border-inline-end-color: var(--color--secondary-near-white--80);",
+		"title": "Right secondary border - near-white, 80% opacity",
+		"description": "Sets the right border to the secondary near-white color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-near-white--90": {
+		"css": "border-inline-end-color: var(--color--secondary-near-white--90);",
+		"title": "Right secondary border - near-white, 90% opacity",
+		"description": "Sets the right border to the secondary near-white color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"near-white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-complement": {
+		"css": "border-inline-end-color: var(--color--secondary-complement);",
+		"title": "Right secondary border - complement",
+		"description": "Sets the right border to the secondary complement for visual contrast and balance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"complement"
+		]
+	},
+	"border--r-secondary-complement--10": {
+		"css": "border-inline-end-color: var(--color--secondary-complement--10);",
+		"title": "Right secondary border - complement, 10% opacity",
+		"description": "Sets the right border to the secondary complement color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"complement",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-complement--20": {
+		"css": "border-inline-end-color: var(--color--secondary-complement--20);",
+		"title": "Right secondary border - complement, 20% opacity",
+		"description": "Sets the right border to the secondary complement color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"complement",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-complement--30": {
+		"css": "border-inline-end-color: var(--color--secondary-complement--30);",
+		"title": "Right secondary border - complement, 30% opacity",
+		"description": "Sets the right border to the secondary complement color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"complement",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-complement--40": {
+		"css": "border-inline-end-color: var(--color--secondary-complement--40);",
+		"title": "Right secondary border - complement, 40% opacity",
+		"description": "Sets the right border to the secondary complement color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"complement",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-complement--50": {
+		"css": "border-inline-end-color: var(--color--secondary-complement--50);",
+		"title": "Right secondary border - complement, 50% opacity",
+		"description": "Sets the right border to the secondary complement color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"complement",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-complement--60": {
+		"css": "border-inline-end-color: var(--color--secondary-complement--60);",
+		"title": "Right secondary border - complement, 60% opacity",
+		"description": "Sets the right border to the secondary complement color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"complement",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-complement--70": {
+		"css": "border-inline-end-color: var(--color--secondary-complement--70);",
+		"title": "Right secondary border - complement, 70% opacity",
+		"description": "Sets the right border to the secondary complement color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"complement",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-complement--80": {
+		"css": "border-inline-end-color: var(--color--secondary-complement--80);",
+		"title": "Right secondary border - complement, 80% opacity",
+		"description": "Sets the right border to the secondary complement color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"complement",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-complement--90": {
+		"css": "border-inline-end-color: var(--color--secondary-complement--90);",
+		"title": "Right secondary border - complement, 90% opacity",
+		"description": "Sets the right border to the secondary complement color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"complement",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-inverted": {
+		"css": "border-inline-end-color: var(--color--secondary-inverted);",
+		"title": "Right secondary border - inverted",
+		"description": "Sets the right border to the inverted secondary color for a striking, reversed look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"inverted"
+		]
+	},
+	"border--r-secondary-inverted--10": {
+		"css": "border-inline-end-color: var(--color--secondary-inverted--10);",
+		"title": "Right secondary border - inverted, 10% opacity",
+		"description": "Sets the right border to the secondary inverted color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"inverted",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-inverted--20": {
+		"css": "border-inline-end-color: var(--color--secondary-inverted--20);",
+		"title": "Right secondary border - inverted, 20% opacity",
+		"description": "Sets the right border to the secondary inverted color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"inverted",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-inverted--30": {
+		"css": "border-inline-end-color: var(--color--secondary-inverted--30);",
+		"title": "Right secondary border - inverted, 30% opacity",
+		"description": "Sets the right border to the secondary inverted color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"inverted",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-inverted--40": {
+		"css": "border-inline-end-color: var(--color--secondary-inverted--40);",
+		"title": "Right secondary border - inverted, 40% opacity",
+		"description": "Sets the right border to the secondary inverted color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"inverted",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-inverted--50": {
+		"css": "border-inline-end-color: var(--color--secondary-inverted--50);",
+		"title": "Right secondary border - inverted, 50% opacity",
+		"description": "Sets the right border to the secondary inverted color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"inverted",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-inverted--60": {
+		"css": "border-inline-end-color: var(--color--secondary-inverted--60);",
+		"title": "Right secondary border - inverted, 60% opacity",
+		"description": "Sets the right border to the secondary inverted color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"inverted",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-inverted--70": {
+		"css": "border-inline-end-color: var(--color--secondary-inverted--70);",
+		"title": "Right secondary border - inverted, 70% opacity",
+		"description": "Sets the right border to the secondary inverted color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"inverted",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-inverted--80": {
+		"css": "border-inline-end-color: var(--color--secondary-inverted--80);",
+		"title": "Right secondary border - inverted, 80% opacity",
+		"description": "Sets the right border to the secondary inverted color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"inverted",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--r-secondary-inverted--90": {
+		"css": "border-inline-end-color: var(--color--secondary-inverted--90);",
+		"title": "Right secondary border - inverted, 90% opacity",
+		"description": "Sets the right border to the secondary inverted color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"right",
+			"secondary",
+			"inverted",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

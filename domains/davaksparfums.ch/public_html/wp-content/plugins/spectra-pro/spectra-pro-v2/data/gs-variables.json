@@ -1,0 +1,5049 @@
+{
+	"fontsizes": {
+		"heading--6": {
+			"css": "1rem",
+			"title": "H6 Heading font-size",
+			"description": "Use this to apply the H6 heading fontsize.",
+			"category": "variables",
+			"tags": [
+				"heading",
+				"text",
+				"xs"
+			]
+		},
+		"heading--5": {
+			"css": "1.125rem",
+			"title": "H5 Heading font-size",
+			"description": "Use this to apply the H5 heading fontsize.",
+			"category": "variables",
+			"tags": [
+				"heading",
+				"text",
+				"sm"
+			]
+		},
+		"heading--4": {
+			"css": "1.25rem",
+			"title": "H4 Heading font-size",
+			"description": "Use this to apply the H4 heading fontsize.",
+			"category": "variables",
+			"tags": [
+				"heading",
+				"text",
+				"md"
+			]
+		},
+		"heading--3": {
+			"css": "1.5rem",
+			"title": "H3 Heading font-size",
+			"description": "Use this to apply the H3 heading fontsize.",
+			"category": "variables",
+			"tags": [
+				"heading",
+				"text",
+				"lg"
+			]
+		},
+		"heading--2": {
+			"css": "1.875rem",
+			"title": "H2 Heading font-size",
+			"description": "Use this to apply the H2 heading fontsize.",
+			"category": "variables",
+			"tags": [
+				"heading",
+				"text",
+				"xl"
+			]
+		},
+		"heading--1": {
+			"css": "2.25rem",
+			"title": "H1 Heading font-size",
+			"description": "Use this to apply the H1 heading fontsize.",
+			"category": "variables",
+			"tags": [
+				"heading",
+				"text",
+				"xxl"
+			]
+		},
+		"text--xs": {
+			"css": "0.75rem",
+			"title": "The extra-small font-size",
+			"description": "Use this to apply the extra-small font-size.",
+			"category": "variables",
+			"tags": [
+				"text",
+				"xs"
+			]
+		},
+		"text--sm": {
+			"css": "0.875rem",
+			"title": "The small font-size",
+			"description": "Use this to apply the small font-size.",
+			"category": "variables",
+			"tags": [
+				"text",
+				"sm"
+			]
+		},
+		"text--md": {
+			"css": "1rem",
+			"title": "The medium font-size",
+			"description": "Use this to apply the medium font-size.",
+			"category": "variables",
+			"tags": [
+				"text",
+				"md"
+			]
+		},
+		"text--lg": {
+			"css": "1.25rem",
+			"title": "The large font-size",
+			"description": "Use this to apply the large font-size.",
+			"category": "variables",
+			"tags": [
+				"text",
+				"lg"
+			]
+		},
+		"text--xl": {
+			"css": "1.5rem",
+			"title": "The extra-large font-size",
+			"description": "Use this to apply the extra-large font-size.",
+			"category": "variables",
+			"tags": [
+				"text",
+				"xl"
+			]
+		},
+		"text--xxl": {
+			"css": "2rem",
+			"title": "The double-extra-large font-size",
+			"description": "Use this to apply the double-extra-large font-size.",
+			"category": "variables",
+			"tags": [
+				"text",
+				"xxl"
+			]
+		},
+		"text--h-xs": {
+			"css": "1",
+			"title": "Extra-Small line-height",
+			"description": "Use this to apply the extra-small line-height.",
+			"category": "variables",
+			"tags": [
+				"text",
+				"xs"
+			]
+		},
+		"text--h-sm": {
+			"css": "1.125",
+			"title": "Small line-height",
+			"description": "Use this to apply the small line-height.",
+			"category": "variables",
+			"tags": [
+				"text",
+				"sm"
+			]
+		},
+		"text--h-md": {
+			"css": "1.25",
+			"title": "Medium line-height",
+			"description": "Use this to apply the medium line-height.",
+			"category": "variables",
+			"tags": [
+				"text",
+				"md"
+			]
+		},
+		"text--h-lg": {
+			"css": "1.5",
+			"title": "Large line-height",
+			"description": "Use this to apply the large line-height.",
+			"category": "variables",
+			"tags": [
+				"text",
+				"lg"
+			]
+		}
+	},
+	"spacing": {
+		"space--xs": {
+			"css": "0.5rem",
+			"title": "Tiny space",
+			"description": "Use this to apply a tiny space for minimal separation.",
+			"category": "variables",
+			"tags": [
+				"spacing",
+				"xs"
+			]
+		},
+		"space--sm": {
+			"css": "1rem",
+			"title": "Small space",
+			"description": "Use this to apply a small space for minor separation.",
+			"category": "variables",
+			"tags": [
+				"spacing",
+				"sm"
+			]
+		},
+		"space--md": {
+			"css": "1.5rem",
+			"title": "Medium space",
+			"description": "Use this to apply a medium space for balanced separation.",
+			"category": "variables",
+			"tags": [
+				"spacing",
+				"md"
+			]
+		},
+		"space--lg": {
+			"css": "2rem",
+			"title": "Large space",
+			"description": "Use this to apply a large space for significant separation.",
+			"category": "variables",
+			"tags": [
+				"spacing",
+				"lg"
+			]
+		},
+		"space--xl": {
+			"css": "3rem",
+			"title": "Extra-large space",
+			"description": "Use this to apply an extra-large space for major separation.",
+			"category": "variables",
+			"tags": [
+				"spacing",
+				"xl"
+			]
+		},
+		"space--xxl": {
+			"css": "5rem",
+			"title": "Huge space",
+			"description": "Use this to apply a huge space for maximum separation.",
+			"category": "variables",
+			"tags": [
+				"spacing",
+				"xxl"
+			]
+		}
+	},
+	"border": {
+		"border--xs": {
+			"css": "0.125rem",
+			"title": "Tiny border width",
+			"description": "Use this to apply a tiny border width for subtle outlines.",
+			"category": "variables",
+			"tags": [
+				"border",
+				"xs"
+			]
+		},
+		"border--sm": {
+			"css": "0.25rem",
+			"title": "Small border width",
+			"description": "Use this to apply a small border width for delicate outlines.",
+			"category": "variables",
+			"tags": [
+				"border",
+				"sm"
+			]
+		},
+		"border--md": {
+			"css": "0.5rem",
+			"title": "Medium border width",
+			"description": "Use this to apply a medium border width for balanced outlines.",
+			"category": "variables",
+			"tags": [
+				"border",
+				"md"
+			]
+		},
+		"border--lg": {
+			"css": "0.75rem",
+			"title": "Large border width",
+			"description": "Use this to apply a large border width for noticeable outlines.",
+			"category": "variables",
+			"tags": [
+				"border",
+				"lg"
+			]
+		},
+		"border--xl": {
+			"css": "1rem",
+			"title": "Extra-large border width",
+			"description": "Use this to apply an extra-large border width for prominent outlines.",
+			"category": "variables",
+			"tags": [
+				"border",
+				"xl"
+			]
+		},
+		"border--xxl": {
+			"css": "1.5rem",
+			"title": "Huge border width",
+			"description": "Use this to apply a huge border width for bold, impactful outlines.",
+			"category": "variables",
+			"tags": [
+				"border",
+				"xxl"
+			]
+		}
+	},
+	"colors": {
+		"common": {
+			"color--white": {
+				"css": "#fff",
+				"title": "White color",
+				"description": "Use this to apply the white color for a clean, neutral appearance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"white"
+				]
+			},
+			"color--white--10": {
+				"css": "rgba(255, 255, 255, 0.1)",
+				"title": "White color, 10% opacity",
+				"description": "Use this to apply the white color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"white",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--white--20": {
+				"css": "rgba(255, 255, 255, 0.2)",
+				"title": "White color, 20% opacity",
+				"description": "Use this to apply the white color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"white",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--white--30": {
+				"css": "rgba(255, 255, 255, 0.3)",
+				"title": "White color, 30% opacity",
+				"description": "Use this to apply the white color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"white",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--white--40": {
+				"css": "rgba(255, 255, 255, 0.4)",
+				"title": "White color, 40% opacity",
+				"description": "Use this to apply the white color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"white",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--white--50": {
+				"css": "rgba(255, 255, 255, 0.5)",
+				"title": "White color, 50% opacity",
+				"description": "Use this to apply the white color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"white",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--white--60": {
+				"css": "rgba(255, 255, 255, 0.6)",
+				"title": "White color, 60% opacity",
+				"description": "Use this to apply the white color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"white",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--white--70": {
+				"css": "rgba(255, 255, 255, 0.7)",
+				"title": "White color, 70% opacity",
+				"description": "Use this to apply the white color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"white",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--white--80": {
+				"css": "rgba(255, 255, 255, 0.8)",
+				"title": "White color, 80% opacity",
+				"description": "Use this to apply the white color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"white",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--white--90": {
+				"css": "rgba(255, 255, 255, 0.9)",
+				"title": "White color, 90% opacity",
+				"description": "Use this to apply the white color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"white",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--black": {
+				"css": "#000",
+				"title": "Black color",
+				"description": "Use this to apply the black color for a bold, classic look.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"black"
+				]
+			},
+			"color--black--10": {
+				"css": "rgba(0, 0, 0, 0.1)",
+				"title": "Black color, 10% opacity",
+				"description": "Use this to apply the black color with 10% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"black",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--black--20": {
+				"css": "rgba(0, 0, 0, 0.2)",
+				"title": "Black color, 20% opacity",
+				"description": "Use this to apply the black color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"black",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--black--30": {
+				"css": "rgba(0, 0, 0, 0.3)",
+				"title": "Black color, 30% opacity",
+				"description": "Use this to apply the black color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"black",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--black--40": {
+				"css": "rgba(0, 0, 0, 0.4)",
+				"title": "Black color, 40% opacity",
+				"description": "Use this to apply the black color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"black",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--black--50": {
+				"css": "rgba(0, 0, 0, 0.5)",
+				"title": "Black color, 50% opacity",
+				"description": "Use this to apply the black color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"black",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--black--60": {
+				"css": "rgba(0, 0, 0, 0.6)",
+				"title": "Black color, 60% opacity",
+				"description": "Use this to apply the black color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"black",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--black--70": {
+				"css": "rgba(0, 0, 0, 0.7)",
+				"title": "Black color, 70% opacity",
+				"description": "Use this to apply the black color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"black",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--black--80": {
+				"css": "rgba(0, 0, 0, 0.8)",
+				"title": "Black color, 80% opacity",
+				"description": "Use this to apply the black color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"black",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--black--90": {
+				"css": "rgba(0, 0, 0, 0.9)",
+				"title": "Black color, 90% opacity",
+				"description": "Use this to apply the black color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"black",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			}
+		},
+		"primary": {
+			"color--primary": {
+				"css": "#5733ff",
+				"title": "Primary color",
+				"description": "Use this to apply the primary color for a prominent, brand-focused appearance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary"
+				]
+			},
+			"color--primary--10": {
+				"css": "",
+				"title": "Primary color, 10% opacity",
+				"description": "Use this to apply the primary color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary--20": {
+				"css": "",
+				"title": "Primary color, 20% opacity",
+				"description": "Use this to apply the primary color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary--30": {
+				"css": "",
+				"title": "Primary color, 30% opacity",
+				"description": "Use this to apply the primary color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary--40": {
+				"css": "",
+				"title": "Primary color, 40% opacity",
+				"description": "Use this to apply the primary color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary--50": {
+				"css": "",
+				"title": "Primary color, 50% opacity",
+				"description": "Use this to apply the primary color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary--60": {
+				"css": "",
+				"title": "Primary color, 60% opacity",
+				"description": "Use this to apply the primary color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary--70": {
+				"css": "",
+				"title": "Primary color, 70% opacity",
+				"description": "Use this to apply the primary color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary--80": {
+				"css": "",
+				"title": "Primary color, 80% opacity",
+				"description": "Use this to apply the primary color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary--90": {
+				"css": "",
+				"title": "Primary color, 90% opacity",
+				"description": "Use this to apply the primary color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-dark": {
+				"css": "",
+				"title": "Primary dark color",
+				"description": "Use this to apply the primary dark color for strong emphasis and contrast.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"dark"
+				]
+			},
+			"color--primary-dark--10": {
+				"css": "",
+				"title": "Primary dark color, 10% opacity",
+				"description": "Use this to apply the primary dark color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"dark",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-dark--20": {
+				"css": "",
+				"title": "Primary dark color, 20% opacity",
+				"description": "Use this to apply the primary dark color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"dark",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-dark--30": {
+				"css": "",
+				"title": "Primary dark color, 30% opacity",
+				"description": "Use this to apply the primary dark color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"dark",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-dark--40": {
+				"css": "",
+				"title": "Primary dark color, 40% opacity",
+				"description": "Use this to apply the primary dark color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"dark",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-dark--50": {
+				"css": "",
+				"title": "Primary dark color, 50% opacity",
+				"description": "Use this to apply the primary dark color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"dark",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-dark--60": {
+				"css": "",
+				"title": "Primary dark color, 60% opacity",
+				"description": "Use this to apply the primary dark color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"dark",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-dark--70": {
+				"css": "",
+				"title": "Primary dark color, 70% opacity",
+				"description": "Use this to apply the primary dark color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"dark",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-dark--80": {
+				"css": "",
+				"title": "Primary dark color, 80% opacity",
+				"description": "Use this to apply the primary dark color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"dark",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-dark--90": {
+				"css": "",
+				"title": "Primary dark color, 90% opacity",
+				"description": "Use this to apply the primary dark color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"dark",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darker": {
+				"css": "",
+				"title": "Primary darker color",
+				"description": "Use this to apply the primary darker color for bold, impactful appearance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darker"
+				]
+			},
+			"color--primary-darker--10": {
+				"css": "",
+				"title": "Primary darker color, 10% opacity",
+				"description": "Use this to apply the primary darker color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darker",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darker--20": {
+				"css": "",
+				"title": "Primary darker color, 20% opacity",
+				"description": "Use this to apply the primary darker color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darker",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darker--30": {
+				"css": "",
+				"title": "Primary darker color, 30% opacity",
+				"description": "Use this to apply the primary darker color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darker",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darker--40": {
+				"css": "",
+				"title": "Primary darker color, 40% opacity",
+				"description": "Use this to apply the primary darker color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darker",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darker--50": {
+				"css": "",
+				"title": "Primary darker color, 50% opacity",
+				"description": "Use this to apply the primary darker color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darker",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darker--60": {
+				"css": "",
+				"title": "Primary darker color, 60% opacity",
+				"description": "Use this to apply the primary darker color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darker",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darker--70": {
+				"css": "",
+				"title": "Primary darker color, 70% opacity",
+				"description": "Use this to apply the primary darker color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darker",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darker--80": {
+				"css": "",
+				"title": "Primary darker color, 80% opacity",
+				"description": "Use this to apply the primary darker color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darker",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darker--90": {
+				"css": "",
+				"title": "Primary darker color, 90% opacity",
+				"description": "Use this to apply the primary darker color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darker",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darkest": {
+				"css": "",
+				"title": "Primary darkest color",
+				"description": "Use this to apply the primary darkest color for maximum contrast.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darkest"
+				]
+			},
+			"color--primary-darkest--10": {
+				"css": "",
+				"title": "Primary darkest color, 10% opacity",
+				"description": "Use this to apply the primary darkest color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darkest",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darkest--20": {
+				"css": "",
+				"title": "Primary darkest color, 20% opacity",
+				"description": "Use this to apply the primary darkest color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darkest",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darkest--30": {
+				"css": "",
+				"title": "Primary darkest color, 30% opacity",
+				"description": "Use this to apply the primary darkest color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darkest",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darkest--40": {
+				"css": "",
+				"title": "Primary darkest color, 40% opacity",
+				"description": "Use this to apply the primary darkest color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darkest",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darkest--50": {
+				"css": "",
+				"title": "Primary darkest color, 50% opacity",
+				"description": "Use this to apply the primary darkest color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darkest",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darkest--60": {
+				"css": "",
+				"title": "Primary darkest color, 60% opacity",
+				"description": "Use this to apply the primary darkest color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darkest",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darkest--70": {
+				"css": "",
+				"title": "Primary darkest color, 70% opacity",
+				"description": "Use this to apply the primary darkest color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darkest",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darkest--80": {
+				"css": "",
+				"title": "Primary darkest color, 80% opacity",
+				"description": "Use this to apply the primary darkest color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darkest",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-darkest--90": {
+				"css": "",
+				"title": "Primary darkest color, 90% opacity",
+				"description": "Use this to apply the primary darkest color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"darkest",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-black": {
+				"css": "",
+				"title": "Primary near-black color",
+				"description": "Use this to apply the primary near-black color for a deep, modern look.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-black"
+				]
+			},
+			"color--primary-near-black--10": {
+				"css": "",
+				"title": "Primary near-black color, 10% opacity",
+				"description": "Use this to apply the primary near-black color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-black",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-black--20": {
+				"css": "",
+				"title": "Primary near-black color, 20% opacity",
+				"description": "Use this to apply the primary near-black color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-black",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-black--30": {
+				"css": "",
+				"title": "Primary near-black color, 30% opacity",
+				"description": "Use this to apply the primary near-black color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-black",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-black--40": {
+				"css": "",
+				"title": "Primary near-black color, 40% opacity",
+				"description": "Use this to apply the primary near-black color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-black",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-black--50": {
+				"css": "",
+				"title": "Primary near-black color, 50% opacity",
+				"description": "Use this to apply the primary near-black color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-black",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-black--60": {
+				"css": "",
+				"title": "Primary near-black color, 60% opacity",
+				"description": "Use this to apply the primary near-black color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-black",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-black--70": {
+				"css": "",
+				"title": "Primary near-black color, 70% opacity",
+				"description": "Use this to apply the primary near-black color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-black",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-black--80": {
+				"css": "",
+				"title": "Primary near-black color, 80% opacity",
+				"description": "Use this to apply the primary near-black color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-black",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-black--90": {
+				"css": "",
+				"title": "Primary near-black color, 90% opacity",
+				"description": "Use this to apply the primary near-black color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-black",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-light": {
+				"css": "",
+				"title": "Primary light color",
+				"description": "Use this to apply the primary light color for a softer, subtle appearance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"light"
+				]
+			},
+			"color--primary-light--10": {
+				"css": "",
+				"title": "Primary light color, 10% opacity",
+				"description": "Use this to apply the primary light color with 10% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"light",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-light--20": {
+				"css": "",
+				"title": "Primary light color, 20% opacity",
+				"description": "Use this to apply the primary light color with 20% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"light",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-light--30": {
+				"css": "",
+				"title": "Primary light color, 30% opacity",
+				"description": "Use this to apply the primary light color with 30% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"light",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-light--40": {
+				"css": "",
+				"title": "Primary light color, 40% opacity",
+				"description": "Use this to apply the primary light color with 40% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"light",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-light--50": {
+				"css": "",
+				"title": "Primary light color, 50% opacity",
+				"description": "Use this to apply the primary light color with 50% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"light",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-light--60": {
+				"css": "",
+				"title": "Primary light color, 60% opacity",
+				"description": "Use this to apply the primary light color with 60% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"light",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-light--70": {
+				"css": "",
+				"title": "Primary light color, 70% opacity",
+				"description": "Use this to apply the primary light color with 70% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"light",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-light--80": {
+				"css": "",
+				"title": "Primary light color, 80% opacity",
+				"description": "Use this to apply the primary light color with 80% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"light",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-light--90": {
+				"css": "",
+				"title": "Primary light color, 90% opacity",
+				"description": "Use this to apply the primary light color with 90% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"light",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lighter": {
+				"css": "",
+				"title": "Primary lighter color",
+				"description": "Use this to apply the primary lighter color for a delicate, airy appearance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lighter"
+				]
+			},
+			"color--primary-lighter--10": {
+				"css": "",
+				"title": "Primary lighter color, 10% opacity",
+				"description": "Use this to apply the primary lighter color with 10% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lighter",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lighter--20": {
+				"css": "",
+				"title": "Primary lighter color, 20% opacity",
+				"description": "Use this to apply the primary lighter color with 20% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lighter",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lighter--30": {
+				"css": "",
+				"title": "Primary lighter color, 30% opacity",
+				"description": "Use this to apply the primary lighter color with 30% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lighter",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lighter--40": {
+				"css": "",
+				"title": "Primary lighter color, 40% opacity",
+				"description": "Use this to apply the primary lighter color with 40% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lighter",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lighter--50": {
+				"css": "",
+				"title": "Primary lighter color, 50% opacity",
+				"description": "Use this to apply the primary lighter color with 50% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lighter",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lighter--60": {
+				"css": "",
+				"title": "Primary lighter color, 60% opacity",
+				"description": "Use this to apply the primary lighter color with 60% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lighter",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lighter--70": {
+				"css": "",
+				"title": "Primary lighter color, 70% opacity",
+				"description": "Use this to apply the primary lighter color with 70% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lighter",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lighter--80": {
+				"css": "",
+				"title": "Primary lighter color, 80% opacity",
+				"description": "Use this to apply the primary lighter color with 80% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lighter",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lighter--90": {
+				"css": "",
+				"title": "Primary lighter color, 90% opacity",
+				"description": "Use this to apply the primary lighter color with 90% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lighter",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lightest": {
+				"css": "",
+				"title": "Primary lightest color",
+				"description": "Use this to apply the primary lightest color for a barely-there, subtle effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lightest"
+				]
+			},
+			"color--primary-lightest--10": {
+				"css": "",
+				"title": "Primary lightest color, 10% opacity",
+				"description": "Use this to apply the primary lightest color with 10% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lightest",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lightest--20": {
+				"css": "",
+				"title": "Primary lightest color, 20% opacity",
+				"description": "Use this to apply the primary lightest color with 20% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lightest",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lightest--30": {
+				"css": "",
+				"title": "Primary lightest color, 30% opacity",
+				"description": "Use this to apply the primary lightest color with 30% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lightest",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lightest--40": {
+				"css": "",
+				"title": "Primary lightest color, 40% opacity",
+				"description": "Use this to apply the primary lightest color with 40% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lightest",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lightest--50": {
+				"css": "",
+				"title": "Primary lightest color, 50% opacity",
+				"description": "Use this to apply the primary lightest color with 50% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lightest",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lightest--60": {
+				"css": "",
+				"title": "Primary lightest color, 60% opacity",
+				"description": "Use this to apply the primary lightest color with 60% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lightest",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lightest--70": {
+				"css": "",
+				"title": "Primary lightest color, 70% opacity",
+				"description": "Use this to apply the primary lightest color with 70% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lightest",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lightest--80": {
+				"css": "",
+				"title": "Primary lightest color, 80% opacity",
+				"description": "Use this to apply the primary lightest color with 80% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lightest",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-lightest--90": {
+				"css": "",
+				"title": "Primary lightest color, 90% opacity",
+				"description": "Use this to apply the primary lightest color with 90% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"lightest",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-white": {
+				"css": "",
+				"title": "Primary near-white color",
+				"description": "Use this to apply the primary near-white color for a clean, minimal look.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-white"
+				]
+			},
+			"color--primary-near-white--10": {
+				"css": "",
+				"title": "Primary near-white color, 10% opacity",
+				"description": "Use this to apply the primary near-white color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-white",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-white--20": {
+				"css": "",
+				"title": "Primary near-white color, 20% opacity",
+				"description": "Use this to apply the primary near-white color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-white",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-white--30": {
+				"css": "",
+				"title": "Primary near-white color, 30% opacity",
+				"description": "Use this to apply the primary near-white color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-white",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-white--40": {
+				"css": "",
+				"title": "Primary near-white color, 40% opacity",
+				"description": "Use this to apply the primary near-white color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-white",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-white--50": {
+				"css": "",
+				"title": "Primary near-white color, 50% opacity",
+				"description": "Use this to apply the primary near-white color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-white",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-white--60": {
+				"css": "",
+				"title": "Primary near-white color, 60% opacity",
+				"description": "Use this to apply the primary near-white color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-white",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-white--70": {
+				"css": "",
+				"title": "Primary near-white color, 70% opacity",
+				"description": "Use this to apply the primary near-white color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-white",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-white--80": {
+				"css": "",
+				"title": "Primary near-white color, 80% opacity",
+				"description": "Use this to apply the primary near-white color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-white",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-near-white--90": {
+				"css": "",
+				"title": "Primary near-white color, 90% opacity",
+				"description": "Use this to apply the primary near-white color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"near-white",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-complement": {
+				"css": "",
+				"title": "Primary complement color",
+				"description": "Use this to apply the primary complement color for a contrasting, vibrant effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"complement"
+				]
+			},
+			"color--primary-complement--10": {
+				"css": "",
+				"title": "Primary complement color, 10% opacity",
+				"description": "Use this to apply the primary complement color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"complement",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-complement--20": {
+				"css": "",
+				"title": "Primary complement color, 20% opacity",
+				"description": "Use this to apply the primary complement color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"complement",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-complement--30": {
+				"css": "",
+				"title": "Primary complement color, 30% opacity",
+				"description": "Use this to apply the primary complement color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"complement",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-complement--40": {
+				"css": "",
+				"title": "Primary complement color, 40% opacity",
+				"description": "Use this to apply the primary complement color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"complement",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-complement--50": {
+				"css": "",
+				"title": "Primary complement color, 50% opacity",
+				"description": "Use this to apply the primary complement color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"complement",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-complement--60": {
+				"css": "",
+				"title": "Primary complement color, 60% opacity",
+				"description": "Use this to apply the primary complement color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"complement",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-complement--70": {
+				"css": "",
+				"title": "Primary complement color, 70% opacity",
+				"description": "Use this to apply the primary complement color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"complement",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-complement--80": {
+				"css": "",
+				"title": "Primary complement color, 80% opacity",
+				"description": "Use this to apply the primary complement color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"complement",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-complement--90": {
+				"css": "",
+				"title": "Primary complement color, 90% opacity",
+				"description": "Use this to apply the primary complement color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"complement",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-inverted": {
+				"css": "",
+				"title": "Primary inverted color",
+				"description": "Use this to apply the primary inverted color for a reversed, high-contrast effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"inverted"
+				]
+			},
+			"color--primary-inverted--10": {
+				"css": "",
+				"title": "Primary inverted color, 10% opacity",
+				"description": "Use this to apply the primary inverted color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"inverted",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-inverted--20": {
+				"css": "",
+				"title": "Primary inverted color, 20% opacity",
+				"description": "Use this to apply the primary inverted color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"inverted",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-inverted--30": {
+				"css": "",
+				"title": "Primary inverted color, 30% opacity",
+				"description": "Use this to apply the primary inverted color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"inverted",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-inverted--40": {
+				"css": "",
+				"title": "Primary inverted color, 40% opacity",
+				"description": "Use this to apply the primary inverted color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"inverted",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-inverted--50": {
+				"css": "",
+				"title": "Primary inverted color, 50% opacity",
+				"description": "Use this to apply the primary inverted color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"inverted",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-inverted--60": {
+				"css": "",
+				"title": "Primary inverted color, 60% opacity",
+				"description": "Use this to apply the primary inverted color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"inverted",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-inverted--70": {
+				"css": "",
+				"title": "Primary inverted color, 70% opacity",
+				"description": "Use this to apply the primary inverted color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"inverted",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-inverted--80": {
+				"css": "",
+				"title": "Primary inverted color, 80% opacity",
+				"description": "Use this to apply the primary inverted color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"inverted",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--primary-inverted--90": {
+				"css": "",
+				"title": "Primary inverted color, 90% opacity",
+				"description": "Use this to apply the primary inverted color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"primary",
+					"inverted",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			}
+		},
+		"secondary": {
+			"color--secondary": {
+				"css": "#dedcff",
+				"title": "Secondary color",
+				"description": "Use this to apply the secondary color for a complementary, accent appearance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary"
+				]
+			},
+			"color--secondary--10": {
+				"css": "",
+				"title": "Secondary color, 10% opacity",
+				"description": "Use this to apply the secondary color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary--20": {
+				"css": "",
+				"title": "Secondary color, 20% opacity",
+				"description": "Use this to apply the secondary color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary--30": {
+				"css": "",
+				"title": "Secondary color, 30% opacity",
+				"description": "Use this to apply the secondary color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary--40": {
+				"css": "",
+				"title": "Secondary color, 40% opacity",
+				"description": "Use this to apply the secondary color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary--50": {
+				"css": "",
+				"title": "Secondary color, 50% opacity",
+				"description": "Use this to apply the secondary color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary--60": {
+				"css": "",
+				"title": "Secondary color, 60% opacity",
+				"description": "Use this to apply the secondary color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary--70": {
+				"css": "",
+				"title": "Secondary color, 70% opacity",
+				"description": "Use this to apply the secondary color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary--80": {
+				"css": "",
+				"title": "Secondary color, 80% opacity",
+				"description": "Use this to apply the secondary color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary--90": {
+				"css": "",
+				"title": "Secondary color, 90% opacity",
+				"description": "Use this to apply the secondary color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-dark": {
+				"css": "",
+				"title": "Secondary color - dark",
+				"description": "Use this to apply the secondary dark color for strong emphasis and contrast.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"dark"
+				]
+			},
+			"color--secondary-dark--10": {
+				"css": "",
+				"title": "Secondary color - dark, 10% opacity",
+				"description": "Use this to apply the secondary dark color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"dark",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-dark--20": {
+				"css": "",
+				"title": "Secondary color - dark, 20% opacity",
+				"description": "Use this to apply the secondary dark color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"dark",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-dark--30": {
+				"css": "",
+				"title": "Secondary color - dark, 30% opacity",
+				"description": "Use this to apply the secondary dark color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"dark",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-dark--40": {
+				"css": "",
+				"title": "Secondary color - dark, 40% opacity",
+				"description": "Use this to apply the secondary dark color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"dark",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-dark--50": {
+				"css": "",
+				"title": "Secondary color - dark, 50% opacity",
+				"description": "Use this to apply the secondary dark color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"dark",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-dark--60": {
+				"css": "",
+				"title": "Secondary color - dark, 60% opacity",
+				"description": "Use this to apply the secondary dark color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"dark",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-dark--70": {
+				"css": "",
+				"title": "Secondary color - dark, 70% opacity",
+				"description": "Use this to apply the secondary dark color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"dark",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-dark--80": {
+				"css": "",
+				"title": "Secondary color - dark, 80% opacity",
+				"description": "Use this to apply the secondary dark color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"dark",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-dark--90": {
+				"css": "",
+				"title": "Secondary color - dark, 90% opacity",
+				"description": "Use this to apply the secondary dark color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"dark",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darker": {
+				"css": "",
+				"title": "Secondary color - darker",
+				"description": "Use this to apply the secondary darker color for bold, impactful.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darker"
+				]
+			},
+			"color--secondary-darker--10": {
+				"css": "",
+				"title": "Secondary color - darker, 10% opacity",
+				"description": "Use this to apply the secondary darker color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darker",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darker--20": {
+				"css": "",
+				"title": "Secondary color - darker, 20% opacity",
+				"description": "Use this to apply the secondary darker color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darker",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darker--30": {
+				"css": "",
+				"title": "Secondary color - darker, 30% opacity",
+				"description": "Use this to apply the secondary darker color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darker",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darker--40": {
+				"css": "",
+				"title": "Secondary color - darker, 40% opacity",
+				"description": "Use this to apply the secondary darker color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darker",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darker--50": {
+				"css": "",
+				"title": "Secondary color - darker, 50% opacity",
+				"description": "Use this to apply the secondary darker color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darker",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darker--60": {
+				"css": "",
+				"title": "Secondary color - darker, 60% opacity",
+				"description": "Use this to apply the secondary darker color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darker",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darker--70": {
+				"css": "",
+				"title": "Secondary color - darker, 70% opacity",
+				"description": "Use this to apply the secondary darker color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darker",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darker--80": {
+				"css": "",
+				"title": "Secondary color - darker, 80% opacity",
+				"description": "Use this to apply the secondary darker color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darker",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darker--90": {
+				"css": "",
+				"title": "Secondary color - darker, 90% opacity",
+				"description": "Use this to apply the secondary darker color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darker",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darkest": {
+				"css": "",
+				"title": "Secondary color - darkest",
+				"description": "Use this to apply the secondary darkest color for maximum contrast.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darkest"
+				]
+			},
+			"color--secondary-darkest--10": {
+				"css": "",
+				"title": "Secondary color - darkest, 10% opacity",
+				"description": "Use this to apply the secondary darkest color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darkest",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darkest--20": {
+				"css": "",
+				"title": "Secondary color - darkest, 20% opacity",
+				"description": "Use this to apply the secondary darkest color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darkest",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darkest--30": {
+				"css": "",
+				"title": "Secondary color - darkest, 30% opacity",
+				"description": "Use this to apply the secondary darkest color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darkest",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darkest--40": {
+				"css": "",
+				"title": "Secondary color - darkest, 40% opacity",
+				"description": "Use this to apply the secondary darkest color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darkest",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darkest--50": {
+				"css": "",
+				"title": "Secondary color - darkest, 50% opacity",
+				"description": "Use this to apply the secondary darkest color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darkest",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darkest--60": {
+				"css": "",
+				"title": "Secondary color - darkest, 60% opacity",
+				"description": "Use this to apply the secondary darkest color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darkest",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darkest--70": {
+				"css": "",
+				"title": "Secondary color - darkest, 70% opacity",
+				"description": "Use this to apply the secondary darkest color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darkest",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darkest--80": {
+				"css": "",
+				"title": "Secondary color - darkest, 80% opacity",
+				"description": "Use this to apply the secondary darkest color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darkest",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-darkest--90": {
+				"css": "",
+				"title": "Secondary color - darkest, 90% opacity",
+				"description": "Use this to apply the secondary darkest color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"darkest",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-black": {
+				"css": "",
+				"title": "Secondary color - near-black",
+				"description": "Use this to apply the secondary near-black color for a deep, modern look.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-black"
+				]
+			},
+			"color--secondary-near-black--10": {
+				"css": "",
+				"title": "Secondary color - near-black, 10% opacity",
+				"description": "Use this to apply the secondary near-black color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-black",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-black--20": {
+				"css": "",
+				"title": "Secondary color - near-black, 20% opacity",
+				"description": "Use this to apply the secondary near-black color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-black",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-black--30": {
+				"css": "",
+				"title": "Secondary color - near-black, 30% opacity",
+				"description": "Use this to apply the secondary near-black color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-black",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-black--40": {
+				"css": "",
+				"title": "Secondary color - near-black, 40% opacity",
+				"description": "Use this to apply the secondary near-black color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-black",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-black--50": {
+				"css": "",
+				"title": "Secondary color - near-black, 50% opacity",
+				"description": "Use this to apply the secondary near-black color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-black",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-black--60": {
+				"css": "",
+				"title": "Secondary color - near-black, 60% opacity",
+				"description": "Use this to apply the secondary near-black color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-black",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-black--70": {
+				"css": "",
+				"title": "Secondary color - near-black, 70% opacity",
+				"description": "Use this to apply the secondary near-black color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-black",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-black--80": {
+				"css": "",
+				"title": "Secondary color - near-black, 80% opacity",
+				"description": "Use this to apply the secondary near-black color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-black",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-black--90": {
+				"css": "",
+				"title": "Secondary color - near-black, 90% opacity",
+				"description": "Use this to apply the secondary near-black color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-black",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-light": {
+				"css": "",
+				"title": "Secondary color - light",
+				"description": "Use this to apply the secondary light color for a softer, subtle appearance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"light"
+				]
+			},
+			"color--secondary-light--10": {
+				"css": "",
+				"title": "Secondary color - light, 10% opacity",
+				"description": "Use this to apply the secondary light color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"light",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-light--20": {
+				"css": "",
+				"title": "Secondary color - light, 20% opacity",
+				"description": "Use this to apply the secondary light color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"light",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-light--30": {
+				"css": "",
+				"title": "Secondary color - light, 30% opacity",
+				"description": "Use this to apply the secondary light color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"light",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-light--40": {
+				"css": "",
+				"title": "Secondary color - light, 40% opacity",
+				"description": "Use this to apply the secondary light color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"light",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-light--50": {
+				"css": "",
+				"title": "Secondary color - light, 50% opacity",
+				"description": "Use this to apply the secondary light color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"light",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-light--60": {
+				"css": "",
+				"title": "Secondary color - light, 60% opacity",
+				"description": "Use this to apply the secondary light color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"light",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-light--70": {
+				"css": "",
+				"title": "Secondary color - light, 70% opacity",
+				"description": "Use this to apply the secondary light color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"light",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-light--80": {
+				"css": "",
+				"title": "Secondary color - light, 80% opacity",
+				"description": "Use this to apply the secondary light color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"light",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-light--90": {
+				"css": "",
+				"title": "Secondary color - light, 90% opacity",
+				"description": "Use this to apply the secondary light color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"light",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lighter": {
+				"css": "",
+				"title": "Secondary color - lighter",
+				"description": "Use this to apply the secondary lighter color for gentle emphasis.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lighter"
+				]
+			},
+			"color--secondary-lighter--10": {
+				"css": "",
+				"title": "Secondary color - lighter, 10% opacity",
+				"description": "Use this to apply the secondary lighter color with 10% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lighter",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lighter--20": {
+				"css": "",
+				"title": "Secondary color - lighter, 20% opacity",
+				"description": "Use this to apply the secondary lighter color with 20% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lighter",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lighter--30": {
+				"css": "",
+				"title": "Secondary color - lighter, 30% opacity",
+				"description": "Use this to apply the secondary lighter color with 30% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lighter",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lighter--40": {
+				"css": "",
+				"title": "Secondary color - lighter, 40% opacity",
+				"description": "Use this to apply the secondary lighter color with 40% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lighter",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lighter--50": {
+				"css": "",
+				"title": "Secondary color - lighter, 50% opacity",
+				"description": "Use this to apply the secondary lighter color with 50% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lighter",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lighter--60": {
+				"css": "",
+				"title": "Secondary color - lighter, 60% opacity",
+				"description": "Use this to apply the secondary lighter color with 60% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lighter",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lighter--70": {
+				"css": "",
+				"title": "Secondary color - lighter, 70% opacity",
+				"description": "Use this to apply the secondary lighter color with 70% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lighter",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lighter--80": {
+				"css": "",
+				"title": "Secondary color - lighter, 80% opacity",
+				"description": "Use this to apply the secondary lighter color with 80% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lighter",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lighter--90": {
+				"css": "",
+				"title": "Secondary color - lighter, 90% opacity",
+				"description": "Use this to apply the secondary lighter color with 90% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lighter",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lightest": {
+				"css": "",
+				"title": "Secondary color - lightest",
+				"description": "Use this to apply the secondary lightest color for a delicate, airy look.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lightest"
+				]
+			},
+			"color--secondary-lightest--10": {
+				"css": "",
+				"title": "Secondary color - lightest, 10% opacity",
+				"description": "Use this to apply the secondary lightest color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lightest",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lightest--20": {
+				"css": "",
+				"title": "Secondary color - lightest, 20% opacity",
+				"description": "Use this to apply the secondary lightest color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lightest",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lightest--30": {
+				"css": "",
+				"title": "Secondary color - lightest, 30% opacity",
+				"description": "Use this to apply the secondary lightest color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lightest",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lightest--40": {
+				"css": "",
+				"title": "Secondary color - lightest, 40% opacity",
+				"description": "Use this to apply the secondary lightest color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lightest",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lightest--50": {
+				"css": "",
+				"title": "Secondary color - lightest, 50% opacity",
+				"description": "Use this to apply the secondary lightest color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lightest",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lightest--60": {
+				"css": "",
+				"title": "Secondary color - lightest, 60% opacity",
+				"description": "Use this to apply the secondary lightest color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lightest",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lightest--70": {
+				"css": "",
+				"title": "Secondary color - lightest, 70% opacity",
+				"description": "Use this to apply the secondary lightest color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lightest",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lightest--80": {
+				"css": "",
+				"title": "Secondary color - lightest, 80% opacity",
+				"description": "Use this to apply the secondary lightest color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lightest",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-lightest--90": {
+				"css": "",
+				"title": "Secondary color - lightest, 90% opacity",
+				"description": "Use this to apply the secondary lightest color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"lightest",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-white": {
+				"css": "",
+				"title": "Secondary color - near-white",
+				"description": "Use this to apply the secondary near-white color for a subtle, clean effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-white"
+				]
+			},
+			"color--secondary-near-white--10": {
+				"css": "",
+				"title": "Secondary color - near-white, 10% opacity",
+				"description": "Use this to apply the secondary near-white color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-white",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-white--20": {
+				"css": "",
+				"title": "Secondary color - near-white, 20% opacity",
+				"description": "Use this to apply the secondary near-white color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-white",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-white--30": {
+				"css": "",
+				"title": "Secondary color - near-white, 30% opacity",
+				"description": "Use this to apply the secondary near-white color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-white",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-white--40": {
+				"css": "",
+				"title": "Secondary color - near-white, 40% opacity",
+				"description": "Use this to apply the secondary near-white color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-white",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-white--50": {
+				"css": "",
+				"title": "Secondary color - near-white, 50% opacity",
+				"description": "Use this to apply the secondary near-white color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-white",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-white--60": {
+				"css": "",
+				"title": "Secondary color - near-white, 60% opacity",
+				"description": "Use this to apply the secondary near-white color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-white",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-white--70": {
+				"css": "",
+				"title": "Secondary color - near-white, 70% opacity",
+				"description": "Use this to apply the secondary near-white color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-white",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-white--80": {
+				"css": "",
+				"title": "Secondary color - near-white, 80% opacity",
+				"description": "Use this to apply the secondary near-white color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-white",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-near-white--90": {
+				"css": "",
+				"title": "Secondary color - near-white, 90% opacity",
+				"description": "Use this to apply the secondary near-white color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"near-white",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-complement": {
+				"css": "",
+				"title": "Secondary color - complement",
+				"description": "Use this to apply the secondary complement for visual contrast and balance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"complement"
+				]
+			},
+			"color--secondary-complement--10": {
+				"css": "",
+				"title": "Secondary color - complement, 10% opacity",
+				"description": "Use this to apply the secondary complement color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"complement",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-complement--20": {
+				"css": "",
+				"title": "Secondary color - complement, 20% opacity",
+				"description": "Use this to apply the secondary complement color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"complement",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-complement--30": {
+				"css": "",
+				"title": "Secondary color - complement, 30% opacity",
+				"description": "Use this to apply the secondary complement color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"complement",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-complement--40": {
+				"css": "",
+				"title": "Secondary color - complement, 40% opacity",
+				"description": "Use this to apply the secondary complement color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"complement",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-complement--50": {
+				"css": "",
+				"title": "Secondary color - complement, 50% opacity",
+				"description": "Use this to apply the secondary complement color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"complement",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-complement--60": {
+				"css": "",
+				"title": "Secondary color - complement, 60% opacity",
+				"description": "Use this to apply the secondary complement color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"complement",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-complement--70": {
+				"css": "",
+				"title": "Secondary color - complement, 70% opacity",
+				"description": "Use this to apply the secondary complement color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"complement",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-complement--80": {
+				"css": "",
+				"title": "Secondary color - complement, 80% opacity",
+				"description": "Use this to apply the secondary complement color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"complement",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-complement--90": {
+				"css": "",
+				"title": "Secondary color - complement, 90% opacity",
+				"description": "Use this to apply the secondary complement color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"complement",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-inverted": {
+				"css": "",
+				"title": "Secondary color - inverted",
+				"description": "Use this to apply the inverted secondary color for a striking, reversed look.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"inverted"
+				]
+			},
+			"color--secondary-inverted--10": {
+				"css": "",
+				"title": "Secondary color - inverted, 10% opacity",
+				"description": "Use this to apply the secondary inverted color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"inverted",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-inverted--20": {
+				"css": "",
+				"title": "Secondary color - inverted, 20% opacity",
+				"description": "Use this to apply the secondary inverted color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"inverted",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-inverted--30": {
+				"css": "",
+				"title": "Secondary color - inverted, 30% opacity",
+				"description": "Use this to apply the secondary inverted color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"inverted",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-inverted--40": {
+				"css": "",
+				"title": "Secondary color - inverted, 40% opacity",
+				"description": "Use this to apply the secondary inverted color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"inverted",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-inverted--50": {
+				"css": "",
+				"title": "Secondary color - inverted, 50% opacity",
+				"description": "Use this to apply the secondary inverted color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"inverted",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-inverted--60": {
+				"css": "",
+				"title": "Secondary color - inverted, 60% opacity",
+				"description": "Use this to apply the secondary inverted color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"inverted",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-inverted--70": {
+				"css": "",
+				"title": "Secondary color - inverted, 70% opacity",
+				"description": "Use this to apply the secondary inverted color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"inverted",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-inverted--80": {
+				"css": "",
+				"title": "Secondary color - inverted, 80% opacity",
+				"description": "Use this to apply the secondary inverted color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"inverted",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--secondary-inverted--90": {
+				"css": "",
+				"title": "Secondary color - inverted, 90% opacity",
+				"description": "Use this to apply the secondary inverted color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"secondary",
+					"inverted",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			}
+		},
+		"base": {
+			"color--base": {
+				"css": "#030712",
+				"title": "Base color",
+				"description": "Use this to apply the base color for a balanced, default appearance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base"
+				]
+			},
+			"color--base--10": {
+				"css": "",
+				"title": "Base color, 10% opacity",
+				"description": "Use this to apply the base color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base--20": {
+				"css": "",
+				"title": "Base color, 20% opacity",
+				"description": "Use this to apply the base color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base--30": {
+				"css": "",
+				"title": "Base color, 30% opacity",
+				"description": "Use this to apply the base color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base--40": {
+				"css": "",
+				"title": "Base color, 40% opacity",
+				"description": "Use this to apply the base color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base--50": {
+				"css": "",
+				"title": "Base color, 50% opacity",
+				"description": "Use this to apply the base color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base--60": {
+				"css": "",
+				"title": "Base color, 60% opacity",
+				"description": "Use this to apply the base color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base--70": {
+				"css": "",
+				"title": "Base color, 70% opacity",
+				"description": "Use this to apply the base color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base--80": {
+				"css": "",
+				"title": "Base color, 80% opacity",
+				"description": "Use this to apply the base color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base--90": {
+				"css": "",
+				"title": "Base color, 90% opacity",
+				"description": "Use this to apply the base color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-dark": {
+				"css": "",
+				"title": "Base dark color",
+				"description": "Use this to apply the base dark color for strong emphasis and contrast.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"dark"
+				]
+			},
+			"color--base-dark--10": {
+				"css": "",
+				"title": "Base dark color, 10% opacity",
+				"description": "Use this to apply the base dark color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"dark",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-dark--20": {
+				"css": "",
+				"title": "Base dark color, 20% opacity",
+				"description": "Use this to apply the base dark color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"dark",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-dark--30": {
+				"css": "",
+				"title": "Base dark color, 30% opacity",
+				"description": "Use this to apply the base dark color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"dark",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-dark--40": {
+				"css": "",
+				"title": "Base dark color, 40% opacity",
+				"description": "Use this to apply the base dark color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"dark",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-dark--50": {
+				"css": "",
+				"title": "Base dark color, 50% opacity",
+				"description": "Use this to apply the base dark color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"dark",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-dark--60": {
+				"css": "",
+				"title": "Base dark color, 60% opacity",
+				"description": "Use this to apply the base dark color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"dark",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-dark--70": {
+				"css": "",
+				"title": "Base dark color, 70% opacity",
+				"description": "Use this to apply the base dark color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"dark",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-dark--80": {
+				"css": "",
+				"title": "Base dark color, 80% opacity",
+				"description": "Use this to apply the base dark color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"dark",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-dark--90": {
+				"css": "",
+				"title": "Base dark color, 90% opacity",
+				"description": "Use this to apply the base dark color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"dark",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darker": {
+				"css": "",
+				"title": "Base darker color",
+				"description": "Use this to apply the base darker color for bold, impactful appearance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darker"
+				]
+			},
+			"color--base-darker--10": {
+				"css": "",
+				"title": "Base darker color, 10% opacity",
+				"description": "Use this to apply the base darker color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darker",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darker--20": {
+				"css": "",
+				"title": "Base darker color, 20% opacity",
+				"description": "Use this to apply the base darker color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darker",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darker--30": {
+				"css": "",
+				"title": "Base darker color, 30% opacity",
+				"description": "Use this to apply the base darker color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darker",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darker--40": {
+				"css": "",
+				"title": "Base darker color, 40% opacity",
+				"description": "Use this to apply the base darker color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darker",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darker--50": {
+				"css": "",
+				"title": "Base darker color, 50% opacity",
+				"description": "Use this to apply the base darker color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darker",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darker--60": {
+				"css": "",
+				"title": "Base darker color, 60% opacity",
+				"description": "Use this to apply the base darker color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darker",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darker--70": {
+				"css": "",
+				"title": "Base darker color, 70% opacity",
+				"description": "Use this to apply the base darker color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darker",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darker--80": {
+				"css": "",
+				"title": "Base darker color, 80% opacity",
+				"description": "Use this to apply the base darker color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darker",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darker--90": {
+				"css": "",
+				"title": "Base darker color, 90% opacity",
+				"description": "Use this to apply the base darker color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darker",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darkest": {
+				"css": "",
+				"title": "Base darkest color",
+				"description": "Use this to apply the base darkest color for maximum contrast.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darkest"
+				]
+			},
+			"color--base-darkest--10": {
+				"css": "",
+				"title": "Base darkest color, 10% opacity",
+				"description": "Use this to apply the base darkest color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darkest",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darkest--20": {
+				"css": "",
+				"title": "Base darkest color, 20% opacity",
+				"description": "Use this to apply the base darkest color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darkest",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darkest--30": {
+				"css": "",
+				"title": "Base darkest color, 30% opacity",
+				"description": "Use this to apply the base darkest color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darkest",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darkest--40": {
+				"css": "",
+				"title": "Base darkest color, 40% opacity",
+				"description": "Use this to apply the base darkest color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darkest",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darkest--50": {
+				"css": "",
+				"title": "Base darkest color, 50% opacity",
+				"description": "Use this to apply the base darkest color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darkest",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darkest--60": {
+				"css": "",
+				"title": "Base darkest color, 60% opacity",
+				"description": "Use this to apply the base darkest color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darkest",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darkest--70": {
+				"css": "",
+				"title": "Base darkest color, 70% opacity",
+				"description": "Use this to apply the base darkest color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darkest",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darkest--80": {
+				"css": "",
+				"title": "Base darkest color, 80% opacity",
+				"description": "Use this to apply the base darkest color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darkest",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-darkest--90": {
+				"css": "",
+				"title": "Base darkest color, 90% opacity",
+				"description": "Use this to apply the base darkest color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"darkest",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-black": {
+				"css": "",
+				"title": "Base near-black color",
+				"description": "Use this to apply the base near-black color for a deep, modern look.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-black"
+				]
+			},
+			"color--base-near-black--10": {
+				"css": "",
+				"title": "Base near-black color, 10% opacity",
+				"description": "Use this to apply the base near-black color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-black",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-black--20": {
+				"css": "",
+				"title": "Base near-black color, 20% opacity",
+				"description": "Use this to apply the base near-black color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-black",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-black--30": {
+				"css": "",
+				"title": "Base near-black color, 30% opacity",
+				"description": "Use this to apply the base near-black color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-black",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-black--40": {
+				"css": "",
+				"title": "Base near-black color, 40% opacity",
+				"description": "Use this to apply the base near-black color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-black",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-black--50": {
+				"css": "",
+				"title": "Base near-black color, 50% opacity",
+				"description": "Use this to apply the base near-black color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-black",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-black--60": {
+				"css": "",
+				"title": "Base near-black color, 60% opacity",
+				"description": "Use this to apply the base near-black color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-black",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-black--70": {
+				"css": "",
+				"title": "Base near-black color, 70% opacity",
+				"description": "Use this to apply the base near-black color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-black",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-black--80": {
+				"css": "",
+				"title": "Base near-black color, 80% opacity",
+				"description": "Use this to apply the base near-black color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-black",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-black--90": {
+				"css": "",
+				"title": "Base near-black color, 90% opacity",
+				"description": "Use this to apply the base near-black color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-black",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-light": {
+				"css": "",
+				"title": "Base light color",
+				"description": "Use this to apply the base light color for a softer, subtle appearance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"light"
+				]
+			},
+			"color--base-light--10": {
+				"css": "",
+				"title": "Base light color, 10% opacity",
+				"description": "Use this to apply the base light color with 10% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"light",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-light--20": {
+				"css": "",
+				"title": "Base light color, 20% opacity",
+				"description": "Use this to apply the base light color with 20% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"light",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-light--30": {
+				"css": "",
+				"title": "Base light color, 30% opacity",
+				"description": "Use this to apply the base light color with 30% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"light",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-light--40": {
+				"css": "",
+				"title": "Base light color, 40% opacity",
+				"description": "Use this to apply the base light color with 40% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"light",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-light--50": {
+				"css": "",
+				"title": "Base light color, 50% opacity",
+				"description": "Use this to apply the base light color with 50% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"light",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-light--60": {
+				"css": "",
+				"title": "Base light color, 60% opacity",
+				"description": "Use this to apply the base light color with 60% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"light",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-light--70": {
+				"css": "",
+				"title": "Base light color, 70% opacity",
+				"description": "Use this to apply the base light color with 70% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"light",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-light--80": {
+				"css": "",
+				"title": "Base light color, 80% opacity",
+				"description": "Use this to apply the base light color with 80% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"light",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-light--90": {
+				"css": "",
+				"title": "Base light color, 90% opacity",
+				"description": "Use this to apply the base light color with 90% opacity for a gentle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"light",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lighter": {
+				"css": "",
+				"title": "Base lighter color",
+				"description": "Use this to apply the base lighter color for a delicate, airy appearance.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lighter"
+				]
+			},
+			"color--base-lighter--10": {
+				"css": "",
+				"title": "Base lighter color, 10% opacity",
+				"description": "Use this to apply the base lighter color with 10% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lighter",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lighter--20": {
+				"css": "",
+				"title": "Base lighter color, 20% opacity",
+				"description": "Use this to apply the base lighter color with 20% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lighter",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lighter--30": {
+				"css": "",
+				"title": "Base lighter color, 30% opacity",
+				"description": "Use this to apply the base lighter color with 30% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lighter",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lighter--40": {
+				"css": "",
+				"title": "Base lighter color, 40% opacity",
+				"description": "Use this to apply the base lighter color with 40% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lighter",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lighter--50": {
+				"css": "",
+				"title": "Base lighter color, 50% opacity",
+				"description": "Use this to apply the base lighter color with 50% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lighter",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lighter--60": {
+				"css": "",
+				"title": "Base lighter color, 60% opacity",
+				"description": "Use this to apply the base lighter color with 60% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lighter",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lighter--70": {
+				"css": "",
+				"title": "Base lighter color, 70% opacity",
+				"description": "Use this to apply the base lighter color with 70% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lighter",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lighter--80": {
+				"css": "",
+				"title": "Base lighter color, 80% opacity",
+				"description": "Use this to apply the base lighter color with 80% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lighter",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lighter--90": {
+				"css": "",
+				"title": "Base lighter color, 90% opacity",
+				"description": "Use this to apply the base lighter color with 90% opacity for a soft, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lighter",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lightest": {
+				"css": "",
+				"title": "Base lightest color",
+				"description": "Use this to apply the base lightest color for a barely-there, subtle effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lightest"
+				]
+			},
+			"color--base-lightest--10": {
+				"css": "",
+				"title": "Base lightest color, 10% opacity",
+				"description": "Use this to apply the base lightest color with 10% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lightest",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lightest--20": {
+				"css": "",
+				"title": "Base lightest color, 20% opacity",
+				"description": "Use this to apply the base lightest color with 20% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lightest",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lightest--30": {
+				"css": "",
+				"title": "Base lightest color, 30% opacity",
+				"description": "Use this to apply the base lightest color with 30% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lightest",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lightest--40": {
+				"css": "",
+				"title": "Base lightest color, 40% opacity",
+				"description": "Use this to apply the base lightest color with 40% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lightest",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lightest--50": {
+				"css": "",
+				"title": "Base lightest color, 50% opacity",
+				"description": "Use this to apply the base lightest color with 50% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lightest",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lightest--60": {
+				"css": "",
+				"title": "Base lightest color, 60% opacity",
+				"description": "Use this to apply the base lightest color with 60% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lightest",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lightest--70": {
+				"css": "",
+				"title": "Base lightest color, 70% opacity",
+				"description": "Use this to apply the base lightest color with 70% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lightest",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lightest--80": {
+				"css": "",
+				"title": "Base lightest color, 80% opacity",
+				"description": "Use this to apply the base lightest color with 80% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lightest",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-lightest--90": {
+				"css": "",
+				"title": "Base lightest color, 90% opacity",
+				"description": "Use this to apply the base lightest color with 90% opacity for a faint, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"lightest",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-white": {
+				"css": "",
+				"title": "Base near-white color",
+				"description": "Use this to apply the base near-white color for a clean, minimal look.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-white"
+				]
+			},
+			"color--base-near-white--10": {
+				"css": "",
+				"title": "Base near-white color, 10% opacity",
+				"description": "Use this to apply the base near-white color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-white",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-white--20": {
+				"css": "",
+				"title": "Base near-white color, 20% opacity",
+				"description": "Use this to apply the base near-white color with 20% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-white",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-white--30": {
+				"css": "",
+				"title": "Base near-white color, 30% opacity",
+				"description": "Use this to apply the base near-white color with 30% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-white",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-white--40": {
+				"css": "",
+				"title": "Base near-white color, 40% opacity",
+				"description": "Use this to apply the base near-white color with 40% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-white",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-white--50": {
+				"css": "",
+				"title": "Base near-white color, 50% opacity",
+				"description": "Use this to apply the base near-white color with 50% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-white",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-white--60": {
+				"css": "",
+				"title": "Base near-white color, 60% opacity",
+				"description": "Use this to apply the base near-white color with 60% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-white",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-white--70": {
+				"css": "",
+				"title": "Base near-white color, 70% opacity",
+				"description": "Use this to apply the base near-white color with 70% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-white",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-white--80": {
+				"css": "",
+				"title": "Base near-white color, 80% opacity",
+				"description": "Use this to apply the base near-white color with 80% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-white",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-near-white--90": {
+				"css": "",
+				"title": "Base near-white color, 90% opacity",
+				"description": "Use this to apply the base near-white color with 90% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"near-white",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-complement": {
+				"css": "",
+				"title": "Base complement color",
+				"description": "Use this to apply the base complement color for a contrasting, vibrant effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"complement"
+				]
+			},
+			"color--base-complement--10": {
+				"css": "",
+				"title": "Base complement color, 10% opacity",
+				"description": "Use this to apply the base complement color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"complement",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-complement--20": {
+				"css": "",
+				"title": "Base complement color, 20% opacity",
+				"description": "Use this to apply the base complement color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"complement",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-complement--30": {
+				"css": "",
+				"title": "Base complement color, 30% opacity",
+				"description": "Use this to apply the base complement color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"complement",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-complement--40": {
+				"css": "",
+				"title": "Base complement color, 40% opacity",
+				"description": "Use this to apply the base complement color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"complement",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-complement--50": {
+				"css": "",
+				"title": "Base complement color, 50% opacity",
+				"description": "Use this to apply the base complement color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"complement",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-complement--60": {
+				"css": "",
+				"title": "Base complement color, 60% opacity",
+				"description": "Use this to apply the base complement color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"complement",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-complement--70": {
+				"css": "",
+				"title": "Base complement color, 70% opacity",
+				"description": "Use this to apply the base complement color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"complement",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-complement--80": {
+				"css": "",
+				"title": "Base complement color, 80% opacity",
+				"description": "Use this to apply the base complement color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"complement",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-complement--90": {
+				"css": "",
+				"title": "Base complement color, 90% opacity",
+				"description": "Use this to apply the base complement color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"complement",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-inverted": {
+				"css": "",
+				"title": "Base inverted color",
+				"description": "Use this to apply the base inverted color for a reversed, high-contrast effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"inverted"
+				]
+			},
+			"color--base-inverted--10": {
+				"css": "",
+				"title": "Base inverted color, 10% opacity",
+				"description": "Use this to apply the base inverted color with 10% opacity for a subtle, translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"inverted",
+					"10%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-inverted--20": {
+				"css": "",
+				"title": "Base inverted color, 20% opacity",
+				"description": "Use this to apply the base inverted color with 20% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"inverted",
+					"20%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-inverted--30": {
+				"css": "",
+				"title": "Base inverted color, 30% opacity",
+				"description": "Use this to apply the base inverted color with 30% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"inverted",
+					"30%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-inverted--40": {
+				"css": "",
+				"title": "Base inverted color, 40% opacity",
+				"description": "Use this to apply the base inverted color with 40% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"inverted",
+					"40%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-inverted--50": {
+				"css": "",
+				"title": "Base inverted color, 50% opacity",
+				"description": "Use this to apply the base inverted color with 50% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"inverted",
+					"50%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-inverted--60": {
+				"css": "",
+				"title": "Base inverted color, 60% opacity",
+				"description": "Use this to apply the base inverted color with 60% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"inverted",
+					"60%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-inverted--70": {
+				"css": "",
+				"title": "Base inverted color, 70% opacity",
+				"description": "Use this to apply the base inverted color with 70% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"inverted",
+					"70%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-inverted--80": {
+				"css": "",
+				"title": "Base inverted color, 80% opacity",
+				"description": "Use this to apply the base inverted color with 80% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"inverted",
+					"80%",
+					"translucent",
+					"opacity"
+				]
+			},
+			"color--base-inverted--90": {
+				"css": "",
+				"title": "Base inverted color, 90% opacity",
+				"description": "Use this to apply the base inverted color with 90% opacity for a translucent effect.",
+				"category": "variables",
+				"tags": [
+					"color",
+					"base",
+					"inverted",
+					"90%",
+					"translucent",
+					"opacity"
+				]
+			}
+		}
+	}
+}

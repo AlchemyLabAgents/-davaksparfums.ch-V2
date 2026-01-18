@@ -1,0 +1,1499 @@
+{
+	"background--primary": {
+		"css": "background: var(--color--primary);",
+		"title": "Primary background",
+		"description": "Sets the background to the primary color for a prominent, brand-focused appearance.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary"
+		]
+	},
+	"background--primary--10": {
+		"css": "background: var(--color--primary--10);",
+		"title": "Primary background, 10% opacity",
+		"description": "Sets the background to the primary color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary--20": {
+		"css": "background: var(--color--primary--20);",
+		"title": "Primary background, 20% opacity",
+		"description": "Sets the background to the primary color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary--30": {
+		"css": "background: var(--color--primary--30);",
+		"title": "Primary background, 30% opacity",
+		"description": "Sets the background to the primary color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary--40": {
+		"css": "background: var(--color--primary--40);",
+		"title": "Primary background, 40% opacity",
+		"description": "Sets the background to the primary color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary--50": {
+		"css": "background: var(--color--primary--50);",
+		"title": "Primary background, 50% opacity",
+		"description": "Sets the background to the primary color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary--60": {
+		"css": "background: var(--color--primary--60);",
+		"title": "Primary background, 60% opacity",
+		"description": "Sets the background to the primary color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary--70": {
+		"css": "background: var(--color--primary--70);",
+		"title": "Primary background, 70% opacity",
+		"description": "Sets the background to the primary color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary--80": {
+		"css": "background: var(--color--primary--80);",
+		"title": "Primary background, 80% opacity",
+		"description": "Sets the background to the primary color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary--90": {
+		"css": "background: var(--color--primary--90);",
+		"title": "Primary background, 90% opacity",
+		"description": "Sets the background to the primary color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-dark": {
+		"css": "background: var(--color--primary-dark);",
+		"title": "Primary background - dark",
+		"description": "Sets the background to a dark primary shade for strong emphasis and contrast.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"dark"
+		]
+	},
+	"background--primary-dark--10": {
+		"css": "background: var(--color--primary-dark--10);",
+		"title": "Primary background - dark, 10% opacity",
+		"description": "Sets the background to the primary dark color with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"dark",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-dark--20": {
+		"css": "background: var(--color--primary-dark--20);",
+		"title": "Primary background - dark, 20% opacity",
+		"description": "Sets the background to the primary dark color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"dark",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-dark--30": {
+		"css": "background: var(--color--primary-dark--30);",
+		"title": "Primary background - dark, 30% opacity",
+		"description": "Sets the background to the primary dark color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"dark",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-dark--40": {
+		"css": "background: var(--color--primary-dark--40);",
+		"title": "Primary background - dark, 40% opacity",
+		"description": "Sets the background to the primary dark color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"dark",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-dark--50": {
+		"css": "background: var(--color--primary-dark--50);",
+		"title": "Primary background - dark, 50% opacity",
+		"description": "Sets the background to the primary dark color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"dark",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-dark--60": {
+		"css": "background: var(--color--primary-dark--60);",
+		"title": "Primary background - dark, 60% opacity",
+		"description": "Sets the background to the primary dark color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"dark",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-dark--70": {
+		"css": "background: var(--color--primary-dark--70);",
+		"title": "Primary background - dark, 70% opacity",
+		"description": "Sets the background to the primary dark color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"dark",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-dark--80": {
+		"css": "background: var(--color--primary-dark--80);",
+		"title": "Primary background - dark, 80% opacity",
+		"description": "Sets the background to the primary dark color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"dark",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-dark--90": {
+		"css": "background: var(--color--primary-dark--90);",
+		"title": "Primary background - dark, 90% opacity",
+		"description": "Sets the background to the primary dark color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"dark",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darker": {
+		"css": "background: var(--color--primary-darker);",
+		"title": "Primary background - darker",
+		"description": "Sets the background to a darker primary shade for bold, impactful background.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darker"
+		]
+	},
+	"background--primary-darker--10": {
+		"css": "background: var(--color--primary-darker--10);",
+		"title": "Primary background - darker, 10% opacity",
+		"description": "Sets the background to the primary darker color with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darker",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darker--20": {
+		"css": "background: var(--color--primary-darker--20);",
+		"title": "Primary background - darker, 20% opacity",
+		"description": "Sets the background to the primary darker color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darker",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darker--30": {
+		"css": "background: var(--color--primary-darker--30);",
+		"title": "Primary background - darker, 30% opacity",
+		"description": "Sets the background to the primary darker color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darker",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darker--40": {
+		"css": "background: var(--color--primary-darker--40);",
+		"title": "Primary background - darker, 40% opacity",
+		"description": "Sets the background to the primary darker color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darker",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darker--50": {
+		"css": "background: var(--color--primary-darker--50);",
+		"title": "Primary background - darker, 50% opacity",
+		"description": "Sets the background to the primary darker color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darker",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darker--60": {
+		"css": "background: var(--color--primary-darker--60);",
+		"title": "Primary background - darker, 60% opacity",
+		"description": "Sets the background to the primary darker color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darker",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darker--70": {
+		"css": "background: var(--color--primary-darker--70);",
+		"title": "Primary background - darker, 70% opacity",
+		"description": "Sets the background to the primary darker color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darker",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darker--80": {
+		"css": "background: var(--color--primary-darker--80);",
+		"title": "Primary background - darker, 80% opacity",
+		"description": "Sets the background to the primary darker color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darker",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darker--90": {
+		"css": "background: var(--color--primary-darker--90);",
+		"title": "Primary background - darker, 90% opacity",
+		"description": "Sets the background to the primary darker color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darker",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darkest": {
+		"css": "background: var(--color--primary-darkest);",
+		"title": "Primary background - darkest",
+		"description": "Sets the background to the darkest primary shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darkest"
+		]
+	},
+	"background--primary-darkest--10": {
+		"css": "background: var(--color--primary-darkest--10);",
+		"title": "Primary background - darkest, 10% opacity",
+		"description": "Sets the background to the primary darkest color with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darkest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darkest--20": {
+		"css": "background: var(--color--primary-darkest--20);",
+		"title": "Primary background - darkest, 20% opacity",
+		"description": "Sets the background to the primary darkest color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darkest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darkest--30": {
+		"css": "background: var(--color--primary-darkest--30);",
+		"title": "Primary background - darkest, 30% opacity",
+		"description": "Sets the background to the primary darkest color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darkest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darkest--40": {
+		"css": "background: var(--color--primary-darkest--40);",
+		"title": "Primary background - darkest, 40% opacity",
+		"description": "Sets the background to the primary darkest color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darkest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darkest--50": {
+		"css": "background: var(--color--primary-darkest--50);",
+		"title": "Primary background - darkest, 50% opacity",
+		"description": "Sets the background to the primary darkest color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darkest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darkest--60": {
+		"css": "background: var(--color--primary-darkest--60);",
+		"title": "Primary background - darkest, 60% opacity",
+		"description": "Sets the background to the primary darkest color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darkest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darkest--70": {
+		"css": "background: var(--color--primary-darkest--70);",
+		"title": "Primary background - darkest, 70% opacity",
+		"description": "Sets the background to the primary darkest color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darkest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darkest--80": {
+		"css": "background: var(--color--primary-darkest--80);",
+		"title": "Primary background - darkest, 80% opacity",
+		"description": "Sets the background to the primary darkest color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darkest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-darkest--90": {
+		"css": "background: var(--color--primary-darkest--90);",
+		"title": "Primary background - darkest, 90% opacity",
+		"description": "Sets the background to the primary darkest color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"darkest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-black": {
+		"css": "background: var(--color--primary-near-black);",
+		"title": "Primary background - near-black",
+		"description": "Sets the background to a near-black primary shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-black"
+		]
+	},
+	"background--primary-near-black--10": {
+		"css": "background: var(--color--primary-near-black--10);",
+		"title": "Primary background - near-black, 10% opacity",
+		"description": "Sets the background to the primary near-black color with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-black--20": {
+		"css": "background: var(--color--primary-near-black--20);",
+		"title": "Primary background - near-black, 20% opacity",
+		"description": "Sets the background to the primary near-black color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-black--30": {
+		"css": "background: var(--color--primary-near-black--30);",
+		"title": "Primary background - near-black, 30% opacity",
+		"description": "Sets the background to the primary near-black color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-black--40": {
+		"css": "background: var(--color--primary-near-black--40);",
+		"title": "Primary background - near-black, 40% opacity",
+		"description": "Sets the background to the primary near-black color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-black--50": {
+		"css": "background: var(--color--primary-near-black--50);",
+		"title": "Primary background - near-black, 50% opacity",
+		"description": "Sets the background to the primary near-black color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-black--60": {
+		"css": "background: var(--color--primary-near-black--60);",
+		"title": "Primary background - near-black, 60% opacity",
+		"description": "Sets the background to the primary near-black color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-black--70": {
+		"css": "background: var(--color--primary-near-black--70);",
+		"title": "Primary background - near-black, 70% opacity",
+		"description": "Sets the background to the primary near-black color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-black--80": {
+		"css": "background: var(--color--primary-near-black--80);",
+		"title": "Primary background - near-black, 80% opacity",
+		"description": "Sets the background to the primary near-black color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-black--90": {
+		"css": "background: var(--color--primary-near-black--90);",
+		"title": "Primary background - near-black, 90% opacity",
+		"description": "Sets the background to the primary near-black color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-light": {
+		"css": "background: var(--color--primary-light);",
+		"title": "Primary background - light",
+		"description": "Sets the background to a light primary shade for a softer, subtle appearance.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"light"
+		]
+	},
+	"background--primary-light--10": {
+		"css": "background: var(--color--primary-light--10);",
+		"title": "Primary background - light, 10% opacity",
+		"description": "Sets the background to the primary light color with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"light",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-light--20": {
+		"css": "background: var(--color--primary-light--20);",
+		"title": "Primary background - light, 20% opacity",
+		"description": "Sets the background to the primary light color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"light",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-light--30": {
+		"css": "background: var(--color--primary-light--30);",
+		"title": "Primary background - light, 30% opacity",
+		"description": "Sets the background to the primary light color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"light",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-light--40": {
+		"css": "background: var(--color--primary-light--40);",
+		"title": "Primary background - light, 40% opacity",
+		"description": "Sets the background to the primary light color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"light",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-light--50": {
+		"css": "background: var(--color--primary-light--50);",
+		"title": "Primary background - light, 50% opacity",
+		"description": "Sets the background to the primary light color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"light",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-light--60": {
+		"css": "background: var(--color--primary-light--60);",
+		"title": "Primary background - light, 60% opacity",
+		"description": "Sets the background to the primary light color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"light",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-light--70": {
+		"css": "background: var(--color--primary-light--70);",
+		"title": "Primary background - light, 70% opacity",
+		"description": "Sets the background to the primary light color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"light",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-light--80": {
+		"css": "background: var(--color--primary-light--80);",
+		"title": "Primary background - light, 80% opacity",
+		"description": "Sets the background to the primary light color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"light",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-light--90": {
+		"css": "background: var(--color--primary-light--90);",
+		"title": "Primary background - light, 90% opacity",
+		"description": "Sets the background to the primary light color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"light",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lighter": {
+		"css": "background: var(--color--primary-lighter);",
+		"title": "Primary background - lighter",
+		"description": "Sets the background to a lighter primary shade for gentle emphasis.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lighter"
+		]
+	},
+	"background--primary-lighter--10": {
+		"css": "background: var(--color--primary-lighter--10);",
+		"title": "Primary background - lighter, 10% opacity",
+		"description": "Sets the background to the primary lighter color with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lighter",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lighter--20": {
+		"css": "background: var(--color--primary-lighter--20);",
+		"title": "Primary background - lighter, 20% opacity",
+		"description": "Sets the background to the primary lighter color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lighter",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lighter--30": {
+		"css": "background: var(--color--primary-lighter--30);",
+		"title": "Primary background - lighter, 30% opacity",
+		"description": "Sets the background to the primary lighter color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lighter",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lighter--40": {
+		"css": "background: var(--color--primary-lighter--40);",
+		"title": "Primary background - lighter, 40% opacity",
+		"description": "Sets the background to the primary lighter color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lighter",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lighter--50": {
+		"css": "background: var(--color--primary-lighter--50);",
+		"title": "Primary background - lighter, 50% opacity",
+		"description": "Sets the background to the primary lighter color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lighter",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lighter--60": {
+		"css": "background: var(--color--primary-lighter--60);",
+		"title": "Primary background - lighter, 60% opacity",
+		"description": "Sets the background to the primary lighter color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lighter",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lighter--70": {
+		"css": "background: var(--color--primary-lighter--70);",
+		"title": "Primary background - lighter, 70% opacity",
+		"description": "Sets the background to the primary lighter color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lighter",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lighter--80": {
+		"css": "background: var(--color--primary-lighter--80);",
+		"title": "Primary background - lighter, 80% opacity",
+		"description": "Sets the background to the primary lighter color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lighter",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lighter--90": {
+		"css": "background: var(--color--primary-lighter--90);",
+		"title": "Primary background - lighter, 90% opacity",
+		"description": "Sets the background to the primary lighter color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lighter",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lightest": {
+		"css": "background: var(--color--primary-lightest);",
+		"title": "Primary background - lightest",
+		"description": "Sets the background to the lightest primary shade for a delicate, airy look.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lightest"
+		]
+	},
+	"background--primary-lightest--10": {
+		"css": "background: var(--color--primary-lightest--10);",
+		"title": "Primary background - lightest, 10% opacity",
+		"description": "Sets the background to the primary lightest color with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lightest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lightest--20": {
+		"css": "background: var(--color--primary-lightest--20);",
+		"title": "Primary background - lightest, 20% opacity",
+		"description": "Sets the background to the primary lightest color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lightest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lightest--30": {
+		"css": "background: var(--color--primary-lightest--30);",
+		"title": "Primary background - lightest, 30% opacity",
+		"description": "Sets the background to the primary lightest color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lightest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lightest--40": {
+		"css": "background: var(--color--primary-lightest--40);",
+		"title": "Primary background - lightest, 40% opacity",
+		"description": "Sets the background to the primary lightest color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lightest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lightest--50": {
+		"css": "background: var(--color--primary-lightest--50);",
+		"title": "Primary background - lightest, 50% opacity",
+		"description": "Sets the background to the primary lightest color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lightest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lightest--60": {
+		"css": "background: var(--color--primary-lightest--60);",
+		"title": "Primary background - lightest, 60% opacity",
+		"description": "Sets the background to the primary lightest color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lightest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lightest--70": {
+		"css": "background: var(--color--primary-lightest--70);",
+		"title": "Primary background - lightest, 70% opacity",
+		"description": "Sets the background to the primary lightest color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lightest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lightest--80": {
+		"css": "background: var(--color--primary-lightest--80);",
+		"title": "Primary background - lightest, 80% opacity",
+		"description": "Sets the background to the primary lightest color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lightest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-lightest--90": {
+		"css": "background: var(--color--primary-lightest--90);",
+		"title": "Primary background - lightest, 90% opacity",
+		"description": "Sets the background to the primary lightest color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"lightest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-white": {
+		"css": "background: var(--color--primary-near-white);",
+		"title": "Primary background - near-white",
+		"description": "Sets the background to a near-white primary shade for a subtle, clean effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-white"
+		]
+	},
+	"background--primary-near-white--10": {
+		"css": "background: var(--color--primary-near-white--10);",
+		"title": "Primary background - near-white, 10% opacity",
+		"description": "Sets the background to the primary near-white color with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-white--20": {
+		"css": "background: var(--color--primary-near-white--20);",
+		"title": "Primary background - near-white, 20% opacity",
+		"description": "Sets the background to the primary near-white color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-white--30": {
+		"css": "background: var(--color--primary-near-white--30);",
+		"title": "Primary background - near-white, 30% opacity",
+		"description": "Sets the background to the primary near-white color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-white--40": {
+		"css": "background: var(--color--primary-near-white--40);",
+		"title": "Primary background - near-white, 40% opacity",
+		"description": "Sets the background to the primary near-white color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-white--50": {
+		"css": "background: var(--color--primary-near-white--50);",
+		"title": "Primary background - near-white, 50% opacity",
+		"description": "Sets the background to the primary near-white color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-white--60": {
+		"css": "background: var(--color--primary-near-white--60);",
+		"title": "Primary background - near-white, 60% opacity",
+		"description": "Sets the background to the primary near-white color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-white--70": {
+		"css": "background: var(--color--primary-near-white--70);",
+		"title": "Primary background - near-white, 70% opacity",
+		"description": "Sets the background to the primary near-white color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-white--80": {
+		"css": "background: var(--color--primary-near-white--80);",
+		"title": "Primary background - near-white, 80% opacity",
+		"description": "Sets the background to the primary near-white color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-near-white--90": {
+		"css": "background: var(--color--primary-near-white--90);",
+		"title": "Primary background - near-white, 90% opacity",
+		"description": "Sets the background to the primary near-white color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"near-white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-complement": {
+		"css": "background: var(--color--primary-complement);",
+		"title": "Primary background - complement",
+		"description": "Sets the background to the primary complement for visual contrast and balance.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"complement"
+		]
+	},
+	"background--primary-complement--10": {
+		"css": "background: var(--color--primary-complement--10);",
+		"title": "Primary background - complement, 10% opacity",
+		"description": "Sets the background to the primary complement color with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"complement",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-complement--20": {
+		"css": "background: var(--color--primary-complement--20);",
+		"title": "Primary background - complement, 20% opacity",
+		"description": "Sets the background to the primary complement color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"complement",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-complement--30": {
+		"css": "background: var(--color--primary-complement--30);",
+		"title": "Primary background - complement, 30% opacity",
+		"description": "Sets the background to the primary complement color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"complement",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-complement--40": {
+		"css": "background: var(--color--primary-complement--40);",
+		"title": "Primary background - complement, 40% opacity",
+		"description": "Sets the background to the primary complement color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"complement",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-complement--50": {
+		"css": "background: var(--color--primary-complement--50);",
+		"title": "Primary background - complement, 50% opacity",
+		"description": "Sets the background to the primary complement color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"complement",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-complement--60": {
+		"css": "background: var(--color--primary-complement--60);",
+		"title": "Primary background - complement, 60% opacity",
+		"description": "Sets the background to the primary complement color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"complement",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-complement--70": {
+		"css": "background: var(--color--primary-complement--70);",
+		"title": "Primary background - complement, 70% opacity",
+		"description": "Sets the background to the primary complement color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"complement",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-complement--80": {
+		"css": "background: var(--color--primary-complement--80);",
+		"title": "Primary background - complement, 80% opacity",
+		"description": "Sets the background to the primary complement color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"complement",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-complement--90": {
+		"css": "background: var(--color--primary-complement--90);",
+		"title": "Primary background - complement, 90% opacity",
+		"description": "Sets the background to the primary complement color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"complement",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-inverted": {
+		"css": "background: var(--color--primary-inverted);",
+		"title": "Primary background - inverted",
+		"description": "Sets the background to the inverted primary color for a striking, reversed look.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"inverted"
+		]
+	},
+	"background--primary-inverted--10": {
+		"css": "background: var(--color--primary-inverted--10);",
+		"title": "Primary background - inverted, 10% opacity",
+		"description": "Sets the background to the primary inverted color with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"inverted",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-inverted--20": {
+		"css": "background: var(--color--primary-inverted--20);",
+		"title": "Primary background - inverted, 20% opacity",
+		"description": "Sets the background to the primary inverted color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"inverted",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-inverted--30": {
+		"css": "background: var(--color--primary-inverted--30);",
+		"title": "Primary background - inverted, 30% opacity",
+		"description": "Sets the background to the primary inverted color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"inverted",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-inverted--40": {
+		"css": "background: var(--color--primary-inverted--40);",
+		"title": "Primary background - inverted, 40% opacity",
+		"description": "Sets the background to the primary inverted color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"inverted",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-inverted--50": {
+		"css": "background: var(--color--primary-inverted--50);",
+		"title": "Primary background - inverted, 50% opacity",
+		"description": "Sets the background to the primary inverted color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"inverted",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-inverted--60": {
+		"css": "background: var(--color--primary-inverted--60);",
+		"title": "Primary background - inverted, 60% opacity",
+		"description": "Sets the background to the primary inverted color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"inverted",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-inverted--70": {
+		"css": "background: var(--color--primary-inverted--70);",
+		"title": "Primary background - inverted, 70% opacity",
+		"description": "Sets the background to the primary inverted color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"inverted",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-inverted--80": {
+		"css": "background: var(--color--primary-inverted--80);",
+		"title": "Primary background - inverted, 80% opacity",
+		"description": "Sets the background to the primary inverted color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"inverted",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--primary-inverted--90": {
+		"css": "background: var(--color--primary-inverted--90);",
+		"title": "Primary background - inverted, 90% opacity",
+		"description": "Sets the background to the primary inverted color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"primary",
+			"inverted",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

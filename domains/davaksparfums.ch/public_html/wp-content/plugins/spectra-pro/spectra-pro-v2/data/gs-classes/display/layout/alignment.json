@@ -1,0 +1,397 @@
+{
+	"align-content--start[innerblocks]": {
+		"css": "align-content: flex-start;",
+		"title": "Align content start",
+		"description": "Aligns flex lines or grid content to the start of the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"content",
+			"start",
+			"flex",
+			"grid"
+		]
+	},
+	"align-content--end[innerblocks]": {
+		"css": "align-content: flex-end;",
+		"title": "Align content end",
+		"description": "Aligns flex lines or grid content to the end of the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"content",
+			"end",
+			"flex",
+			"grid"
+		]
+	},
+	"align-content--center[innerblocks]": {
+		"css": "align-content: center;",
+		"title": "Align content center",
+		"description": "Aligns flex lines or grid content to the center of the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"content",
+			"center",
+			"flex",
+			"grid"
+		]
+	},
+	"align-content--between[innerblocks]": {
+		"css": "align-content: space-between;",
+		"title": "Align content space between",
+		"description": "Distributes flex lines or grid content with space between them.",
+		"category": "display",
+		"tags": [
+			"align",
+			"content",
+			"between",
+			"flex",
+			"grid"
+		]
+	},
+	"align-content--around[innerblocks]": {
+		"css": "align-content: space-around;",
+		"title": "Align content space around",
+		"description": "Distributes flex lines or grid content with space around them.",
+		"category": "display",
+		"tags": [
+			"align",
+			"content",
+			"around",
+			"flex",
+			"grid"
+		]
+	},
+	"align-content--evenly[innerblocks]": {
+		"css": "align-content: space-evenly;",
+		"title": "Align content space evenly",
+		"description": "Distributes flex lines or grid content with equal space around them.",
+		"category": "display",
+		"tags": [
+			"align",
+			"content",
+			"evenly",
+			"flex",
+			"grid"
+		]
+	},
+	"align-content--stretch[innerblocks]": {
+		"css": "align-content: stretch;",
+		"title": "Align content stretch",
+		"description": "Stretches flex lines or grid content to fill the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"content",
+			"stretch",
+			"flex",
+			"grid"
+		]
+	},
+	"align-items--stretch[innerblocks]": {
+		"css": "align-items: stretch;",
+		"title": "Align items stretch",
+		"description": "Stretches flex or grid items to fill the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"items",
+			"stretch",
+			"flex",
+			"grid"
+		]
+	},
+	"align-items--start[innerblocks]": {
+		"css": "align-items: flex-start;",
+		"title": "Align items start",
+		"description": "Aligns flex or grid items to the start of the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"items",
+			"start",
+			"flex",
+			"grid"
+		]
+	},
+	"align-items--end[innerblocks]": {
+		"css": "align-items: flex-end;",
+		"title": "Align items end",
+		"description": "Aligns flex or grid items to the end of the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"items",
+			"end",
+			"flex",
+			"grid"
+		]
+	},
+	"align-items--center[innerblocks]": {
+		"css": "align-items: center;",
+		"title": "Align items center",
+		"description": "Aligns flex or grid items to the center of the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"items",
+			"center",
+			"flex",
+			"grid"
+		]
+	},
+	"align-items--baseline[innerblocks]": {
+		"css": "align-items: baseline;",
+		"title": "Align items baseline",
+		"description": "Aligns flex or grid items to their baselines.",
+		"category": "display",
+		"tags": [
+			"align",
+			"items",
+			"baseline",
+			"flex",
+			"grid"
+		]
+	},
+	"align-self--start[innerblocks]": {
+		"css": "align-self: flex-start;",
+		"title": "Align self start",
+		"description": "Aligns the flex or grid item to the start of the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"self",
+			"start",
+			"flex",
+			"grid"
+		]
+	},
+	"align-self--end[innerblocks]": {
+		"css": "align-self: flex-end;",
+		"title": "Align self end",
+		"description": "Aligns the flex or grid item to the end of the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"self",
+			"end",
+			"flex",
+			"grid"
+		]
+	},
+	"align-self--center[innerblocks]": {
+		"css": "align-self: center;",
+		"title": "Align self center",
+		"description": "Aligns the flex or grid item to the center of the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"self",
+			"center",
+			"flex",
+			"grid"
+		]
+	},
+	"align-self--stretch[innerblocks]": {
+		"css": "align-self: stretch;",
+		"title": "Align self stretch",
+		"description": "Stretches the flex or grid item to fill the cross axis.",
+		"category": "display",
+		"tags": [
+			"align",
+			"self",
+			"stretch",
+			"flex",
+			"grid"
+		]
+	},
+	"align-self--baseline[innerblocks]": {
+		"css": "align-self: baseline;",
+		"title": "Align self baseline",
+		"description": "Aligns the flex or grid item to its baseline.",
+		"category": "display",
+		"tags": [
+			"align",
+			"self",
+			"baseline",
+			"flex",
+			"grid"
+		]
+	},
+	"justify-content--start[innerblocks]": {
+		"css": "justify-content: flex-start;",
+		"title": "Justify content start",
+		"description": "Aligns flex or grid items to the start of the main axis.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"content",
+			"start",
+			"flex",
+			"grid"
+		]
+	},
+	"justify-content--end[innerblocks]": {
+		"css": "justify-content: flex-end;",
+		"title": "Justify content end",
+		"description": "Aligns flex or grid items to the end of the main axis.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"content",
+			"end",
+			"flex",
+			"grid"
+		]
+	},
+	"justify-content--center[innerblocks]": {
+		"css": "justify-content: center;",
+		"title": "Justify content center",
+		"description": "Aligns flex or grid items to the center of the main axis.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"content",
+			"center",
+			"flex",
+			"grid"
+		]
+	},
+	"justify-content--between[innerblocks]": {
+		"css": "justify-content: space-between;",
+		"title": "Justify content space between",
+		"description": "Distributes flex or grid items with space between them.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"content",
+			"between",
+			"flex",
+			"grid"
+		]
+	},
+	"justify-content--around[innerblocks]": {
+		"css": "justify-content: space-around;",
+		"title": "Justify content space around",
+		"description": "Distributes flex or grid items with space around them.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"content",
+			"around",
+			"flex",
+			"grid"
+		]
+	},
+	"justify-content--evenly[innerblocks]": {
+		"css": "justify-content: space-evenly;",
+		"title": "Justify content space evenly",
+		"description": "Distributes flex or grid items with equal space around them.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"content",
+			"evenly",
+			"flex",
+			"grid"
+		]
+	},
+	"justify-items--start[innerblocks]": {
+		"css": "justify-items: start;",
+		"title": "Justify items start",
+		"description": "Aligns grid items to the start of their grid area.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"items",
+			"start",
+			"grid"
+		]
+	},
+	"justify-items--end[innerblocks]": {
+		"css": "justify-items: end;",
+		"title": "Justify items end",
+		"description": "Aligns grid items to the end of their grid area.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"items",
+			"end",
+			"grid"
+		]
+	},
+	"justify-items--center[innerblocks]": {
+		"css": "justify-items: center;",
+		"title": "Justify items center",
+		"description": "Aligns grid items to the center of their grid area.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"items",
+			"center",
+			"grid"
+		]
+	},
+	"justify-items--stretch[innerblocks]": {
+		"css": "justify-items: stretch;",
+		"title": "Justify items stretch",
+		"description": "Stretches grid items to fill their grid area.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"items",
+			"stretch",
+			"grid"
+		]
+	},
+	"justify-self--start[innerblocks]": {
+		"css": "justify-self: start;",
+		"title": "Justify self start",
+		"description": "Aligns the grid item to the start of its grid area.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"self",
+			"start",
+			"grid"
+		]
+	},
+	"justify-self--end[innerblocks]": {
+		"css": "justify-self: end;",
+		"title": "Justify self end",
+		"description": "Aligns the grid item to the end of its grid area.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"self",
+			"end",
+			"grid"
+		]
+	},
+	"justify-self--center[innerblocks]": {
+		"css": "justify-self: center;",
+		"title": "Justify self center",
+		"description": "Aligns the grid item to the center of its grid area.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"self",
+			"center",
+			"grid"
+		]
+	},
+	"justify-self--stretch[innerblocks]": {
+		"css": "justify-self: stretch;",
+		"title": "Justify self stretch",
+		"description": "Stretches the grid item to fill its grid area.",
+		"category": "display",
+		"tags": [
+			"justify",
+			"self",
+			"stretch",
+			"grid"
+		]
+	}
+}

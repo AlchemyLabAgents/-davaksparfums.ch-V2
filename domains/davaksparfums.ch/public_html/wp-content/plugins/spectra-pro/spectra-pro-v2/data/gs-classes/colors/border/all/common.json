@@ -1,0 +1,266 @@
+{
+	"border--transparent": {
+		"css": "border-color: transparent;",
+		"title": "Transparent border",
+		"description": "Sets the border to transparent.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"transparent"
+		]
+	},
+	"border--white": {
+		"css": "border-color: #fff;",
+		"title": "White border",
+		"description": "Sets the border to white for a clean, neutral appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"white"
+		]
+	},
+	"border--white--10": {
+		"css": "border-color: var(--color--white--10);",
+		"title": "White border, 10% opacity",
+		"description": "Sets the border to white with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--white--20": {
+		"css": "border-color: var(--color--white--20);",
+		"title": "White border, 20% opacity",
+		"description": "Sets the border to white with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--white--30": {
+		"css": "border-color: var(--color--white--30);",
+		"title": "White border, 30% opacity",
+		"description": "Sets the border to white with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--white--40": {
+		"css": "border-color: var(--color--white--40);",
+		"title": "White border, 40% opacity",
+		"description": "Sets the border to white with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--white--50": {
+		"css": "border-color: var(--color--white--50);",
+		"title": "White border, 50% opacity",
+		"description": "Sets the border to white with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--white--60": {
+		"css": "border-color: var(--color--white--60);",
+		"title": "White border, 60% opacity",
+		"description": "Sets the border to white with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--white--70": {
+		"css": "border-color: var(--color--white--70);",
+		"title": "White border, 70% opacity",
+		"description": "Sets the border to white with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--white--80": {
+		"css": "border-color: var(--color--white--80);",
+		"title": "White border, 80% opacity",
+		"description": "Sets the border to white with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--white--90": {
+		"css": "border-color: var(--color--white--90);",
+		"title": "White border, 90% opacity",
+		"description": "Sets the border to white with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--black": {
+		"css": "border-color: #000;",
+		"title": "Black border",
+		"description": "Sets the border to black for a bold, classic look.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"black"
+		]
+	},
+	"border--black--10": {
+		"css": "border-color: var(--color--black--10);",
+		"title": "Black border, 10% opacity",
+		"description": "Sets the border to black with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--black--20": {
+		"css": "border-color: var(--color--black--20);",
+		"title": "Black border, 20% opacity",
+		"description": "Sets the border to black with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--black--30": {
+		"css": "border-color: var(--color--black--30);",
+		"title": "Black border, 30% opacity",
+		"description": "Sets the border to black with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--black--40": {
+		"css": "border-color: var(--color--black--40);",
+		"title": "Black border, 40% opacity",
+		"description": "Sets the border to black with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--black--50": {
+		"css": "border-color: var(--color--black--50);",
+		"title": "Black border, 50% opacity",
+		"description": "Sets the border to black with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--black--60": {
+		"css": "border-color: var(--color--black--60);",
+		"title": "Black border, 60% opacity",
+		"description": "Sets the border to black with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--black--70": {
+		"css": "border-color: var(--color--black--70);",
+		"title": "Black border, 70% opacity",
+		"description": "Sets the border to black with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--black--80": {
+		"css": "border-color: var(--color--black--80);",
+		"title": "Black border, 80% opacity",
+		"description": "Sets the border to black with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--black--90": {
+		"css": "border-color: var(--color--black--90);",
+		"title": "Black border, 90% opacity",
+		"description": "Sets the border to black with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

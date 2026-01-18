@@ -1,0 +1,1499 @@
+{
+	"overlay--primary[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary);",
+		"title": "Primary overlay",
+		"description": "Sets the overlay to the primary color for a prominent, brand-focused appearance.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary"
+		]
+	},
+	"overlay--primary--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary--10);",
+		"title": "Primary overlay, 10% opacity",
+		"description": "Sets the overlay to the primary color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary--20);",
+		"title": "Primary overlay, 20% opacity",
+		"description": "Sets the overlay to the primary color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary--30);",
+		"title": "Primary overlay, 30% opacity",
+		"description": "Sets the overlay to the primary color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary--40);",
+		"title": "Primary overlay, 40% opacity",
+		"description": "Sets the overlay to the primary color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary--50);",
+		"title": "Primary overlay, 50% opacity",
+		"description": "Sets the overlay to the primary color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary--60);",
+		"title": "Primary overlay, 60% opacity",
+		"description": "Sets the overlay to the primary color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary--70);",
+		"title": "Primary overlay, 70% opacity",
+		"description": "Sets the overlay to the primary color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary--80);",
+		"title": "Primary overlay, 80% opacity",
+		"description": "Sets the overlay to the primary color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary--90);",
+		"title": "Primary overlay, 90% opacity",
+		"description": "Sets the overlay to the primary color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-dark[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-dark);",
+		"title": "Primary overlay - dark",
+		"description": "Sets the overlay to a dark primary shade for strong emphasis and contrast.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"dark"
+		]
+	},
+	"overlay--primary-dark--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-dark--10);",
+		"title": "Primary overlay - dark, 10% opacity",
+		"description": "Sets the overlay to the primary dark shade with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"dark",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-dark--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-dark--20);",
+		"title": "Primary overlay - dark, 20% opacity",
+		"description": "Sets the overlay to the primary dark shade with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"dark",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-dark--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-dark--30);",
+		"title": "Primary overlay - dark, 30% opacity",
+		"description": "Sets the overlay to the primary dark shade with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"dark",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-dark--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-dark--40);",
+		"title": "Primary overlay - dark, 40% opacity",
+		"description": "Sets the overlay to the primary dark shade with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"dark",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-dark--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-dark--50);",
+		"title": "Primary overlay - dark, 50% opacity",
+		"description": "Sets the overlay to the primary dark shade with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"dark",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-dark--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-dark--60);",
+		"title": "Primary overlay - dark, 60% opacity",
+		"description": "Sets the overlay to the primary dark shade with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"dark",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-dark--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-dark--70);",
+		"title": "Primary overlay - dark, 70% opacity",
+		"description": "Sets the overlay to the primary dark shade with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"dark",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-dark--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-dark--80);",
+		"title": "Primary overlay - dark, 80% opacity",
+		"description": "Sets the overlay to the primary dark shade with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"dark",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-dark--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-dark--90);",
+		"title": "Primary overlay - dark, 90% opacity",
+		"description": "Sets the overlay to the primary dark shade with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"dark",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darker[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darker);",
+		"title": "Primary overlay - darker",
+		"description": "Sets the overlay to a darker primary shade for bold, impactful overlay.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darker"
+		]
+	},
+	"overlay--primary-darker--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darker--10);",
+		"title": "Primary overlay - darker, 10% opacity",
+		"description": "Sets the overlay to the primary color with darker tone and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darker",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darker--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darker--20);",
+		"title": "Primary overlay - darker, 20% opacity",
+		"description": "Sets the overlay to the primary color with darker tone and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darker",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darker--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darker--30);",
+		"title": "Primary overlay - darker, 30% opacity",
+		"description": "Sets the overlay to the primary color with darker tone and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darker",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darker--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darker--40);",
+		"title": "Primary overlay - darker, 40% opacity",
+		"description": "Sets the overlay to the primary color with darker tone and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darker",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darker--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darker--50);",
+		"title": "Primary overlay - darker, 50% opacity",
+		"description": "Sets the overlay to the primary color with darker tone and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darker",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darker--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darker--60);",
+		"title": "Primary overlay - darker, 60% opacity",
+		"description": "Sets the overlay to the primary color with darker tone and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darker",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darker--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darker--70);",
+		"title": "Primary overlay - darker, 70% opacity",
+		"description": "Sets the overlay to the primary color with darker tone and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darker",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darker--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darker--80);",
+		"title": "Primary overlay - darker, 80% opacity",
+		"description": "Sets the overlay to the primary color with darker tone and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darker",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darker--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darker--90);",
+		"title": "Primary overlay - darker, 90% opacity",
+		"description": "Sets the overlay to the primary color with darker tone and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darker",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darkest[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darkest);",
+		"title": "Primary overlay - darkest",
+		"description": "Sets the overlay to the darkest primary shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darkest"
+		]
+	},
+	"overlay--primary-darkest--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darkest--10);",
+		"title": "Primary overlay - darkest, 10% opacity",
+		"description": "Sets the overlay to the primary color with darkest tone and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darkest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darkest--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darkest--20);",
+		"title": "Primary overlay - darkest, 20% opacity",
+		"description": "Sets the overlay to the primary color with darkest tone and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darkest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darkest--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darkest--30);",
+		"title": "Primary overlay - darkest, 30% opacity",
+		"description": "Sets the overlay to the primary color with darkest tone and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darkest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darkest--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darkest--40);",
+		"title": "Primary overlay - darkest, 40% opacity",
+		"description": "Sets the overlay to the primary color with darkest tone and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darkest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darkest--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darkest--50);",
+		"title": "Primary overlay - darkest, 50% opacity",
+		"description": "Sets the overlay to the primary color with darkest tone and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darkest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darkest--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darkest--60);",
+		"title": "Primary overlay - darkest, 60% opacity",
+		"description": "Sets the overlay to the primary color with darkest tone and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darkest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darkest--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darkest--70);",
+		"title": "Primary overlay - darkest, 70% opacity",
+		"description": "Sets the overlay to the primary color with darkest tone and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darkest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darkest--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darkest--80);",
+		"title": "Primary overlay - darkest, 80% opacity",
+		"description": "Sets the overlay to the primary color with darkest tone and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darkest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-darkest--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-darkest--90);",
+		"title": "Primary overlay - darkest, 90% opacity",
+		"description": "Sets the overlay to the primary color with darkest tone and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"darkest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-black[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-black);",
+		"title": "Primary overlay - near-black",
+		"description": "Sets the overlay to a near-black primary shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-black"
+		]
+	},
+	"overlay--primary-near-black--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-black--10);",
+		"title": "Primary overlay - near-black, 10% opacity",
+		"description": "Sets the overlay to the primary color with near-black tone and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-black--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-black--20);",
+		"title": "Primary overlay - near-black, 20% opacity",
+		"description": "Sets the overlay to the primary color with near-black tone and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-black--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-black--30);",
+		"title": "Primary overlay - near-black, 30% opacity",
+		"description": "Sets the overlay to the primary color with near-black tone and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-black--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-black--40);",
+		"title": "Primary overlay - near-black, 40% opacity",
+		"description": "Sets the overlay to the primary color with near-black tone and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-black--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-black--50);",
+		"title": "Primary overlay - near-black, 50% opacity",
+		"description": "Sets the overlay to the primary color with near-black tone and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-black--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-black--60);",
+		"title": "Primary overlay - near-black, 60% opacity",
+		"description": "Sets the overlay to the primary color with near-black tone and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-black--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-black--70);",
+		"title": "Primary overlay - near-black, 70% opacity",
+		"description": "Sets the overlay to the primary color with near-black tone and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-black--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-black--80);",
+		"title": "Primary overlay - near-black, 80% opacity",
+		"description": "Sets the overlay to the primary color with near-black tone and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-black--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-black--90);",
+		"title": "Primary overlay - near-black, 90% opacity",
+		"description": "Sets the overlay to the primary color with near-black tone and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-light[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-light);",
+		"title": "Primary overlay - light",
+		"description": "Sets the overlay to a light primary shade for a softer, subtle appearance.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"light"
+		]
+	},
+	"overlay--primary-light--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-light--10);",
+		"title": "Primary overlay - light, 10% opacity",
+		"description": "Sets the overlay to the primary color with light tone and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"light",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-light--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-light--20);",
+		"title": "Primary overlay - light, 20% opacity",
+		"description": "Sets the overlay to the primary color with light tone and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"light",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-light--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-light--30);",
+		"title": "Primary overlay - light, 30% opacity",
+		"description": "Sets the overlay to the primary color with light tone and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"light",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-light--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-light--40);",
+		"title": "Primary overlay - light, 40% opacity",
+		"description": "Sets the overlay to the primary color with light tone and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"light",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-light--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-light--50);",
+		"title": "Primary overlay - light, 50% opacity",
+		"description": "Sets the overlay to the primary color with light tone and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"light",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-light--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-light--60);",
+		"title": "Primary overlay - light, 60% opacity",
+		"description": "Sets the overlay to the primary color with light tone and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"light",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-light--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-light--70);",
+		"title": "Primary overlay - light, 70% opacity",
+		"description": "Sets the overlay to the primary color with light tone and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"light",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-light--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-light--80);",
+		"title": "Primary overlay - light, 80% opacity",
+		"description": "Sets the overlay to the primary color with light tone and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"light",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-light--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-light--90);",
+		"title": "Primary overlay - light, 90% opacity",
+		"description": "Sets the overlay to the primary color with light tone and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"light",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lighter[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lighter);",
+		"title": "Primary overlay - lighter",
+		"description": "Sets the overlay to a lighter primary shade for gentle emphasis.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lighter"
+		]
+	},
+	"overlay--primary-lighter--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lighter--10);",
+		"title": "Primary overlay - lighter, 10% opacity",
+		"description": "Sets the overlay to the primary color with lighter tone and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lighter",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lighter--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lighter--20);",
+		"title": "Primary overlay - lighter, 20% opacity",
+		"description": "Sets the overlay to the primary color with lighter tone and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lighter",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lighter--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lighter--30);",
+		"title": "Primary overlay - lighter, 30% opacity",
+		"description": "Sets the overlay to the primary color with lighter tone and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lighter",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lighter--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lighter--40);",
+		"title": "Primary overlay - lighter, 40% opacity",
+		"description": "Sets the overlay to the primary color with lighter tone and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lighter",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lighter--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lighter--50);",
+		"title": "Primary overlay - lighter, 50% opacity",
+		"description": "Sets the overlay to the primary color with lighter tone and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lighter",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lighter--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lighter--60);",
+		"title": "Primary overlay - lighter, 60% opacity",
+		"description": "Sets the overlay to the primary color with lighter tone and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lighter",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lighter--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lighter--70);",
+		"title": "Primary overlay - lighter, 70% opacity",
+		"description": "Sets the overlay to the primary color with lighter tone and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lighter",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lighter--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lighter--80);",
+		"title": "Primary overlay - lighter, 80% opacity",
+		"description": "Sets the overlay to the primary color with lighter tone and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lighter",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lighter--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lighter--90);",
+		"title": "Primary overlay - lighter, 90% opacity",
+		"description": "Sets the overlay to the primary color with lighter tone and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lighter",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lightest[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lightest);",
+		"title": "Primary overlay - lightest",
+		"description": "Sets the overlay to the lightest primary shade for a delicate, airy look.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lightest"
+		]
+	},
+	"overlay--primary-lightest--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lightest--10);",
+		"title": "Primary overlay - lightest, 10% opacity",
+		"description": "Sets the overlay to the primary color with lightest tone and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lightest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lightest--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lightest--20);",
+		"title": "Primary overlay - lightest, 20% opacity",
+		"description": "Sets the overlay to the primary color with lightest tone and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lightest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lightest--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lightest--30);",
+		"title": "Primary overlay - lightest, 30% opacity",
+		"description": "Sets the overlay to the primary color with lightest tone and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lightest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lightest--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lightest--40);",
+		"title": "Primary overlay - lightest, 40% opacity",
+		"description": "Sets the overlay to the primary color with lightest tone and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lightest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lightest--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lightest--50);",
+		"title": "Primary overlay - lightest, 50% opacity",
+		"description": "Sets the overlay to the primary color with lightest tone and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lightest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lightest--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lightest--60);",
+		"title": "Primary overlay - lightest, 60% opacity",
+		"description": "Sets the overlay to the primary color with lightest tone and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lightest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lightest--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lightest--70);",
+		"title": "Primary overlay - lightest, 70% opacity",
+		"description": "Sets the overlay to the primary color with lightest tone and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lightest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lightest--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lightest--80);",
+		"title": "Primary overlay - lightest, 80% opacity",
+		"description": "Sets the overlay to the primary color with lightest tone and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lightest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-lightest--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-lightest--90);",
+		"title": "Primary overlay - lightest, 90% opacity",
+		"description": "Sets the overlay to the primary color with lightest tone and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"lightest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-white[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-white);",
+		"title": "Primary overlay - near-white",
+		"description": "Sets the overlay to a near-white primary shade for a subtle, clean effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-white"
+		]
+	},
+	"overlay--primary-near-white--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-white--10);",
+		"title": "Primary overlay - near-white, 10% opacity",
+		"description": "Sets the overlay to the primary color with near-white tone and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-white--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-white--20);",
+		"title": "Primary overlay - near-white, 20% opacity",
+		"description": "Sets the overlay to the primary color with near-white tone and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-white--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-white--30);",
+		"title": "Primary overlay - near-white, 30% opacity",
+		"description": "Sets the overlay to the primary color with near-white tone and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-white--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-white--40);",
+		"title": "Primary overlay - near-white, 40% opacity",
+		"description": "Sets the overlay to the primary color with near-white tone and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-white--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-white--50);",
+		"title": "Primary overlay - near-white, 50% opacity",
+		"description": "Sets the overlay to the primary color with near-white tone and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-white--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-white--60);",
+		"title": "Primary overlay - near-white, 60% opacity",
+		"description": "Sets the overlay to the primary color with near-white tone and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-white--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-white--70);",
+		"title": "Primary overlay - near-white, 70% opacity",
+		"description": "Sets the overlay to the primary color with near-white tone and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-white--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-white--80);",
+		"title": "Primary overlay - near-white, 80% opacity",
+		"description": "Sets the overlay to the primary color with near-white tone and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-near-white--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-near-white--90);",
+		"title": "Primary overlay - near-white, 90% opacity",
+		"description": "Sets the overlay to the primary color with near-white tone and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"near-white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-complement[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-complement);",
+		"title": "Primary overlay - complement",
+		"description": "Sets the overlay to the primary complement for visual contrast and balance.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"complement"
+		]
+	},
+	"overlay--primary-complement--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-complement--10);",
+		"title": "Primary overlay - complement, 10% opacity",
+		"description": "Sets the overlay to the primary complement with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"complement",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-complement--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-complement--20);",
+		"title": "Primary overlay - complement, 20% opacity",
+		"description": "Sets the overlay to the primary complement with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"complement",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-complement--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-complement--30);",
+		"title": "Primary overlay - complement, 30% opacity",
+		"description": "Sets the overlay to the primary complement with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"complement",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-complement--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-complement--40);",
+		"title": "Primary overlay - complement, 40% opacity",
+		"description": "Sets the overlay to the primary complement with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"complement",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-complement--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-complement--50);",
+		"title": "Primary overlay - complement, 50% opacity",
+		"description": "Sets the overlay to the primary complement with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"complement",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-complement--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-complement--60);",
+		"title": "Primary overlay - complement, 60% opacity",
+		"description": "Sets the overlay to the primary complement with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"complement",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-complement--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-complement--70);",
+		"title": "Primary overlay - complement, 70% opacity",
+		"description": "Sets the overlay to the primary complement with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"complement",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-complement--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-complement--80);",
+		"title": "Primary overlay - complement, 80% opacity",
+		"description": "Sets the overlay to the primary complement with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"complement",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-complement--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-complement--90);",
+		"title": "Primary overlay - complement, 90% opacity",
+		"description": "Sets the overlay to the primary complement with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"complement",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-inverted[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-inverted);",
+		"title": "Primary overlay - inverted",
+		"description": "Sets the overlay to the inverted primary color for a striking, reversed look.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"inverted"
+		]
+	},
+	"overlay--primary-inverted--10[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-inverted--10);",
+		"title": "Primary overlay - inverted, 10% opacity",
+		"description": "Sets the overlay to the primary color with inverted tone and 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"inverted",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-inverted--20[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-inverted--20);",
+		"title": "Primary overlay - inverted, 20% opacity",
+		"description": "Sets the overlay to the primary color with inverted tone and 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"inverted",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-inverted--30[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-inverted--30);",
+		"title": "Primary overlay - inverted, 30% opacity",
+		"description": "Sets the overlay to the primary color with inverted tone and 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"inverted",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-inverted--40[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-inverted--40);",
+		"title": "Primary overlay - inverted, 40% opacity",
+		"description": "Sets the overlay to the primary color with inverted tone and 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"inverted",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-inverted--50[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-inverted--50);",
+		"title": "Primary overlay - inverted, 50% opacity",
+		"description": "Sets the overlay to the primary color with inverted tone and 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"inverted",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-inverted--60[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-inverted--60);",
+		"title": "Primary overlay - inverted, 60% opacity",
+		"description": "Sets the overlay to the primary color with inverted tone and 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"inverted",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-inverted--70[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-inverted--70);",
+		"title": "Primary overlay - inverted, 70% opacity",
+		"description": "Sets the overlay to the primary color with inverted tone and 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"inverted",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-inverted--80[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-inverted--80);",
+		"title": "Primary overlay - inverted, 80% opacity",
+		"description": "Sets the overlay to the primary color with inverted tone and 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"inverted",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"overlay--primary-inverted--90[before][element~position:relative~z-index:0~overflow:clip !important]": {
+		"css": "content: ''; display: block; position: absolute; inset: 0; background: var(--color--primary-inverted--90);",
+		"title": "Primary overlay - inverted, 90% opacity",
+		"description": "Sets the overlay to the primary color with inverted tone and 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"overlay",
+			"primary",
+			"inverted",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

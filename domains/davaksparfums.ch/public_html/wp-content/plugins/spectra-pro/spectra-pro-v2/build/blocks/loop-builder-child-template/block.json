@@ -1,0 +1,118 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/loop-builder-child-template",
+  "version": "2.0.0",
+  "title": "Template",
+  "category": "spectra-pro-v2",
+  "description": "Contains the block elements used to render a post, like the title, date, featured image, content or excerpt, and more..",
+  "textdomain": "spectra-pro",
+  "ancestor": [
+    "spectra-pro/loop-builder"
+  ],
+  "providesContext": {
+    "spectra-pro/loop-builder/queryId": "spectra-pro/loop-builder/queryId",
+    "spectra-pro/loop-builder/query": "spectra-pro/loop-builder/query"
+  },
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "supports": {
+    "reusable": false,
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "shadow": true,
+    "layout": {
+      "allowSwitching": true,
+      "allowJustification": true,
+      "allowOrientation": true,
+      "allowVerticalAlignment": true,
+      "allowSizingOnChildren": true,
+      "default": {
+        "type": "grid",
+        "value": null
+      }
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontWeight": true,
+      "__experimentalFontStyle": true,
+      "__experimentalTextTransform": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true,
+      "__experimentalDefaultControls": {
+        "fontSize": true
+      }
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "blockGap": {
+        "__experimentalDefault": "1.25em"
+      }
+    },
+    "__experimentalBorder": {
+      "width": true,
+      "color": true,
+      "radius": true,
+      "style": true,
+      "shadow": true,
+      "__experimentalDefaultControls": {
+        "width": true,
+        "color": true,
+        "radius": true,
+        "style": true,
+        "shadow": true
+      }
+    }
+  },
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css",
+  "editorStyle": "file:./index.css",
+  "usesContext": [
+    "spectra-pro/loop-builder/queryId",
+    "spectra-pro/loop-builder/query"
+  ],
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "layout": {
+      "type": "object",
+      "default": {
+        "type": "grid",
+        "value": null
+      }
+    },
+    "variationSelected": {
+      "type": "boolean",
+      "default": false
+    },
+    "textColor": {
+      "type": "string"
+    },
+    "textColorHover": {
+      "type": "string"
+    },
+    "backgroundColor": {
+      "type": "string"
+    },
+    "backgroundColorHover": {
+      "type": "string"
+    },
+    "backgroundGradient": {
+      "type": "string"
+    },
+    "backgroundGradientHover": {
+      "type": "string"
+    }
+  }
+}

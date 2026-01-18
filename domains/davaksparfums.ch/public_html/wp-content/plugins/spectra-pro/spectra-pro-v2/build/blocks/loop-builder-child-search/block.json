@@ -1,0 +1,95 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/loop-builder-child-search",
+  "title": "Search",
+  "category": "spectra-pro-v2",
+  "ancestor": [
+    "spectra-pro/loop-builder"
+  ],
+  "description": "Loop Builder - Search filter allows user to search posts in the loop.",
+  "textdomain": "spectra-pro",
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "placeholder": {
+      "type": "string"
+    },
+    "textColorSecondary": {
+      "type": "string"
+    },
+    "textColorFocusSecondary": {
+      "type": "string"
+    },
+    "textColorFocus": {
+      "type": "string"
+    },
+    "backgroundColorFocus": {
+      "type": "string"
+    },
+    "backgroundGradientFocus": {
+      "type": "string"
+    }
+  },
+  "usesContext": [
+    "spectra-pro/loop-builder/queryId",
+    "spectra-pro/loop-builder/query"
+  ],
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "supports": {
+    "align": true,
+    "html": false,
+    "shadow": {
+      "__experimentalSkipSerialization": true
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontStyle": true,
+      "__experimentalFontWeight": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true,
+      "__experimentalTextTransform": true,
+      "__experimentalWritingMode": true,
+      "__experimentalDefaultControls": {
+        "fontSize": true,
+        "fontFamily": true
+      }
+    },
+    "__experimentalBorder": {
+      "__experimentalSkipSerialization": true,
+      "width": true,
+      "color": true,
+      "radius": true,
+      "style": true,
+      "shadow": true,
+      "__experimentalDefaultControls": {
+        "width": true,
+        "color": true,
+        "radius": true,
+        "style": true,
+        "shadow": true
+      }
+    },
+    "spacing": {
+      "__experimentalSkipSerialization": true,
+      "margin": true,
+      "padding": true
+    }
+  },
+  "selectors": {
+    "shadow": ".wp-block-spectra-pro-loop-builder-child-search input",
+    "border": ".wp-block-spectra-pro-loop-builder-child-search input",
+    "spacing": ".wp-block-spectra-pro-loop-builder-child-search input",
+    "typography": ".wp-block-spectra-pro-loop-builder-child-search input"
+  },
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css"
+}

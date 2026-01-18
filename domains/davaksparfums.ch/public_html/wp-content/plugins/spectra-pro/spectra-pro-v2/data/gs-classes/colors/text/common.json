@@ -1,0 +1,22 @@
+{
+	"color--white": {
+		"css": "color: #fff;",
+		"title": "White text color.",
+		"description": "Sets the text color to white for a clean, neutral appearance.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"white"
+		]
+	},
+	"color--black": {
+		"css": "color: #000;",
+		"title": "Black text color.",
+		"description": "Sets the text color to black for a bold, classic look.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"black"
+		]
+	}
+}

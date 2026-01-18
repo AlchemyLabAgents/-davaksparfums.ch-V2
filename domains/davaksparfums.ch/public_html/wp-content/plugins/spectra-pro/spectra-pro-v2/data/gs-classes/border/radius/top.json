@@ -1,0 +1,90 @@
+{
+	"corner--t-none": {
+		"css": "border-top-left-radius: 0; border-top-right-radius: 0;",
+		"title": "No top radius",
+		"description": "Makes top corners sharp.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top",
+			"none"
+		]
+	},
+	"corner--t-xs": {
+		"css": "border-top-left-radius: 0.125rem; border-top-right-radius: 0.125rem;",
+		"title": "Tiny top radius",
+		"description": "Adds a tiny curve to top corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top",
+			"xs"
+		]
+	},
+	"corner--t-sm": {
+		"css": "border-top-left-radius: 0.25rem; border-top-right-radius: 0.25rem;",
+		"title": "Small top radius",
+		"description": "Adds a small curve to top corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top",
+			"sm"
+		]
+	},
+	"corner--t-md": {
+		"css": "border-top-left-radius: 0.375rem; border-top-right-radius: 0.375rem;",
+		"title": "Medium top radius",
+		"description": "Adds a medium curve to top corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top",
+			"md"
+		]
+	},
+	"corner--t-lg": {
+		"css": "border-top-left-radius: 1rem; border-top-right-radius: 1rem;",
+		"title": "Large top radius",
+		"description": "Adds a large curve to top corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top",
+			"lg"
+		]
+	},
+	"corner--t-xl": {
+		"css": "border-top-left-radius: 1.5rem; border-top-right-radius: 1.5rem;",
+		"title": "Extra-Large top radius",
+		"description": "Adds an extra-large curve to top corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top",
+			"xl"
+		]
+	},
+	"corner--t-xxl": {
+		"css": "border-top-left-radius: 2rem; border-top-right-radius: 2rem;",
+		"title": "Huge top radius",
+		"description": "Adds a huge curve to top corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top",
+			"xxl"
+		]
+	},
+	"corner--t-round": {
+		"css": "border-top-left-radius: 9999999px; border-top-right-radius: 9999999px;",
+		"title": "Round top radius",
+		"description": "Adds a round curve to top corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top",
+			"round"
+		]
+	}
+}

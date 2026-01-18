@@ -1,0 +1,266 @@
+{
+	"background--transparent": {
+		"css": "background: transparent;",
+		"title": "Transparent background",
+		"description": "Sets the background to transparent.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"transparent"
+		]
+	},
+	"background--white": {
+		"css": "background: #fff;",
+		"title": "White background",
+		"description": "Sets the background to white for a clean, neutral appearance.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"white"
+		]
+	},
+	"background--white--10": {
+		"css": "background: var(--color--white--10);",
+		"title": "White background, 10% opacity",
+		"description": "Sets the background to white with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--white--20": {
+		"css": "background: var(--color--white--20);",
+		"title": "White background, 20% opacity",
+		"description": "Sets the background to white with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--white--30": {
+		"css": "background: var(--color--white--30);",
+		"title": "White background, 30% opacity",
+		"description": "Sets the background to white with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--white--40": {
+		"css": "background: var(--color--white--40);",
+		"title": "White background, 40% opacity",
+		"description": "Sets the background to white with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--white--50": {
+		"css": "background: var(--color--white--50);",
+		"title": "White background, 50% opacity",
+		"description": "Sets the background to white with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--white--60": {
+		"css": "background: var(--color--white--60);",
+		"title": "White background, 60% opacity",
+		"description": "Sets the background to white with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--white--70": {
+		"css": "background: var(--color--white--70);",
+		"title": "White background, 70% opacity",
+		"description": "Sets the background to white with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--white--80": {
+		"css": "background: var(--color--white--80);",
+		"title": "White background, 80% opacity",
+		"description": "Sets the background to white with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--white--90": {
+		"css": "background: var(--color--white--90);",
+		"title": "White background, 90% opacity",
+		"description": "Sets the background to white with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--black": {
+		"css": "background: #000;",
+		"title": "Black background",
+		"description": "Sets the background to black for a bold, classic look.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"black"
+		]
+	},
+	"background--black--10": {
+		"css": "background: var(--color--black--10);",
+		"title": "Black background, 10% opacity",
+		"description": "Sets the background to black with 10% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--black--20": {
+		"css": "background: var(--color--black--20);",
+		"title": "Black background, 20% opacity",
+		"description": "Sets the background to black with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--black--30": {
+		"css": "background: var(--color--black--30);",
+		"title": "Black background, 30% opacity",
+		"description": "Sets the background to black with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--black--40": {
+		"css": "background: var(--color--black--40);",
+		"title": "Black background, 40% opacity",
+		"description": "Sets the background to black with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--black--50": {
+		"css": "background: var(--color--black--50);",
+		"title": "Black background, 50% opacity",
+		"description": "Sets the background to black with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--black--60": {
+		"css": "background: var(--color--black--60);",
+		"title": "Black background, 60% opacity",
+		"description": "Sets the background to black with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--black--70": {
+		"css": "background: var(--color--black--70);",
+		"title": "Black background, 70% opacity",
+		"description": "Sets the background to black with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--black--80": {
+		"css": "background: var(--color--black--80);",
+		"title": "Black background, 80% opacity",
+		"description": "Sets the background to black with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"background--black--90": {
+		"css": "background: var(--color--black--90);",
+		"title": "Black background, 90% opacity",
+		"description": "Sets the background to black with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"background",
+			"black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

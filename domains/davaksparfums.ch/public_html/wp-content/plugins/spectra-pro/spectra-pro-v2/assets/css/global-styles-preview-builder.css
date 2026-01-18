@@ -1,0 +1,60 @@
+/**
+ * Preview Builder Styles for Global Styles BlockDefaults
+ *
+ * These styles hide unnecessary UI elements when the editor is loaded
+ * in preview mode with the spectra-gs-preview-builder parameter.
+ *
+ * @since 2.0.0-beta.1
+ */
+
+/* Hide editor interface elements for clean preview */
+.interface-interface-skeleton__header,
+.interface-interface-skeleton__sidebar,
+.interface-interface-skeleton__footer,
+.editor-visual-editor__post-title-wrapper,
+.edit-post-visual-editor__post-title-wrapper,
+.components-popover.block-editor-block-popover,
+.components-notice,
+.block-editor-block-list__empty-block-inserter,
+.block-list-appender,
+#wpadminbar {
+	display: none !important;
+}
+
+.interface-interface-skeleton__body {
+	padding: 0 !important;
+}
+
+/* Additional preview-specific styles */
+
+/* Remove any padding/margin from the editor canvas */
+body.spectra-gs-preview-mode .edit-post-visual-editor {
+	padding: 0;
+}
+
+/* Ensure the editor takes full width/height */
+body.spectra-gs-preview-mode .block-editor-writing-flow {
+	min-height: 100vh;
+	padding: 1rem;
+}
+
+/* Remove block outline and selection indicators */
+body.spectra-gs-preview-mode .block-editor-block-list__block.is-selected .block-editor-block-list__block-edit::before,
+body.spectra-gs-preview-mode .block-editor-block-list__block.is-hovered .block-editor-block-list__block-edit::before {
+	display: none;
+}
+
+/* Hide block toolbar */
+body.spectra-gs-preview-mode .block-editor-block-contextual-toolbar {
+	display: none !important;
+}
+
+/* Hide block inserter */
+body.spectra-gs-preview-mode .block-editor-inserter {
+	display: none !important;
+}
+
+/* Hide any floating UI elements */
+body.spectra-gs-preview-mode .components-popover:not(.block-editor-block-popover) {
+	display: none !important;
+}

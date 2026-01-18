@@ -1,0 +1,82 @@
+{
+	"border--solid": {
+		"css": "border-style: solid;",
+		"title": "Solid line border",
+		"description": "Gives the border a solid line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"solid"
+		]
+	},
+	"border--dashed": {
+		"css": "border-style: dashed;",
+		"title": "Dashed line border",
+		"description": "Gives the border a dashed line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"dashed"
+		]
+	},
+	"border--dotted": {
+		"css": "border-style: dotted;",
+		"title": "Dotted line border",
+		"description": "Gives the border a dotted line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"dotted"
+		]
+	},
+	"border--double": {
+		"css": "border-style: double;",
+		"title": "Double line border",
+		"description": "Gives the border a double line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"double"
+		]
+	},
+	"border--groove": {
+		"css": "border-style: groove;",
+		"title": "Groove border",
+		"description": "Gives the border a groove.",
+		"category": "border",
+		"tags": [
+			"border",
+			"groove"
+		]
+	},
+	"border--ridge": {
+		"css": "border-style: ridge;",
+		"title": "Ridge border",
+		"description": "Gives the border a ridge.",
+		"category": "border",
+		"tags": [
+			"border",
+			"ridge"
+		]
+	},
+	"border--inset": {
+		"css": "border-style: inset;",
+		"title": "Inset border",
+		"description": "Gives the border a inset.",
+		"category": "border",
+		"tags": [
+			"border",
+			"inset"
+		]
+	},
+	"border--outset": {
+		"css": "border-style: outset;",
+		"title": "Outset border",
+		"description": "Gives the border a outset.",
+		"category": "border",
+		"tags": [
+			"border",
+			"outset"
+		]
+	}
+}

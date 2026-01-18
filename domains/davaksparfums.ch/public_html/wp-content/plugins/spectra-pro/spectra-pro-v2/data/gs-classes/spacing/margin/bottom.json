@@ -1,0 +1,79 @@
+{
+	"margin--b-none": {
+		"css": "margin-bottom: 0;",
+		"title": "No bottom margin",
+		"description": "Removes all margin from the bottom.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"bottom",
+			"none"
+		]
+	},
+	"margin--b-xs": {
+		"css": "margin-bottom: var(--space--xs);",
+		"title": "Tiny bottom margin",
+		"description": "Adds a tiny amount of margin to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"bottom",
+			"xs"
+		]
+	},
+	"margin--b-sm": {
+		"css": "margin-bottom: var(--space--sm);",
+		"title": "Small bottom margin",
+		"description": "Adds a small amount of margin to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"bottom",
+			"sm"
+		]
+	},
+	"margin--b-md": {
+		"css": "margin-bottom: var(--space--md);",
+		"title": "Medium bottom margin",
+		"description": "Adds a medium amount of margin to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"bottom",
+			"md"
+		]
+	},
+	"margin--b-lg": {
+		"css": "margin-bottom: var(--space--lg);",
+		"title": "Large bottom margin",
+		"description": "Adds a large amount of margin to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"bottom",
+			"lg"
+		]
+	},
+	"margin--b-xl": {
+		"css": "margin-bottom: var(--space--xl);",
+		"title": "Extra-large bottom margin",
+		"description": "Adds an extra-large amount of margin to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"bottom",
+			"xl"
+		]
+	},
+	"margin--b-xxl": {
+		"css": "margin-bottom: var(--space--xxl);",
+		"title": "Double-extra-large bottom margin",
+		"description": "Adds a double-extra-large amount of margin to the bottom.",
+		"category": "spacing",
+		"tags": [
+			"margin",
+			"bottom",
+			"xxl"
+		]
+	}
+}

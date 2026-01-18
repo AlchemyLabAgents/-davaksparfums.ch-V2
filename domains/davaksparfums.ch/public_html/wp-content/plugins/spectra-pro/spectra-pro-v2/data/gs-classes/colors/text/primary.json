@@ -1,0 +1,122 @@
+{
+	"color--primary": {
+		"css": "color: var(--color--primary);",
+		"title": "Primary text color.",
+		"description": "Sets the text color to the primary color for a prominent, brand-focused appearance.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"primary"
+		]
+	},
+	"color--primary-dark": {
+		"css": "color: var(--color--primary-dark);",
+		"title": "Primary text color - dark shade.",
+		"description": "Sets the text color to a dark primary shade for strong emphasis and contrast.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"primary",
+			"dark"
+		]
+	},
+	"color--primary-darker": {
+		"css": "color: var(--color--primary-darker);",
+		"title": "Primary text color - darker shade.",
+		"description": "Sets the text color to a darker primary shade for bold, impactful text.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"primary",
+			"darker"
+		]
+	},
+	"color--primary-darkest": {
+		"css": "color: var(--color--primary-darkest);",
+		"title": "Primary text color - darkest shade.",
+		"description": "Sets the text color to the darkest primary shade for maximum contrast.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"primary",
+			"darkest"
+		]
+	},
+	"color--primary-near-black": {
+		"css": "color: var(--color--primary-near-black);",
+		"title": "Primary text color - near-black.",
+		"description": "Sets the text color to a near-black primary shade for a deep, modern look.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"primary",
+			"near-black"
+		]
+	},
+	"color--primary-light": {
+		"css": "color: var(--color--primary-light);",
+		"title": "Primary text color - light shade.",
+		"description": "Sets the text color to a light primary shade for a softer, subtle appearance.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"primary",
+			"light"
+		]
+	},
+	"color--primary-lighter": {
+		"css": "color: var(--color--primary-lighter);",
+		"title": "Primary text color - lighter shade.",
+		"description": "Sets the text color to a lighter primary shade for gentle emphasis.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"primary",
+			"lighter"
+		]
+	},
+	"color--primary-lightest": {
+		"css": "color: var(--color--primary-lightest);",
+		"title": "Primary text color - lightest shade.",
+		"description": "Sets the text color to the lightest primary shade for a delicate, airy look.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"primary",
+			"lightest"
+		]
+	},
+	"color--primary-near-white": {
+		"css": "color: var(--color--primary-near-white);",
+		"title": "Primary text color - near-white.",
+		"description": "Sets the text color to a near-white primary shade for a subtle, clean effect.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"primary",
+			"near-white"
+		]
+	},
+	"color--primary-complement": {
+		"css": "color: var(--color--primary-complement);",
+		"title": "Primary text color - complement.",
+		"description": "Sets the text color to the primary complement for visual contrast and balance.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"primary",
+			"complement"
+		]
+	},
+	"color--primary-inverted": {
+		"css": "color: var(--color--primary-inverted);",
+		"title": "Primary text color - inverted.",
+		"description": "Sets the text color to the inverted primary color for a striking, reversed look.",
+		"category": "colors",
+		"tags": [
+			"color",
+			"primary",
+			"inverted"
+		]
+	}
+}

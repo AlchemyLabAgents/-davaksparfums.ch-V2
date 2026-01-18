@@ -1,0 +1,114 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/loop-builder-child-pagination-page-numbers-button",
+  "version": "2.0.0",
+  "title": "Page Numbers",
+  "category": "spectra-pro-v2",
+  "description": "Contains the block elements used to render a post, like the title, date, featured image, content or excerpt, and more..",
+  "textdomain": "spectra-pro",
+  "parent": [
+    "spectra-pro/loop-builder-child-pagination"
+  ],
+  "usesContext": [
+    "spectra-pro/loop-builder-pagination/textColor",
+    "spectra-pro/loop-builder-pagination/textColorHover",
+    "spectra-pro/loop-builder-pagination/textColorActive",
+    "spectra-pro/loop-builder-pagination/backgroundColor",
+    "spectra-pro/loop-builder-pagination/backgroundColorHover",
+    "spectra-pro/loop-builder-pagination/backgroundColorActive",
+    "spectra-pro/loop-builder-pagination/backgroundGradient",
+    "spectra-pro/loop-builder-pagination/backgroundGradientHover",
+    "spectra-pro/loop-builder-pagination/backgroundGradientActive"
+  ],
+  "supports": {
+    "__experimentalBorder": {
+      "width": true,
+      "color": true,
+      "radius": true,
+      "style": true,
+      "shadow": true,
+      "__experimentalDefaultControls": {
+        "width": true,
+        "color": true,
+        "radius": true,
+        "style": true,
+        "shadow": true
+      }
+    },
+    "html": false,
+    "align": true,
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "textAlign": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontStyle": true,
+      "__experimentalFontWeight": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true,
+      "__experimentalTextTransform": true,
+      "__experimentalWritingMode": true,
+      "__experimentalDefaultControls": {
+        "fontSize": true,
+        "fontFamily": true
+      }
+    },
+    "shadow": true,
+    "spacing": {
+      "margin": true,
+      "padding": true
+    },
+    "color": {
+      "gradients": true,
+      "link": false,
+      "__experimentalDefaultControls": {
+        "background": true,
+        "text": true
+      }
+    }
+  },
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "style": [
+    "file:./style-index.css",
+    "spectra-blocks-common"
+  ],
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "text": {
+      "type": "string"
+    },
+    "linkURL": {
+      "type": "string"
+    },
+    "midSize": {
+      "type": "number"
+    },
+    "textColorHover": {
+      "type": "string"
+    },
+    "textColorActive": {
+      "type": "string"
+    },
+    "backgroundColorHover": {
+      "type": "string"
+    },
+    "backgroundColorActive": {
+      "type": "string"
+    },
+    "backgroundGradientHover": {
+      "type": "string"
+    },
+    "backgroundGradientActive": {
+      "type": "string"
+    }
+  }
+}

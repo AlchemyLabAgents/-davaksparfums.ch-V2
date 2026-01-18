@@ -1,0 +1,90 @@
+{
+	"corner--br-none": {
+		"css": "border-bottom-right-radius: 0;",
+		"title": "No bottom-right radius",
+		"description": "Makes bottom-right corners sharp.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-right",
+			"none"
+		]
+	},
+	"corner--br-xs": {
+		"css": "border-bottom-right-radius: 0.125rem;",
+		"title": "Tiny bottom-right radius",
+		"description": "Adds a tiny curve to bottom-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-right",
+			"xs"
+		]
+	},
+	"corner--br-sm": {
+		"css": "border-bottom-right-radius: 0.25rem;",
+		"title": "Small bottom-right radius",
+		"description": "Adds a small curve to bottom-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-right",
+			"sm"
+		]
+	},
+	"corner--br-md": {
+		"css": "border-bottom-right-radius: 0.375rem;",
+		"title": "Medium bottom-right radius",
+		"description": "Adds a medium curve to bottom-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-right",
+			"md"
+		]
+	},
+	"corner--br-lg": {
+		"css": "border-bottom-right-radius: 1rem;",
+		"title": "Large bottom-right radius",
+		"description": "Adds a large curve to bottom-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-right",
+			"lg"
+		]
+	},
+	"corner--br-xl": {
+		"css": "border-bottom-right-radius: 1.5rem;",
+		"title": "Extra-Large bottom-right radius",
+		"description": "Adds an extra-large curve to bottom-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-right",
+			"xl"
+		]
+	},
+	"corner--br-xxl": {
+		"css": "border-bottom-right-radius: 2rem;",
+		"title": "Huge bottom-right radius",
+		"description": "Adds a huge curve to bottom-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-right",
+			"xxl"
+		]
+	},
+	"corner--br-round": {
+		"css": "border-bottom-right-radius: 9999999px;",
+		"title": "Round bottom-right radius",
+		"description": "Adds a round curve to bottom-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"bottom-right",
+			"round"
+		]
+	}
+}

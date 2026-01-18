@@ -1,0 +1,1719 @@
+{
+	"border--x-primary": {
+		"css": "border-inline-end-color: var(--color--primary); border-inline-start-color: var(--color--primary);",
+		"title": "Horizontal primary border",
+		"description": "Sets the left and right borders to the primary color for a prominent, brand-focused appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary"
+		]
+	},
+	"border--x-primary--10": {
+		"css": "border-inline-end-color: var(--color--primary--10); border-inline-start-color: var(--color--primary--10);",
+		"title": "Horizontal primary border, 10% opacity",
+		"description": "Sets the left and right borders to the primary color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary--20": {
+		"css": "border-inline-end-color: var(--color--primary--20); border-inline-start-color: var(--color--primary--20);",
+		"title": "Horizontal primary border, 20% opacity",
+		"description": "Sets the left and right borders to the primary color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary--30": {
+		"css": "border-inline-end-color: var(--color--primary--30); border-inline-start-color: var(--color--primary--30);",
+		"title": "Horizontal primary border, 30% opacity",
+		"description": "Sets the left and right borders to the primary color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary--40": {
+		"css": "border-inline-end-color: var(--color--primary--40); border-inline-start-color: var(--color--primary--40);",
+		"title": "Horizontal primary border, 40% opacity",
+		"description": "Sets the left and right borders to the primary color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary--50": {
+		"css": "border-inline-end-color: var(--color--primary--50); border-inline-start-color: var(--color--primary--50);",
+		"title": "Horizontal primary border, 50% opacity",
+		"description": "Sets the left and right borders to the primary color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary--60": {
+		"css": "border-inline-end-color: var(--color--primary--60); border-inline-start-color: var(--color--primary--60);",
+		"title": "Horizontal primary border, 60% opacity",
+		"description": "Sets the left and right borders to the primary color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary--70": {
+		"css": "border-inline-end-color: var(--color--primary--70); border-inline-start-color: var(--color--primary--70);",
+		"title": "Horizontal primary border, 70% opacity",
+		"description": "Sets the left and right borders to the primary color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary--80": {
+		"css": "border-inline-end-color: var(--color--primary--80); border-inline-start-color: var(--color--primary--80);",
+		"title": "Horizontal primary border, 80% opacity",
+		"description": "Sets the left and right borders to the primary color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary--90": {
+		"css": "border-inline-end-color: var(--color--primary--90); border-inline-start-color: var(--color--primary--90);",
+		"title": "Horizontal primary border, 90% opacity",
+		"description": "Sets the left and right borders to the primary color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-dark": {
+		"css": "border-inline-end-color: var(--color--primary-dark); border-inline-start-color: var(--color--primary-dark);",
+		"title": "Horizontal primary border - dark",
+		"description": "Sets the left and right borders to a dark primary shade for strong emphasis and contrast.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"dark"
+		]
+	},
+	"border--x-primary-dark--10": {
+		"css": "border-inline-end-color: var(--color--primary-dark--10); border-inline-start-color: var(--color--primary-dark--10);",
+		"title": "Horizontal primary border - dark, 10% opacity",
+		"description": "Sets the left and right borders to the primary dark color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"dark",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-dark--20": {
+		"css": "border-inline-end-color: var(--color--primary-dark--20); border-inline-start-color: var(--color--primary-dark--20);",
+		"title": "Horizontal primary border - dark, 20% opacity",
+		"description": "Sets the left and right borders to the primary dark color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"dark",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-dark--30": {
+		"css": "border-inline-end-color: var(--color--primary-dark--30); border-inline-start-color: var(--color--primary-dark--30);",
+		"title": "Horizontal primary border - dark, 30% opacity",
+		"description": "Sets the left and right borders to the primary dark color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"dark",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-dark--40": {
+		"css": "border-inline-end-color: var(--color--primary-dark--40); border-inline-start-color: var(--color--primary-dark--40);",
+		"title": "Horizontal primary border - dark, 40% opacity",
+		"description": "Sets the left and right borders to the primary dark color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"dark",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-dark--50": {
+		"css": "border-inline-end-color: var(--color--primary-dark--50); border-inline-start-color: var(--color--primary-dark--50);",
+		"title": "Horizontal primary border - dark, 50% opacity",
+		"description": "Sets the left and right borders to the primary dark color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"dark",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-dark--60": {
+		"css": "border-inline-end-color: var(--color--primary-dark--60); border-inline-start-color: var(--color--primary-dark--60);",
+		"title": "Horizontal primary border - dark, 60% opacity",
+		"description": "Sets the left and right borders to the primary dark color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"dark",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-dark--70": {
+		"css": "border-inline-end-color: var(--color--primary-dark--70); border-inline-start-color: var(--color--primary-dark--70);",
+		"title": "Horizontal primary border - dark, 70% opacity",
+		"description": "Sets the left and right borders to the primary dark color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"dark",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-dark--80": {
+		"css": "border-inline-end-color: var(--color--primary-dark--80); border-inline-start-color: var(--color--primary-dark--80);",
+		"title": "Horizontal primary border - dark, 80% opacity",
+		"description": "Sets the left and right borders to the primary dark color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"dark",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-dark--90": {
+		"css": "border-inline-end-color: var(--color--primary-dark--90); border-inline-start-color: var(--color--primary-dark--90);",
+		"title": "Horizontal primary border - dark, 90% opacity",
+		"description": "Sets the left and right borders to the primary dark color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"dark",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darker": {
+		"css": "border-inline-end-color: var(--color--primary-darker); border-inline-start-color: var(--color--primary-darker);",
+		"title": "Horizontal primary border - darker",
+		"description": "Sets the left and right borders to a darker primary shade for bold, impactful border.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darker"
+		]
+	},
+	"border--x-primary-darker--10": {
+		"css": "border-inline-end-color: var(--color--primary-darker--10); border-inline-start-color: var(--color--primary-darker--10);",
+		"title": "Horizontal primary border - darker, 10% opacity",
+		"description": "Sets the left and right borders to the primary darker color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darker",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darker--20": {
+		"css": "border-inline-end-color: var(--color--primary-darker--20); border-inline-start-color: var(--color--primary-darker--20);",
+		"title": "Horizontal primary border - darker, 20% opacity",
+		"description": "Sets the left and right borders to the primary darker color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darker",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darker--30": {
+		"css": "border-inline-end-color: var(--color--primary-darker--30); border-inline-start-color: var(--color--primary-darker--30);",
+		"title": "Horizontal primary border - darker, 30% opacity",
+		"description": "Sets the left and right borders to the primary darker color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darker",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darker--40": {
+		"css": "border-inline-end-color: var(--color--primary-darker--40); border-inline-start-color: var(--color--primary-darker--40);",
+		"title": "Horizontal primary border - darker, 40% opacity",
+		"description": "Sets the left and right borders to the primary darker color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darker",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darker--50": {
+		"css": "border-inline-end-color: var(--color--primary-darker--50); border-inline-start-color: var(--color--primary-darker--50);",
+		"title": "Horizontal primary border - darker, 50% opacity",
+		"description": "Sets the left and right borders to the primary darker color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darker",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darker--60": {
+		"css": "border-inline-end-color: var(--color--primary-darker--60); border-inline-start-color: var(--color--primary-darker--60);",
+		"title": "Horizontal primary border - darker, 60% opacity",
+		"description": "Sets the left and right borders to the primary darker color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darker",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darker--70": {
+		"css": "border-inline-end-color: var(--color--primary-darker--70); border-inline-start-color: var(--color--primary-darker--70);",
+		"title": "Horizontal primary border - darker, 70% opacity",
+		"description": "Sets the left and right borders to the primary darker color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darker",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darker--80": {
+		"css": "border-inline-end-color: var(--color--primary-darker--80); border-inline-start-color: var(--color--primary-darker--80);",
+		"title": "Horizontal primary border - darker, 80% opacity",
+		"description": "Sets the left and right borders to the primary darker color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darker",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darker--90": {
+		"css": "border-inline-end-color: var(--color--primary-darker--90); border-inline-start-color: var(--color--primary-darker--90);",
+		"title": "Horizontal primary border - darker, 90% opacity",
+		"description": "Sets the left and right borders to the primary darker color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darker",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darkest": {
+		"css": "border-inline-end-color: var(--color--primary-darkest); border-inline-start-color: var(--color--primary-darkest);",
+		"title": "Horizontal primary border - darkest",
+		"description": "Sets the left and right borders to the darkest primary shade for maximum depth and contrast.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darkest"
+		]
+	},
+	"border--x-primary-darkest--10": {
+		"css": "border-inline-end-color: var(--color--primary-darkest--10); border-inline-start-color: var(--color--primary-darkest--10);",
+		"title": "Horizontal primary border - darkest, 10% opacity",
+		"description": "Sets the left and right borders to the primary darkest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darkest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darkest--20": {
+		"css": "border-inline-end-color: var(--color--primary-darkest--20); border-inline-start-color: var(--color--primary-darkest--20);",
+		"title": "Horizontal primary border - darkest, 20% opacity",
+		"description": "Sets the left and right borders to the primary darkest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darkest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darkest--30": {
+		"css": "border-inline-end-color: var(--color--primary-darkest--30); border-inline-start-color: var(--color--primary-darkest--30);",
+		"title": "Horizontal primary border - darkest, 30% opacity",
+		"description": "Sets the left and right borders to the primary darkest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darkest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darkest--40": {
+		"css": "border-inline-end-color: var(--color--primary-darkest--40); border-inline-start-color: var(--color--primary-darkest--40);",
+		"title": "Horizontal primary border - darkest, 40% opacity",
+		"description": "Sets the left and right borders to the primary darkest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darkest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darkest--50": {
+		"css": "border-inline-end-color: var(--color--primary-darkest--50); border-inline-start-color: var(--color--primary-darkest--50);",
+		"title": "Horizontal primary border - darkest, 50% opacity",
+		"description": "Sets the left and right borders to the primary darkest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darkest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darkest--60": {
+		"css": "border-inline-end-color: var(--color--primary-darkest--60); border-inline-start-color: var(--color--primary-darkest--60);",
+		"title": "Horizontal primary border - darkest, 60% opacity",
+		"description": "Sets the left and right borders to the primary darkest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darkest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darkest--70": {
+		"css": "border-inline-end-color: var(--color--primary-darkest--70); border-inline-start-color: var(--color--primary-darkest--70);",
+		"title": "Horizontal primary border - darkest, 70% opacity",
+		"description": "Sets the left and right borders to the primary darkest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darkest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darkest--80": {
+		"css": "border-inline-end-color: var(--color--primary-darkest--80); border-inline-start-color: var(--color--primary-darkest--80);",
+		"title": "Horizontal primary border - darkest, 80% opacity",
+		"description": "Sets the left and right borders to the primary darkest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darkest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-darkest--90": {
+		"css": "border-inline-end-color: var(--color--primary-darkest--90); border-inline-start-color: var(--color--primary-darkest--90);",
+		"title": "Horizontal primary border - darkest, 90% opacity",
+		"description": "Sets the left and right borders to the primary darkest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"darkest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-black": {
+		"css": "border-inline-end-color: var(--color--primary-near-black); border-inline-start-color: var(--color--primary-near-black);",
+		"title": "Horizontal primary border - near-black",
+		"description": "Sets the left and right borders to a near-black primary shade for a deep, dramatic effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-black"
+		]
+	},
+	"border--x-primary-near-black--10": {
+		"css": "border-inline-end-color: var(--color--primary-near-black--10); border-inline-start-color: var(--color--primary-near-black--10);",
+		"title": "Horizontal primary border - near-black, 10% opacity",
+		"description": "Sets the left and right borders to the primary near-black color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-black",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-black--20": {
+		"css": "border-inline-end-color: var(--color--primary-near-black--20); border-inline-start-color: var(--color--primary-near-black--20);",
+		"title": "Horizontal primary border - near-black, 20% opacity",
+		"description": "Sets the left and right borders to the primary near-black color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-black",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-black--30": {
+		"css": "border-inline-end-color: var(--color--primary-near-black--30); border-inline-start-color: var(--color--primary-near-black--30);",
+		"title": "Horizontal primary border - near-black, 30% opacity",
+		"description": "Sets the left and right borders to the primary near-black color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-black",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-black--40": {
+		"css": "border-inline-end-color: var(--color--primary-near-black--40); border-inline-start-color: var(--color--primary-near-black--40);",
+		"title": "Horizontal primary border - near-black, 40% opacity",
+		"description": "Sets the left and right borders to the primary near-black color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-black",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-black--50": {
+		"css": "border-inline-end-color: var(--color--primary-near-black--50); border-inline-start-color: var(--color--primary-near-black--50);",
+		"title": "Horizontal primary border - near-black, 50% opacity",
+		"description": "Sets the left and right borders to the primary near-black color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-black",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-black--60": {
+		"css": "border-inline-end-color: var(--color--primary-near-black--60); border-inline-start-color: var(--color--primary-near-black--60);",
+		"title": "Horizontal primary border - near-black, 60% opacity",
+		"description": "Sets the left and right borders to the primary near-black color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-black",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-black--70": {
+		"css": "border-inline-end-color: var(--color--primary-near-black--70); border-inline-start-color: var(--color--primary-near-black--70);",
+		"title": "Horizontal primary border - near-black, 70% opacity",
+		"description": "Sets the left and right borders to the primary near-black color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-black",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-black--80": {
+		"css": "border-inline-end-color: var(--color--primary-near-black--80); border-inline-start-color: var(--color--primary-near-black--80);",
+		"title": "Horizontal primary border - near-black, 80% opacity",
+		"description": "Sets the left and right borders to the primary near-black color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-black",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-black--90": {
+		"css": "border-inline-end-color: var(--color--primary-near-black--90); border-inline-start-color: var(--color--primary-near-black--90);",
+		"title": "Horizontal primary border - near-black, 90% opacity",
+		"description": "Sets the left and right borders to the primary near-black color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-black",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-light": {
+		"css": "border-inline-end-color: var(--color--primary-light); border-inline-start-color: var(--color--primary-light);",
+		"title": "Horizontal primary border - light",
+		"description": "Sets the left and right borders to a light primary shade for a soft, subtle effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"light"
+		]
+	},
+	"border--x-primary-light--10": {
+		"css": "border-inline-end-color: var(--color--primary-light--10); border-inline-start-color: var(--color--primary-light--10);",
+		"title": "Horizontal primary border - light, 10% opacity",
+		"description": "Sets the left and right borders to the primary light color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"light",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-light--20": {
+		"css": "border-inline-end-color: var(--color--primary-light--20); border-inline-start-color: var(--color--primary-light--20);",
+		"title": "Horizontal primary border - light, 20% opacity",
+		"description": "Sets the left and right borders to the primary light color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"light",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-light--30": {
+		"css": "border-inline-end-color: var(--color--primary-light--30); border-inline-start-color: var(--color--primary-light--30);",
+		"title": "Horizontal primary border - light, 30% opacity",
+		"description": "Sets the left and right borders to the primary light color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"light",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-light--40": {
+		"css": "border-inline-end-color: var(--color--primary-light--40); border-inline-start-color: var(--color--primary-light--40);",
+		"title": "Horizontal primary border - light, 40% opacity",
+		"description": "Sets the left and right borders to the primary light color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"light",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-light--50": {
+		"css": "border-inline-end-color: var(--color--primary-light--50); border-inline-start-color: var(--color--primary-light--50);",
+		"title": "Horizontal primary border - light, 50% opacity",
+		"description": "Sets the left and right borders to the primary light color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"light",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-light--60": {
+		"css": "border-inline-end-color: var(--color--primary-light--60); border-inline-start-color: var(--color--primary-light--60);",
+		"title": "Horizontal primary border - light, 60% opacity",
+		"description": "Sets the left and right borders to the primary light color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"light",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-light--70": {
+		"css": "border-inline-end-color: var(--color--primary-light--70); border-inline-start-color: var(--color--primary-light--70);",
+		"title": "Horizontal primary border - light, 70% opacity",
+		"description": "Sets the left and right borders to the primary light color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"light",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-light--80": {
+		"css": "border-inline-end-color: var(--color--primary-light--80); border-inline-start-color: var(--color--primary-light--80);",
+		"title": "Horizontal primary border - light, 80% opacity",
+		"description": "Sets the left and right borders to the primary light color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"light",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-light--90": {
+		"css": "border-inline-end-color: var(--color--primary-light--90); border-inline-start-color: var(--color--primary-light--90);",
+		"title": "Horizontal primary border - light, 90% opacity",
+		"description": "Sets the left and right borders to the primary light color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"light",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lighter": {
+		"css": "border-inline-end-color: var(--color--primary-lighter); border-inline-start-color: var(--color--primary-lighter);",
+		"title": "Horizontal primary border - lighter",
+		"description": "Sets the left and right borders to a lighter primary shade for a gentle, airy appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lighter"
+		]
+	},
+	"border--x-primary-lighter--10": {
+		"css": "border-inline-end-color: var(--color--primary-lighter--10); border-inline-start-color: var(--color--primary-lighter--10);",
+		"title": "Horizontal primary border - lighter, 10% opacity",
+		"description": "Sets the left and right borders to the primary lighter color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lighter",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lighter--20": {
+		"css": "border-inline-end-color: var(--color--primary-lighter--20); border-inline-start-color: var(--color--primary-lighter--20);",
+		"title": "Horizontal primary border - lighter, 20% opacity",
+		"description": "Sets the left and right borders to the primary lighter color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lighter",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lighter--30": {
+		"css": "border-inline-end-color: var(--color--primary-lighter--30); border-inline-start-color: var(--color--primary-lighter--30);",
+		"title": "Horizontal primary border - lighter, 30% opacity",
+		"description": "Sets the left and right borders to the primary lighter color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lighter",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lighter--40": {
+		"css": "border-inline-end-color: var(--color--primary-lighter--40); border-inline-start-color: var(--color--primary-lighter--40);",
+		"title": "Horizontal primary border - lighter, 40% opacity",
+		"description": "Sets the left and right borders to the primary lighter color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lighter",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lighter--50": {
+		"css": "border-inline-end-color: var(--color--primary-lighter--50); border-inline-start-color: var(--color--primary-lighter--50);",
+		"title": "Horizontal primary border - lighter, 50% opacity",
+		"description": "Sets the left and right borders to the primary lighter color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lighter",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lighter--60": {
+		"css": "border-inline-end-color: var(--color--primary-lighter--60); border-inline-start-color: var(--color--primary-lighter--60);",
+		"title": "Horizontal primary border - lighter, 60% opacity",
+		"description": "Sets the left and right borders to the primary lighter color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lighter",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lighter--70": {
+		"css": "border-inline-end-color: var(--color--primary-lighter--70); border-inline-start-color: var(--color--primary-lighter--70);",
+		"title": "Horizontal primary border - lighter, 70% opacity",
+		"description": "Sets the left and right borders to the primary lighter color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lighter",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lighter--80": {
+		"css": "border-inline-end-color: var(--color--primary-lighter--80); border-inline-start-color: var(--color--primary-lighter--80);",
+		"title": "Horizontal primary border - lighter, 80% opacity",
+		"description": "Sets the left and right borders to the primary lighter color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lighter",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lighter--90": {
+		"css": "border-inline-end-color: var(--color--primary-lighter--90); border-inline-start-color: var(--color--primary-lighter--90);",
+		"title": "Horizontal primary border - lighter, 90% opacity",
+		"description": "Sets the left and right borders to the primary lighter color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lighter",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lightest": {
+		"css": "border-inline-end-color: var(--color--primary-lightest); border-inline-start-color: var(--color--primary-lightest);",
+		"title": "Horizontal primary border - lightest",
+		"description": "Sets the left and right borders to the lightest primary shade for a barely-there, delicate effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lightest"
+		]
+	},
+	"border--x-primary-lightest--10": {
+		"css": "border-inline-end-color: var(--color--primary-lightest--10); border-inline-start-color: var(--color--primary-lightest--10);",
+		"title": "Horizontal primary border - lightest, 10% opacity",
+		"description": "Sets the left and right borders to the primary lightest color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lightest",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lightest--20": {
+		"css": "border-inline-end-color: var(--color--primary-lightest--20); border-inline-start-color: var(--color--primary-lightest--20);",
+		"title": "Horizontal primary border - lightest, 20% opacity",
+		"description": "Sets the left and right borders to the primary lightest color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lightest",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lightest--30": {
+		"css": "border-inline-end-color: var(--color--primary-lightest--30); border-inline-start-color: var(--color--primary-lightest--30);",
+		"title": "Horizontal primary border - lightest, 30% opacity",
+		"description": "Sets the left and right borders to the primary lightest color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lightest",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lightest--40": {
+		"css": "border-inline-end-color: var(--color--primary-lightest--40); border-inline-start-color: var(--color--primary-lightest--40);",
+		"title": "Horizontal primary border - lightest, 40% opacity",
+		"description": "Sets the left and right borders to the primary lightest color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lightest",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lightest--50": {
+		"css": "border-inline-end-color: var(--color--primary-lightest--50); border-inline-start-color: var(--color--primary-lightest--50);",
+		"title": "Horizontal primary border - lightest, 50% opacity",
+		"description": "Sets the left and right borders to the primary lightest color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lightest",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lightest--60": {
+		"css": "border-inline-end-color: var(--color--primary-lightest--60); border-inline-start-color: var(--color--primary-lightest--60);",
+		"title": "Horizontal primary border - lightest, 60% opacity",
+		"description": "Sets the left and right borders to the primary lightest color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lightest",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lightest--70": {
+		"css": "border-inline-end-color: var(--color--primary-lightest--70); border-inline-start-color: var(--color--primary-lightest--70);",
+		"title": "Horizontal primary border - lightest, 70% opacity",
+		"description": "Sets the left and right borders to the primary lightest color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lightest",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lightest--80": {
+		"css": "border-inline-end-color: var(--color--primary-lightest--80); border-inline-start-color: var(--color--primary-lightest--80);",
+		"title": "Horizontal primary border - lightest, 80% opacity",
+		"description": "Sets the left and right borders to the primary lightest color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lightest",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-lightest--90": {
+		"css": "border-inline-end-color: var(--color--primary-lightest--90); border-inline-start-color: var(--color--primary-lightest--90);",
+		"title": "Horizontal primary border - lightest, 90% opacity",
+		"description": "Sets the left and right borders to the primary lightest color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"lightest",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-white": {
+		"css": "border-inline-end-color: var(--color--primary-near-white); border-inline-start-color: var(--color--primary-near-white);",
+		"title": "Horizontal primary border - near-white",
+		"description": "Sets the left and right borders to a near-white primary shade for a soft, subtle effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-white"
+		]
+	},
+	"border--x-primary-near-white--10": {
+		"css": "border-inline-end-color: var(--color--primary-near-white--10); border-inline-start-color: var(--color--primary-near-white--10);",
+		"title": "Horizontal primary border - near-white, 10% opacity",
+		"description": "Sets the left and right borders to the primary near-white color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-white",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-white--20": {
+		"css": "border-inline-end-color: var(--color--primary-near-white--20); border-inline-start-color: var(--color--primary-near-white--20);",
+		"title": "Horizontal primary border - near-white, 20% opacity",
+		"description": "Sets the left and right borders to the primary near-white color with 20% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-white",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-white--30": {
+		"css": "border-inline-end-color: var(--color--primary-near-white--30); border-inline-start-color: var(--color--primary-near-white--30);",
+		"title": "Horizontal primary border - near-white, 30% opacity",
+		"description": "Sets the left and right borders to the primary near-white color with 30% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-white",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-white--40": {
+		"css": "border-inline-end-color: var(--color--primary-near-white--40); border-inline-start-color: var(--color--primary-near-white--40);",
+		"title": "Horizontal primary border - near-white, 40% opacity",
+		"description": "Sets the left and right borders to the primary near-white color with 40% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-white",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-white--50": {
+		"css": "border-inline-end-color: var(--color--primary-near-white--50); border-inline-start-color: var(--color--primary-near-white--50);",
+		"title": "Horizontal primary border - near-white, 50% opacity",
+		"description": "Sets the left and right borders to the primary near-white color with 50% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-white",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-white--60": {
+		"css": "border-inline-end-color: var(--color--primary-near-white--60); border-inline-start-color: var(--color--primary-near-white--60);",
+		"title": "Horizontal primary border - near-white, 60% opacity",
+		"description": "Sets the left and right borders to the primary near-white color with 60% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-white",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-white--70": {
+		"css": "border-inline-end-color: var(--color--primary-near-white--70); border-inline-start-color: var(--color--primary-near-white--70);",
+		"title": "Horizontal primary border - near-white, 70% opacity",
+		"description": "Sets the left and right borders to the primary near-white color with 70% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-white",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-white--80": {
+		"css": "border-inline-end-color: var(--color--primary-near-white--80); border-inline-start-color: var(--color--primary-near-white--80);",
+		"title": "Horizontal primary border - near-white, 80% opacity",
+		"description": "Sets the left and right borders to the primary near-white color with 80% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-white",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-near-white--90": {
+		"css": "border-inline-end-color: var(--color--primary-near-white--90); border-inline-start-color: var(--color--primary-near-white--90);",
+		"title": "Horizontal primary border - near-white, 90% opacity",
+		"description": "Sets the left and right borders to the primary near-white color with 90% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"near-white",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-complement": {
+		"css": "border-inline-end-color: var(--color--primary-complement); border-inline-start-color: var(--color--primary-complement);",
+		"title": "Horizontal primary border - complement",
+		"description": "Sets the left and right borders to a complementary primary shade for a harmonious appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"complement"
+		]
+	},
+	"border--x-primary-complement--10": {
+		"css": "border-inline-end-color: var(--color--primary-complement--10); border-inline-start-color: var(--color--primary-complement--10);",
+		"title": "Horizontal primary border - complement, 10% opacity",
+		"description": "Sets the left and right borders to the primary complement color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"complement",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-complement--20": {
+		"css": "border-inline-end-color: var(--color--primary-complement--20); border-inline-start-color: var(--color--primary-complement--20);",
+		"title": "Horizontal primary border - complement, 20% opacity",
+		"description": "Sets the left and right borders to the primary complement color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"complement",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-complement--30": {
+		"css": "border-inline-end-color: var(--color--primary-complement--30); border-inline-start-color: var(--color--primary-complement--30);",
+		"title": "Horizontal primary border - complement, 30% opacity",
+		"description": "Sets the left and right borders to the primary complement color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"complement",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-complement--40": {
+		"css": "border-inline-end-color: var(--color--primary-complement--40); border-inline-start-color: var(--color--primary-complement--40);",
+		"title": "Horizontal primary border - complement, 40% opacity",
+		"description": "Sets the left and right borders to the primary complement color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"complement",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-complement--50": {
+		"css": "border-inline-end-color: var(--color--primary-complement--50); border-inline-start-color: var(--color--primary-complement--50);",
+		"title": "Horizontal primary border - complement, 50% opacity",
+		"description": "Sets the left and right borders to the primary complement color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"complement",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-complement--60": {
+		"css": "border-inline-end-color: var(--color--primary-complement--60); border-inline-start-color: var(--color--primary-complement--60);",
+		"title": "Horizontal primary border - complement, 60% opacity",
+		"description": "Sets the left and right borders to the primary complement color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"complement",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-complement--70": {
+		"css": "border-inline-end-color: var(--color--primary-complement--70); border-inline-start-color: var(--color--primary-complement--70);",
+		"title": "Horizontal primary border - complement, 70% opacity",
+		"description": "Sets the left and right borders to the primary complement color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"complement",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-complement--80": {
+		"css": "border-inline-end-color: var(--color--primary-complement--80); border-inline-start-color: var(--color--primary-complement--80);",
+		"title": "Horizontal primary border - complement, 80% opacity",
+		"description": "Sets the left and right borders to the primary complement color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"complement",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-complement--90": {
+		"css": "border-inline-end-color: var(--color--primary-complement--90); border-inline-start-color: var(--color--primary-complement--90);",
+		"title": "Horizontal primary border - complement, 90% opacity",
+		"description": "Sets the left and right borders to the primary complement color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"complement",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-inverted": {
+		"css": "border-inline-end-color: var(--color--primary-inverted); border-inline-start-color: var(--color--primary-inverted);",
+		"title": "Horizontal primary border - inverted",
+		"description": "Sets the left and right borders to an inverted primary shade for a contrasting appearance.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"inverted"
+		]
+	},
+	"border--x-primary-inverted--10": {
+		"css": "border-inline-end-color: var(--color--primary-inverted--10); border-inline-start-color: var(--color--primary-inverted--10);",
+		"title": "Horizontal primary border - inverted, 10% opacity",
+		"description": "Sets the left and right borders to the primary inverted color with 10% opacity for a subtle, translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"inverted",
+			"10%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-inverted--20": {
+		"css": "border-inline-end-color: var(--color--primary-inverted--20); border-inline-start-color: var(--color--primary-inverted--20);",
+		"title": "Horizontal primary border - inverted, 20% opacity",
+		"description": "Sets the left and right borders to the primary inverted color with 20% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"inverted",
+			"20%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-inverted--30": {
+		"css": "border-inline-end-color: var(--color--primary-inverted--30); border-inline-start-color: var(--color--primary-inverted--30);",
+		"title": "Horizontal primary border - inverted, 30% opacity",
+		"description": "Sets the left and right borders to the primary inverted color with 30% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"inverted",
+			"30%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-inverted--40": {
+		"css": "border-inline-end-color: var(--color--primary-inverted--40); border-inline-start-color: var(--color--primary-inverted--40);",
+		"title": "Horizontal primary border - inverted, 40% opacity",
+		"description": "Sets the left and right borders to the primary inverted color with 40% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"inverted",
+			"40%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-inverted--50": {
+		"css": "border-inline-end-color: var(--color--primary-inverted--50); border-inline-start-color: var(--color--primary-inverted--50);",
+		"title": "Horizontal primary border - inverted, 50% opacity",
+		"description": "Sets the left and right borders to the primary inverted color with 50% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"inverted",
+			"50%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-inverted--60": {
+		"css": "border-inline-end-color: var(--color--primary-inverted--60); border-inline-start-color: var(--color--primary-inverted--60);",
+		"title": "Horizontal primary border - inverted, 60% opacity",
+		"description": "Sets the left and right borders to the primary inverted color with 60% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"inverted",
+			"60%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-inverted--70": {
+		"css": "border-inline-end-color: var(--color--primary-inverted--70); border-inline-start-color: var(--color--primary-inverted--70);",
+		"title": "Horizontal primary border - inverted, 70% opacity",
+		"description": "Sets the left and right borders to the primary inverted color with 70% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"inverted",
+			"70%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-inverted--80": {
+		"css": "border-inline-end-color: var(--color--primary-inverted--80); border-inline-start-color: var(--color--primary-inverted--80);",
+		"title": "Horizontal primary border - inverted, 80% opacity",
+		"description": "Sets the left and right borders to the primary inverted color with 80% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"inverted",
+			"80%",
+			"translucent",
+			"opacity"
+		]
+	},
+	"border--x-primary-inverted--90": {
+		"css": "border-inline-end-color: var(--color--primary-inverted--90); border-inline-start-color: var(--color--primary-inverted--90);",
+		"title": "Horizontal primary border - inverted, 90% opacity",
+		"description": "Sets the left and right borders to the primary inverted color with 90% opacity for a translucent effect.",
+		"category": "colors",
+		"tags": [
+			"border",
+			"left",
+			"right",
+			"primary",
+			"inverted",
+			"90%",
+			"translucent",
+			"opacity"
+		]
+	}
+}

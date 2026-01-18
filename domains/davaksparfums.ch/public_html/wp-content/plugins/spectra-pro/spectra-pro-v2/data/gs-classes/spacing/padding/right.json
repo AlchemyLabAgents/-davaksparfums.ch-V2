@@ -1,0 +1,79 @@
+{
+	"padding--r-none": {
+		"css": "padding-right: 0;",
+		"title": "No right padding",
+		"description": "Removes all padding from the right.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"right",
+			"none"
+		]
+	},
+	"padding--r-xs": {
+		"css": "padding-right: var(--space--xs);",
+		"title": "Tiny right padding",
+		"description": "Adds a tiny amount of padding to the right.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"right",
+			"xs"
+		]
+	},
+	"padding--r-sm": {
+		"css": "padding-right: var(--space--sm);",
+		"title": "Small right padding",
+		"description": "Adds a small amount of padding to the right.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"right",
+			"sm"
+		]
+	},
+	"padding--r-md": {
+		"css": "padding-right: var(--space--md);",
+		"title": "Medium right padding",
+		"description": "Adds a medium amount of padding to the right.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"right",
+			"md"
+		]
+	},
+	"padding--r-lg": {
+		"css": "padding-right: var(--space--lg);",
+		"title": "Large right padding",
+		"description": "Adds a large amount of padding to the right.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"right",
+			"lg"
+		]
+	},
+	"padding--r-xl": {
+		"css": "padding-right: var(--space--xl);",
+		"title": "Extra-large right padding",
+		"description": "Adds an extra-large amount of padding to the right.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"right",
+			"xl"
+		]
+	},
+	"padding--r-xxl": {
+		"css": "padding-right: var(--space--xxl);",
+		"title": "Double-extra-large right padding",
+		"description": "Adds a double-extra-large amount of padding to the right.",
+		"category": "spacing",
+		"tags": [
+			"padding",
+			"right",
+			"xxl"
+		]
+	}
+}

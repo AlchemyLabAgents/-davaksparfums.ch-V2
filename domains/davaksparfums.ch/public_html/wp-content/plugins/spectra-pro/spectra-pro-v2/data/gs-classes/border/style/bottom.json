@@ -1,0 +1,101 @@
+{
+	"border--b-none": {
+		"css": "border-block-end-style: none;",
+		"title": "No bottom border",
+		"description": "Removes the bottom border.",
+		"category": "border",
+		"tags": [
+			"border",
+			"bottom",
+			"none"
+		]
+	},
+	"border--b-solid": {
+		"css": "border-block-end-style: solid;",
+		"title": "Solid bottom border",
+		"description": "Gives the bottom border a solid line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"bottom",
+			"solid"
+		]
+	},
+	"border--b-dashed": {
+		"css": "border-block-end-style: dashed;",
+		"title": "Dashed bottom border",
+		"description": "Gives the bottom border a dashed line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"bottom",
+			"dashed"
+		]
+	},
+	"border--b-dotted": {
+		"css": "border-block-end-style: dotted;",
+		"title": "Dotted bottom border",
+		"description": "Gives the bottom border a dotted line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"bottom",
+			"dotted"
+		]
+	},
+	"border--b-double": {
+		"css": "border-block-end-style: double;",
+		"title": "Double bottom border",
+		"description": "Gives the bottom border a double line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"bottom",
+			"double"
+		]
+	},
+	"border--b-groove": {
+		"css": "border-block-end-style: groove;",
+		"title": "Groove bottom border",
+		"description": "Gives the bottom border a groove.",
+		"category": "border",
+		"tags": [
+			"border",
+			"bottom",
+			"groove"
+		]
+	},
+	"border--b-ridge": {
+		"css": "border-block-end-style: ridge;",
+		"title": "Ridge bottom border",
+		"description": "Gives the bottom border a ridge.",
+		"category": "border",
+		"tags": [
+			"border",
+			"bottom",
+			"ridge"
+		]
+	},
+	"border--b-inset": {
+		"css": "border-block-end-style: inset;",
+		"title": "Inset bottom border",
+		"description": "Gives the bottom border an inset.",
+		"category": "border",
+		"tags": [
+			"border",
+			"bottom",
+			"inset"
+		]
+	},
+	"border--b-outset": {
+		"css": "border-block-end-style: outset;",
+		"title": "Outset bottom border",
+		"description": "Gives the bottom border an outset.",
+		"category": "border",
+		"tags": [
+			"border",
+			"bottom",
+			"outset"
+		]
+	}
+}

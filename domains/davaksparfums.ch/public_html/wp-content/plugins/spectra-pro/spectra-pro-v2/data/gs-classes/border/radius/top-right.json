@@ -1,0 +1,90 @@
+{
+	"corner--tr-none": {
+		"css": "border-top-right-radius: 0;",
+		"title": "No top-right radius",
+		"description": "Makes top-right corners sharp.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-right",
+			"none"
+		]
+	},
+	"corner--tr-xs": {
+		"css": "border-top-right-radius: 0.125rem;",
+		"title": "Tiny top-right radius",
+		"description": "Adds a tiny curve to top-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-right",
+			"xs"
+		]
+	},
+	"corner--tr-sm": {
+		"css": "border-top-right-radius: 0.25rem;",
+		"title": "Small top-right radius",
+		"description": "Adds a small curve to top-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-right",
+			"sm"
+		]
+	},
+	"corner--tr-md": {
+		"css": "border-top-right-radius: 0.375rem;",
+		"title": "Medium top-right radius",
+		"description": "Adds a medium curve to top-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-right",
+			"md"
+		]
+	},
+	"corner--tr-lg": {
+		"css": "border-top-right-radius: 1rem;",
+		"title": "Large top-right radius",
+		"description": "Adds a large curve to top-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-right",
+			"lg"
+		]
+	},
+	"corner--tr-xl": {
+		"css": "border-top-right-radius: 1.5rem;",
+		"title": "Extra-Large top-right radius",
+		"description": "Adds an extra-large curve to top-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-right",
+			"xl"
+		]
+	},
+	"corner--tr-xxl": {
+		"css": "border-top-right-radius: 2rem;",
+		"title": "Huge top-right radius",
+		"description": "Adds a huge curve to top-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-right",
+			"xxl"
+		]
+	},
+	"corner--tr-round": {
+		"css": "border-top-right-radius: 9999999px;",
+		"title": "Round top-right radius",
+		"description": "Adds a round curve to top-right corners.",
+		"category": "border",
+		"tags": [
+			"radius",
+			"top-right",
+			"round"
+		]
+	}
+}

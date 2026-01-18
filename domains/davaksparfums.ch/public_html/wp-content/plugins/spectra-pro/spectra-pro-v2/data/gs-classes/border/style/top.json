@@ -1,0 +1,101 @@
+{
+	"border--t-none": {
+		"css": "border-block-start-style: none;",
+		"title": "No top border",
+		"description": "Removes the top border.",
+		"category": "border",
+		"tags": [
+			"border",
+			"top",
+			"none"
+		]
+	},
+	"border--t-solid": {
+		"css": "border-block-start-style: solid;",
+		"title": "Solid top border",
+		"description": "Gives the top border a solid line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"top",
+			"solid"
+		]
+	},
+	"border--t-dashed": {
+		"css": "border-block-start-style: dashed;",
+		"title": "Dashed top border",
+		"description": "Gives the top border a dashed line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"top",
+			"dashed"
+		]
+	},
+	"border--t-dotted": {
+		"css": "border-block-start-style: dotted;",
+		"title": "Dotted top border",
+		"description": "Gives the top border a dotted line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"top",
+			"dotted"
+		]
+	},
+	"border--t-double": {
+		"css": "border-block-start-style: double;",
+		"title": "Double top border",
+		"description": "Gives the top border a double line.",
+		"category": "border",
+		"tags": [
+			"border",
+			"top",
+			"double"
+		]
+	},
+	"border--t-groove": {
+		"css": "border-block-start-style: groove;",
+		"title": "Groove top border",
+		"description": "Gives the top border a groove.",
+		"category": "border",
+		"tags": [
+			"border",
+			"top",
+			"groove"
+		]
+	},
+	"border--t-ridge": {
+		"css": "border-block-start-style: ridge;",
+		"title": "Ridge top border",
+		"description": "Gives the top border a ridge.",
+		"category": "border",
+		"tags": [
+			"border",
+			"top",
+			"ridge"
+		]
+	},
+	"border--t-inset": {
+		"css": "border-block-start-style: inset;",
+		"title": "Inset top border",
+		"description": "Gives the top border an inset.",
+		"category": "border",
+		"tags": [
+			"border",
+			"top",
+			"inset"
+		]
+	},
+	"border--t-outset": {
+		"css": "border-block-start-style: outset;",
+		"title": "Outset top border",
+		"description": "Gives the top border an outset.",
+		"category": "border",
+		"tags": [
+			"border",
+			"top",
+			"outset"
+		]
+	}
+}

@@ -1,0 +1,267 @@
+{
+	"col-start--1": {
+		"css": "grid-column-start: 1;",
+		"title": "Column start 1",
+		"description": "Starts the grid item at column line 1.",
+		"category": "display",
+		"tags": [
+			"column",
+			"start",
+			"grid"
+		]
+	},
+	"col-start--2": {
+		"css": "grid-column-start: 2;",
+		"title": "Column start 2",
+		"description": "Starts the grid item at column line 2.",
+		"category": "display",
+		"tags": [
+			"column",
+			"start",
+			"grid"
+		]
+	},
+	"col-start--3": {
+		"css": "grid-column-start: 3;",
+		"title": "Column start 3",
+		"description": "Starts the grid item at column line 3.",
+		"category": "display",
+		"tags": [
+			"column",
+			"start",
+			"grid"
+		]
+	},
+	"col-start--4": {
+		"css": "grid-column-start: 4;",
+		"title": "Column start 4",
+		"description": "Starts the grid item at column line 4.",
+		"category": "display",
+		"tags": [
+			"column",
+			"start",
+			"grid"
+		]
+	},
+	"col-start--5": {
+		"css": "grid-column-start: 5;",
+		"title": "Column start 5",
+		"description": "Starts the grid item at column line 5.",
+		"category": "display",
+		"tags": [
+			"column",
+			"start",
+			"grid"
+		]
+	},
+	"col-start--6": {
+		"css": "grid-column-start: 6;",
+		"title": "Column start 6",
+		"description": "Starts the grid item at column line 6.",
+		"category": "display",
+		"tags": [
+			"column",
+			"start",
+			"grid"
+		]
+	},
+	"col-start--7": {
+		"css": "grid-column-start: 7;",
+		"title": "Column start 7",
+		"description": "Starts the grid item at column line 7.",
+		"category": "display",
+		"tags": [
+			"column",
+			"start",
+			"grid"
+		]
+	},
+	"col-start--8": {
+		"css": "grid-column-start: 8;",
+		"title": "Column start 8",
+		"description": "Starts the grid item at column line 8.",
+		"category": "display",
+		"tags": [
+			"column",
+			"start",
+			"grid"
+		]
+	},
+	"col-end--1": {
+		"css": "grid-column-end: 1;",
+		"title": "Column end 1",
+		"description": "Ends the grid item at column line 1.",
+		"category": "display",
+		"tags": [
+			"column",
+			"end",
+			"grid"
+		]
+	},
+	"col-end--2": {
+		"css": "grid-column-end: 2;",
+		"title": "Column end 2",
+		"description": "Ends the grid item at column line 2.",
+		"category": "display",
+		"tags": [
+			"column",
+			"end",
+			"grid"
+		]
+	},
+	"col-end--3": {
+		"css": "grid-column-end: 3;",
+		"title": "Column end 3",
+		"description": "Ends the grid item at column line 3.",
+		"category": "display",
+		"tags": [
+			"column",
+			"end",
+			"grid"
+		]
+	},
+	"col-end--4": {
+		"css": "grid-column-end: 4;",
+		"title": "Column end 4",
+		"description": "Ends the grid item at column line 4.",
+		"category": "display",
+		"tags": [
+			"column",
+			"end",
+			"grid"
+		]
+	},
+	"col-end--5": {
+		"css": "grid-column-end: 5;",
+		"title": "Column end 5",
+		"description": "Ends the grid item at column line 5.",
+		"category": "display",
+		"tags": [
+			"column",
+			"end",
+			"grid"
+		]
+	},
+	"col-end--6": {
+		"css": "grid-column-end: 6;",
+		"title": "Column end 6",
+		"description": "Ends the grid item at column line 6.",
+		"category": "display",
+		"tags": [
+			"column",
+			"end",
+			"grid"
+		]
+	},
+	"col-end--7": {
+		"css": "grid-column-end: 7;",
+		"title": "Column end 7",
+		"description": "Ends the grid item at column line 7.",
+		"category": "display",
+		"tags": [
+			"column",
+			"end",
+			"grid"
+		]
+	},
+	"col-end--8": {
+		"css": "grid-column-end: 8;",
+		"title": "Column end 8",
+		"description": "Ends the grid item at column line 8.",
+		"category": "display",
+		"tags": [
+			"column",
+			"end",
+			"grid"
+		]
+	},
+	"col-end--last": {
+		"css": "grid-column-end: -1;",
+		"title": "Column end last",
+		"description": "Ends the grid item at the last column line.",
+		"category": "display",
+		"tags": [
+			"column",
+			"end",
+			"last",
+			"grid"
+		]
+	},
+	"col-span--2": {
+		"css": "grid-column: span 2 / span 2;",
+		"title": "Column span 2",
+		"description": "Makes the grid item span 2 columns.",
+		"category": "display",
+		"tags": [
+			"column",
+			"span",
+			"grid"
+		]
+	},
+	"col-span--3": {
+		"css": "grid-column: span 3 / span 3;",
+		"title": "Column span 3",
+		"description": "Makes the grid item span 3 columns.",
+		"category": "display",
+		"tags": [
+			"column",
+			"span",
+			"grid"
+		]
+	},
+	"col-span--4": {
+		"css": "grid-column: span 4 / span 4;",
+		"title": "Column span 4",
+		"description": "Makes the grid item span 4 columns.",
+		"category": "display",
+		"tags": [
+			"column",
+			"span",
+			"grid"
+		]
+	},
+	"col-span--5": {
+		"css": "grid-column: span 5 / span 5;",
+		"title": "Column span 5",
+		"description": "Makes the grid item span 5 columns.",
+		"category": "display",
+		"tags": [
+			"column",
+			"span",
+			"grid"
+		]
+	},
+	"col-span--6": {
+		"css": "grid-column: span 6 / span 6;",
+		"title": "Column span 6",
+		"description": "Makes the grid item span 6 columns.",
+		"category": "display",
+		"tags": [
+			"column",
+			"span",
+			"grid"
+		]
+	},
+	"col-span--7": {
+		"css": "grid-column: span 7 / span 7;",
+		"title": "Column span 7",
+		"description": "Makes the grid item span 7 columns.",
+		"category": "display",
+		"tags": [
+			"column",
+			"span",
+			"grid"
+		]
+	},
+	"col-span--8": {
+		"css": "grid-column: span 8 / span 8;",
+		"title": "Column span 8",
+		"description": "Makes the grid item span 8 columns.",
+		"category": "display",
+		"tags": [
+			"column",
+			"span",
+			"grid"
+		]
+	}
+}

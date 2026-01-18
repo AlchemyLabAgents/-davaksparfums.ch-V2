@@ -1,0 +1,113 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "spectra-pro/loop-builder-child-sort",
+  "title": "Sort",
+  "category": "spectra-pro-v2",
+  "ancestor": [
+    "spectra-pro/loop-builder"
+  ],
+  "description": "Loop Builder - Sorting filter allows user to sort posts in the loop.",
+  "textdomain": "spectra-pro",
+  "attributes": {
+    "isPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "placeholder": {
+      "type": "string"
+    },
+    "textColorHover": {
+      "type": "string"
+    },
+    "backgroundColorHover": {
+      "type": "string"
+    },
+    "backgroundGradientHover": {
+      "type": "string"
+    },
+    "sortList": {
+      "type": "array",
+      "default": [
+        "post_title|asc",
+        "post_title|desc",
+        "post_date|desc",
+        "post_date|asc",
+        "post_id|desc",
+        "post_id|asc",
+        "post_modified|desc",
+        "post_modified|asc",
+        "post_author|asc",
+        "post_author|desc"
+      ]
+    }
+  },
+  "usesContext": [
+    "spectra-pro/loop-builder/queryId",
+    "spectra-pro/loop-builder/query"
+  ],
+  "example": {
+    "attributes": {
+      "isPreview": true
+    }
+  },
+  "supports": {
+    "align": true,
+    "html": false,
+    "shadow": {
+      "__experimentalSkipSerialization": true
+    },
+    "typography": {
+      "fontSize": true,
+      "lineHeight": true,
+      "__experimentalFontFamily": true,
+      "__experimentalFontStyle": true,
+      "__experimentalFontWeight": true,
+      "__experimentalTextDecoration": true,
+      "__experimentalLetterSpacing": true,
+      "__experimentalTextTransform": true,
+      "__experimentalWritingMode": true,
+      "__experimentalDefaultControls": {
+        "fontSize": true,
+        "fontFamily": true
+      }
+    },
+    "__experimentalBorder": {
+      "__experimentalSkipSerialization": true,
+      "width": true,
+      "color": true,
+      "radius": true,
+      "style": true,
+      "shadow": true,
+      "__experimentalDefaultControls": {
+        "width": true,
+        "color": true,
+        "radius": true,
+        "style": true,
+        "shadow": true
+      }
+    },
+    "spacing": {
+      "__experimentalSkipSerialization": true,
+      "margin": true,
+      "padding": true
+    },
+    "color": {
+      "gradients": true,
+      "link": false,
+      "__experimentalDefaultControls": {
+        "background": true,
+        "text": true
+      }
+    }
+  },
+  "selectors": {
+    "shadow": ".wp-block-spectra-pro-loop-builder-child-sort select",
+    "border": ".wp-block-spectra-pro-loop-builder-child-sort select",
+    "spacing": ".wp-block-spectra-pro-loop-builder-child-sort select",
+    "typography": ".wp-block-spectra-pro-loop-builder-child-sort select"
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
