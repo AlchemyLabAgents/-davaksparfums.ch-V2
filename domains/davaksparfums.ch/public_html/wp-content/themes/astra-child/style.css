@@ -12,8 +12,12 @@ Text Domain: astra-child
 /* Add your custom CSS below this line */
 
 :root {
-	--davaks-section-gap: 48px; /* same as footer spacing */
-	--davaks-section-gap-mobile: 28px; /* same as footer spacing */
+	--davaks-section-gap: 48px; /* base gap */
+	--davaks-section-gap-tight: 40px; /* tighter for hero -> section */
+	--davaks-section-gap-relaxed: 56px; /* relaxed for feature/FAQ */
+	--davaks-section-gap-mobile: 28px; /* base mobile gap */
+	--davaks-section-gap-tight-mobile: 24px;
+	--davaks-section-gap-relaxed-mobile: 32px;
 }
 
 /* Home hero: add more separation between title and subtitle */
@@ -131,29 +135,14 @@ Text Domain: astra-child
 	margin-top: var(--davaks-section-gap) !important;
 }
 
-/* Exact gap between hero and section 1 */
+/* Hierarchy: subtle variation by section importance */
 .uagb-block-7365b3e9 + .uagb-block-c74b22d1 {
-	margin-top: 48px !important;
+	margin-top: var(--davaks-section-gap-tight) !important;
 }
 
-/* Exact gap between section 2 and section 3 */
-.uagb-block-3644c970 + .uagb-block-5b7c0e98 {
-	margin-top: 48px !important;
-}
-
-/* Exact gap between section 3 and section 4 */
-.uagb-block-5b7c0e98 + .uagb-block-seccion4-nueva {
-	margin-top: 48px !important;
-}
-
-/* Exact gap between section 4 and section 5 */
-.uagb-block-seccion4-nueva + .uagb-block-05c6ef51 {
-	margin-top: 48px !important;
-}
-
-/* Exact gap between section 5 and section 6 */
+.uagb-block-5b7c0e98 + .uagb-block-db576a5a,
 .uagb-block-05c6ef51 + .uagb-block-faq-section-01 {
-	margin-top: 48px !important;
+	margin-top: var(--davaks-section-gap-relaxed) !important;
 }
 
 @media (max-width: 544px) {
@@ -162,23 +151,43 @@ Text Domain: astra-child
 	}
 
 	.uagb-block-7365b3e9 + .uagb-block-c74b22d1 {
-		margin-top: 28px !important;
+		margin-top: var(--davaks-section-gap-tight-mobile) !important;
 	}
 
-	.uagb-block-3644c970 + .uagb-block-5b7c0e98 {
-		margin-top: 28px !important;
-	}
-
-	.uagb-block-5b7c0e98 + .uagb-block-seccion4-nueva {
-		margin-top: 28px !important;
-	}
-
-	.uagb-block-seccion4-nueva + .uagb-block-05c6ef51 {
-		margin-top: 28px !important;
-	}
-
+	.uagb-block-5b7c0e98 + .uagb-block-db576a5a,
 	.uagb-block-05c6ef51 + .uagb-block-faq-section-01 {
-		margin-top: 28px !important;
+		margin-top: var(--davaks-section-gap-relaxed-mobile) !important;
+	}
+}
+
+/* Normalize section top spacing to avoid stacked gaps */
+.uagb-block-05c6ef51 {
+	margin-top: 0 !important;
+}
+
+.uagb-block-5b7c0e98 {
+	padding-top: 72px !important;
+}
+
+.uagb-block-525fc63b {
+	padding-top: 80px !important;
+	padding-bottom: 140px !important;
+}
+
+@media (max-width: 921px) {
+	.uagb-block-5b7c0e98 {
+		padding-top: 60px !important;
+	}
+}
+
+@media (max-width: 544px) {
+	.uagb-block-5b7c0e98 {
+		padding-top: 40px !important;
+	}
+
+	.uagb-block-525fc63b {
+		padding-top: 60px !important;
+		padding-bottom: 100px !important;
 	}
 }
 
