@@ -4,6 +4,9 @@
 # Allow gitignore itself
 !.gitignore
 
+# Allow top-level README
+!/README.md
+
 # Allow only the required paths
 !/domains/
 !/domains/davaksparfums.ch/
