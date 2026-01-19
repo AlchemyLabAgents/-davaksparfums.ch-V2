@@ -191,6 +191,37 @@ add_action( 'after_setup_theme', function () {
 }, 20 );
 
 /**
+ * Replace Astra footer with custom footer.
+ */
+add_action( 'after_setup_theme', function () {
+	remove_action( 'astra_footer', 'astra_footer_markup' );
+	if ( class_exists( 'Astra_Builder_Footer' ) ) {
+		remove_action( 'astra_footer', [ Astra_Builder_Footer::get_instance(), 'footer_markup' ], 10 );
+	}
+}, 30 );
+
+add_action( 'astra_footer', function () {
+	if ( is_admin() ) {
+		return;
+	}
+	$footer_path = get_stylesheet_directory() . '/template-parts/footer-custom.php';
+	if ( file_exists( $footer_path ) ) {
+		include $footer_path;
+	}
+}, 5 );
+
+/**
+ * Remove legacy inline custom footer from page content.
+ */
+add_filter( 'the_content', function ( $content ) {
+	if ( ! is_string( $content ) ) {
+		return $content;
+	}
+
+	return preg_replace( '#<footer[^>]*class=["\"]davaks-footer["\"][\s\S]*?</footer>#i', '', $content );
+}, 20 );
+
+/**
  * Redirect legacy English slugs to German slugs.
  */
 add_action( 'template_redirect', function () {
@@ -207,6 +238,12 @@ add_action( 'template_redirect', function () {
 		'/product-category/men/'       => '/product-category/herren/',
 		'/product-category/exclusive/' => '/product-category/exklusiv/',
 		'/shop/'                       => '/laden/',
+		'/cart/'                       => '/warenkorb/',
+		'/checkout/'                   => '/kasse/',
+		'/my-account/'                 => '/mein-konto/',
+		'/privacy-policy/'             => '/datenschutz/',
+		'/refund_returns/'             => '/rueckerstattung-rueckgabe/',
+		'/refund-returns-policy/'      => '/rueckerstattung-rueckgabe/',
 	];
 
 	if ( isset( $map[ $path ] ) ) {
@@ -257,3 +294,33 @@ add_action( 'after_setup_theme', function () {
 add_action( 'astra_footer_copyright', function () {
 	echo '<span class="davaks-footer-copyright">' . esc_html( '© 2026 Davaks Parfums · Luxus‑parfums in der Schweiz' ) . '</span>';
 }, 40 );
+
+/**
+ * Force custom templates for specific product categories.
+ */
+
+
+
+
+
+/**
+ * FORCE TEMPLATES via template_redirect
+ * Corrects issue where Astra/WooCommerce ignores child theme taxonomy templates.
+ */
+add_action( 'template_redirect', function() {
+    if ( is_product_category() ) {
+        $term = get_queried_object();
+        if ( $term && in_array( $term->slug, [ 'herren', 'damen', 'unisex', 'exklusiv' ] ) ) {
+            $template_path = get_stylesheet_directory() . '/taxonomy-product_cat-' . $term->slug . '.php';
+            if ( file_exists( $template_path ) ) {
+                include $template_path;
+                exit;
+            }
+        }
+    }
+} );
+
+
+
+
+
