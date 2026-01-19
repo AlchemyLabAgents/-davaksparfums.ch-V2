@@ -96,38 +96,64 @@ body.home .faq-item[open] summary:after {
 	--section4-image-right: 120px;
 }
 
-.uagb-block-ac4cfb25 .uagb-heading-text {
+body.home .uagb-block-ac4cfb25 {
 	text-align: center;
-	display: inline-block;
-	margin-left: var(--section4-image-right);
-}
-
-.uagb-block-05c6ef51 .woocommerce ul.products {
-	display: flex !important;
-	flex-wrap: wrap;
-	gap: 24px;
-	justify-content: center;
-	align-items: flex-start;
-	margin: 24px auto 0;
 	width: 100%;
 }
 
-.uagb-block-05c6ef51 .woocommerce ul.products li.product-category {
+body.home .uagb-block-ac4cfb25 .uagb-heading-text {
+	text-align: center;
+	display: inline-block;
+	margin-left: 0;
+}
+
+body.home .uagb-block-05c6ef51 .uagb-container-inner-blocks-wrap,
+body.home .uagb-block-f579712d {
+	display: flex !important;
+	flex-direction: column !important;
+	align-items: center !important;
+	width: 100% !important;
+}
+
+body.home .uagb-block-05c6ef51 .woocommerce ul.products {
+	display: grid !important;
+	grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+	gap: 32px;
+	justify-items: center;
+	align-items: start;
+	margin: 32px auto 0;
+	width: 100% !important;
+	max-width: 1600px;
+	padding-left: 48px;
+	padding-right: 48px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body.home .uagb-block-05c6ef51 .woocommerce ul.products li.product-category {
 	float: none !important;
 	margin: 0 !important;
-	flex: 0 1 calc(33.333% - 24px);
-	width: calc(33.333% - 24px) !important;
-	max-width: 320px;
+	width: 100% !important;
+	max-width: 520px;
+	min-width: 320px;
+	text-align: center;
+	background: #0b0b0b;
+	color: #e5e5e5;
+	padding: 18px 18px 22px;
+	border-radius: 6px;
+	min-height: 520px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
 }
 
 .uagb-block-05c6ef51 .woocommerce ul.products.columns-4 li.product-category {
-	flex-basis: calc(25% - 24px);
-	width: calc(25% - 24px) !important;
+	flex-basis: calc(33.333% - 32px);
+	width: calc(33.333% - 32px) !important;
 }
 
-.uagb-block-05c6ef51 .woocommerce ul.products.columns-3 li.product-category {
-	flex-basis: calc(33.333% - 24px);
-	width: calc(33.333% - 24px) !important;
+body.home .uagb-block-05c6ef51 .woocommerce ul.products.columns-3 li.product-category {
+	width: 100% !important;
 }
 
 .uagb-block-05c6ef51 .woocommerce ul.products.columns-2 li.product-category {
@@ -144,7 +170,41 @@ body.home .faq-item[open] summary:after {
 	width: 100% !important;
 	height: auto !important;
 	aspect-ratio: 3 / 4;
+	min-height: 360px;
 	object-fit: cover;
+	object-position: center;
+	display: block;
+	margin: 0 auto;
+}
+
+.uagb-block-05c6ef51 .woocommerce ul.products li.product-category a {
+	color: #c2a46d;
+}
+
+.uagb-block-05c6ef51 .woocommerce ul.products li.product-category .woocommerce-loop-category__title {
+	font-size: 20px !important;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	color: #c2a46d !important;
+	margin-top: 14px;
+	margin-bottom: 6px;
+	background: #111;
+	padding: 12px 16px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	min-height: 44px;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.uagb-block-05c6ef51 .woocommerce ul.products li.product-category .count {
+	color: #e5e5e5;
+	font-size: 12px;
+	letter-spacing: 1px;
+	background: transparent;
+	margin-left: 6px;
 }
 
 @media (max-width: 921px) {
@@ -198,6 +258,124 @@ body.home .faq-item[open] summary:after {
 		margin-top: var(--davaks-section-gap-mobile) !important;
 	}
 
+
+/* Home page: mobile layout fixes */
+@media (max-width: 768px) {
+	body.home .entry-content {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+
+	body.home .entry-content h1 {
+		font-size: 2.2rem !important;
+		line-height: 1.05;
+	}
+
+	body.home .entry-content h2 {
+		font-size: 1.8rem !important;
+		line-height: 1.1;
+	}
+
+	body.home .entry-content h3 {
+		font-size: 1.5rem !important;
+	}
+
+	body.home .wp-block-columns {
+		flex-direction: column !important;
+		gap: 20px !important;
+	}
+
+	body.home .wp-block-column {
+		width: 100% !important;
+	}
+
+	body.home img,
+	body.home .wp-block-image img,
+	body.home .uagb-image img,
+	body.home .uagb-post__image img {
+		max-width: 100% !important;
+		height: auto !important;
+		object-fit: cover;
+	}
+
+	body.home .uagb-block-ac4cfb25 .uagb-heading-text {
+		margin-left: 0 !important;
+		text-align: center;
+		display: block;
+	}
+}
+
+@media (max-width: 544px) {
+	body.home .entry-content h1 {
+		font-size: 2rem !important;
+	}
+
+	body.home .entry-content h2 {
+		font-size: 1.6rem !important;
+	}
+
+	body.home .entry-content h3 {
+		font-size: 1.3rem !important;
+	}
+}
+
+/* Category templates: mobile layout fixes (Damen/Herren/Unisex) */
+@media (max-width: 768px) {
+	body.tax-product_cat .davaks-category-hero {
+		height: 60vh !important;
+		min-height: 360px !important;
+	}
+
+	body.tax-product_cat .davaks-hero-content {
+		padding: 16px !important;
+	}
+
+	body.tax-product_cat .davaks-hero-content h1 {
+		font-size: 2.2rem !important;
+		line-height: 1.05;
+	}
+
+	body.tax-product_cat .davaks-hero-content p {
+		font-size: 1rem !important;
+	}
+
+	body.tax-product_cat .davaks-container {
+		padding: 0 16px !important;
+	}
+
+	body.tax-product_cat .davaks-filters {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 12px;
+	}
+
+	body.tax-product_cat .davaks-filters .filter-group {
+		flex-wrap: wrap;
+	}
+
+	body.tax-product_cat .davaks-filters .sort-group,
+	body.tax-product_cat .davaks-filters .orderby {
+		width: 100%;
+	}
+
+	body.tax-product_cat .davaks-product-grid ul.products,
+	body.tax-product_cat .davaks-product-grid-2 ul.products {
+		grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+		gap: 16px !important;
+	}
+}
+
+@media (max-width: 544px) {
+	body.tax-product_cat .davaks-category-hero {
+		height: 55vh !important;
+		min-height: 320px !important;
+	}
+
+	body.tax-product_cat .davaks-product-grid ul.products,
+	body.tax-product_cat .davaks-product-grid-2 ul.products {
+		grid-template-columns: 1fr !important;
+	}
+}
 
 }
 
