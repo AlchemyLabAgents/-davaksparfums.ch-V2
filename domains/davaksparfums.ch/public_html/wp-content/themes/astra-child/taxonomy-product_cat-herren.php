@@ -57,18 +57,18 @@ if ( ! $image_url ) {
 
 			<!-- 3️⃣ FILTRO / ORDENACIÓN -->
 			<section class="davaks-filters" style="margin-bottom: 60px; border-bottom: 1px solid #222; padding-bottom: 20px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
-				<div class="filter-group" style="display: flex; gap: 12px; align-items: center;">
-					<span style="color: #666; font-size: 0.9rem; margin-right: 8px;">Filtern:</span>
-					<div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Intensität</div>
-					<div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Anlass</div>
-					<div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Duftfamilie</div>
-				</div>
+                <div class="filter-group" style="display: flex; gap: 12px; align-items: center;">
+                    <span style="color: #666; font-size: 0.9rem; margin-right: 8px;">Filtern:</span>
+                    <div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Intensität</div>
+                    <div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Anlass</div>
+                    <div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Duftcharakter</div>
+                </div>
 				<div class="sort-group">
                     <form class="woocommerce-ordering" method="get">
                         <select name="orderby" class="orderby" aria-label="Shop-Bestellung" style="background: transparent; color: #ccc; border: none; font-size: 0.95rem; cursor: pointer;">
-                            <option value="menu_order" selected="selected">Sortierung: Empfohlen</option>
-                            <option value="popularity">Beliebtheit</option>
-                            <option value="date">Neueste</option>
+                            <option value="menu_order" selected="selected">Sortierung: Empfehlung</option>
+                            <option value="popularity">Auswahlfavoriten</option>
+                            <option value="date">Neu in der Auswahl</option>
                             <option value="price">Preis: aufsteigend</option>
                             <option value="price-desc">Preis: absteigend</option>
                         </select>
@@ -200,29 +200,26 @@ if ( ! $image_url ) {
 			</section>
 
 			<!-- 8️⃣ FAQ DE CATEGORÍA -->
-			<section class="davaks-cat-faq" style="max-width: 800px; margin: 0 auto 100px auto;">
-				<h3 style="text-align: center; color: #fff; margin-bottom: 50px; font-weight: 400;">Häufige Fragen zu Herrenparfums</h3>
-				<div class="faq-grid" style="display: grid; gap: 16px;">
-					<details style="background: #141414; padding: 24px; border-radius: 6px; cursor: pointer;">
-						<summary style="color: #e5e5e5; font-weight: 500; font-size: 1.05rem; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-                            Für welchen Typ Mann sind diese Düfte?
-                            <span style="color: #666;">+</span>
-                        </summary>
-                        <p style="margin-top: 16px; color: #aaa; line-height: 1.6;">Für Männer, die Zurückhaltung mit Präsenz verbinden und Wert auf klaren Stil legen.</p>
-					</details>
-					<details style="background: #141414; padding: 24px; border-radius: 6px; cursor: pointer;">
-						<summary style="color: #e5e5e5; font-weight: 500; font-size: 1.05rem; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-                            Sind die Düfte für den Alltag oder besondere Anlässe gedacht?
-                            <span style="color: #666;">+</span>
-                        </summary>
-						<p style="margin-top: 16px; color: #aaa; line-height: 1.6;">Beides. Die Kollektion umfasst zurückhaltende wie auch präsente Kompositionen.</p>
-					</details>
-					<details style="background: #141414; padding: 24px; border-radius: 6px; cursor: pointer;">
-						<summary style="color: #e5e5e5; font-weight: 500; font-size: 1.05rem; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-                            Wie intensiv sind die Herrenparfums?
-                            <span style="color: #666;">+</span>
-                        </summary>
-                        <p style="margin-top: 16px; color: #aaa; line-height: 1.6;">Die Auswahl reicht von dezent bis ausdrucksstark – mit Fokus auf Balance und Haltbarkeit.</p>
+            <section class="faq-section davaks-cat-faq" style="margin: 0 auto 100px auto;">
+                <h3>Häufige Fragen zu Herrenparfums</h3>
+                <div class="faq-accordion" itemscope itemtype="https://schema.org/FAQPage">
+                    <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <summary itemprop="name">Für welchen Typ Mann sind diese Düfte?</summary>
+                        <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <p itemprop="text">Für Männer, die Zurückhaltung mit Präsenz verbinden und Wert auf klaren Stil legen.</p>
+                        </div>
+                    </details>
+                    <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <summary itemprop="name">Sind die Düfte für den Alltag oder besondere Anlässe gedacht?</summary>
+                        <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <p itemprop="text">Beides. Die Kollektion umfasst zurückhaltende wie auch präsente Kompositionen.</p>
+                        </div>
+                    </details>
+                    <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <summary itemprop="name">Wie intensiv sind die Herrenparfums?</summary>
+                        <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <p itemprop="text">Die Auswahl reicht von dezent bis ausdrucksstark – mit Fokus auf Balance und Haltbarkeit.</p>
+                        </div>
                     </details>
                 </div>
             </section>

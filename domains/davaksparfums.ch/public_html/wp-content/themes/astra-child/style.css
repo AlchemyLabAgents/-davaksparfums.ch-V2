@@ -16,6 +16,288 @@ Text Domain: astra-child
 	--davaks-section-gap-mobile: 24px;
 }
 
+/* Davaks subtle motion system */
+.davaks-fade {
+	opacity: 0;
+	transform: translateY(16px);
+	transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.davaks-fade.davaks-in-view {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.davaks-hero-content {
+	opacity: 0;
+	transform: translateY(10px);
+	transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.davaks-hero-content.davaks-hero-animate {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.davaks-img-fade {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+.davaks-img-fade.is-loaded {
+	opacity: 1;
+}
+
+/* Product hover (subtle) */
+.davaks-product-grid ul.products li.product a img,
+.davaks-product-grid-2 ul.products li.product a img {
+	transition: transform 0.35s ease, opacity 0.35s ease;
+}
+
+.davaks-product-grid ul.products li.product:hover a img,
+.davaks-product-grid-2 ul.products li.product:hover a img {
+	transform: scale(1.02);
+}
+
+/* Filter active state */
+.filter-pill.is-active {
+	border-color: #c2a46d;
+	color: #c2a46d;
+}
+
+/* Microcopy under products */
+.davaks-microcopy {
+	margin-top: 8px;
+	font-size: 0.85rem;
+	color: #777;
+	font-style: italic;
+	letter-spacing: 0.2px;
+}
+
+/* FAQ effect (shared with homepage) */
+.faq-section {
+	max-width: 960px;
+	margin: 0 auto;
+	color: #f5f5f5;
+}
+
+.faq-section h2,
+.faq-section h3 {
+	margin: 0 0 24px;
+	text-align: center;
+	color: #f5f5f5;
+}
+
+.faq-accordion {
+	display: grid;
+	gap: 12px;
+}
+
+.faq-item {
+	border: 1px solid #333;
+	border-radius: 10px;
+	background: #1f1f1f;
+	box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.faq-item summary {
+	list-style: none;
+	cursor: pointer;
+	padding: 16px 18px;
+	font-weight: 600;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 12px;
+	color: #f5f5f5;
+}
+
+.faq-item summary::-webkit-details-marker {
+	display: none;
+}
+
+.faq-item summary:after {
+	content: "+";
+	font-size: 18px;
+	color: #cfcfcf;
+}
+
+.faq-item[open] summary:after {
+	content: "–";
+}
+
+.faq-item .faq-answer {
+	padding: 0 18px 18px;
+	color: #d7d7d7;
+	line-height: 1.7;
+}
+
+.faq-section .faq-item,
+.davaks-cat-faq .faq-item {
+	transition: transform 220ms ease, box-shadow 220ms ease, border-color 220ms ease;
+}
+
+.faq-section .faq-item:hover,
+.davaks-cat-faq .faq-item:hover {
+	transform: translateY(-4px);
+	box-shadow: 0 16px 28px rgba(0, 0, 0, 0.3);
+	border-color: #4a4a4a;
+}
+
+.faq-section .faq-item summary,
+.davaks-cat-faq .faq-item summary {
+	transition: color 200ms ease, letter-spacing 200ms ease;
+}
+
+.faq-section .faq-item summary:hover,
+.davaks-cat-faq .faq-item summary:hover {
+	color: var(--ast-global-color-1);
+	letter-spacing: 0.2px;
+}
+
+.faq-section .faq-item summary:after,
+.davaks-cat-faq .faq-item summary:after {
+	transition: transform 220ms ease;
+}
+
+.faq-section .faq-item[open] summary:after,
+.davaks-cat-faq .faq-item[open] summary:after {
+	transform: rotate(180deg) scale(1.05);
+}
+
+/* Über uns hero mobile image */
+@media (max-width: 768px) {
+	body.page-id-94 .uagb-block-1af3945d {
+		background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-ueber-hero-mobile.jpg") !important;
+		background-size: cover !important;
+		background-position: center !important;
+	}
+}
+
+/* Über uns hero short text color */
+body.page-id-94 .uagb-block-davaks-ueber-kurztext .uagb-heading-text {
+	color: #d8d0c2 !important;
+}
+
+/* Über uns: remove colored gaps between hero and next section */
+body.page-id-94 .uagb-block-1af3945d {
+	margin-bottom: 0 !important;
+}
+
+body.page-id-94 .uagb-block-36dccbf1 {
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+	background-color: #0b0b0b !important;
+}
+
+body.page-id-94 .uagb-block-9bbe28b6,
+body.page-id-94 .uagb-block-52327e92,
+body.page-id-94 .uagb-block-7d2fbbc9,
+body.page-id-94 .uagb-block-90e3e3be {
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+body.page-id-94 .uagb-block-52327e92 {
+	background-color: #0b0b0b !important;
+}
+
+/* Small same-color spacing after parallax */
+body.page-id-94 .uagb-block-90e3e3be {
+	background-color: #0b0b0b !important;
+	padding-top: 110px !important;
+	padding-bottom: 110px !important;
+}
+
+/* Kontakt page */
+body.page-id-96 {
+	background-color: #0b0b0b;
+}
+
+.davaks-contact-hero {
+	background: #0b0b0b;
+	padding: 110px 0 70px;
+	text-align: center;
+}
+
+.davaks-contact-hero h1 {
+	color: #f5f5f5;
+	font-size: clamp(2.4rem, 6vw, 4rem);
+	margin: 18px 0 18px;
+	font-weight: 400;
+	letter-spacing: 1px;
+}
+
+.davaks-contact-kicker {
+	color: #cfcfcf;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 0.85rem;
+}
+
+.davaks-contact-subtitle {
+	color: #b5b5b5;
+	max-width: 760px;
+	margin: 0 auto;
+	font-size: 1.05rem;
+}
+
+.davaks-contact-body {
+	background: #0b0b0b;
+	padding: 50px 0 80px;
+}
+
+.davaks-contact-grid {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 60px;
+	align-items: start;
+}
+
+.davaks-contact-info h3,
+.davaks-contact-form h3 {
+	color: #f5f5f5;
+	font-weight: 500;
+	margin-bottom: 16px;
+}
+
+.davaks-contact-info ul {
+	list-style: none;
+	padding: 0;
+	margin: 0 0 18px;
+	color: #b5b5b5;
+}
+
+.davaks-contact-info li {
+	margin-bottom: 10px;
+	line-height: 1.6;
+}
+
+.davaks-contact-note,
+.davaks-contact-form p {
+	color: #9f9f9f;
+	line-height: 1.7;
+}
+
+.davaks-contact-trust {
+	background: #0b0b0b;
+	padding: 20px 0 90px;
+	color: #9a9a9a;
+	text-align: center;
+	font-size: 0.95rem;
+}
+
+@media (max-width: 900px) {
+	.davaks-contact-grid {
+		grid-template-columns: 1fr;
+		gap: 40px;
+	}
+
+	.davaks-contact-hero {
+		padding: 80px 0 50px;
+	}
+}
+
 /* Subtle home micro-effects */
 body.home .uagb-buttons-repeater,
 body.home .wp-block-button__link {

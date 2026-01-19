@@ -150,9 +150,5 @@ get_header();
     header.site-header { background-color: #0b0b0b !important; border-bottom: 1px solid #1a1a1a; }
     .site-footer { display: none !important; } /* As per requirement "No footer pesado inmediatamente debajo" - User said "No footer pesado... (deja espacio)". Maybe they mean standard footer is annoying. I will HIDE the standard footer and rely on the content, OR add a very large margin bottom before the footer appears. */
 </style>
-<!-- Re-enabling footer but with large spacing as per "deja espacio" -->
-<style>
-    .site-footer { display: block !important; margin-top: 0 !important; border-top: 1px solid #1a1a1a !important; background: #000 !important; }
-</style>
 
 <?php get_footer(); ?>

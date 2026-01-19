@@ -57,18 +57,18 @@ if ( ! $image_url ) {
 
 			<!-- 3️⃣ FILTRO / ORDENACIÓN -->
 			<section class="davaks-filters" style="margin-bottom: 60px; border-bottom: 1px solid #222; padding-bottom: 20px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
-				<div class="filter-group" style="display: flex; gap: 12px; align-items: center;">
-					<span style="color: #666; font-size: 0.9rem; margin-right: 8px;">Filtern:</span>
-					<div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Intensität</div>
-					<div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Anlass</div>
-					<div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Duftfamilie</div>
-				</div>
+                <div class="filter-group" style="display: flex; gap: 12px; align-items: center;">
+                    <span style="color: #666; font-size: 0.9rem; margin-right: 8px;">Filtern:</span>
+                    <div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Intensität</div>
+                    <div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Anlass</div>
+                    <div class="filter-pill" style="border: 1px solid #444; color: #ccc; padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; cursor: pointer;">Duftcharakter</div>
+                </div>
 				<div class="sort-group">
                     <form class="woocommerce-ordering" method="get">
                         <select name="orderby" class="orderby" aria-label="Shop-Bestellung" style="background: transparent; color: #ccc; border: none; font-size: 0.95rem; cursor: pointer;">
-                            <option value="menu_order" selected="selected">Sortierung: Empfohlen</option>
-                            <option value="popularity">Beliebtheit</option>
-                            <option value="date">Neueste</option>
+                            <option value="menu_order" selected="selected">Sortierung: Empfehlung</option>
+                            <option value="popularity">Auswahlfavoriten</option>
+                            <option value="date">Neu in der Auswahl</option>
                             <option value="price">Preis: aufsteigend</option>
                             <option value="price-desc">Preis: absteigend</option>
                         </select>
@@ -132,7 +132,7 @@ if ( ! $image_url ) {
                 <div class="editorial-text" style="padding: 80px 60px; display: flex; flex-direction: column; justify-content: center;">
                     <span style="font-size: 0.85rem; letter-spacing: 2px; text-transform: uppercase; color: #777; margin-bottom: 12px;">Editorial</span>
                     <h3 style="color: #fff; margin-bottom: 24px; font-size: 2.2rem; font-weight: 400; line-height: 1.2;">Ein Duft definiert nicht,<br>er begleitet Haltung.</h3>
-                    <p style="color: #bbb; font-size: 1.1rem; line-height: 1.6; max-width: 450px;">In der Nischenparfümerie verschwimmen die Grenzen. Es geht um Kontraste: hell und dunkel, weich und rau. Entdecken Sie Düfte, die sich nicht in Schubladen stecken lassen.</p>
+                    <p style="color: #bbb; font-size: 1.1rem; line-height: 1.6; max-width: 450px;">Zwischen hell und dunkel, weich und rau – entdecken Sie Düfte, die sich nicht in Schubladen stecken lassen.</p>
                 </div>
 				<div class="editorial-image" style="background-image: url('https://davaksparfums.ch/wp-content/uploads/2026/01/imagen-seccion-4-v2.jpg'); background-size: cover; background-position: center; min-height: 300px; background-color: #222;">
 					<!-- Image placeholder -->
@@ -198,29 +198,26 @@ if ( ! $image_url ) {
 			</section>
 
 			<!-- 8️⃣ FAQ DE CATEGORÍA -->
-			<section class="davaks-cat-faq" style="max-width: 800px; margin: 0 auto 100px auto;">
-				<h3 style="text-align: center; color: #fff; margin-bottom: 50px; font-weight: 400;">Häufige Fragen zu Unisex-Düften</h3>
-				<div class="faq-grid" style="display: grid; gap: 16px;">
-					<details style="background: #141414; padding: 24px; border-radius: 6px; cursor: pointer;">
-						<summary style="color: #e5e5e5; font-weight: 500; font-size: 1.05rem; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-                             Sind diese Düfte wirklich für alle?
-                            <span style="color: #666;">+</span>
-                        </summary>
-                        <p style="margin-top: 16px; color: #aaa; line-height: 1.6;">Unisex bedeutet bei Davaks: Düfte, die nicht zugeordnet werden, sondern durch Balance und Klarheit überzeugen.</p>
-					</details>
-					<details style="background: #141414; padding: 24px; border-radius: 6px; cursor: pointer;">
-						<summary style="color: #e5e5e5; font-weight: 500; font-size: 1.05rem; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-                            Für wen sind Unisexparfums geeignet?
-                            <span style="color: #666;">+</span>
-                        </summary>
-						<p style="margin-top: 16px; color: #aaa; line-height: 1.6;">Für Menschen mit einem eigenständigen Stilverständnis – unabhängig von Konventionen.</p>
-					</details>
-					<details style="background: #141414; padding: 24px; border-radius: 6px; cursor: pointer;">
-						<summary style="color: #e5e5e5; font-weight: 500; font-size: 1.05rem; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-                            Sind die Düfte eher dezent oder präsent?
-                            <span style="color: #666;">+</span>
-                        </summary>
-                        <p style="margin-top: 16px; color: #aaa; line-height: 1.6;">Die Auswahl legt den Fokus auf Ausgewogenheit und Vielseitigkeit.</p>
+            <section class="faq-section davaks-cat-faq" style="margin: 0 auto 100px auto;">
+                <h3>Häufige Fragen zu Unisex-Düften</h3>
+                <div class="faq-accordion" itemscope itemtype="https://schema.org/FAQPage">
+                    <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <summary itemprop="name">Sind diese Düfte wirklich für alle?</summary>
+                        <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <p itemprop="text">Unisex bedeutet bei Davaks: Düfte, die nicht zugeordnet werden, sondern durch Balance und Klarheit überzeugen.</p>
+                        </div>
+                    </details>
+                    <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <summary itemprop="name">Für wen sind Unisexparfums geeignet?</summary>
+                        <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <p itemprop="text">Für Menschen mit einem eigenständigen Stilverständnis – unabhängig von Konventionen.</p>
+                        </div>
+                    </details>
+                    <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <summary itemprop="name">Sind die Düfte eher dezent oder präsent?</summary>
+                        <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <p itemprop="text">Die Auswahl legt den Fokus auf Ausgewogenheit und Vielseitigkeit.</p>
+                        </div>
                     </details>
                 </div>
             </section>

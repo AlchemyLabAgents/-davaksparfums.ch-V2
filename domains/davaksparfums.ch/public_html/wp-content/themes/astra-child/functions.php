@@ -26,6 +26,19 @@ add_action( 'wp_enqueue_scripts', function () {
 }, 15 );
 
 /**
+ * Davaks subtle effects.
+ */
+add_action( 'wp_enqueue_scripts', function () {
+	wp_enqueue_script(
+		'davaks-effects',
+		get_stylesheet_directory_uri() . '/davaks-effects.js',
+		[],
+		filemtime( get_stylesheet_directory() . '/davaks-effects.js' ),
+		true
+	);
+}, 25 );
+
+/**
  * Mirror sections helpers.
  */
 add_action( 'wp_enqueue_scripts', function () {
