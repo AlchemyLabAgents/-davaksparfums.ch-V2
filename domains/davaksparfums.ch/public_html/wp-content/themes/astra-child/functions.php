@@ -18,9 +18,16 @@ add_action( 'wp_enqueue_scripts', function () {
 	);
 
 	wp_enqueue_style(
+		'davaks-fonts',
+		'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap',
+		[],
+		null
+	);
+
+	wp_enqueue_style(
 		'astra-child-style',
 		get_stylesheet_directory_uri() . '/style.css',
-		[ $parent_style ],
+		[ $parent_style, 'davaks-fonts' ],
 		filemtime( get_stylesheet_directory() . '/style.css' )
 	);
 }, 15 );

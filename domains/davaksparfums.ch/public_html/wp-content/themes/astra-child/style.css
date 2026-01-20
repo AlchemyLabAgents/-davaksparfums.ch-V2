@@ -16,6 +16,18 @@ Text Domain: astra-child
 	--davaks-section-gap-mobile: 24px;
 }
 
+body,
+button,
+input,
+textarea,
+select {
+	font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
 /* Davaks subtle motion system */
 .davaks-fade {
 	opacity: 0;
