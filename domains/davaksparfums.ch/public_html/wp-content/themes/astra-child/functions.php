@@ -235,6 +235,21 @@ add_filter( 'the_content', function ( $content ) {
 }, 20 );
 
 /**
+ * Ensure SureForms shortcode renders on Kontakt page.
+ */
+add_filter( 'the_content', function ( $content ) {
+	if ( ! is_string( $content ) ) {
+		return $content;
+	}
+
+	if ( is_page( 96 ) && has_shortcode( $content, 'sureforms' ) ) {
+		return do_shortcode( $content );
+	}
+
+	return $content;
+}, 30 );
+
+/**
  * Redirect legacy English slugs to German slugs.
  */
 add_action( 'template_redirect', function () {

@@ -216,7 +216,7 @@ body.page-id-96 {
 
 .davaks-contact-hero {
 	background: #0b0b0b;
-	padding: 110px 0 70px;
+	padding: 120px 0 80px;
 	text-align: center;
 }
 
@@ -244,7 +244,221 @@ body.page-id-96 {
 
 .davaks-contact-body {
 	background: #0b0b0b;
-	padding: 50px 0 80px;
+	padding: 40px 0 30px;
+}
+
+.davaks-contact-center,
+.davaks-contact-body .davaks-container {
+	max-width: 900px;
+}
+
+.davaks-contact-info h2,
+.davaks-contact-form h2 {
+	color: #f5f5f5;
+	font-weight: 500;
+	margin-bottom: 16px;
+}
+
+.davaks-contact-divider {
+	height: 1px;
+	background: #1f1f1f;
+	margin: 36px 0;
+}
+
+.davaks-contact-form-wrap {
+	max-width: 760px;
+	margin: 0 auto 40px;
+	padding: 0 20px;
+}
+
+body.page-id-96 .wp-block-shortcode {
+	margin: 0;
+	padding: 0;
+}
+
+body.page-id-96 .davaks-contact-form-wrap input,
+body.page-id-96 .davaks-contact-form-wrap textarea,
+body.page-id-96 .davaks-contact-form-wrap select {
+	width: 100% !important;
+	background: #111 !important;
+	border: 1px solid #2a2a2a !important;
+	color: #e5e5e5 !important;
+	padding: 14px 16px !important;
+	border-radius: 4px !important;
+}
+
+body.page-id-96 .davaks-contact-form-wrap button,
+body.page-id-96 .davaks-contact-form-wrap .wp-block-button__link {
+	background: #1a1a1a !important;
+	border: 1px solid #333 !important;
+	color: #f5f5f5 !important;
+	padding: 12px 20px !important;
+	border-radius: 4px !important;
+	text-transform: none !important;
+}
+
+/* Journal (Blog) page */
+.page-id-1991 .entry-title,
+.page-id-1991 .entry-header,
+.page-id-1991 .ast-page-title {
+	display: none !important;
+}
+
+body.page-id-1991,
+body.page-id-1991 .site-content,
+body.page-id-1991 .content-area,
+body.page-id-1991 .site-main,
+body.page-id-1991 .ast-container {
+	background-color: #0b0b0b !important;
+}
+
+.davaks-journal-hero {
+	background: #0b0b0b;
+	padding: 30px 0 80px;
+	text-align: center;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.68), rgba(0, 0, 0, 0.68)), url("https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-journal-hero-desktop.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.davaks-journal-kicker {
+	display: none;
+}
+
+.davaks-journal-hero h1 {
+	color: #f5f5f5;
+	font-size: clamp(2.4rem, 6vw, 4rem);
+	margin: 18px 0 12px;
+	font-weight: 400;
+}
+
+.davaks-journal-subtitle {
+	color: #b5b5b5;
+	max-width: 760px;
+	margin: 0 auto;
+	font-size: 1.05rem;
+}
+
+.davaks-journal-intro {
+	background: #0b0b0b;
+	padding: 30px 0 60px;
+}
+
+.davaks-journal-intro p {
+	color: #b0b0b0;
+	max-width: 860px;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 1.7;
+	font-size: 0.98rem;
+}
+
+.davaks-journal-cats {
+	background: #0b0b0b;
+	padding: 30px 0 70px;
+}
+
+.davaks-journal-cat-grid {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 30px;
+	align-items: stretch;
+}
+
+.davaks-journal-cat {
+	border: 1px solid #1f1f1f;
+	border-radius: 8px;
+	padding: 32px;
+	background: #101010;
+	text-decoration: none;
+	transition: transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease;
+	min-height: 220px;
+	display: flex;
+	flex-direction: column;
+}
+
+.davaks-journal-cat h3 {
+	color: #f5f5f5;
+	margin: 0 0 12px;
+	font-weight: 500;
+}
+
+.davaks-journal-cat p {
+	color: #b0b0b0;
+	line-height: 1.7;
+}
+
+.davaks-journal-cat:hover {
+	transform: translateY(-4px);
+	border-color: #2f2f2f;
+	box-shadow: 0 16px 28px rgba(0, 0, 0, 0.3);
+}
+
+body.page-id-1991 .wp-block-latest-posts {
+	margin: 0 auto 40px;
+	max-width: 1200px;
+	padding: 0 20px;
+}
+
+body.page-id-1991 .wp-block-latest-posts__list {
+	list-style: none;
+	padding: 0;
+}
+
+body.page-id-1991 .wp-block-latest-posts__list li {
+	background: #101010;
+	border: 1px solid #1f1f1f;
+	border-radius: 8px;
+	padding: 22px;
+}
+
+body.page-id-1991 .wp-block-latest-posts__list {
+	gap: 30px;
+}
+
+body.page-id-1991 .wp-block-latest-posts__featured-image img {
+	border-radius: 8px;
+}
+
+body.page-id-1991 .wp-block-latest-posts__post-title {
+	color: #f5f5f5;
+	font-weight: 500;
+}
+
+body.page-id-1991 .wp-block-latest-posts__post-date,
+body.page-id-1991 .wp-block-latest-posts__post-excerpt {
+	color: #9f9f9f;
+}
+
+.davaks-journal-trust {
+	background: #0b0b0b;
+	padding: 10px 0 80px;
+	color: #9a9a9a;
+	text-align: center;
+	font-size: 0.9rem;
+}
+
+@media (max-width: 900px) {
+	.davaks-journal-cat-grid {
+		grid-template-columns: 1fr;
+	}
+}
+
+@media (max-width: 768px) {
+	.davaks-journal-cat-grid {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 20px;
+	}
+
+	.davaks-journal-hero {
+		background-image: linear-gradient(rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.72)), url("https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-journal-hero-mobile.jpg");
+	}
+}
+
+body.page-id-96 .wp-block-shortcode {
+	max-width: 900px;
+	margin: 0 auto 40px;
+	padding: 0 20px;
 }
 
 .davaks-contact-grid {
