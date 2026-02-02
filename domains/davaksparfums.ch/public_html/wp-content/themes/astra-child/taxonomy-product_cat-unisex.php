@@ -15,25 +15,21 @@ get_header();
 $term = get_queried_object();
 $term_id = $term->term_id;
 
-// Get image URL (using the ID we just set)
-$thumbnail_id = get_term_meta( $term_id, 'thumbnail_id', true );
-$image_url = wp_get_attachment_image_url( $thumbnail_id, 'full' );
-
-// Fallback image if none set
-if ( ! $image_url ) {
-    $image_url = 'https://via.placeholder.com/1920x800?text=Davaks+Unisex';
-}
+// Unisex hero images (desktop + mobile)
+$hero_desktop = 'https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-unisex-hero-v3-desktop.png';
+$hero_mobile  = 'https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-unisex-hero-v3-mobile.png';
+$image_url = $hero_desktop;
 ?>
 
 <div id="primary" class="content-area primary" style="background-color: #0b0b0b; color: #e5e5e5;">
 	<main id="main" class="site-main">
 
 		<!-- 1️⃣ HERO DE CATEGORÍA -->
-		<section class="davaks-category-hero" style="position: relative; height: 75vh; min-height: 500px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+        <section class="davaks-category-hero" style="position: relative; height: 90vh; display: flex; align-items: center; justify-content: center; overflow: hidden; width: 100vw;">
 			<?php if ( $image_url ) : ?>
 				<div class="davaks-hero-bg" style="position: absolute; top:0; left:0; width: 100%; height: 100%; z-index: 1;">
-					<img src="<?php echo esc_url($image_url); ?>" alt="<?php echo esc_attr($term->name); ?>" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
-					<div class="davaks-hero-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.6));"></div>
+                    <img src="<?php echo esc_url( $hero_desktop ); ?>" srcset="<?php echo esc_url( $hero_mobile ); ?> 900w, <?php echo esc_url( $hero_desktop ); ?> 1920w" sizes="(max-width: 768px) 100vw, 100vw" alt="<?php echo esc_attr( $term->name ); ?>" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+                    <div class="davaks-hero-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></div>
 				</div>
 			<?php endif; ?>
 			
@@ -134,9 +130,9 @@ if ( ! $image_url ) {
                     <h3 style="color: #fff; margin-bottom: 24px; font-size: 2.2rem; font-weight: 400; line-height: 1.2;">Ein Duft definiert nicht,<br>er begleitet Haltung.</h3>
                     <p style="color: #bbb; font-size: 1.1rem; line-height: 1.6; max-width: 450px;">Zwischen hell und dunkel, weich und rau – entdecken Sie Düfte, die sich nicht in Schubladen stecken lassen.</p>
                 </div>
-				<div class="editorial-image" style="background-image: url('https://davaksparfums.ch/wp-content/uploads/2026/01/imagen-seccion-4-v2.jpg'); background-size: cover; background-position: center; min-height: 300px; background-color: #222;">
+                <div class="editorial-image" style="background-image: url('https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-unisex-editorial-desktop.png'); background-size: cover; background-position: center; min-height: 300px; background-color: #222;">
 					<!-- Image placeholder -->
-                    <img src="https://davaksparfums.ch/wp-content/uploads/2026/01/imagen-seccion-4-v2.jpg" style="width:100%; height:100%; object-fit:cover; display:block; opacity:0;" alt="Editorial Unisex">
+                    <img src="https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-unisex-editorial-desktop.png" srcset="https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-unisex-editorial-mobile.png 900w, https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-unisex-editorial-desktop.png 1600w" sizes="(max-width: 768px) 100vw, 50vw" style="width:100%; height:100%; object-fit:cover; display:block; opacity:0;" alt="Editorial Unisex">
 				</div>
 			</section>
 
@@ -146,6 +142,7 @@ if ( ! $image_url ) {
                     .davaks-editorial { grid-template-columns: 1fr !important; }
                     .editorial-text { padding: 40px 20px !important; }
                     .editorial-image { min-height: 250px; }
+                    .editorial-image { background-image: url('https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-unisex-editorial-mobile.png') !important; }
                     .davaks-hero-content h1 { font-size: 2.5rem !important; }
                     .davaks-filters { justify-content: flex-start; }
                 }

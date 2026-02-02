@@ -25,15 +25,21 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   const heroImages = document.querySelectorAll('.davaks-hero-bg img');
+
   const parallax = () => {
     const y = window.scrollY || window.pageYOffset;
+
     heroImages.forEach(img => {
       img.style.transform = `translateY(${Math.min(y * 0.08, 40)}px)`;
     });
+
   };
 
   if (heroImages.length) {
-    window.addEventListener('scroll', () => window.requestAnimationFrame(parallax), { passive: true });
+    const rafParallax = () => window.requestAnimationFrame(parallax);
+    window.addEventListener('scroll', rafParallax, { passive: true });
+    window.addEventListener('resize', rafParallax, { passive: true });
+    window.requestAnimationFrame(parallax);
   }
 
   document.querySelectorAll('.filter-pill').forEach(pill => {

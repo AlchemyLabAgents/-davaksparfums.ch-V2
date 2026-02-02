@@ -10,19 +10,21 @@ if ( ! defined( 'ABSPATH' ) ) {
 get_header(); 
 ?>
 
-<div class="davaks-exclusive-page" style="background-color: #0b0b0b; color: #ccc; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; min-height: 100vh;">
+<div class="davaks-exclusive-page" style="background-color: #0b0b0b; color: #ccc; min-height: 100vh; width: 100vw; margin-left: 50%; transform: translateX(-50%);">
+    <!-- TEMPLATE: taxonomy-product_cat-exklusiv.php -->
 
     <!-- 1️⃣ HERO — DECLARATION -->
     <!-- Vertical, dark, spacious, dominant image -->
-    <section class="exclusive-hero" style="position: relative; height: 90vh; display: flex; align-items: center; justify-content: center; overflow: hidden; margin-bottom: 0;">
+    <section class="exclusive-hero" style="position: relative; height: 90vh; display: flex; align-items: center; justify-content: center; overflow: hidden; margin-bottom: 0; width: 100vw;">
         <!-- Background Image -->
         <div class="hero-bg" style="position: absolute; top:0; left:0; width:100%; height:100%; z-index: 1;">
-            <img src="https://davaksparfums.ch/wp-content/uploads/2026/01/exklusiv-parfum-kategorie.png" style="width:100%; height:100%; object-fit: cover; filter: brightness(0.4) contrast(1.1) grayscale(20%);" alt="Exclusive Selection">
+            <img src="https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-exklusiv-hero-desktop.png" srcset="https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-exklusiv-hero-mobile.png 900w, https://davaksparfums.ch/wp-content/uploads/2026/01/davaks-exklusiv-hero-desktop.png 1920w" sizes="(max-width: 768px) 100vw, 100vw" style="width:100%; height:100%; object-fit: cover;" alt="Exclusive Selection">
+            <div class="davaks-hero-overlay" style="position:absolute; top:0; left:0; width:100%; height:100%;"></div>
         </div>
         
         <!-- Content -->
         <div class="hero-content" style="position: relative; z-index: 2; text-align: center; color: #fff; padding: 20px;">
-            <h1 style="font-size: clamp(2.5rem, 5vw, 4.5rem); font-weight: 300; letter-spacing: 6px; text-transform: uppercase; margin-bottom: 24px; text-shadow: 0 2px 10px rgba(0,0,0,0.5);">Exclusive Selection</h1>
+            <h1 style="font-size: clamp(2.5rem, 5vw, 4.5rem); font-weight: 300; letter-spacing: 6px; text-transform: uppercase; margin-bottom: 24px; text-shadow: 0 2px 10px rgba(0,0,0,0.5);">Exklusive Auswahl</h1>
             <p style="font-size: clamp(1rem, 2vw, 1.2rem); font-weight: 300; letter-spacing: 2px; color: #ddd; opacity: 0.9; text-shadow: 0 1px 5px rgba(0,0,0,0.5);">Eine Auswahl jenseits von Verfügbarkeit.</p>
         </div>
     </section>
@@ -40,18 +42,60 @@ get_header();
         </p>
     </section>
 
-    <!-- 3️⃣ EDITORIAL BLOCK CENTRAL -->
-    <section class="exclusive-editorial" style="margin-bottom: 140px; position: relative;">
-        <!-- Horizontal Image -->
-        <div class="editorial-img-container" style="height: 550px; overflow: hidden; position: relative;">
-             <img src="https://davaksparfums.ch/wp-content/uploads/2026/01/imagen-seccion-4-v2.jpg" style="width:100%; height:100%; object-fit: cover; filter: grayscale(100%) brightness(0.6);" alt="Exclusive Editorial">
-             <div class="editorial-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: rgba(0,0,0,0.2);">
-                <h3 style="color: #fff; font-size: clamp(1.5rem, 3vw, 2.2rem); font-weight: 300; letter-spacing: 1px; text-align: center; padding: 20px; max-width: 800px; line-height: 1.4;">
-                    Auswahl, die dem Markt nicht folgt.<br>Sondern dem eigenen Maßstab.
-                </h3>
-             </div>
-        </div>
+    <!-- 2.5️⃣ PRODUKTE ZWISCHENBEREICH -->
+    <section class="exclusive-grid exclusive-grid-top" style="max-width: 1100px; margin: 0 auto 140px auto; padding: 0 40px;">
+        <?php
+        $args_top = array(
+            'post_type' => 'product',
+            'posts_per_page' => 6,
+            'tax_query' => array(
+                array(
+                    'taxonomy' => 'product_cat',
+                    'field'    => 'slug',
+                    'terms'    => 'exklusiv',
+                ),
+            ),
+            'orderby' => 'date',
+            'order' => 'DESC'
+        );
+
+        $loop_top = new WP_Query( $args_top );
+
+        $microcopy_options_top = [
+            "Still und konzentriert.",
+            "Zurückhaltend mit Tiefe.",
+            "Beständig und ruhig.",
+            "Präzise im Ausdruck.",
+            "Reduziert und klar."
+        ];
+        $m_top = 0;
+
+        if ( $loop_top->have_posts() ) :
+            echo '<ul class="products columns-3" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 80px 50px;">';
+            while ( $loop_top->have_posts() ) : $loop_top->the_post();
+                global $product;
+                echo '<li class="product" style="text-align: center; list-style: none; padding: 0 !important; margin: 0 !important; background: transparent !important;">';
+                echo '<a href="' . get_permalink() . '" style="text-decoration: none;">';
+                echo '<div class="prod-img" style="margin-bottom: 30px; opacity: 0.85; transition: opacity 0.4s ease;">';
+                echo $product->get_image( 'woocommerce_thumbnail', array('style' => 'display:block; margin: 0 auto; width: 100%; height: auto;') );
+                echo '</div>';
+                echo '<h2 style="font-size: 0.95rem; color: #eee; font-weight: 400; letter-spacing: 2px; margin-bottom: 10px; text-transform: uppercase; font-family: inherit;">' . get_the_title() . '</h2>';
+                echo '<div class="price" style="color: #666; font-size: 0.9rem; font-weight: 300; margin-bottom: 16px;">' . $product->get_price_html() . '</div>';
+                echo '<div class="microcopy" style="color: #444; font-size: 0.75rem; letter-spacing: 3px; text-transform: uppercase; opacity: 0.8;">' . $microcopy_options_top[$m_top % count($microcopy_options_top)] . '</div>';
+                echo '</a>';
+                echo '</li>';
+                $m_top++;
+            endwhile;
+            echo '</ul>';
+        endif;
+        wp_reset_postdata();
+        ?>
+        <style>
+            .exclusive-grid-top .prod-img:hover { opacity: 1 !important; }
+        </style>
     </section>
+
+
 
     <!-- 4️⃣ GRID (VERY CONTROLLED) -->
     <section class="exclusive-grid" style="max-width: 1100px; margin: 0 auto 140px auto; padding: 0 40px;">
@@ -118,6 +162,11 @@ get_header();
         </style>
     </section>
 
+    <?php if ( strpos( $_SERVER['REQUEST_URI'], '/de/' ) !== 0 ) : ?>
+        <!-- 4️⃣ PARALLAX IMAGE (FROM ÜBER UNS) -->
+        <section class="exclusive-parallax" aria-label="Parallax image"></section>
+    <?php endif; ?>
+
     <!-- 5️⃣ CRITERION BLOCK (AFTER GRID) -->
     <section class="exclusive-criterion" style="text-align: center; max-width: 550px; margin: 0 auto 120px auto; padding: 0 20px;">
         <h3 style="font-size: 0.8rem; letter-spacing: 2px; color: #444; text-transform: uppercase; margin-bottom: 24px;">Auswahl mit Bestand</h3>
@@ -145,10 +194,38 @@ get_header();
 <style>
     /* Global Overrides for this template */
     .site-content { background: #0b0b0b !important; margin: 0 !important; padding: 0 !important; border: none !important; }
-    .ast-container { max-width: 100% !important; padding: 0 !important; border: none !important; }
-    #primary, #main { margin: 0 !important; padding: 0 !important; width: 100% !important; }
+    .davaks-exclusive-page { width: 100%; }
     header.site-header { background-color: #0b0b0b !important; border-bottom: 1px solid #1a1a1a; }
     .site-footer { display: none !important; } /* As per requirement "No footer pesado inmediatamente debajo" - User said "No footer pesado... (deja espacio)". Maybe they mean standard footer is annoying. I will HIDE the standard footer and rely on the content, OR add a very large margin bottom before the footer appears. */
+
+    .exclusive-parallax {
+        min-height: 80vh;
+        width: 100vw;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        margin-bottom: 100px;
+        background-image: url("https://davaksparfums.ch/wp-content/uploads/2023/04/bg-13.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+
+    @media (max-width: 1024px) {
+        .exclusive-parallax {
+            background-attachment: scroll;
+            min-height: 189px;
+            margin-bottom: 25px;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .exclusive-parallax {
+            min-height: 50vh;
+            margin-bottom: 0;
+        }
+    }
+
 </style>
 
 <?php get_footer(); ?>

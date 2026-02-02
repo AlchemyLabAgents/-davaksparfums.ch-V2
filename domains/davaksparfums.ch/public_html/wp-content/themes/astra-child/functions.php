@@ -297,6 +297,13 @@ add_filter( 'woocommerce_show_page_title', function ( $show ) {
 	return $show;
 }, 20 );
 
+add_filter( 'woocommerce_show_page_title', function ( $show ) {
+	if ( function_exists( 'is_product_category' ) && is_product_category( 'exklusiv' ) ) {
+		return false;
+	}
+	return $show;
+}, 30 );
+
 /**
  * Force German shop title.
  */
@@ -315,6 +322,32 @@ add_filter( 'astra_page_header_enabled', function ( $enabled ) {
 		return false;
 	}
 	return $enabled;
+}, 20 );
+
+add_filter( 'astra_page_header_enabled', function ( $enabled ) {
+	if ( function_exists( 'is_product_category' ) && is_product_category( 'exklusiv' ) ) {
+		return false;
+	}
+	return $enabled;
+}, 30 );
+
+/**
+ * Force full-width layout for Exklusiv category.
+ */
+add_filter( 'astra_page_layout', function ( $layout ) {
+	if ( function_exists( 'is_product_category' ) && is_product_category( 'exklusiv' ) ) {
+		return 'no-sidebar';
+	}
+
+	return $layout;
+}, 20 );
+
+add_filter( 'astra_site_content_layout', function ( $layout ) {
+	if ( function_exists( 'is_product_category' ) && is_product_category( 'exklusiv' ) ) {
+		return 'full-width';
+	}
+
+	return $layout;
 }, 20 );
 
 /**
@@ -354,6 +387,20 @@ add_action( 'template_redirect', function() {
         }
     }
 } );
+
+/**
+ * Force Exklusiv template via template_include (robust fallback).
+ */
+add_filter( 'template_include', function ( $template ) {
+	if ( function_exists( 'is_product_category' ) && is_product_category( 'exklusiv' ) ) {
+		$custom = get_stylesheet_directory() . '/taxonomy-product_cat-exklusiv.php';
+		if ( file_exists( $custom ) ) {
+			return $custom;
+		}
+	}
+
+	return $template;
+}, 99 );
 
 
 
