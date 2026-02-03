@@ -11,8 +11,9 @@
 !/domains/
 !/domains/davaksparfums.ch/
 !/domains/davaksparfums.ch/**
-!/backups/
-!/backups/**
+# Ignore backup dumps
+/backups/
+/backups/**
 
 # Never track environment secrets
 /domains/davaksparfums.ch/.env
