@@ -45,6 +45,39 @@ add_action( 'wp_enqueue_scripts', function () {
 	);
 }, 25 );
 
+// Disable LiteSpeed JS/CSS optimizations to keep effects intact while leaving page cache on.
+add_filter( 'litespeed_optm_enabled', '__return_false', 5 );
+
+// If LiteSpeed optimizations are re-enabled, keep critical effect assets out of minify/defer.
+add_filter( 'litespeed_optm_js_excludes', function ( $excludes ) {
+	$excludes = is_array( $excludes ) ? $excludes : [];
+	$excludes = array_merge( $excludes, [
+		'spectra-frontend',
+		'uagb-block-frontend',
+		'aos',
+		'swiper',
+		'slick',
+		'isotope',
+		'davaks-effects',
+		'astra-child-mirror-sections',
+	] );
+	return array_unique( $excludes );
+} );
+
+add_filter( 'litespeed_optm_css_excludes', function ( $excludes ) {
+	$excludes = is_array( $excludes ) ? $excludes : [];
+	$excludes = array_merge( $excludes, [
+		'spectra-frontend',
+		'uagb-block-frontend',
+		'aos',
+		'swiper',
+		'slick',
+		'isotope',
+		'astra-child-style',
+	] );
+	return array_unique( $excludes );
+} );
+
 /**
  * Mirror sections helpers.
  */
